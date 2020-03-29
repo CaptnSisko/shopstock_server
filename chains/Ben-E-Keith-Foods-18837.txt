@@ -1,0 +1,11 @@
+244 Hempstead 12 Hope,AR,71801
+213 W Monroe Ave Lowell,AR,72745
+1200 Pike Ave Fort Smith,AR,72901
+2333 S West St Wichita,KS,67213
+2313 W Wyatt Earp Blvd Dodge City,KS,67801
+101 Spurgeon Rd West Monroe,LA,71291
+632 Rr 1 Locust Grove,OK,74352
+3068 Millbranch Rd Memphis,TN,38116
+7600 Will Rogers Blvd Fort Worth,TX,76140
+3727 Greenbriar Dr Stafford,TX,77477
+Corpus Christi,TX,78401

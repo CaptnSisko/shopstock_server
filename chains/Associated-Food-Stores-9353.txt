@@ -1,0 +1,71 @@
+11 Cooperative Way Suncook,NH,03275
+488 Boulevard Kenilworth,NJ,07033
+130 Spruce St Newark,NJ,07108
+265 Ocean Ave Jersey City,NJ,07305
+543 Shaler Blvd Ridgefield,NJ,07657
+409 E Ave New York,NY,10001
+1486 Lexington Av E 96th St New York,NY,10001
+342 E 8th St New York,NY,10009
+311 E 23rd St New York,NY,10010
+278 Park Ave S New York,NY,10010
+255 W 14th St Frnt 1 New York,NY,10011
+225 W 57th St New York,NY,10019
+917 9th Ave New York,NY,10019
+755 Amsterdam Ave New York,NY,10025
+1565 1st Ave New York,NY,10028
+448 Malcolm X Blvd New York,NY,10037
+148 E 170th St Bronx,NY,10452
+1136 Ogden Ave Bronx,NY,10452
+148 E Burnside Ave Bronx,NY,10453
+40 W Burnside Ave Bronx,NY,10453
+4141 Laconia Ave Bronx,NY,10466
+2467 Jerome Ave Bronx,NY,10468
+529 S Broadway Yonkers,NY,10705
+167 Tulip Ave Floral Park,NY,11001
+24111 Linden Blvd Elmont,NY,11003
+181 Middle Neck Rd Great Neck,NY,11021
+20 Mott Ave # 50 Inwood,NY,11096
+1007 41st Ave Long Island City,NY,11101
+3715 31st Ave Astoria,NY,11103
+2016 21st Ave Astoria,NY,11105
+5311 Church Ave Brooklyn,NY,11203
+4121 Church Ave Brooklyn,NY,11203
+97 Avenue O Brooklyn,NY,11204
+492 Myrtle Ave Brooklyn,NY,11205
+2578 Pitkin Ave Brooklyn,NY,11208
+385 Broadway Brooklyn,NY,11211
+639 Grand St Brooklyn,NY,11211
+1038 Rutland Rd Brooklyn,NY,11212
+243 Schenectady Ave Brooklyn,NY,11213
+2323 86th St Brooklyn,NY,11214
+216 5th Ave Brooklyn,NY,11215
+108 New York Ave Brooklyn,NY,11216
+5009 6th Ave Brooklyn,NY,11220
+4910 8th Ave Brooklyn,NY,11220
+301 Marcus Garvey Blvd Brooklyn,NY,11221
+650 Flatbush Ave Brooklyn,NY,11225
+905 Franklin Ave Brooklyn,NY,11225
+2722 Church Ave Brooklyn,NY,11226
+1413 Avenue J Brooklyn,NY,11230
+229 Knickerbocker Ave Brooklyn,NY,11237
+4502 Junction Blvd Corona,NY,11368
+3907 103rd St Corona,NY,11368
+8911 Northern Blvd Jackson Heights,NY,11372
+8420 51st Ave Apt 3f Elmhurst,NY,11373
+8210 Baxter Ave Elmhurst,NY,11373
+5018 Skillman Ave Woodside,NY,11377
+333 Seneca Ave Ridgewood,NY,11385
+23008 Merrick Blvd Springfield Gardens,NY,11413
+10116 77th St Ozone Park,NY,11416
+13416 Liberty Ave South Richmond Hill,NY,11419
+10858 Guy R Brewer Blvd Jamaica,NY,11433
+1197 Grand Ave Baldwin,NY,11510
+386 Fulton Ave Hempstead,NY,11550
+1800 Rockaway Ave Hewlett,NY,11557
+653 E Park Ave Long Beach,NY,11561
+160 N Long Beach Rd Rockville Centre,NY,11570
+214 Rockaway Ave Valley Stream,NY,11580
+245 Beach 20th St Far Rockaway,NY,11691
+20 Scott Gadell Pl # 50 Far Rockaway,NY,11691
+2050 Mott Ave Far Rockaway,NY,11691
+615 Yakima Valley Hwy Sunnyside,WA,98944

@@ -1,0 +1,12 @@
+3008 30th Ave Astoria,NY,11102
+3711 Ditmars Blvd Astoria,NY,11105
+2220 36th Ave Astoria,NY,11106
+2355 Broadway Astoria,NY,11106
+950 Mcdonald Ave Brooklyn,NY,11218
+9910 Astoria Blvd East Elmhurst,NY,11369
+7914 21st Ave East Elmhurst,NY,11370
+8902 37th Ave Jackson Heights,NY,11372
+7507 37th Ave Jackson Heights,NY,11372
+11040 Queens Blvd Forest Hills,NY,11375
+4911 30th Ave Woodside,NY,11377
+13010 Metropolitan Ave Richmond Hill,NY,11418

@@ -1,0 +1,95 @@
+8801 Highway 107 Sherwood,AR,72120
+2690 E Citizens Dr Fayetteville,AR,72703
+3510 Se 14th St Bentonville,AR,72712
+1819 S 8th St Rogers,AR,72756
+1375 Market Square Dr Springdale,AR,72762
+4900 Rogers Ave Fort Smith,AR,72903
+8921 W Thomas Rd Phoenix,AZ,85037
+2435 E Baseline Rd Phoenix,AZ,85042
+1916 S Lindsay Rd Mesa,AZ,85204
+5122 E University Dr Mesa,AZ,85205
+2725 E Mckellips Rd Mesa,AZ,85213
+6645 W Peoria Ave Glendale,AZ,85302
+7450 W Glendale Ave Glendale,AZ,85303
+15431 W Greenway Rd Surprise,AZ,85374
+14200 W Indian School Rd Goodyear,AZ,85395
+7951 N Oracle Rd Tucson,AZ,85704
+5500 E 22nd St Tucson,AZ,85711
+1905 N Nova Rd Daytona Beach,FL,32117
+5216 Red Bug Lake Rd Winter Springs,FL,32708
+4255 Alafaya Trl Oviedo,FL,32765
+5559 Clarcona Ocoee Rd Orlando,FL,32810
+7818 Colonial West Drive Orlando,FL,32818
+201 S Chickasaw Trl Orlando,FL,32825
+600 S Alafaya Trl Orlando,FL,32828
+3550 S Babcock St Melbourne,FL,32901
+3950 N Wickham Rd Melbourne,FL,32935
+4650 N University Dr Pompano Beach,FL,33067
+10635 W Atlantic Blvd Pompano Beach,FL,33071
+1885 N Pine Island Rd Fort Lauderdale,FL,33322
+6901 Okeechobee Blvd West Palm Beach,FL,33411
+8885 N Florida Ave Tampa,FL,33604
+6216 Elliot Dr Tampa,FL,33615
+3920 Skyline Blvd Cape Coral,FL,33914
+9131 College Pkwy Fort Myers,FL,33919
+505 Sw Pine Island Rd Cape Coral,FL,33991
+5010 Airport Pulling Rd N Naples,FL,34105
+3805 S Keystone Ave Indianapolis,IN,46227
+10303 Metcalf Ave Overland Park,KS,66212
+143 Thierman Ln Louisville,KY,40207
+3101 Poplar Level Rd Louisville,KY,40213
+5360 Dixie Hwy Louisville,KY,40216
+201 Blankenbaker Pkwy Louisville,KY,40243
+3800 Ruckriegel Pkwy Louisville,KY,40299
+3735 Palomar Centre Dr Lexington,KY,40513
+4230 Saron Dr Lexington,KY,40515
+3265 Manhattan Blvd Harvey,LA,70058
+3520 Williams Blvd Kenner,LA,70065
+14241 Coursey Blvd Baton Rouge,LA,70817
+2401 Goodman Rd W Horn Lake,MS,38637
+8511 Golf Course Rd Nw Albuquerque,NM,87114
+9600 Sage Rd Sw Albuquerque,NM,87121
+5545 Simmons St North Las Vegas,NV,89031
+1401 American Pacific Dr Henderson,NV,89074
+6151 W Lake Mead Blvd Las Vegas,NV,89108
+5850 W Craig Rd Las Vegas,NV,89130
+6570 E Lake Mead Blvd Las Vegas,NV,89156
+2217 Nw 23rd St Oklahoma City,OK,73107
+1500 Sw 59th St Oklahoma City,OK,73119
+6000 Nw 23rd St Oklahoma City,OK,73127
+911 Sw 104th St Oklahoma City,OK,73139
+9320 S Pennsylvania Ave Oklahoma City,OK,73159
+640 Se 4th St Oklahoma City,OK,73160
+11101 N Rockwell Ave Oklahoma City,OK,73162
+4404 S Peoria Ave Tulsa,OK,74105
+4720 E 21st St Tulsa,OK,74114
+6606 E 81st St Tulsa,OK,74133
+3116 S Garnett Rd Tulsa,OK,74146
+109 Gallatin Pike N Madison,TN,37115
+5531 Edmondson Pike Nashville,TN,37211
+2856 Hickory Hill Rd Memphis,TN,38115
+6990 E Shelby Dr Memphis,TN,38125
+6520 Memphis Arlington Rd Memphis,TN,38135
+430 N Coit Rd Richardson,TX,75080
+1501 Buckingham Rd Richardson,TX,75081
+915 N Town East Blvd Mesquite,TX,75150
+2305 N Central Expy Dallas,TX,75204
+9661 Audelia Rd Dallas,TX,75238
+2610 W Pioneer Pkwy Arlington,TX,76013
+5401 Park Springs Blvd Arlington,TX,76017
+735 W Sublett Rd Arlington,TX,76017
+2108 Bedford Rd Bedford,TX,76021
+6513 Meadowbrook Dr Fort Worth,TX,76112
+6756 W Vickery Blvd Fort Worth,TX,76116
+7401 Park Vista Blvd Fort Worth,TX,76137
+2130 Rufe Snow Dr Keller,TX,76248
+7960 Long Point Rd Houston,TX,77055
+11755 Beechnut St Houston,TX,77072
+4810 Highway 6 N Houston,TX,77084
+2165 Northpark Dr Kingwood,TX,77339
+13742 N Eldridge Pkwy Cypress,TX,77429
+951 N Resler Dr El Paso,TX,79912
+3000 Saul Kleinfeld Dr El Paso,TX,79936
+1551 N Zaragoza Rd El Paso,TX,79936
+1360 Draper Pkwy Draper,UT,84020
+1710 E Skyline Dr Ogden,UT,84405

@@ -1,0 +1,5 @@
+101 11th St S Moorhead,MN,56560
+1433 University Dr N Fargo,ND,58102
+2510 Broadway N Fargo,ND,58102
+1532 32nd Ave S Fargo,ND,58103
+4101 13th Ave S Fargo,ND,58103

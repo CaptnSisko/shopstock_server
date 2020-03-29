@@ -1,0 +1,29 @@
+23333 County Road 10 Elkhart,IN,46514
+3900 E Bristol St Elkhart,IN,46514
+1200 N Nappanee St Elkhart,IN,46514
+3267 Northview Dr Elkhart,IN,46514
+760 Cedar St Elkhart,IN,46514
+23664 Springriver Dr Elkhart,IN,46516
+555 E Jackson Blvd Elkhart,IN,46516
+201 Concord Mall Dr Elkhart,IN,46517
+157 Bashor Rd Goshen,IN,46526
+109 S 8th St Goshen,IN,46528
+1527 Bashor Rd Goshen,IN,46528
+12850 Adams Rd Granger,IN,46530
+7355 Heritage Square Dr Granger,IN,46530
+306 N Bittersweet Rd Mishawaka,IN,46544
+314 N Ironwood Dr Mishawaka,IN,46544
+1202 E Mckinley Ave Mishawaka,IN,46545
+1530 E Market St Nappanee,IN,46550
+242 N Oakland Ave Nappanee,IN,46550
+865 E Jefferson St Plymouth,IN,46563
+926 Erskine Plz South Bend,IN,46614
+4401 W Western Ave South Bend,IN,46619
+1302 Elwood Ave South Bend,IN,46628
+2081 S Bend Ave South Bend,IN,46637
+12850 State Road 23 South Bend,IN,46637
+3420 E Market St Logansport,IN,46947
+PO Box 2 Saint Joseph,MI,49085
+720 S 11th St Niles,MI,49120
+321 E Main St Niles,MI,49120
+5637 Cleveland Ave Stevensville,MI,49127

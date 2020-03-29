@@ -1,0 +1,59 @@
+Russellville,AR,72801
+3301 W Main Pl Russellville,AR,72801
+517 Dearborn St Wayne,NE,68787
+1148 Nw Norman Ave Gresham,OR,97030
+1835 Ne 33rd Ave Portland,OR,97212
+5544 E Burnside St Portland,OR,97215
+4756 Nw Bethany Blvd Portland,OR,97229
+4670 Frankford Ave Philadelphia,PA,19124
+10116 Ne 8th St Rm C210 Bellevue,WA,98004
+2636 Bellevue Way Ne Bellevue,WA,98004
+3550 Factoria Blvd Se Bellevue,WA,98006
+1510 145th Pl Se Bellevue,WA,98007
+15600 Ne 8th St Bellevue,WA,98008
+926 164th St Se Bothell,WA,98012
+22828 100th Ave W Edmonds,WA,98020
+201 5th Ave S Edmonds,WA,98020
+PO Box 1128 Enumclaw,WA,98022
+1540 Nw Gilman Blvd Issaquah,WA,98027
+PO Box 11 Issaquah,WA,98027
+4570 Klahanie Dr Se Issaquah,WA,98029
+10220 Ne Points Dr Kirkland,WA,98033
+211 Parkplace Ctr Kirkland,WA,98033
+112224 Ne 124th St Kirkland,WA,98034
+18520 33rd Ave W Lynnwood,WA,98037
+7823 Se 28th St Mercer Island,WA,98040
+400 E North Bend Way North Bend,WA,98045
+8817 161st Ave Ne Redmond,WA,98052
+23475 Ne Novelty Hill Rd Redmond,WA,98053
+16950 116th Ave Se Renton,WA,98058
+14030 Se Petrovitsky Rd Renton,WA,98058
+9050 Westwood Vlg S Seattle,WA,98101
+417 Broadway E Seattle,WA,98102
+1801 N 46th St Seattle,WA,98103
+2746 Ne 45th St Seattle,WA,98105
+8532 15th Ave Nw Seattle,WA,98117
+9999 Holman Rd Nw Seattle,WA,98117
+9000 Rainier Ave S Seattle,WA,98118
+1600 W Dravus St Seattle,WA,98119
+11100 Roosevelt Way Ne Seattle,WA,98125
+2707 Rainier Ave S Seattle,WA,98144
+17847 1st Ave S Seattle,WA,98148
+14905 4th Ave Sw Seattle,WA,98166
+22705 Marine View Dr S Seattle,WA,98198
+2500 W Bertona St Seattle,WA,98199
+2615 Broadway Everett,WA,98201
+4919 Evergreen Way Everett,WA,98203
+11700 Mukilteo Speedway Mukilteo,WA,98275
+27008 92nd Ave Nw Stanwood,WA,98292
+5010 Point Fosdick Dr Nw Gig Harbor,WA,98335
+3110 Judson St Gig Harbor,WA,98335
+1735 Village Ln Se Port Orchard,WA,98366
+990 E Washington St Sequim,WA,98382
+6414 Yakima Ave Tacoma,WA,98408
+4775 Whitman Ln Se Olympia,WA,98513
+201 Ne State Route 300 Belfair,WA,98528
+676 Ne Old Belfair Hwy Belfair,WA,98528
+906 Algiers Dr Ne Yelm,WA,98597
+3505 Se 192nd Ave Vancouver,WA,98683
+1901 Ne 162nd Ave Vancouver,WA,98684

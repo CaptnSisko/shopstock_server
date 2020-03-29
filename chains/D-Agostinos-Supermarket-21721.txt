@@ -1,0 +1,24 @@
+966 St New York,NY,10001
+1031 St New York,NY,10001
+528 St New York,NY,10001
+341 St New York,NY,10001
+578 3 Av E 38th St New York,NY,10001
+64 University Pl New York,NY,10003
+257 W 17th St New York,NY,10011
+666 Greenwich St New York,NY,10014
+790 Greenwich St New York,NY,10014
+555 2nd Ave New York,NY,10016
+353 W 57th St New York,NY,10019
+1074 Lexington Ave New York,NY,10021
+1507 York Ave New York,NY,10021
+966 1st Ave New York,NY,10022
+1031 1st Ave New York,NY,10022
+633 Columbus Ave New York,NY,10024
+2830 Broadway New York,NY,10025
+1233 Lexington Ave New York,NY,10028
+411 King St Chappaqua,NY,10514
+1 Cross River Shopping Ctr Cross River,NY,10518
+1385 Boston Post Rd Larchmont,NY,10538
+142 S Ridge St Port Chester,NY,10573
+578 3rd Ave Brooklyn,NY,11215
+274 7th Ave Brooklyn,NY,11215

@@ -1,0 +1,11 @@
+322 Thain Rd Lewiston,ID,83501
+332 Thain Rd Lewiston,ID,83501
+411 N Main St Moscow,ID,83843
+1867 12th St Hood River,OR,97031
+410 S 72nd Ave Yakima,WA,98908
+1808 W 3rd Ave Spokane,WA,99201
+907 W 14th Ave Spokane,WA,99204
+1724 W Francis Ave Spokane,WA,99205
+1815 W Garland Ave Spokane,WA,99205
+10502 E Sprague Ave Spokane,WA,99206
+10618 E Sprague Ave Spokane,WA,99206

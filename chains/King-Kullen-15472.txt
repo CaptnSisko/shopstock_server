@@ -1,0 +1,40 @@
+2660 Hylan Blvd Staten Island,NY,10306
+244 Arden Ave Staten Island,NY,10312
+4343 Amboy Rd Staten Island,NY,10312
+3251 Richmond Ave Staten Island,NY,10312
+778 Manor Rd Staten Island,NY,10314
+1441 Richmond Ave Staten Island,NY,10314
+206 New Hyde Park Rd Franklin Square,NY,11010
+1430 Northern Blvd Manhasset,NY,11030
+48 Jericho Tpke Mineola,NY,11501
+77 Forest Ave Glen Cove,NY,11542
+1765 Peninsula Blvd Hewlett,NY,11557
+127 Sunrise Hwy Rockville Centre,NY,11570
+834 Sunrise Hwy Bay Shore,NY,11706
+2730 Sunrise Hwy Bellmore,NY,11710
+598 Stewart Ave Bethpage,NY,11714
+29 Montauk Hwy Blue Point,NY,11715
+120 Veterans Memorial Hwy Commack,NY,11725
+1375 Route 25a East Setauket,NY,11733
+50 New York Ave Huntington,NY,11743
+275 Jericho Tpke Huntington Station,NY,11746
+3284 Hempstead Tpke Levittown,NY,11756
+455 Park Ave Lindenhurst,NY,11757
+600 Wellwood Ave Ste F Lindenhurst,NY,11757
+5214 Sunrise Hwy Massapequa Park,NY,11762
+Massapequa Park,NY,11762
+Bridgehampton Snakehollow Hwy Miller Place,NY,11764
+5507 Route 347 Mount Sinai,NY,11766
+385 Fort Salonga Rd Northport,NY,11768
+575 Smithtown Byp Hauppauge,NY,11788
+271 Jericho Tpke Syosset,NY,11791
+Wading River Rd Route 25a Wading River,NY,11792
+25 N Wading River Rd Wading River,NY,11792
+478 Union Blvd West Islip,NY,11795
+795 Old Country Rd Riverhead,NY,11901
+538 Main St Center Moriches,NY,11934
+538552 Montauk Hwy Center Moriches,NY,11934
+25 Eastport Manor Rd Eastport,NY,11941
+52 E Montauk Hwy Hampton Bays,NY,11946
+460 County Road 111 Manorville,NY,11949
+1235 Middle Country Rd Middle Island,NY,11953

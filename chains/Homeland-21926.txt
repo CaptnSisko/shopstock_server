@@ -1,0 +1,36 @@
+201 S Jackson St Pratt,KS,67124
+3137 S Seneca St Wichita,KS,67217
+1607 S Georgetown St Wichita,KS,67218
+2205 W Edmond Rd Apt W Edmond,OK,73003
+2205 W Edmond Rd Edmond,OK,73003
+24 E 33rd St Edmond,OK,73013
+220 E Cleveland Ave Guthrie,OK,73044
+115 E State Highway 152 Mustang,OK,73064
+1724 W Lindsey St Norman,OK,73069
+1100 W Main St Apt W Norman,OK,73069
+1100 W Main St Norman,OK,73069
+1251 Alameda St Norman,OK,73071
+505 S Chickasaw St Pauls Valley,OK,73075
+310 N Washington St Weatherford,OK,73096
+11241 W Reno Ave Yukon,OK,73099
+1108 Nw 18th St Oklahoma City,OK,73106
+2016 Nw 39th St Oklahoma City,OK,73118
+4301 S May Ave Apt S Oklahoma City,OK,73119
+4301 S May Ave Oklahoma City,OK,73119
+12508 N May Ave Oklahoma City,OK,73120
+4308 Se 44th St Oklahoma City,OK,73135
+10700 S Penn Moore Oklahoma City,OK,73153
+201 Ce Colston Dr Marietta,OK,73448
+1200 W Gary Blvd Clinton,OK,73601
+1402 N Main St Guymon,OK,73942
+915 S Madison Blvd Bartlesville,OK,74006
+19302 E Admiral Pl Catoosa,OK,74015
+501 N Broadway St Cleveland,OK,74020
+501 E 2nd Ave Owasso,OK,74055
+4001 S Highway 97 Sand Springs,OK,74063
+3115 W Okmulgee St Muskogee,OK,74401
+1300 S York St Muskogee,OK,74403
+2410 Chandler Rd Muskogee,OK,74403
+PO Box 1467 Haskell,OK,74436
+2705 N Harrison St Shawnee,OK,74804
+600 W Independence St Shawnee,OK,74804

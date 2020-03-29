@@ -1,0 +1,112 @@
+5805 Dollarway Rd White Hall,AR,71602
+2800 S Hazel St Pine Bluff,AR,71603
+2721 S Camden Rd Pine Bluff,AR,71603
+1600 S Florida St Crossett,AR,71635
+1345 Highway 4 Spur S Camden,AR,71701
+1345 Hwy 4 Spur Sw Camden,AR,71701
+2750 Pine St Arkadelphia,AR,71923
+215 E Page Ave Malvern,AR,72104
+1335 Hazel St Arcadia,LA,71001
+817 W Main St Homer,LA,71040
+1117 Polk St Mansfield,LA,71052
+205 Homer Rd Minden,LA,71055
+3000 W Market Plaza Shopping Ctr Springhill,LA,71075
+3000 N Market Plaza Shopping Ctr Shreveport,LA,71101
+3000 N Market Plaza Shpg Ctr Shreveport,LA,71101
+7925 Youree Dr Shreveport,LA,71105
+4019 Fern Ave Shreveport,LA,71105
+388 Bert Kouns Industrial Loop Shreveport,LA,71106
+5828 Line Ave Shreveport,LA,71106
+3000 N Market St Shreveport,LA,71107
+4918 Barksdale Blvd Bossier City,LA,71112
+9250 Mansfield Rd Shreveport,LA,71118
+3620 Pines Rd Shreveport,LA,71119
+1801 N 18th St Monroe,LA,71201
+4070 Sterlington Rd Monroe,LA,71203
+7920 Desiard St Monroe,LA,71203
+Norris Hill Shopping Ctr Bernice,LA,71222
+902 Broadway St Delhi,LA,71232
+1018 Sterlington Hwy Farmerville,LA,71241
+816 Julia St Rayville,LA,71269
+3426 Cypress St West Monroe,LA,71291
+5696 Highway 1 Byp Natchitoches,LA,71457
+318 Dixie Plz Natchitoches,LA,71457
+143 Albertson Dr Flowood,MS,39232
+109 N Greenville Ave Allen,TX,75002
+6437 County Road 90 Celina,TX,75009
+8980 Preston Rd Frisco,TX,75034
+208 N Central Expy Mckinney,TX,75070
+800 N Main St Ste A Corsicana,TX,75110
+100 N 15th St Corsicana,TX,75110
+2235 S Washington St Kaufman,TX,75142
+Fm 90 And Andrew Dr Mabank,TX,75147
+415 W Royall Blvd Malakoff,TX,75148
+900 N Highway 175 Seagoville,TX,75159
+1400 W Moore Ave Terrell,TX,75160
+W Hwy 80 Wills Point,TX,75169
+6410 Wesley St Greenville,TX,75402
+2229 N Center St Bonham,TX,75418
+1603 Culver St Commerce,TX,75428
+959 E Lennon Dr Emory,TX,75440
+1705 W Audie Murphy Pkwy Farmersville,TX,75442
+308 W Ferguson Rd Mount Pleasant,TX,75455
+306 Texas Highway 37 S Mount Vernon,TX,75457
+925 Clarksville St Paris,TX,75460
+8934 State Highway 34 S Quinlan,TX,75474
+212 E Coke Rd Winnsboro,TX,75494
+210 N Mccoy Blvd New Boston,TX,75570
+3354 Gilmer Rd Longview,TX,75604
+1800 N Wood St Gilmer,TX,75644
+1202 Broadway Ave Gladewater,TX,75647
+404 E Broadway St Jefferson,TX,75657
+747 Us Highway 259 N Kilgore,TX,75662
+905 E Pinecrest Dr Marshall,TX,75670
+200 W Henderson St Overton,TX,75684
+102 N Greer Blvd At Hwy 11 Pittsburg,TX,75686
+200 W Us Highway 80 White Oak,TX,75693
+Wsw Loop 323 Tyler,TX,75701
+2020 Roseland Blvd Tyler,TX,75701
+2734 E 5th St Tyler,TX,75701
+Bergfeld Shopping Ctr Tyler,TX,75701
+1105 E Gentry Pkwy Tyler,TX,75702
+100 Rice Rd Tyler,TX,75703
+807 E Tyler St Athens,TX,75751
+213 Us Highway 69 N Bullard,TX,75757
+703 S H31 E Chandler,TX,75758
+20100 State Highway 155 S Flint,TX,75762
+1477 N Beaulah St Hawkins,TX,75765
+6737 S Fm 14 Hawkins,TX,75765
+Hwy 69 S Lindale,TX,75771
+1224 N Pacific St Mineola,TX,75773
+502 E Goode St # C Quitman,TX,75783
+502 E Goode St Quitman,TX,75783
+506 W Duval St Troup,TX,75789
+706 W Main St Van,TX,75790
+601 State Highway 110 N Whitehouse,TX,75791
+220 E Loop 255 Teague,TX,75860
+Hwy 19 S Trinity,TX,75862
+5118 E Interstate 20 Service Rd S Aledo,TX,76008
+1048 W Highway 67 Alvarado,TX,76009
+320 E Main St Crowley,TX,76036
+194 Garrett Morris Pkwy Mineral Wells,TX,76067
+500 E Highway 199 Springtown,TX,76082
+601 Palo Pinto St Weatherford,TX,76086
+5118 E Interstate 20 Weatherford,TX,76087
+6708 Lake Worth Blvd Fort Worth,TX,76135
+719 S Interstate 35 E Denton,TX,76205
+204 Walnut Albany,TX,76430
+1010 Avenue E Cisco,TX,76437
+402 W Central Ave Comanche,TX,76442
+200 E Main St Eastland,TX,76448
+900 Fm 3220 Clifton,TX,76634
+101 S Avenue T Clifton,TX,76634
+519 E Yeagua St Groesbeck,TX,76642
+120 S Waco St Hillsboro,TX,76645
+1001 E Milam St Mexia,TX,76667
+1310 N Brazos St Whitney,TX,76692
+100 Peplow Dr Waco,TX,76706
+1253 W Church St Livingston,TX,77351
+23221 Aldine Westfield Rd Spring,TX,77373
+N Hwy 69 Kountze,TX,77625
+1514 N Texana St Hallettsville,TX,77964
+Pine Acres Shopping Ctr Yoakum,TX,77995

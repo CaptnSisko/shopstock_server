@@ -1,0 +1,128 @@
+Montgomery,AL,36104
+Pine Bluff,AR,71601
+Hot Springs National Park,AR,71901
+Little Rock Air Force Base,AR,72099
+Little Rock,AR,72201
+Fayetteville,AR,72701
+Fort Smith,AR,72901
+Window Rock,AZ,86515
+Indian Wells,CA,92210
+Victorville,CA,92392
+San Bernardino,CA,92401
+Colorado Springs,CO,80903
+Wilmington,DE,19801
+8940 Bacons Rd Delmar,DE,19940
+Daytona Beach,FL,32114
+Tallahassee,FL,32301
+Fort Walton Beach,FL,32548
+Gainesville,FL,32601
+West Palm Beach,FL,33409
+Boca Raton,FL,33428
+Winter Haven,FL,33880
+Brooksville,FL,34601
+Des Moines,IA,50307
+Sioux City,IA,51101
+Council Bluffs,IA,51501
+Cedar Rapids,IA,52401
+Coeur D Alene,ID,83814
+Rock Island,IL,61201
+910 Brenkman Dr Pekin,IL,61554
+Collinsville,IL,62234
+Springfield,IL,62704
+Carbondale,IL,62901
+806 N 3rd St Decatur,IN,46733
+Winchester,IN,47394
+Terre Haute,IN,47801
+Leavenworth,KS,66048
+Hutchinson,KS,67501
+Dodge City,KS,67801
+Garden City,KS,67846
+Louisville,KY,40219
+Lawrenceburg,KY,40342
+Lake Charles,LA,70601
+Baton Rouge,LA,70807
+Shreveport,LA,71101
+Alexandria,LA,71301
+Hagerstown,MD,21740
+West Branch,MI,48661
+Mount Pleasant,MI,48804
+Battle Creek,MI,49017
+Grand Rapids,MI,49503
+Charlevoix,MI,49720
+Sault Sainte Marie,MI,49783
+Iron Mountain,MI,49801
+Grand Rapids,MN,55744
+115 W College Dr Marshall,MN,56258
+Saint Cloud,MN,56304
+7998 Industrial Park Rd Baxter,MN,56425
+Park Rapids,MN,56470
+Saint Louis,MO,63108
+Park Hills,MO,63601
+Cape Girardeau,MO,63701
+Perryville,MO,63775
+Saint Joseph,MO,64506
+Springfield,MO,65807
+Hattiesburg,MS,39401
+Great Falls,MT,59401
+420 Montclair Dr Salisbury,NC,28144
+Hendersonville,NC,28792
+North Platte,NE,69101
+Alburquerque Hwy Albuquerque,NM,87101
+Albuquerque Hwy Santa Fe,NM,87507
+Silver City,NM,88061
+Gardnerville,NV,89410
+Middletown,NY,10940
+Poughkeepsie,NY,12601
+Glens Falls,NY,12801
+Saratoga Springs,NY,12866
+Binghamton,NY,13901
+Niagara Falls,NY,14301
+Whitesville,NY,14897
+Alexandria,OH,43001
+Centerburg,OH,43011
+Belle Center,OH,43310
+Sheffield Lake,OH,44054
+Youngstown,OH,44502
+Apple Creek,OH,44606
+New Philadelphia,OH,44663
+Gettysburg,OH,45328
+Springfield,OH,45502
+Portsmouth,OH,45662
+Oklahoma City,OK,73120
+Bartlesville,OK,74003
+Broken Arrow,OK,74011
+Stillwater,OK,74074
+Ponca City,OK,74601
+Mckeesport,PA,15131
+New Castle,PA,16101
+Charleston,SC,29402
+Summerville,SC,29483
+Greenville,SC,29601
+Clarksville,TN,37040
+Morristown,TN,37814
+Millington,TN,38053
+Germantown,TN,38138
+Waxahachie,TX,75165
+2753 N Main St Mansfield,TX,76063
+Fort Worth,TX,76116
+Wichita Falls,TX,76301
+San Angelo,TX,76901
+College Station,TX,77840
+San Antonio,TX,78201
+Corpus Christi,TX,78408
+Brownsville,TX,78520
+Marble Falls,TX,78654
+Alexandria,VA,22301
+Winchester,VA,22601
+Blacksburg,VA,24060
+Martinsville,VA,24112
+701 75th St Se Everett,WA,98203
+Janesville,WI,53545
+Sun Prairie,WI,53590
+Marshfield,WI,54404
+Wisconsin Rapids,WI,54494
+Eagle River,WI,54521
+Bear Creek,WI,54922
+Fond Du Lac,WI,54935
+Clarksburg,WV,26301
+Rock Springs,WY,82901

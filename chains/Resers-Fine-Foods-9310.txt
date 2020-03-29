@@ -1,0 +1,19 @@
+3609 Mac Arthur Dr North Little Rock,AR,72118
+13005 Thoroughbred Dr Dade City,FL,33525
+14825 Johns Rd Dade City,FL,33525
+1938 El Monte Pl Twin Falls,ID,83301
+1103 Airport Ave Caldwell,ID,83605
+724 Paynter Ave Caldwell,ID,83605
+1404 Spruce Creek Loop Nampa,ID,83686
+3215 Se 6th Ave Topeka,KS,66607
+3167 Se 10th St Topeka,KS,66607
+1544 Sw Shunga Dr Topeka,KS,66611
+900 1st Ave N Billings,MT,59101
+8021 N Walker Ave Oklahoma City,OK,73114
+15570 Sw Jenkins Rd Beaverton,OR,97006
+3988 Old Highway 99 S Roseburg,OR,97470
+1811 W 1700 S Salt Lake City,UT,84104
+22420 72nd Ave S Kent,WA,98032
+315 Jefferson St Ne Olympia,WA,98501
+3321 93rd Ave Sw Olympia,WA,98512
+5310 N Industrial Way Pasco,WA,99301

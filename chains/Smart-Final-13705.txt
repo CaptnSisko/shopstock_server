@@ -1,0 +1,158 @@
+1450 N 43rd Ave Phoenix,AZ,85009
+2742 E Indian School Rd Phoenix,AZ,85016
+7750 N 35th Ave Phoenix,AZ,85051
+60 S Stapley Dr Mesa,AZ,85204
+13802 N Scottsdale Rd Scottsdale,AZ,85254
+2441 N Scottsdale Rd Scottsdale,AZ,85257
+1737 E Broadway Rd Ste 104 Tempe,AZ,85282
+7720 W Bell Rd Ste B Glendale,AZ,85308
+276 E 16th St Yuma,AZ,85364
+2561 Highway 95 Bullhead City,AZ,86442
+3607 S Vermont Ave Los Angeles,CA,90007
+2929 Crenshaw Blvd Los Angeles,CA,90016
+1216 Compton Ave Los Angeles,CA,90021
+5700 E Olympic Blvd Los Angeles,CA,90022
+12210 Santa Monica Blvd Los Angeles,CA,90025
+2019 Pasadena Ave Los Angeles,CA,90031
+2308 E 4th St Los Angeles,CA,90033
+10113 Venice Blvd Los Angeles,CA,90034
+1835 S La Cienega Blvd Los Angeles,CA,90035
+5555 Wilshire Blvd Los Angeles,CA,90036
+5500 Sheila St Los Angeles,CA,90040
+6060 N Figueroa St Los Angeles,CA,90042
+8137 S Vermont Ave Los Angeles,CA,90044
+1041 N Fuller Ave Los Angeles,CA,90046
+2720 Beverly Blvd Los Angeles,CA,90057
+1125 E El Segundo Blvd Los Angeles,CA,90059
+2460 Wellesley Ave Los Angeles,CA,90064
+11207 W Pico Blvd Los Angeles,CA,90064
+5029 Florence Ave Bell,CA,90201
+1550 W Redondo Beach Blvd Gardena,CA,90247
+10833 Long Beach Blvd Lynwood,CA,90262
+28500 S Western Ave Rancho Palos Verdes,CA,90275
+332 S Pacific Coast Hwy Redondo Beach,CA,90277
+604 Lincoln Blvd Venice,CA,90291
+1575 Centinela Ave Inglewood,CA,90302
+1433 W Carson St Torrance,CA,90501
+21600 S Vermont Ave Torrance,CA,90502
+20530 Anza Ave Torrance,CA,90503
+4310 W 190th St Torrance,CA,90504
+2775 Pacific Coast Hwy Torrance,CA,90505
+7930 Valley View St Buena Park,CA,90620
+1941 W Imperial Hwy La Habra,CA,90631
+10935 Firestone Blvd Norwalk,CA,90650
+20410 S Susana Rd Long Beach,CA,90810
+266 E Huntington Dr Monrovia,CA,91016
+6555 Foothill Blvd Tujunga,CA,91042
+401 N Fair Oaks Ave Pasadena,CA,91103
+3299 E Colorado Blvd Pasadena,CA,91107
+6850 San Fernando Rd Glendale,CA,91201
+210 N Verdugo Rd Glendale,CA,91206
+10340 Mason Ave Chatsworth,CA,91311
+2222 W Hillcrest Dr Newbury Park,CA,91320
+23640 Lyons Ave Newhall,CA,91321
+10893 San Fernando Rd Pacoima,CA,91331
+28207 Newhall Ranch Rd Valencia,CA,91355
+16847 Ventura Blvd Encino,CA,91436
+3708 W Burbank Blvd Burbank,CA,91505
+6601 Laurel Canyon Blvd North Hollywood,CA,91606
+12170 Central Ave Chino,CA,91710
+150 W Willow St Pomona,CA,91768
+600 Citadel Dr Walnut,CA,91789
+114 N Azusa Ave West Covina,CA,91791
+3141 Main St Chula Vista,CA,91911
+1220 E Plaza Blvd National City,CA,91950
+2618 El Camino Real Carlsbad,CA,92008
+1090 Fletcher Pkwy El Cajon,CA,92020
+150 Encinitas Blvd Encinitas,CA,92024
+770 W San Marcos Blvd San Marcos,CA,92078
+720 15th St San Diego,CA,92101
+4516 Mission Blvd San Diego,CA,92109
+2804 Midway Dr San Diego,CA,92110
+6235 El Cajon Blvd San Diego,CA,92115
+5195 Clairemont Mesa Blvd San Diego,CA,92117
+2971 W Ramsey St Banning,CA,92220
+301 N Main St Blythe,CA,92225
+37005 Date Palm Dr Cathedral City,CA,92234
+17000 Foothill Blvd Fontana,CA,92335
+15111 Bear Valley Rd Hesperia,CA,92345
+1720 W Redlands Blvd Redlands,CA,92373
+14557 7th St Victorville,CA,92395
+332 W Base Line St San Bernardino,CA,92410
+3310 Vine St Riverside,CA,92507
+14490 Newhope St Moreno Valley,CA,92553
+25060 Madison Ave Murrieta,CA,92562
+26665 Jefferson Ave Murrieta,CA,92562
+14417 Culver Dr Irvine,CA,92604
+707 W 19th St Costa Mesa,CA,92627
+9861 Adams Ave Huntington Beach,CA,92646
+6882 Edinger Ave Huntington Beach,CA,92647
+1422 E 1st St Santa Ana,CA,92701
+3430 S Bristol St Santa Ana,CA,92704
+2465 E Chapman Ave Fullerton,CA,92831
+9891 Chapman Ave Garden Grove,CA,92841
+1401 E Katella Ave Orange,CA,92867
+760 N Main St Corona,CA,92880
+2750 E Main St Ventura,CA,93003
+1536 Eastman Ave Ventura,CA,93003
+389 Arneill Rd Camarillo,CA,93010
+2059 N Oxnard Blvd Oxnard,CA,93036
+1856 Erringer Rd Simi Valley,CA,93065
+217 E Gutierrez St Santa Barbara,CA,93101
+1804 Girard St Delano,CA,93215
+888 E Lacey Blvd Hanford,CA,93230
+1289 W Olive Ave Porterville,CA,93257
+600 W Center Ave Visalia,CA,93291
+1725 Golden State Ave Bakersfield,CA,93301
+3400 White Ln Bakersfield,CA,93309
+2749 Calloway Dr Bakersfield,CA,93312
+277 Higuera St San Luis Obispo,CA,93401
+858 Humbert Ave Apt B San Luis Obispo,CA,93401
+1721 S Broadway Santa Maria,CA,93454
+1180 N Main St Bishop,CA,93514
+43718 15th St W Lancaster,CA,93534
+1752 E Avenue J Lancaster,CA,93535
+5700 N Blackstone Ave Fresno,CA,93710
+3330 W Shaw Ave Fresno,CA,93711
+631 H St Fresno,CA,93721
+319 E Market St Salinas,CA,93901
+1560 Canyon Del Rey Blvd Seaside,CA,93955
+6967 Mission St Daly City,CA,94014
+141 E El Camino Real Mountain View,CA,94040
+1185 Broadway St Redwood City,CA,94063
+249 Kenwood Way South San Francisco,CA,94080
+233 Carroll St Apt 134 Sunnyvale,CA,94086
+1265 S Mary Ave Sunnyvale,CA,94087
+170 S Van Ness Ave San Francisco,CA,94103
+880 Harrison St San Francisco,CA,94107
+350 7th Ave San Francisco,CA,94118
+1094 Sueirro St Hayward,CA,94541
+21261 Hathaway Ave Hayward,CA,94541
+24601 Mission Blvd Hayward,CA,94544
+4325 Sonoma Blvd Vallejo,CA,94589
+3901 Sonoma Blvd Vallejo,CA,94589
+1243 42nd Ave Oakland,CA,94601
+901 Broadway Oakland,CA,94607
+935 Andersen Dr San Rafael,CA,94901
+270 E 10th St Gilroy,CA,95020
+2065 El Camino Real Santa Clara,CA,95050
+2152 Monterey Hwy San Jose,CA,95112
+1783 Hillsdale Ave San Jose,CA,95124
+5281 Prospect Rd San Jose,CA,95129
+147 N Wilson Way Stockton,CA,95205
+6502 Pacific Ave Stockton,CA,95207
+1108 S School St Lodi,CA,95240
+215 E Lodi Ave Lodi,CA,95240
+1435 Martin Luther King Jr Way Merced,CA,95340
+2900 Standiford Ave Modesto,CA,95350
+801 9th St Modesto,CA,95354
+1150 W 11th St Tracy,CA,95376
+8481 Auburn Blvd Citrus Heights,CA,95610
+1101 Richards Blvd Sacramento,CA,95814
+2431 28th St Sacramento,CA,95818
+6340 Stockton Blvd Sacramento,CA,95824
+1730 Watt Ave Sacramento,CA,95825
+4820 Madison Ave Sacramento,CA,95841
+3471 Lake Tahoe Blvd South Lake Tahoe,CA,96150
+2416 Sand Lake Rd Orlando,FL,32809
+4231 Boulder Hwy Las Vegas,NV,89121
