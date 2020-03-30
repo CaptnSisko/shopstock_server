@@ -1,0 +1,65 @@
+Route 44 Avon,CT,06001
+135 West Rd Ellington,CT,06029
+275 New Britain Ave Plainville,CT,06062
+81 Vernon Ave Vernon Rockville,CT,06066
+1040 Elm St Rocky Hill,CT,06067
+W Stafford Rd Stafford Springs,CT,06076
+87 W Stafford Rd Stafford Springs,CT,06076
+65 Palomba Dr Enfield,CT,06082
+152 Merrow Rd Tolland,CT,06084
+195 Merrow Rd Tolland,CT,06084
+67 Prospect Hill Rd East Windsor,CT,06088
+995 Poquonock Ave Windsor,CT,06095
+114 Dibble Hollow Ln Windsor Locks,CT,06096
+287 Ellington Rd East Hartford,CT,06108
+141 Storrs Rd Mansfield Center,CT,06250
+995 Poquonnock Rd Groton,CT,06340
+83 Lathrop Rd Plainfield,CT,06374
+404 Main St Ansonia,CT,06401
+1289 Foxon Rd Branford,CT,06405
+850 Boston Post Rd Guilford,CT,06437
+535 Monroe Tnpk Monroe,CT,06468
+6 Queen St Newtown,CT,06470
+345 Washington Ave North Haven,CT,06473
+355 Hawley Ave Bridgeport,CT,06606
+85 Bridge St Naugatuck,CT,06770
+3 Kent Rd New Milford,CT,06776
+504 Winsted Rd Torrington,CT,06790
+83 Stony Hill Rd Bethel,CT,06801
+5 Nabby Rd Unit B123 Danbury,CT,06811
+7353 Highway 160 S Littcarr,KY,41834
+175 University Dr Amherst,MA,01002
+2189 Westover Rd Chicopee,MA,01022
+441 N Main St East Longmeadow,MA,01028
+425 Center St Ludlow,MA,01056
+136 N King St Northampton,MA,01060
+142 N King St Northampton,MA,01060
+384 Spring St Florence,MA,01062
+1180 Thorndike St Palmer,MA,01069
+Thorndyke Palmer,MA,01069
+10 College Hwy Southampton,MA,01073
+501 Newton St South Hadley,MA,01075
+195 College Hwy Southwick,MA,01077
+150 West St Ware,MA,01082
+1 E Silver St Westfield,MA,01085
+475 E Main St Westfield,MA,01085
+503 Memorial Ave West Springfield,MA,01089
+151 Cottage St Springfield,MA,01104
+60 Memorial Dr Springfield,MA,01104
+1090 Saint James Ave Springfield,MA,01104
+61 Laurel Ln Longmeadow,MA,01106
+679 Bliss Rd Longmeadow,MA,01106
+Longmeadow,MA,01106
+Springfield,MA,01109
+Springfield,MA,01118
+300 Cooley St Springfield,MA,01128
+200 West St Pittsfield,MA,01201
+Myrtle Adams,MA,01220
+740 Main St Great Barrington,MA,01230
+237 Mohawk Trl Greenfield,MA,01301
+160 Reservoir St Holden,MA,01520
+505 E Main St Southbridge,MA,01550
+62 W Main St Spencer,MA,01562
+Southwest Commons Worcester,MA,01601
+100 Mayfield St Worcester,MA,01602
+999 Boston Providence Tpke Norwood,MA,02062

@@ -1,0 +1,13 @@
+50 Boston St Lynn,MA,01904
+51 Austin St Charlestown,MA,02129
+45 Beacon Pl Somerville,MA,02143
+105 Alewife Brook Pkwy Somerville,MA,02144
+100 Everett Ave Ste 12 Chelsea,MA,02150
+651 Squire Rd Revere,MA,02151
+471 Salem St Medford,MA,02155
+880 Main St Melrose,MA,02176
+10 Pleasantview Ave Weymouth,MA,02188
+10 Pleasant Valley Shop Ctr South Weymouth,MA,02190
+688 Bedford St Whitman,MA,02382
+1028 Beacon St Brookline,MA,02446
+808 Massachusetts Ave Arlington,MA,02476

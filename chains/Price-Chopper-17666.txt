@@ -1,0 +1,101 @@
+1164 Highway 62 W Pocahontas,AR,72455
+PO Box 88 Hardy,AR,72542
+121 Farmington Ave Bristol,CT,06010
+35 Talcottville Rd Vernon Rockville,CT,06066
+675 Poquonock Ave Windsor,CT,06095
+251 Kennedy Dr Putnam,CT,06260
+410 Queen St Southington,CT,06489
+943 Wolcott St Waterbury,CT,06705
+990 Torringford St Torrington,CT,06790
+75th Metcalf Olathe,KS,66062
+75th Aved Metcalf Mission,KS,66201
+555 Hubbard Ave Ste 8 Pittsfield,MA,01201
+88 W Park St Lee,MA,01238
+121 Pittsfield Rd Lenox,MA,01240
+State Rd North Adams,MA,01247
+380 Maple Ave Shrewsbury,MA,01545
+133 Main St Ste 5 Spencer,MA,01562
+Floral Worcester,MA,01601
+50 Cambridge St Ste 1 Worcester,MA,01603
+29 Sunderland Rd Worcester,MA,01604
+221 Park Ave Worcester,MA,01609
+50 S Cambridge St Worcester,MA,01610
+50 Cambridge Pl Worcester,MA,01610
+Marlborough,MA,01752
+3734 Pear St Saint Joseph,MO,64503
+2300 Mitchell Ave Saint Joseph,MO,64507
+701 E Broadway Blvd Sedalia,MO,65301
+101 Dunning Rd Middletown,NY,10940
+511 Schutt Road Ext Middletown,NY,10940
+Floral Park,NY,11001
+141 Sanford Ave Amsterdam,NY,12010
+141 Sanford Farms Shopping Ctr Amsterdam,NY,12010
+4943 State Highway 30 Amsterdam,NY,12010
+1 Kendall Way Ballston Spa,NY,12020
+Route 66 Chatham,NY,12037
+Jamesway Plaza Barnersville Rd Cobleskill,NY,12043
+Barnerville Rd Cobleskill,NY,12043
+East Greenbush,NY,12061
+Route 146 Clifton Park,NY,12065
+Rt 9w Glenmont Rd Glenmont,NY,12077
+358 N Main St Gloversville,NY,12078
+12 N Comrie Ave Johnstown,NY,12095
+1355 New Scotland Rd Slingerlands,NY,12159
+79 Vandenburgh Ave Troy,NY,12180
+716 Hoosick Rd Troy,NY,12180
+865 2nd Ave Troy,NY,12182
+1804 2nd Ave Watervliet,NY,12189
+Rt 155 20 Albany,NY,12201
+444 Broadway Albany,NY,12204
+911 Central Ave Albany,NY,12206
+40 Delaware Ave Albany,NY,12210
+475 Albany Shaker Rd Albany,NY,12211
+501 Duanesburg Rd Schenectady,NY,12306
+138 Ulster Ave Saugerties,NY,12477
+Vails Gate Shopping Ctr Newburgh,NY,12550
+432 South Rd Ste 21 Poughkeepsie,NY,12601
+84 Cooper St Glens Falls,NY,12801
+8648 State Route 22 Granville,NY,12832
+Lake George,NY,12845
+19 Railroad Pl Saratoga Springs,NY,12866
+19 Centre Dr Plattsburgh,NY,12901
+860 State Route 11 Champlain,NY,12919
+53 Finney Blvd Malone,NY,12953
+12 W 1st St S Fulton,NY,13069
+3863 State Route 31 Liverpool,NY,13090
+293 State Route 104 Oswego,NY,13126
+4713 Onondaga Blvd Syracuse,NY,13219
+2515 Erie Blvd E Syracuse,NY,13224
+142 Genesee St Ste 5 Oneida,NY,13421
+1 W Main St Richfield Springs,NY,13439
+1790 Black River Blvd N Rome,NY,13440
+N Utica Shopping Ctr Utica,NY,13501
+1283 Arsenal St Watertown,NY,13601
+Cor Rte 81 Arsenal Watertown,NY,13601
+981 Ford St Ogdensburg,NY,13669
+3 Main St Delhi,NY,13753
+911 North St Endicott,NY,13760
+12 State St Norwich,NY,13815
+5631 State Highway 12 Norwich,NY,13815
+1 State St Norwich,NY,13815
+State Highway 12 Norwich,NY,13815
+1000 Main St Oneonta,NY,13820
+42 W Main St Owego,NY,13827
+10 Glenwood Ave Ste 5 Binghamton,NY,13905
+1017 Pennsylvania Ave Matamoras,PA,18336
+1510 S Main Ave Scranton,PA,18504
+1400 Monroe Ave Scranton,PA,18509
+1026 Wyoming Valley Ave Wyoming,PA,18644
+3rd Ave Wilkes Barre,PA,18701
+7126 Rr 7 Montrose,PA,18801
+2725 Us Route 5 N Windsor,VT,05089
+Route 11 30 Manchester,VT,05254
+241 Canal St Brattleboro,VT,05301
+595 Shelburne Rd Burlington,VT,05401
+90 Center Rd Essex Junction,VT,05452
+170 Swanton Rd Saint Albans,VT,05478
+Ames Shopping Plz Barre,VT,05641
+5 Madison St # 4 Rutland,VT,05701
+Saint Johnsbury,VT,05819
+Route 5 Saint Johnsbury,VT,05819
+56 Commons Dr Derby,VT,05829

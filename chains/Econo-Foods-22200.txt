@@ -1,0 +1,22 @@
+101 Iowa Ave W Marshalltown,IA,50158
+522 N Hancock St Ottumwa,IA,52501
+807 Grandview Ave Muscatine,IA,52761
+1270 N Henderson St Galesburg,IL,61401
+962 E Main St Galesburg,IL,61401
+1280 Lawrence St Lowell,MA,01852
+115 Elm St Farmington,MN,55024
+621 Main St Red Wing,MN,55066
+623 Main St Red Wing,MN,55066
+160 Tyler Rd S Red Wing,MN,55066
+205 Washington Ave E Hutchinson,MN,55350
+1213 Gilmore Ave Winona,MN,55987
+104 4th Ave Nw New Prague,MN,56071
+387 11th St N Wahpeton,ND,58075
+387 11th St S Wahpeton,ND,58075
+812 N Rowley St Mitchell,SD,57301
+Bakery Aberdeen,SD,57401
+2424 6th Ave Se Aberdeen,SD,57401
+110 W 4th St New Richmond,WI,54017
+1250 N 14th Ave Sturgeon Bay,WI,54235
+622 E La Salle Ave Barron,WI,54812
+278 S Main St Clintonville,WI,54929

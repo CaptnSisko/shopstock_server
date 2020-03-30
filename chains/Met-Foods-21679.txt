@@ -1,0 +1,38 @@
+1111 S Orange Ave Newark,NJ,07106
+503 W Side Ave Jersey City,NJ,07304
+37 St New York,NY,10001
+251 Mulberry St New York,NY,10012
+1316 Amsterdam Ave New York,NY,10027
+1177 Hylan Blvd Staten Island,NY,10305
+250 Willis Ave Bronx,NY,10454
+277 E 198th St Bronx,NY,10458
+3734 White Plains Rd Bronx,NY,10467
+125 New Main St Yonkers,NY,10701
+430 Pelham Rd New Rochelle,NY,10805
+210 Route 9w Haverstraw,NY,10927
+25004 Jericho Tpke Floral Park,NY,11001
+3367 Hillside Ave New Hyde Park,NY,11040
+197 Smith St Brooklyn,NY,11201
+1086 Brooklyn Ave Brooklyn,NY,11203
+1910 Lafayette Walk Brooklyn,NY,11209
+7918 3rd Ave Brooklyn,NY,11209
+739 Nostrand Ave Brooklyn,NY,11216
+4030 18th Ave Brooklyn,NY,11218
+5817 5th Ave Brooklyn,NY,11220
+830 Lafayette Ave Brooklyn,NY,11221
+131 Driggs Ave Brooklyn,NY,11222
+116 Avenue U Brooklyn,NY,11223
+1610 Cortelyou Rd Brooklyn,NY,11226
+1630 E 15th St Brooklyn,NY,11229
+1910 Kings Hwy Brooklyn,NY,11229
+486 Henry St Brooklyn,NY,11231
+991 Fulton St Apt 1 Brooklyn,NY,11238
+632 Vanderbilt Ave Brooklyn,NY,11238
+4162 Bowne St Flushing,NY,11355
+4518 Little Neck Pkwy Little Neck,NY,11362
+9406 63rd Dr Rego Park,NY,11374
+19911 Hollis Ave Saint Albans,NY,11412
+10202 101st Ave Ozone Park,NY,11416
+7720 Jamaica Ave Woodhaven,NY,11421
+17309 Jamaica Ave Jamaica,NY,11432
+373 Merrick Ave Merrick,NY,11566

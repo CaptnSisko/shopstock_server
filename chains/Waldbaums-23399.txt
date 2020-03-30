@@ -1,0 +1,69 @@
+Staten Island,NY,10312
+25910 Union Tpke Glen Oaks,NY,11004
+2124 Northern Blvd Manhasset,NY,11030
+2475 Jericho Tpke New Hyde Park,NY,11040
+8121 New Utrecht Ave Brooklyn,NY,11214
+2149 Ralph Ave Brooklyn,NY,11234
+3100 Ocean Ave Brooklyn,NY,11235
+1871 Rockaway Pkwy Brooklyn,NY,11236
+13311 20th Ave College Point,NY,11356
+14524 17th Ave Whitestone,NY,11357
+15301 10th Ave Whitestone,NY,11357
+3509 Francis Lewis Blvd Flushing,NY,11358
+21315 26th Ave Bayside,NY,11360
+4640 Francis Lewis Blvd Bayside,NY,11361
+24202 61st Ave Little Neck,NY,11362
+19835 Horace Harding Expy Fresh Meadows,NY,11365
+7555 31st Ave East Elmhurst,NY,11370
+15601 Crossbay Blvd Howard Beach,NY,11414
+8235 153rd Ave Howard Beach,NY,11414
+25910 Union Tpke Bellerose,NY,11426
+1050 Willis Ave Albertson,NY,11507
+1050 Wales Pl Baldwin,NY,11510
+905 Atlantic Ave Baldwin,NY,11510
+2 Westbury Ave Carle Place,NY,11514
+1530 Front St East Meadow,NY,11554
+345 Rockaway Tpke Lawrence,NY,11559
+85 Long Beach Plz Long Beach,NY,11561
+399 Ocean Ave Lynbrook,NY,11563
+1686 Merrick Rd Merrick,NY,11566
+3600 Long Beach Rd Oceanside,NY,11572
+3620 Long Beach Rd Oceanside,NY,11572
+500 W Merrick Rd Valley Stream,NY,11580
+11215 Beach Channel Dr Rockaway Park,NY,11694
+Hubbards Path West Babylon,NY,11704
+1934 Middle Country Rd Centereach,NY,11720
+1 Boulevard Ave Central Islip,NY,11722
+40 Vanderbilt Motor Pkwy Commack,NY,11725
+Deer Park Ave Deer Park,NY,11729
+300 E Main St East Islip,NY,11730
+4054 Nesconset Hwy East Setauket,NY,11733
+450 Main St Farmingdale,NY,11735
+777 Pulaski Rd Greenlawn,NY,11740
+328 Union Ave Holbrook,NY,11741
+60 Wall St Huntington,NY,11743
+Huntington,NY,11743
+890 Walt Whitman Rd Melville,NY,11747
+3335 Hempstead Tpke Levittown,NY,11756
+Bunting Ln Levittown,NY,11756
+60 E Hoffman Ave Lindenhurst,NY,11757
+702 Hicksville Rd Massapequa,NY,11758
+5500 Sunrise Hwy Massapequa,NY,11758
+4560 Sunrise Hwy Oakdale,NY,11769
+440 S Service Rd Patchogue,NY,11772
+655 Montauk Hwy Patchogue,NY,11772
+245 Route 25a Rocky Point,NY,11778
+601 Portion Rd Ronkonkoma,NY,11779
+211 Middle Country Rd Selden,NY,11784
+124 E Main St Smithtown,NY,11787
+1236 Veterans Hwy Hauppauge,NY,11788
+2162 Nesconset Hwy Stony Brook,NY,11790
+910 S Broadway Hicksville,NY,11801
+259 10th St Hicksville,NY,11801
+1510 Old Country Rd Riverhead,NY,11901
+812 Main St Center Moriches,NY,11934
+66 Newtown Ln East Hampton,NY,11937
+Newtown Ln East Hampton,NY,11937
+10095 Main Rd Mattituck,NY,11952
+23 Jagger Ln Southampton,NY,11968
+Sunset Ave Westhampton Beach,NY,11978

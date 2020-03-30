@@ -1,0 +1,60 @@
+1740 Massachusetts St Lawrence,KS,66044
+1015 W 23rd St Lawrence,KS,66046
+720 Eisenhower Rd Leavenworth,KS,66048
+3000 W 6th St Lawrence,KS,66049
+130 Sarber Ln Manhattan,KS,66502
+2010 Se 29th St Topeka,KS,66605
+300 Sw 29th St Topeka,KS,66611
+6829 Sw 29th St Topeka,KS,66614
+801 Nw 25th St Topeka,KS,66618
+2600 N Broadway St Pittsburg,KS,66762
+902 E 12th Ave Emporia,KS,66801
+426 S Andover Rd Andover,KS,67002
+425 N Summit St Arkansas City,KS,67005
+1510 Ohio St Augusta,KS,67010
+200 W Greenway St Derby,KS,67037
+317 N Rock Rd Derby,KS,67037
+700 N Main St El Dorado,KS,67042
+1203 N 2nd Ave Mulvane,KS,67110
+1216 N Main St Newton,KS,67114
+1410 S Kansas Ave Newton,KS,67114
+1108 E 1st St Pratt,KS,67124
+1111 W 8th St Wellington,KS,67152
+1910 W 21st St N Wichita,KS,67203
+640 N West St Wichita,KS,67203
+3932 W 13th St N Wichita,KS,67203
+10222 W 21st St N Wichita,KS,67205
+7707 E Central Ave Wichita,KS,67206
+9450 E Harry St Wichita,KS,67207
+6297 E 13th St N Wichita,KS,67208
+8828 W 13th St N Wichita,KS,67212
+10515 W Central Ave Wichita,KS,67212
+3020 E Douglas Ave Wichita,KS,67214
+3211 S Seneca St Wichita,KS,67217
+5500 E Harry St Wichita,KS,67218
+3707 N Woodlawn Blvd Wichita,KS,67220
+2244 N Rock Rd Wichita,KS,67226
+13415 W Maple St Wichita,KS,67235
+511 E Iron Ave Salina,KS,67401
+1201 W Crawford St Salina,KS,67401
+2012 S Ohio St Salina,KS,67401
+1320 N Main St Mcpherson,KS,67460
+1321 N Main St Hutchinson,KS,67501
+725 E 4th Ave Hutchinson,KS,67501
+517 E 30th Ave Hutchinson,KS,67502
+423 Main St Great Bend,KS,67530
+4107 10th St Great Bend,KS,67530
+1811 Main St Great Bend,KS,67530
+423 Main St Larned,KS,67550
+109 E 4th Ave Saint John,KS,67576
+212 N Broadway Ave Sterling,KS,67579
+1902 Vine St Hays,KS,67601
+1605 S Range Ave Colby,KS,67701
+1700 N 14th Ave Dodge City,KS,67801
+1211 Buffalo Jones Ave Garden City,KS,67846
+1305 E Kansas Ave Garden City,KS,67846
+1402 E 20th St Joplin,MO,64804
+1260 E St Louis Springfield,MO,65802
+1831 W Kearney St Springfield,MO,65803
+2843 E Sunshine St Springfield,MO,65804
+1707 W Battlefield St Springfield,MO,65807

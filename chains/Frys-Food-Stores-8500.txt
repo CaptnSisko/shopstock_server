@@ -1,0 +1,75 @@
+1625 W Camelback Rd Phoenix,AZ,85015
+4724 N 20th St Phoenix,AZ,85016
+3036 E Thomas Rd Phoenix,AZ,85016
+4505 E Thomas Rd Phoenix,AZ,85018
+8901 N 19th Ave Phoenix,AZ,85021
+18420 N 19th Ave Phoenix,AZ,85023
+4025 E Thunderbird Rd Phoenix,AZ,85032
+3616 E Ray Rd Phoenix,AZ,85044
+4949 E Ray Rd Phoenix,AZ,85044
+1245 W Main St Mesa,AZ,85201
+825 W University Dr Mesa,AZ,85201
+1935 N Stapley Dr Mesa,AZ,85203
+1900 E University Dr Mesa,AZ,85203
+2727 E Broadway Rd Mesa,AZ,85204
+4440 E Main St Mesa,AZ,85205
+1915 S Power Rd Mesa,AZ,85206
+435 S Ellsworth Rd Mesa,AZ,85208
+554 W Baseline Rd Mesa,AZ,85210
+185 W Apache Trl Apache Junction,AZ,85220
+1385 E Florence Blvd Casa Grande,AZ,85222
+1950 W Ray Rd Chandler,AZ,85224
+2075 N Alma School Rd Chandler,AZ,85224
+981 W Elliot Rd Chandler,AZ,85225
+4949 W Ray Rd Chandler,AZ,85226
+855 W Warner Rd Gilbert,AZ,85233
+3751 E Baseline Rd Gilbert,AZ,85234
+20797 N John Wayne Pkwy Maricopa,AZ,85239
+542 E Hunt Hwy Queen Creek,AZ,85243
+985 E Riggs Rd Chandler,AZ,85249
+6080 E Thomas Rd Scottsdale,AZ,85251
+6321 E Greenway Rd Scottsdale,AZ,85254
+4842 E Bell Rd Scottsdale,AZ,85254
+20427 N Hayden Rd Scottsdale,AZ,85255
+7770 E Mcdowell Rd Scottsdale,AZ,85257
+8900 E Via Linda Scottsdale,AZ,85258
+10450 N 90th St Scottsdale,AZ,85258
+14845 E Shea Blvd Fountain Hills,AZ,85268
+5100 S Mcclintock Dr Tempe,AZ,85282
+3255 S Rural Rd Tempe,AZ,85282
+3232 S Mill Ave Tempe,AZ,85282
+1835 E Guadalupe Rd Tempe,AZ,85283
+2700 W Baseline Rd Tempe,AZ,85283
+9900 S Rural Rd Tempe,AZ,85284
+2010 S Alma School Rd Chandler,AZ,85286
+87 E Williams Field Rd Gilbert,AZ,85295
+3261 E Pecos Rd Gilbert,AZ,85295
+714 S Val Vista Dr Gilbert,AZ,85296
+29455 N Cave Creek Rd Cave Creek,AZ,85331
+4815 E Carefree Hwy Cave Creek,AZ,85331
+4815 E Carefree Hwy Ste 100 Cave Creek,AZ,85331
+2180 N 144th Dr Goodyear,AZ,85338
+9425 W Union Hills Dr Somerton,AZ,85350
+7455 W Cactus Rd Peoria,AZ,85381
+10675 W Indian School Rd Avondale,AZ,85392
+4351 E Highway 90 Sierra Vista,AZ,85635
+555 E Grant Rd Tucson,AZ,85705
+9401 E 22nd St Tucson,AZ,85710
+7050 E 22nd St Tucson,AZ,85710
+7850 E Speedway Blvd Tucson,AZ,85710
+4150 E 22nd St Tucson,AZ,85711
+3920 E Grant Rd Tucson,AZ,85712
+2480 N Swan Rd Tucson,AZ,85712
+3640 S 16th Ave Tucson,AZ,85713
+2001 E Irvington Rd Tucson,AZ,85714
+902 W Irvington Rd Tucson,AZ,85714
+4036 N 1st Ave Tucson,AZ,85719
+7050 E Golf Links Rd Tucson,AZ,85730
+10661 N Oracle Rd Tucson,AZ,85737
+10450 N La Canada Dr Tucson,AZ,85737
+3770 W Ina Rd Tucson,AZ,85741
+7870 N Silverbell Rd Tucson,AZ,85743
+8080 S Houghton Rd Tucson,AZ,85747
+201 N Switzer Canyon Dr Flagstaff,AZ,86001
+1100 S Highway 260 Cottonwood,AZ,86326
+1080 Waterbury Stowe Rd Waterbury,VT,05676

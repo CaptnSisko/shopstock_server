@@ -1,0 +1,122 @@
+1007 Highway 65 S Mc Gehee,AR,71654
+275 E Forest Ave Coalinga,CA,93210
+203 W Polk St Coalinga,CA,93210
+275 W Forest Ave Coalinga,CA,93210
+1700 High St Delano,CA,93215
+715 W Grangeville Blvd Hanford,CA,93230
+105 W Hanford Armona Rd Lemoore,CA,93245
+50 W Olive Ave Porterville,CA,93257
+170 E Cross Ave Tulare,CA,93274
+3615 W Noble Ave Visalia,CA,93277
+5203 W Walnut Ave Visalia,CA,93277
+2425 Highway 46 Wasco,CA,93280
+5201 W Goshen Ave Visalia,CA,93291
+1591 E Noble Ave Visalia,CA,93292
+9600 Hageman Rd Bakersfield,CA,93312
+1870 N Broadway Santa Maria,CA,93454
+841 Tucker Rd Tehachapi,CA,93561
+1225 Robertson Blvd Chowchilla,CA,93610
+1157 N Willow Ave Clovis,CA,93611
+2179 Shaw Ave Clovis,CA,93611
+1835 Herndon Ave Clovis,CA,93611
+80 Bullard Ave Clovis,CA,93612
+909 Sierra St Kingsburg,CA,93631
+1337 E Pacheco Blvd Los Banos,CA,93635
+1504 Howard Rd Madera,CA,93637
+1143 Country Club Dr Madera,CA,93638
+Nees Ave Fresno,CA,93650
+1580 E Manning Ave Reedley,CA,93654
+237 Academy Ave Sanger,CA,93657
+2859 Whitson St Selma,CA,93662
+4120 N West Ave Fresno,CA,93705
+1625 N Fruit Ave Fresno,CA,93705
+6670 N Cedar Ave Fresno,CA,93710
+5750 N 1st St Fresno,CA,93710
+2066 W Bullard Ave Fresno,CA,93711
+7075 N Marks Ave Fresno,CA,93711
+1107 E Champlain Dr Fresno,CA,93720
+6797 N Milburn Ave Fresno,CA,93722
+4043 W Clinton Ave Fresno,CA,93722
+3750 W Shields Ave Fresno,CA,93722
+6055 N Figarden Dr Fresno,CA,93722
+4734 W Menlo Ave Fresno,CA,93722
+4041 E Ashlan Ave Fresno,CA,93726
+1150 S Main St Salinas,CA,93901
+64 San Benancio Rd Salinas,CA,93908
+22830 Bravo Pl Salinas,CA,93908
+1300 Sylvan Rd Monterey,CA,93940
+1990 Grandview St Seaside,CA,93955
+111 E 18th St Antioch,CA,94509
+3190 Contra Loma Blvd Antioch,CA,94509
+4461 Balfour Rd Brentwood,CA,94513
+1751 Monument Blvd Concord,CA,94520
+39966 Cedar Blvd Newark,CA,94560
+1370 Fitzgerald Dr Pinole,CA,94564
+699 Lewelling Blvd Ste 310 San Leandro,CA,94579
+PO Box 20 Hollister,CA,95024
+215 W Calaveras Blvd Milpitas,CA,95035
+2610 El Camino Real Santa Clara,CA,95051
+1555 Merrill St Santa Cruz,CA,95062
+119 Railroad Ave Watsonville,CA,95076
+1465 Main St Watsonville,CA,95076
+1070 Story Rd San Jose,CA,95122
+2806 Story Rd San Jose,CA,95127
+3457 Mckee Rd San Jose,CA,95127
+1641 N Capitol Ave San Jose,CA,95132
+3251 S White Rd San Jose,CA,95148
+1536 Waterloo Rd Stockton,CA,95205
+610 W Kettleman Ln Lodi,CA,95240
+1340 S Hutchins St Lodi,CA,95240
+260 Main St Murphys,CA,95247
+1701 Bellevue Rd Atwater,CA,95301
+2916 E Whitmore Ave Ceres,CA,95307
+15240 S Harlan Rd Lathrop,CA,95330
+1172 N Main St Manteca,CA,95336
+1431 W Yosemite Ave Manteca,CA,95337
+1136 W Main St Merced,CA,95340
+150 W Olive Ave Merced,CA,95348
+1300 W Olive Ave Merced,CA,95348
+2100 Standiford Ave Modesto,CA,95350
+2100 Standiford Ave Ste B1 Modesto,CA,95350
+1800 Standiford Ave Modesto,CA,95350
+415 Paradise Rd Modesto,CA,95351
+2601 Oakdale Rd Modesto,CA,95355
+801 Oakdale Rd Modesto,CA,95355
+3900 Pelandale Ave Modesto,CA,95356
+1449 E F St Oakdale,CA,95361
+1035 Sperry Ave Patterson,CA,95363
+19347 S Wagner Ave Ripon,CA,95366
+1453 Goodwin Dr Ripon,CA,95366
+130 W Stockton St Sonora,CA,95370
+1045 Mono Way Sonora,CA,95370
+2929 N Macarthur Dr Spc 178 Tracy,CA,95376
+1950 W 11th St Tracy,CA,95376
+1631 Lander Ave Turlock,CA,95380
+901 W Main St Turlock,CA,95380
+2595 Geer Rd Turlock,CA,95382
+2280 Grass Valley Hwy Auburn,CA,95603
+6012 Manganite St El Dorado,CA,95623
+9160 Elk Grove Florin Rd Elk Grove,CA,95624
+8671 Little Wood Cir Elk Grove,CA,95624
+1059 C St Galt,CA,95632
+6000 Main Ave Orangevale,CA,95662
+Greenback Lane Orangevale,CA,95662
+700 Crocker Dr Vacaville,CA,95688
+9647 Red Current Way Elk Grove,CA,95757
+7707 Laguna Blvd Elk Grove,CA,95758
+5600 Folsom Blvd Sacramento,CA,95819
+2545 Fulton Ave Apt 45 Sacramento,CA,95821
+2735 Marconi Ave Sacramento,CA,95821
+7960 Gerber Rd Sacramento,CA,95828
+3525 Sun Maiden Way Antelope,CA,95843
+PO Box 20 Chico,CA,95927
+17910 Vintage Dr Grass Valley,CA,95949
+PO Box 913 Tahoe City,CA,96145
+PO Box 2269 Truckee,CA,96160
+11399 Deerfield Dr Truckee,CA,96161
+PO Box 20 Sparks,NV,89432
+525 Keystone Ave Reno,NV,89503
+701 Saw Mill River Rd Yonkers,NY,10710
+2800 Salem Ave Dayton,OH,45406
+134 N Centre St De Kalb,TX,75559
+111 W 2nd Hughes Springs,TX,75656

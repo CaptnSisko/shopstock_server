@@ -1,0 +1,53 @@
+1291 Albany Ave Hartford,CT,06112
+519 S Orange Blossom Trl Apopka,FL,32703
+2413 Enterprise Rd Orange City,FL,32763
+2921 S Orlando Dr Sanford,FL,32773
+999 N Semoran Blvd Orlando,FL,32807
+4065 W Oak Ridge Rd Orlando,FL,32809
+2701 N Hiawassee Rd Orlando,FL,32818
+3025 Johnson St Hollywood,FL,33021
+18030 Nw 27th Ave Opa Locka,FL,33056
+10400 Nw 7th Ave Miami,FL,33150
+10692 Fontainebleau Blvd Miami,FL,33172
+1206 S Dixie Hwy Lake Worth,FL,33462
+7611 Causeway Blvd Tampa,FL,33619
+1703 E Hinson Ave Haines City,FL,33844
+2004 Tamiami Trl Bradenton,FL,34205
+4108 W Vine St Kissimmee,FL,34741
+238 Cranbrook Dr Kissimmee,FL,34758
+502 Owltree Way Ocoee,FL,34761
+624 S Dillard St Winter Garden,FL,34787
+321 Scotland Rd Orange,NJ,07050
+1245 W 7th St South Plainfield,NJ,07080
+260 Roseville Ave Newark,NJ,07107
+67 Broadway Paterson,NJ,07505
+76 E 15th St Paterson,NJ,07524
+42 W Blackwell St Dover,NJ,07801
+36 W Blackwell St Dover,NJ,07801
+1567 E State St Trenton,NJ,08609
+621 Hamilton St Somerset,NJ,08873
+62 Main St South River,NJ,08882
+959 Livingston Ave North Brunswick,NJ,08902
+2395 St New York,NY,10001
+81 W Ave New York,NY,10001
+1331 Saint Nicholas Ave New York,NY,10033
+4261 Broadway New York,NY,10033
+640 Courtlandt Ave Bronx,NY,10451
+127 W Burnside Ave Bronx,NY,10453
+2285 Grand Concourse Bronx,NY,10453
+208 E 170th St Bronx,NY,10456
+1250 Washington Ave Bronx,NY,10456
+248 E 174th St Bronx,NY,10457
+1654 Metropolitan Ave Bronx,NY,10462
+4026 Boston Rd Bronx,NY,10475
+2061 Bartow Ave Bronx,NY,10475
+3412 34th Ave Astoria,NY,11106
+208 Crescent St Brooklyn,NY,11208
+8 E 93rd St Brooklyn,NY,11212
+1299 Fulton St Brooklyn,NY,11216
+5818 4th Ave Brooklyn,NY,11220
+174 Wheeler Rd Central Islip,NY,11722
+175 S Ocean Ave Patchogue,NY,11772
+179 N Ocean Ave Patchogue,NY,11772
+2446 N 6th St Harrisburg,PA,17110
+693 Dexter St Central Falls,RI,02863

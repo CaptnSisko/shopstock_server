@@ -1,0 +1,64 @@
+2411 S Archer Ave Chicago,IL,60616
+2357 Lemoine Ave Fort Lee,NJ,07024
+1769 St New York,NY,10001
+4365 Broadway W 187th St New York,NY,10001
+43 Columbia St New York,NY,10002
+459 Forest Ave Staten Island,NY,10301
+1200 South Ave Ste 103 Staten Island,NY,10314
+1791 Walton Ave Bronx,NY,10453
+3151 Westchester Ave Bronx,NY,10461
+751 Lydig Ave Bronx,NY,10462
+540 W 235th St Bronx,NY,10463
+4171 White Plains Rd Bronx,NY,10466
+3515 Jerome Ave Bronx,NY,10467
+35 Pleasantville Rd Pleasantville,NY,10570
+151 Covert Ave Floral Park,NY,11001
+3221 Newtown Ave Astoria,NY,11102
+4215 30th Ave Astoria,NY,11103
+2215 31st St Astoria,NY,11105
+369 Flatbush Avenue Ext Brooklyn,NY,11201
+169 Atlantic Ave Brooklyn,NY,11201
+106 Montague St Brooklyn,NY,11201
+102 Montague St Brooklyn,NY,11201
+9408 3rd Ave Brooklyn,NY,11209
+2326 Nostrand Ave Brooklyn,NY,11210
+575 Grand St Brooklyn,NY,11211
+800 Rockaway Ave Brooklyn,NY,11212
+589 Prospect Ave Brooklyn,NY,11215
+130 7th Ave Brooklyn,NY,11215
+1144 Fulton St Brooklyn,NY,11216
+1533 Broadway Brooklyn,NY,11221
+319 Kings Hwy Brooklyn,NY,11223
+599 Avenue Z Brooklyn,NY,11223
+505 Neptune Ave Brooklyn,NY,11224
+2245 Gerritsen Ave Brooklyn,NY,11229
+1407 Foster Ave Brooklyn,NY,11230
+1804 Ralph Ave Brooklyn,NY,11236
+2066 Rockaway Pkwy Brooklyn,NY,11236
+2503 Parsons Blvd Flushing,NY,11354
+14241 Roosevelt Ave Flushing,NY,11354
+15355 Cross Island Pkwy Whitestone,NY,11357
+17221 46th Ave Flushing,NY,11358
+241 38th Rd Little Neck,NY,11363
+6150 Springfield Blvd Oakland Gardens,NY,11364
+21414 73rd Ave Oakland Gardens,NY,11364
+7301 37th Ave Jackson Heights,NY,11372
+10827 Queens Blvd Forest Hills,NY,11375
+10502 Queens Blvd Forest Hills,NY,11375
+11634 Queens Blvd Forest Hills,NY,11375
+6110 Queens Blvd Woodside,NY,11377
+5915 Roosevelt Ave Woodside,NY,11377
+8725 Lefferts Blvd Richmond Hill,NY,11418
+11411 Lefferts Blvd South Ozone Park,NY,11420
+14366 243rd St Rosedale,NY,11422
+21322 Jamaica Ave Queens Village,NY,11428
+16602 Baisley Blvd Jamaica,NY,11434
+13837 Queens Blvd Jamaica,NY,11435
+14827 Jamaica Ave Jamaica,NY,11435
+153 7th St Garden City,NY,11530
+1030 Railroad Ave Woodmere,NY,11598
+2020 New Haven Ave Far Rockaway,NY,11691
+1517 Broadway St Buffalo,NY,14212
+1470 Orchard Park Rd Buffalo,NY,14224
+1602 E 28th St Lorain,OH,44055
+1816 Nw Miller Rd Portland,OR,97229

@@ -1,0 +1,106 @@
+47 Main St New Britain,CT,06051
+1744 Park St Hartford,CT,06106
+165 Wethersfield Ave Hartford,CT,06114
+442 Main St East Hartford,CT,06118
+259 Barbour St Hartford,CT,06120
+332 S Frontage Rd New London,CT,06320
+156 Dixwell Ave New Haven,CT,06511
+480 Greenwich Ave New Haven,CT,06519
+360 Boston Ave Stratford,CT,06614
+103 N Haven Rd Elmhurst,IL,60126
+790 State St Springfield,MA,01109
+786 Broadway Bayonne,NJ,07002
+607 Bloomfield Ave Bloomfield,NJ,07003
+935 S Orange Ave East Orange,NJ,07018
+1911 Bergenline Ave Union City,NJ,07087
+323 Mount Prospect Ave Newark,NJ,07104
+120 Clinton Ave Newark,NJ,07114
+574 Jersey Ave Jersey City,NJ,07302
+885 Bergen Ave Jersey City,NJ,07306
+680 Main St Paterson,NJ,07503
+444 20th Ave Paterson,NJ,07513
+444 Madison Ave Paterson,NJ,07524
+154 State St Hackensack,NJ,07601
+272 Maple St Perth Amboy,NJ,08861
+81 Luther Ave Perth Amboy,NJ,08861
+84 Main St Somerset,NJ,08873
+275 George St New Brunswick,NJ,08901
+238 W Ave New York,NY,10001
+159 Harlem River Dr W 155th St 04 New York,NY,10001
+1721 1st Ave E 88th St New York,NY,10001
+188 Avenue C E 12th St New York,NY,10001
+309 E 115 2nd Ave New York,NY,10001
+2217 Adam Clayton Powell Jr Blvd New York,NY,10027
+1016 Saint Nicholas Ave New York,NY,10032
+24 W 135th St New York,NY,10037
+5 Saint James Pl New York,NY,10038
+159-4 Harlem River Dr New York,NY,10039
+760 Melrose Ave Bronx,NY,10451
+1750 Dr Martin L King Jr Blvd Bronx,NY,10453
+35 Richman Plz Bronx,NY,10453
+745 Westchester Ave Bronx,NY,10455
+3690 3rd Ave Bronx,NY,10456
+630 E 169th St Bronx,NY,10456
+264 E 204th St Bronx,NY,10458
+809 Southern Blvd Bronx,NY,10459
+1580 Unionport Rd Bronx,NY,10462
+50 Van Cortlandt Ave W Bronx,NY,10463
+3959 White Plains Rd Bronx,NY,10466
+4265 Katonah Ave Bronx,NY,10470
+90 Hugh J Grant Cir Bronx,NY,10472
+1470 Westchester Ave Bronx,NY,10472
+119 Einstein Loop Bronx,NY,10475
+111 Dreiser Loop Bronx,NY,10475
+100 Croton Ave Ossining,NY,10562
+114 N Broadway Tarrytown,NY,10591
+50 Van Cortlandt Pk Ave Yonkers,NY,10701
+70 Linden St Yonkers,NY,10701
+538 Main St New Rochelle,NY,10801
+45 Fifth Ave Pelham,NY,10803
+90 Horace Harding Blvd Great Neck,NY,11020
+4465 21st St Long Island City,NY,11101
+4012 28th Ave Astoria,NY,11103
+6614 18th Ave Brooklyn,NY,11204
+2869 Fulton St Brooklyn,NY,11207
+1115 Pennsylvania Ave Brooklyn,NY,11207
+1176 Liberty Ave Brooklyn,NY,11208
+8609 4th Ave Brooklyn,NY,11209
+330 Graham Ave Brooklyn,NY,11211
+130 Havemeyer St Brooklyn,NY,11211
+146 E 98th St Brooklyn,NY,11212
+187 Troy Ave Brooklyn,NY,11213
+327 9th St Brooklyn,NY,11215
+476 Marcus Garvey Blvd Brooklyn,NY,11216
+239 Bond St Brooklyn,NY,11217
+710 Coney Island Ave Brooklyn,NY,11218
+4511 8th Ave Brooklyn,NY,11220
+953 Manhattan Ave Brooklyn,NY,11222
+212 Clarkson Ave Brooklyn,NY,11226
+1188 Flatbush Ave Brooklyn,NY,11226
+1301 Church Ave Brooklyn,NY,11226
+597 E 16th St Brooklyn,NY,11226
+7907 13th Ave Brooklyn,NY,11228
+57 Mill Ln Brooklyn,NY,11234
+7924 Flatlands Ave Brooklyn,NY,11236
+72 Wyckoff Ave Brooklyn,NY,11237
+720 Washington Ave Brooklyn,NY,11238
+801 Washington Ave Brooklyn,NY,11238
+325 Lafayette Ave Brooklyn,NY,11238
+4733 Bell Blvd Bayside,NY,11361
+10879 Roosevelt Ave Corona,NY,11368
+7176 Yellowstone Blvd Forest Hills,NY,11375
+6209 Roosevelt Ave Woodside,NY,11377
+924 Seneca Ave Ridgewood,NY,11385
+11014 Farmers Blvd Saint Albans,NY,11412
+8129 Lefferts Blvd Kew Gardens,NY,11415
+9802 Jamaica Ave Woodhaven,NY,11421
+19509 Jamaica Ave Hollis,NY,11423
+22251 Jamaica Ave Queens Village,NY,11428
+16915 Hillside Ave Jamaica,NY,11432
+10830 Merrick Blvd Jamaica,NY,11433
+1080 W Beech St Long Beach,NY,11561
+8715 Rockaway Beach Blvd Far Rockaway,NY,11693
+32 Wheeler Rd Unit 810 Central Islip,NY,11722
+1662 New York Ave Huntington Station,NY,11746
+1975 W Mound St Columbus,OH,43223
+720 N 4th St Allentown,PA,18102

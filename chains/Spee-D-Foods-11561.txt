@@ -1,0 +1,12 @@
+503 Gordon St Thomson,GA,30824
+2635 Gilchrist Rd Akron,OH,44305
+2337 S Main St Akron,OH,44319
+561 Main St N Navarre,OH,44662
+9817 Cleveland Ave Nw Uniontown,OH,44685
+1735 Cleveland Ave Nw Canton,OH,44703
+2019 Harrisburg Rd Ne Canton,OH,44705
+4730 Cleveland Ave Sw Canton,OH,44707
+4318 12th St Nw Canton,OH,44708
+3002 Market Ave N Canton,OH,44714
+4516 Everhard Rd Nw Canton,OH,44718
+953 S Main St North Canton,OH,44720

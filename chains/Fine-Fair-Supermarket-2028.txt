@@ -1,0 +1,36 @@
+160 Passaic Ave Passaic,NJ,07055
+601 4th St Union City,NJ,07087
+6210 Bergenline Ave West New York,NJ,07093
+64 Pacific St Newark,NJ,07105
+2444 St New York,NY,10001
+2330 St New York,NY,10001
+175 Clinton Grand St New York,NY,10001
+545 Grand Jackson St New York,NY,10001
+1617 St Nicholas Av W 190th St New York,NY,10001
+42 Avenue C E 3rd St New York,NY,10001
+2463 Frederick Douglass Blvd New York,NY,10027
+1239 Saint Nicholas Ave New York,NY,10032
+107 Featherbed Ln Bronx,NY,10452
+1065 E 163rd St Bronx,NY,10459
+1511 Metropolitan Ave Bronx,NY,10462
+3680 E Tremont Ave Bronx,NY,10465
+3550 White Plains Rd Frnt 2 Bronx,NY,10467
+320 E Gun Hill Rd Bronx,NY,10467
+2556 Boston Rd Bronx,NY,10467
+3131 Grand Concourse Bronx,NY,10468
+125 W Kingsbridge Rd Bronx,NY,10468
+3449 Boston Rd Bronx,NY,10469
+1221 Fteley Ave Bronx,NY,10472
+25609 Hillside Ave Glen Oaks,NY,11004
+1781 Broadway Brooklyn,NY,11207
+675 Lincoln Ave Brooklyn,NY,11208
+3008 Fulton St Brooklyn,NY,11208
+261 Kingston Ave Brooklyn,NY,11213
+212 Hoyt St Brooklyn,NY,11217
+406 Avenue P Brooklyn,NY,11223
+2915 Surf Ave Brooklyn,NY,11224
+498 Columbia St Brooklyn,NY,11231
+10802 Otis Ave Corona,NY,11368
+8926 Sutphin Blvd Jamaica,NY,11435
+1336 Beach Channel Dr Far Rockaway,NY,11691
+625 W Girard Ave Philadelphia,PA,19123

@@ -1,0 +1,33 @@
+Warrensburg,NY,12885
+6363 Transit Rd Depew,NY,14043
+Union Rd George Urban Rd Depew,NY,14043
+Niagara Falls Boulevard And East Amherst,NY,14051
+Transit Rd N French East Amherst,NY,14051
+65 Grey St East Aurora,NY,14052
+S6150 S Park Ave Hamburg,NY,14075
+906 Center St Lewiston,NY,14092
+North Tonawanda,NY,14120
+301 Meadow Dr North Tonawanda,NY,14120
+890 Young St Tonawanda,NY,14150
+150 Niagara St Tonawanda,NY,14150
+425 Niagara St Buffalo,NY,14201
+Grant St Buffalo,NY,14207
+Broadway Market Buffalo,NY,14212
+Mckinley Mall Buffalo,NY,14219
+1460 S Park Ave Buffalo,NY,14220
+Maple Bailey Buffalo,NY,14221
+1740 Sheridan Drive And Delaware Rd Buffalo,NY,14223
+355 Orchard Park Rd Buffalo,NY,14224
+800 Harlem Rd Ste 400 Buffalo,NY,14224
+700 Thruway Plaza Dr Buffalo,NY,14225
+University Plz Buffalo,NY,14226
+270 E Main St Avon,NY,14414
+1100 Jefferson Rdhenrietta Plz Henrietta,NY,14467
+128 W Main St Le Roy,NY,14482
+3507 Mt Read Blvd At Maiden Ln Rochester,NY,14612
+1455 E Ridge Rd Rochester,NY,14621
+1601 Penfield Rd Rochester,NY,14625
+2300 N Triphammer Rd Ithaca,NY,14850
+710 S Meadow St Ithaca,NY,14850
+111 Bolivar Rd Wellsville,NY,14895
+21593 Lorain Rd Cleveland,OH,44126
