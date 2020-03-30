@@ -1,0 +1,11 @@
+Mt Vernon, IN 47620, USA*****37.932266,-87.895027
+IN-261, Newburgh, IN 47630, USA*****37.976492,-87.391482
+4207, 2127 S Weinbach Ave, Evansville, IN 47714, USA*****37.947387,-87.530783
+4624 N First Ave, Evansville, IN 47710, USA*****38.020897,-87.575199
+1200 N Fulton Ave, Evansville, IN 47710, USA*****37.988524,-87.581831
+1108 N Fulton Ave, Evansville, IN 47710, USA*****37.988287,-87.581408
+701 N Weinbach Ave, Evansville, IN 47711, USA*****37.983172,-87.529037
+1 N Weinbach Ave, Evansville, IN 47711, USA*****37.977588,-87.528921
+700 N Sonntag Ave, Evansville, IN 47712, USA*****37.983990,-87.608880
+535 Lincoln Ave, Evansville, IN 47713, USA*****37.969496,-87.557430
+4901 Pollack Ave, Evansville, IN 47715, USA*****37.947106,-87.491733

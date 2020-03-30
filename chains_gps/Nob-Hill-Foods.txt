@@ -1,0 +1,3 @@
+615 Aztec Cir, Salinas, CA 93906, USA*****36.701412,-121.664782
+152 Green Valley Rd, Freedom, CA 95019, USA*****36.937157,-121.771426
+Los Gatos Blvd, Los Gatos, CA 95030, USA*****37.236916,-121.962581

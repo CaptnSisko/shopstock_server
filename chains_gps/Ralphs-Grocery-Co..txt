@@ -1,0 +1,19 @@
+1233 N La Brea Ave, West Hollywood, CA 90038, USA*****34.093470,-118.344551
+15120 Sunset Blvd, Pacific Palisades, CA 90272, USA*****34.044924,-118.524106
+1644 Cloverfield Blvd, Santa Monica, CA 90404, USA*****34.027042,-118.473906
+2909 Rolling Hills Rd, Torrance, CA 90505, USA*****33.789407,-118.340442
+3601 E Foothill Blvd Store No 30, Pasadena, CA 91107, USA*****34.151340,-118.075548
+3601 E Foothill Blvd, Pasadena, CA 91107, USA*****34.151340,-118.075548
+1200 N Central Ave, Glendale, CA 91202, USA*****34.164414,-118.256225
+14049 Ventura Blvd, Sherman Oaks, CA 91423, USA*****34.149909,-118.439192
+1100 N San Fernando Blvd, Burbank, CA 91504, USA*****34.189048,-118.318159
+655 S Grand Ave, Glendora, CA 91740, USA*****34.127496,-117.874280
+2230 S Atlantic Blvd, Monterey Park, CA 91754, USA*****34.037180,-118.144909
+9440 Mira Mesa Blvd, San Diego, CA 92126, USA*****32.918362,-117.121636
+5331 University Dr, Irvine, CA 92612, USA*****33.659572,-117.803260
+13321 Jamboree Rd, Tustin, CA 92782, USA*****33.729295,-117.790200
+1776 S Victoria Ave, Ventura, CA 93003, USA*****34.257966,-119.208938
+4500 Post St, El Dorado Hills, CA 95762, USA*****38.652639,-121.067128
+115 N Iowa Ave, Ness City, KS 67560, USA*****38.454438,-99.903437
+501 Carol Malone Blvd, Grayson, KY 41143, USA*****38.336091,-82.945496
+104 N Main St, Piedmont, MO 63957, USA*****37.154792,-90.695550

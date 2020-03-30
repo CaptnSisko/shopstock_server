@@ -1,0 +1,31 @@
+26468 Carl Boyer Dr, Santa Clarita, CA 91350, USA*****34.414825,-118.503945
+16555 Von Karman Ave, Irvine, CA 92606, USA*****33.698649,-117.835491
+5625 Gosford Rd, Bakersfield, CA 93313, USA*****35.304292,-119.094766
+7663 N Blackstone Ave, Fresno, CA 93720, USA*****36.848605,-119.794171
+904 Pleasant Grove Blvd, Roseville, CA 95678, USA*****38.785936,-121.288352
+3360 El Camino Ave, Sacramento, CA 95821, USA*****38.607518,-121.386859
+2 Boston Post Rd, Orange, CT 06477, USA*****41.279227,-72.981949
+1707 W 23rd St, Panama City, FL 32405, USA*****30.188557,-85.687787
+15835 N Dale Mabry Hwy, Tampa, FL 33618, USA*****28.096251,-82.499978
+596 Bobby Jones Expy, Augusta, GA 30907, USA*****33.502953,-82.086126
+450 Norman Dr, Valdosta, GA 31601, USA*****30.828891,-83.320483
+1201 N Westover Blvd, Albany, GA 31707, USA*****31.617721,-84.208776
+16100 S Harlem Ave, Tinley Park, IL 60477, USA*****41.598076,-87.796775
+1917 E Markland Ave, Kokomo, IN 46901, USA*****40.474604,-86.104555
+3819 South St, Lafayette, IN 47905, USA*****40.413606,-86.837658
+3805 North Blvd, Alexandria, LA 71301, USA*****31.271102,-92.455779
+4326 28th St SE, Grand Rapids, MI 49512, USA*****42.912560,-85.560499
+232 Shirley Dr, Cape Girardeau, MO 63701, USA*****37.298990,-89.585862
+3660 E Sunshine St, Springfield, MO 65809, USA*****37.178985,-93.219501
+3833 N Gloster St, Tupelo, MS 38804, USA*****34.305917,-88.709985
+930 Hanes Mall Blvd, Winston-Salem, NC 27103, USA*****36.066638,-80.312606
+1801 N Harrison Ave, Cary, NC 27513, USA*****35.830508,-78.770935
+645 Patton Ave, Asheville, NC 28806, USA*****35.591889,-82.581129
+9570 Fields Ertel Rd, Loveland, OH 45140, USA*****39.290978,-84.295352
+200 Peachwood Center Dr, Spartanburg, SC 29301, USA*****34.934220,-81.997208
+200 N Beltline Dr, Florence, SC 29501, USA*****34.190624,-79.824411
+3812 Liberty Hwy #6, Anderson, SC 29621, USA*****34.555421,-82.678382
+1414 Marlandwood Rd, Temple, TX 76502, USA*****31.064781,-97.367925
+4304 W Loop 289, Lubbock, TX 79407, USA*****33.554595,-101.943187
+2470 W Mason St, Green Bay, WI 54303, USA*****44.526965,-88.092824
+1220 N Eisenhower Dr, Beckley, WV 25801, USA*****37.802850,-81.174004

@@ -1,0 +1,66 @@
+420 Thornton Rd, Lithia Springs, GA 30122, USA*****33.792224,-84.628537
+3121 Grand Ave #2, Ames, IA 50010, USA*****42.052866,-93.620880
+600 E Rand Rd, Arlington Heights, IL 60004, USA*****42.108785,-87.971402
+250 Parkchester Rd, Elk Grove Village, IL 60007, USA*****41.995498,-88.009630
+E Rand Rd, Wheeling Township, IL, USA*****42.090460,-87.948226
+600 E Rand Rd, Mt Prospect, IL 60056, USA*****42.073836,-87.927888
+1355 Holmes Rd, Elgin, IL 60123, USA*****42.068733,-88.311022
+4200 Lincoln Hwy, Matteson, IL 60443, USA*****41.506174,-87.717458
+1212 75th St, Downers Grove, IL 60516, USA*****41.754231,-88.014523
+2300 Illinois 59, Caton Crossing Town Square Shopping Center, Plainfield, IL 60586, USA*****41.562874,-88.198468
+1512 IL-26, Freeport, IL 61032, USA*****42.282911,-89.633143
+1800 Knoxville Ave, Peoria, IL 61603, USA*****40.710015,-89.593464
+5001 N Big Hollow Rd, Peoria, IL 61615, USA*****40.748869,-89.637521
+403 N Veterans Pkwy #2, Bloomington, IL 61704, USA*****40.483397,-88.950482
+1901 W Monroe St, Springfield, IL 62704, USA*****39.800291,-89.684235
+100 Opportunity Blvd, Cambridge, MN 55008, USA*****45.574105,-93.202520
+2013 W Broadway Ave, Forest Lake, MN 55025, USA*****45.282753,-93.011275
+1729 Market Blvd, Hastings, MN 55033, USA*****44.736934,-92.892166
+20250 Heritage Dr, Lakeville, MN 55044, USA*****44.659005,-93.251605
+1440 University Ave W, St Paul, MN 55104, USA*****44.952762,-93.160514
+1177 Clarence St, St Paul, MN 55106, USA*****44.976288,-93.044845
+2390 White Bear Ave, Maplewood, MN 55109, USA*****45.014360,-93.016841
+2600 Rice Creek Rd, New Brighton, MN 55112, USA*****45.082974,-93.220729
+2100 Snelling Ave N, Roseville, MN 55113, USA*****45.004403,-93.164127
+Maplewood, MN 55117, USA*****44.990801,-93.096210
+2001 S Robert St, West St Paul, MN 55118, USA*****44.885144,-93.083450
+2021 S Robert St, West St Paul, MN 55118, USA*****44.885676,-93.080583
+2197 Old Hudson Rd, St Paul, MN 55119, USA*****44.951116,-93.007259
+8432 Tamarack Village, Woodbury, MN 55125, USA*****44.939485,-92.936169
+3717 Lexington Ave N, St Paul, MN 55126, USA*****45.053102,-93.148212
+8600 114th Ave N, Champlin, MN 55316, USA*****45.160599,-93.389024
+19216 Freeport St, Elk River, MN 55330, USA*****45.317950,-93.563993
+23800 MN-7, Shorewood, MN 55331, USA*****44.893408,-93.581427
+1750 County Rd 42 W, Burnsville, MN 55337, USA*****44.747694,-93.300813
+8015 Den Rd #2, Eden Prairie, MN 55344, USA*****44.858905,-93.421287
+216 E 7th St, Monticello, MN 55362, USA*****45.299987,-93.795834
+8150 Wedgewood Ln N, Maple Grove, MN 55369, USA*****45.102672,-93.447679
+14165 James Rd, Rogers, MN 55374, USA*****45.211710,-93.551105
+2850 26th Ave S, Minneapolis, MN 55406, USA*****44.951519,-93.235895
+701 W Broadway Ave, Minneapolis, MN 55411, USA*****44.998176,-93.288646
+710 W Broadway Ave, Minneapolis, MN 55411, USA*****44.999952,-93.288617
+5937 Nicollet Ave, Minneapolis, MN 55419, USA*****44.895224,-93.277382
+5301 36th Ave N, Crystal, MN 55422, USA*****45.019200,-93.346662
+250 57th Ave NE, Fridley, MN 55432, USA*****45.070085,-93.266123
+246 57th Ave NE, Fridley, MN 55432, USA*****45.070425,-93.266153
+2050 Northdale Blvd NW, Coon Rapids, MN 55433, USA*****45.179991,-93.318716
+12595 Central Ave NE, Spring Lake Park, MN 55432, USA*****45.114991,-93.238062
+6775 York Ave S, Edina, MN 55435, USA*****44.880284,-93.319848
+9655 Colorado Ln N, Brooklyn Park, MN 55445, USA*****45.131298,-93.360434
+3550 Vicksburg Ln N, Plymouth, MN 55447, USA*****45.021087,-93.479136
+12900 Riverdale Dr NW, Coon Rapids, MN 55448, USA*****45.205620,-93.362162
+615 W Central Entrance, Duluth, MN 55811, USA*****46.803216,-92.146168
+1021 15th Ave SE, Rochester, MN 55904, USA*****44.009759,-92.444809
+1200 S Riverfront Dr, Mankato, MN 56001, USA*****44.160716,-94.017349
+1800 Madison Ave, Mankato, MN 56001, USA*****44.168795,-93.955484
+2201 1st St S, Willmar, MN 56201, USA*****45.101033,-95.042653
+250 33rd Ave S, St Cloud, MN 56301, USA*****45.548182,-94.196394
+1001 4th St SE Ste B, St Cloud, MN 56304, USA*****45.563594,-94.138246
+417 8th Ave NE, Brainerd, MN 56401, USA*****46.363273,-94.179138
+14133 Edgewood Dr N, Baxter, MN 56425, USA*****46.355677,-94.246783
+5545 Executive Blvd, Huber Heights, OH 45424, USA*****39.872887,-84.134430
+6134 Wilmington Pike, Dayton, OH 45459, USA*****39.650752,-84.107575
+20 Park Ave, Beloit, WI 53511, USA*****42.496767,-89.029005
+4141 Nakoosa Trail, Madison, WI 53714, USA*****43.108336,-89.312245
+7455 Mineral Point Rd, Madison, WI 53717, USA*****43.057899,-89.510520
+1200 W Northland Ave, Appleton, WI 54914, USA*****44.289006,-88.423576

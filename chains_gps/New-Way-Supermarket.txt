@@ -1,0 +1,10 @@
+3385 NW 22nd Ave, Miami, FL 33142, USA*****25.807398,-80.231772
+213 Burgess Pl, Passaic, NJ 07055, USA*****40.868416,-74.138836
+1061 Bergen St, Newark, NJ 07112, USA*****40.707998,-74.208385
+1065 Bergen St, Newark, NJ 07112, USA*****40.707936,-74.208614
+382 Chancellor Ave, Newark, NJ 07112, USA*****40.710432,-74.223825
+1173 St Georges Ave, Rahway, NJ 07065, USA*****40.609152,-74.286462
+18 E Sandford Blvd, Mt Vernon, NY 10550, USA*****40.899488,-73.831637
+167 N Broadway, Yonkers, NY 10701, USA*****40.940060,-73.895886
+1167 Lenox Rd, Brooklyn, NY 11212, USA*****40.660131,-73.917741
+342 Elmwood Ave, Providence, RI 02907, USA*****41.803054,-71.425725

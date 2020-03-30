@@ -1,0 +1,117 @@
+1st Ave SW, Fayette, AL 35555, USA*****33.680350,-87.833435
+1514 E Elm St, Athens, AL 35611, USA*****34.818268,-86.945275
+4702 S 35th Ave, Phoenix, AZ 85041, USA*****33.404525,-112.134312
+1206 W Westfield Ave, Porterville, CA 93257, USA*****36.087843,-119.044515
+779 E Evelyn Ave Ste A, Mountain View, CA 94041, USA*****37.384976,-122.053115
+1885 23rd St, San Pablo, CA 94806, USA*****37.958550,-122.347263
+10 Sioc St, Colusa, CA 95932, USA*****39.204816,-122.004490
+421 7th St, Colusa, CA 95932, USA*****39.212390,-122.011274
+6010 W 20th Ave, Edgewater, CO 80214, USA*****39.747177,-105.062897
+5200 W Colfax Ave, Lakewood, CO 80214, USA*****39.739843,-105.053687
+1095 S Wadsworth Blvd, Lakewood, CO 80226, USA*****39.696949,-105.082000
+7014 Lillian Hwy, Pensacola, FL 32506, USA*****30.421066,-87.306783
+1201 Sunset Strip, Sunrise, FL 33313, USA*****26.138957,-80.231896
+9834 Sandalfoot Blvd, Boca Raton, FL 33428, USA*****26.335476,-80.200231
+9020 Cobb Rd, Brooksville, FL 34601, USA*****28.556915,-82.420088
+4685 NW 2nd St, Des Moines, IA 50313, USA*****41.645779,-93.619505
+1829 6th Ave, Des Moines, IA 50314, USA*****41.611011,-93.625461
+2127 Martin Luther King Jr Pkwy, Des Moines, IA 50314, USA*****41.614034,-93.645651
+1372 E 14th St, Des Moines, IA 50316, USA*****41.604847,-93.601006
+518 Metropolitan Way, Des Plaines, IL 60016, USA*****42.042964,-87.885522
+229 Golf Mill Ctr, Niles, IL 60714, USA*****42.048622,-87.838409
+1721 Homer Adams Pkwy, Alton, IL 62002, USA*****38.917978,-90.164792
+634 Berkshire Blvd, East Alton, IL 62024, USA*****38.884777,-90.100746
+2122 Troy Rd, Edwardsville, IL 62025, USA*****38.788209,-89.949114
+3401 Nameoki Rd, Granite City, IL 62040, USA*****38.724418,-90.123598
+3521 Nameoki Rd, Granite City, IL 62040, USA*****38.726033,-90.125590
+3451 Nameoki Rd, Granite City, IL 62040, USA*****38.724556,-90.125736
+Nameoki Rd, Granite City, IL 62040, USA*****38.736659,-90.118887
+1904 E Edwardsville Rd, Wood River, IL 62095, USA*****38.856561,-90.065371
+1028 Camp Jackson Rd, Cahokia, IL 62206, USA*****38.562916,-90.179571
+1030 Camp Jackson Rd, Cahokia, IL 62206, USA*****38.563618,-90.178244
+80 Carlyle E, Belleville, IL 62221, USA*****38.520201,-89.936733
+800 Carlyle Ave, Belleville, IL 62221, USA*****38.516109,-89.950235
+4201 N Belt W, Belleville, IL 62226, USA*****38.543279,-90.016760
+9529 Collinsville Rd, Collinsville, IL 62234, USA*****38.661992,-90.026091
+717 Vandalia St, Collinsville, IL 62234, USA*****38.678769,-89.982760
+4201 N Belt Hwy, St Joseph, MO 64506, USA*****39.808624,-94.812981
+200 N Grand Ave W, Springfield, IL 62702, USA*****39.815193,-89.655957
+1755 Wabash Ave, Springfield, IL 62704, USA*****39.764999,-89.685600
+ME-25, Cornish, ME 04020, USA*****43.804994,-70.801131
+114 High St, Caribou, ME 04736, USA*****46.861242,-68.008729
+Church St, Dexter, ME 04930, USA*****45.030396,-69.286435
+1727 E Main St, Kalamazoo, MI 49048, USA*****42.299318,-85.557736
+5539 US-10, Ludington, MI 49431, USA*****43.952973,-86.417852
+1253 Water Tower Pl, Arnold, MO 63010, USA*****38.439534,-90.375571
+45 Gravois Bluffs Plaza Dr, Fenton, MO 63026, USA*****38.507616,-90.447503
+690 Rue St Francois, Florissant, MO 63031, USA*****38.792814,-90.326069
+2183 Charbonier Rd, Florissant, MO 63031, USA*****38.810350,-90.359978
+159 Flower Valley Shopping Center, Florissant, MO 63033, USA*****38.812259,-90.295657
+9070 St Charles Rock Rd, St. Louis, MO 63114, USA*****38.711242,-90.354684
+4660 Chippewa St, St. Louis, MO 63116, USA*****38.589922,-90.272316
+3865 Gravois Ave, St. Louis, MO 63116, USA*****38.593213,-90.251003
+7057 Chippewa St, St. Louis, MO 63119, USA*****38.586494,-90.317057
+5438 Gilmore Ave, St. Louis, MO 63120, USA*****38.702176,-90.250154
+5780 S Lindbergh Blvd, St. Louis, MO 63123, USA*****38.523723,-90.348508
+301 Watson Plaza, St. Louis, MO 63126, USA*****38.558658,-90.389222
+10805 Old Halls Ferry Rd, St. Louis, MO 63136, USA*****38.768018,-90.261176
+9521 Lewis and Clark Blvd, St. Louis, MO 63136, USA*****38.736088,-90.242771
+7355 Manchester Rd, Maplewood, MO 63143, USA*****38.614083,-90.319237
+Mayfair Rd, St Charles, MO 63303, USA*****38.764684,-90.506553
+3740 Monticello Plaza, St Charles, MO 63304, USA*****38.732745,-90.689400
+24 Ofallon Square, O'Fallon, MO 63366, USA*****38.800539,-90.703236
+S Service Rd, O'Fallon, MO 63366, USA*****38.802780,-90.672838
+7919 Highway N, Lake St Louis, MO 63367, USA*****38.766204,-90.769343
+108 Jungermann Rd, St Peters, MO 63376, USA*****38.793403,-90.576247
+100 Jungermann Rd, St Peters, MO 63376, USA*****38.795097,-90.577360
+1801 Broadway Dr, Hattiesburg, MS 39402, USA*****31.300548,-89.323872
+4832 Ramsey St, Fayetteville, NC 28311, USA*****35.127477,-78.878595
+2950 Groveport Rd, Columbus, OH 43207, USA*****39.904176,-82.964912
+329 S Central Ave, Columbus, OH 43223, USA*****39.951040,-83.037186
+1413 N Main St, Dayton, OH 45405, USA*****39.776917,-84.203165
+400 9th Ave, Beaver Falls, PA 15010, USA*****40.746294,-80.320670
+William Flinn Hwy, Pennsylvania, USA*****40.582210,-79.951248
+600 Market Pl Dr, Oakdale, PA 15071, USA*****40.440314,-80.241329
+Russellton, PA 15076, USA*****40.619424,-79.843680
+5001 Library Rd, Bethel Park, PA 15102, USA*****40.341255,-80.024705
+Old Washington Pike, Scott Township, PA 15106, USA*****40.385585,-80.089773
+713 E 8th Ave, Homestead, PA 15120, USA*****40.409963,-79.904730
+2381 Mountain View Dr, West Mifflin, PA 15122, USA*****40.347642,-79.946624
+500 Pine Hollow Rd, McKees Rocks, PA 15136, USA*****40.473940,-80.096806
+4313 Walnut St, McKeesport, PA 15132, USA*****40.321667,-79.834664
+830 Allegheny River Blvd, Oakmont, PA 15139, USA*****40.524568,-79.840658
+540 Pine Hollow Rd, McKees Rocks, PA 15136, USA*****40.473754,-80.097111
+56 Butler St, Millvale, PA 15209, USA*****40.479635,-79.972885
+1620 Babcock Blvd, Pittsburgh, PA 15209, USA*****40.499122,-79.978979
+917 Butler St, Pittsburgh, PA 15223, USA*****40.512009,-79.949979
+93 Joseph St, Pittsburgh, PA 15227, USA*****40.389435,-79.964646
+799 Castle Shannon Blvd, Pittsburgh, PA 15234, USA*****40.369113,-80.028549
+4801 McKnight Rd, Pittsburgh, PA 15237, USA*****40.525181,-80.007121
+125 W Beau St, Washington, PA 15301, USA*****40.170714,-80.249232
+150 Walnut Hill Rd, Uniontown, PA 15401, USA*****39.881425,-79.737797
+US-119, Connellsville, PA, USA*****40.021756,-79.596682
+PA-136, Greensburg, PA, USA*****40.296687,-79.557199
+4532 PA-136, Greensburg, PA 15601, USA*****40.286636,-79.581978
+1910 Dailey Ave, Latrobe, PA 15650, USA*****40.309072,-79.372470
+7726 US-30, Columbia City, IN 46725, USA*****41.125508,-85.343942
+420 Latrobe Derry Rd, Mcchesneytown-Loyalhanna, PA 15661, USA*****40.321605,-79.360825
+3592 Portage St, Portage, PA 15946, USA*****40.395342,-78.673070
+105 Clover St, Ellwood City, PA 16117, USA*****40.824645,-80.244279
+2191 E State St, Hermitage, PA 16148, USA*****41.234153,-80.469536
+1213 2nd St, Cresson, PA 16630, USA*****40.459658,-78.590480
+942 W St Rd, Warminster, PA 18974, USA*****40.157936,-75.014670
+364 W Trenton Ave, Morrisville, PA 19067, USA*****40.209835,-74.798622
+Morrisville, PA 19067, USA*****40.208647,-74.774618
+544 N 52nd St, Philadelphia, PA 19131, USA*****39.969236,-75.225618
+12303 Scarsdale Blvd, Houston, TX 77089, USA*****29.591696,-95.206076
+15311 Ella Blvd, Houston, TX 77090, USA*****29.989740,-95.431801
+15395 FM 3083, Conroe, TX 77302, USA*****30.258336,-95.337254
+200 N Texas Ave, Bryan, TX 77803, USA*****30.674400,-96.370192
+13110 Nacogdoches Rd, San Antonio, TX 78233, USA*****29.559844,-98.394652
+2204 Woodland Ave, Austin, TX 78741, USA*****30.236198,-97.727985
+1513 Harrison Ave, Elkins, WV 26241, USA*****38.932597,-79.870280
+140 Main St, Parsons, WV 26287, USA*****39.095052,-79.680455
+402 Medical Park Dr, Weston, WV 26452, USA*****39.041849,-80.468763
+1228 Country Club Rd, Fairmont, WV 26554, USA*****39.471525,-80.172597
+2500 Fairmont Ave, Fairmont, WV 26554, USA*****39.428167,-80.186586
+1208 Fairmont Ave, Fairmont, WV 26554, USA*****39.468424,-80.154982

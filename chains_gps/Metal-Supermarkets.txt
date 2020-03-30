@@ -1,0 +1,35 @@
+3641 Veterans Memorial Dr, Fairfield, AL 35064, USA*****33.498156,-86.909777
+Tuscaloosa, AL 35401, USA*****33.169073,-87.638380
+N 23rd St, Phoenix, AZ, USA*****33.498409,-112.032374
+San Francisco, CA, USA*****37.774929,-122.419415
+1000 Williams Dr, Marietta, GA 30066, USA*****33.992858,-84.538355
+4301 Pleasantdale Rd Ste J, Doraville, GA 30340, USA*****33.908355,-84.246072
+1675 Tonne Rd, Elk Grove Village, IL 60007, USA*****42.000812,-87.978742
+3790 Hawthorn Ct, Waukegan, IL 60087, USA*****42.395423,-87.894336
+1400 25th Ave, Melrose Park, IL 60160, USA*****41.898792,-87.865412
+8525 Zionsville Rd, Indianapolis, IN 46278, USA*****39.909607,-86.259940
+5400 Distribution Dr, Fort Wayne, IN 46825, USA*****41.127765,-85.153729
+432 Douglas Ave, Lexington, KY 40508, USA*****38.065228,-84.505820
+848 Nandino Blvd Unit V, Lexington, KY 40511, USA*****38.078916,-84.495589
+1250 Rankin Dr, Troy, MI 48083, USA*****42.541887,-83.127535
+13432 Stark Rd, Livonia, MI 48150, USA*****42.381179,-83.377729
+37090 Amrhein Rd, Livonia, MI 48150, USA*****42.374738,-83.408934
+Burnsville, MN 55337, USA*****44.775838,-93.268422
+8802 S 135th St, Omaha, NE 68138, USA*****41.170387,-96.125451
+1280 North Ave, Plainfield, NJ 07062, USA*****40.632370,-74.399339
+88 Railroad Ave, Albany, NY 12205, USA*****42.698467,-73.828742
+2230 Elmwood Ave, Buffalo, NY 14216, USA*****42.957787,-78.878888
+95 Mt Read Blvd, Rochester, NY 14611, USA*****43.152395,-77.660897
+4766 Duke Dr, Mason, OH 45040, USA*****39.300803,-84.310158
+22029 70th Ave S, Kent, WA 98032, USA*****47.403992,-122.246796
+24 NE 100th Ave, Portland, OR 97220, USA*****45.523083,-122.560893
+13319 NE Whitaker Way, Portland, OR 97230, USA*****45.558296,-122.525166
+4290 Campbells Run Rd, Pittsburgh, PA 15205, USA*****40.426421,-80.114287
+4901 Cottman Ave, Philadelphia, PA 19135, USA*****40.027999,-75.032730
+429 Enos Reed Dr, Nashville, TN 37210, USA*****36.138915,-86.745802
+Whitaker Way N, Georgia 31324, USA*****31.920954,-81.299081
+22029 70th Ave S, Kent, WA 98032, USA*****47.403992,-122.246796
+201 SW 34th St, Renton, WA 98057, USA*****47.448758,-122.221053
+4425 Harbor Country Dr, Gig Harbor, WA 98335, USA*****47.298818,-122.573811
+100th St SW, Lakewood, WA 98499, USA*****47.166628,-122.506650
+3194 Market St, Green Bay, WI 54304, USA*****44.462435,-88.086489

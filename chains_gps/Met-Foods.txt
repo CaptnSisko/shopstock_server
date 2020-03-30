@@ -1,0 +1,38 @@
+1111 S Orange Ave, Newark, NJ 07106, USA*****40.745847,-74.234898
+503 West Side Ave, Jersey City, NJ 07304, USA*****40.718252,-74.084152
+W 37th St, New York, NY 10001, USA*****40.755026,-73.994287
+251 Mulberry St, New York, NY 10012, USA*****40.723227,-73.996152
+1316 Amsterdam Ave, New York, NY 10027, USA*****40.812357,-73.957336
+1177 Hylan Blvd, Staten Island, NY 10305, USA*****40.598726,-74.082287
+250 Willis Ave, The Bronx, NY 10454, USA*****40.809194,-73.922612
+277 E 198th St, The Bronx, NY 10458, USA*****40.868808,-73.888296
+3734 White Plains Rd, The Bronx, NY 10467, USA*****40.882348,-73.863087
+125 New Main St, Yonkers, NY 10701, USA*****40.933143,-73.896874
+430 Pelham Rd, New Rochelle, NY 10805, USA*****40.895456,-73.779088
+210 Rte 9W, Haverstraw, NY 10927, USA*****41.200031,-73.982028
+25004 Jericho Turnpike, Bellerose, NY 11001, USA*****40.726341,-73.715544
+3367 Hillside Avenue, New Hyde Park, NY 11040, USA*****40.753542,-73.658680
+197 Smith St, Brooklyn, NY 11201, USA*****40.684894,-73.991410
+1086 Brooklyn Ave, Brooklyn, NY 11203, USA*****40.647319,-73.943789
+Lafayette Walk, Brooklyn, NY 11209, USA*****40.617363,-74.031754
+7918 3rd Ave, Brooklyn, NY 11209, USA*****40.628236,-74.029422
+739 Nostrand Ave, Brooklyn, NY 11216, USA*****40.672078,-73.950057
+4030 18th Ave, Brooklyn, NY 11218, USA*****40.632418,-73.974173
+5817 5th Ave, Brooklyn, NY 11220, USA*****40.640166,-74.015185
+830 Lafayette Ave, Brooklyn, NY 11221, USA*****40.691063,-73.939381
+131 Driggs Ave, Brooklyn, NY 11222, USA*****40.722889,-73.943789
+116 Avenue U, Brooklyn, NY 11223, USA*****40.595929,-73.979835
+1610 Cortelyou Rd, Brooklyn, NY 11226, USA*****40.641522,-73.963122
+1630 E 15th St, Brooklyn, NY 11229, USA*****40.609563,-73.958716
+1910 Kings Hwy, Brooklyn, NY 11229, USA*****40.610236,-73.954291
+486 Henry St, Brooklyn, NY 11231, USA*****40.684711,-73.999396
+991 Fulton St #1, Brooklyn, NY 11238, USA*****40.682877,-73.963236
+632 Vanderbilt Ave, Brooklyn, NY 11238, USA*****40.677286,-73.969397
+41-62 Bowne St, Queens, NY 11355, USA*****40.757629,-73.823113
+45-18 Little Neck Pkwy, Flushing, NY 11362, USA*****40.770215,-73.734862
+94-06 63rd Dr, Queens, NY 11374, USA*****40.728831,-73.862814
+199-11 Hollis Ave, Jamaica, NY 11412, USA*****40.706372,-73.758215
+102-02 101st Ave, Jamaica, NY 11416, USA*****40.685554,-73.840467
+7720 Jamaica Ave, Woodhaven, NY 11421, USA*****40.691615,-73.864004
+173-09 Jamaica Ave, Jamaica, NY 11432, USA*****40.708146,-73.786614
+373 Merrick Ave, Merrick, NY 11566, USA*****40.675903,-73.557434

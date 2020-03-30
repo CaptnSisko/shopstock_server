@@ -1,0 +1,35 @@
+1961 Main St, Louisville, AL 36048, USA*****31.783364,-85.556094
+7624 Colonel Glenn Rd, Little Rock, AR 72204, USA*****34.714547,-92.361303
+646 E St, Chula Vista, CA 91910, USA*****32.640037,-117.095681
+5075 Federal Blvd, San Diego, CA 92102, USA*****32.720706,-117.085384
+4105 US-1, Vero Beach, FL 32967, USA*****27.668036,-80.406469
+4100 E 1st St, Blue Ridge, GA 30513, USA*****34.872661,-84.312321
+83 E 1st St, Dawsonville, GA 30534, USA*****34.420960,-84.118194
+23 Toccoa Ave, McCaysville, GA 30555, USA*****34.988035,-84.369361
+9 Marion St, Reynolds, GA 31076, USA*****32.557927,-84.097192
+200 State St, Guthrie Center, IA 50115, USA*****41.676534,-94.505331
+210 E Maple St, Hubbard, IA 50122, USA*****42.305276,-93.298217
+607 S Division St, Stuart, IA 50250, USA*****41.497842,-94.317600
+119 N Main St, Conrad, IA 50621, USA*****42.225178,-92.874974
+310 2nd St, Gladbrook, IA 50635, USA*****42.187352,-92.716214
+Gladbrook, IA 50635, USA*****42.187765,-92.715199
+2834 Ansborough Ave, Waterloo, IA 50701, USA*****42.471588,-92.377274
+1010 E Mitchell Ave, Waterloo, IA 50702, USA*****42.476442,-92.342869
+Schaller, IA 51053, USA*****42.499705,-95.293052
+425 Boise Ave, Grand View, ID 83624, USA*****42.988327,-116.096461
+135 N Central St, Gilman, IL 60938, USA*****40.767792,-87.992569
+1060 E Stanford Ave, Springfield, IL 62703, USA*****39.766574,-89.641364
+1106 Washington St, Ellis, KS 67637, USA*****38.935334,-99.560620
+201 Carter Rd, Owensboro, KY 42301, USA*****37.773446,-87.147043
+1731 Scherm Rd, Owensboro, KY 42301, USA*****37.742011,-87.130054
+3406 Wandering Ln, Owensboro, KY 42301, USA*****37.779428,-87.153852
+900 E 25th St, Owensboro, KY 42303, USA*****37.751545,-87.099177
+104 Main St, East New Market, MD 21631, USA*****38.610071,-75.952765
+5579 MN-210, Cromwell, MN 55726, USA*****46.679858,-92.881864
+130 S Main St, Canton, MN 55922, USA*****43.528601,-91.929273
+Mabel, MN 55954, USA*****43.520661,-91.766053
+205 N Hill Ave, Ogilvie, MN 56358, USA*****45.830502,-93.426105
+309 Millennium Rd, Aulander, NC 27805, USA*****36.244931,-77.099991
+362 Eichybush Rd, Kinderhook, NY 12106, USA*****42.402211,-73.732497
+256 N 1st St, Drain, OR 97435, USA*****43.663381,-123.315147
+171 N Worcester St, Spring Green, WI 53588, USA*****43.175832,-90.066283

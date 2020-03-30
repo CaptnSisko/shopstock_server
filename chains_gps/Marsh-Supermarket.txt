@@ -1,0 +1,93 @@
+2940 Broadway St, Anderson, IN 46012, USA*****40.148645,-85.672623
+831 E 53rd St, Anderson, IN 46013, USA*****40.060658,-85.669097
+2140 E 116th St, Carmel, IN 46032, USA*****39.958560,-86.117763
+1960 E Greyhound Pass, Carmel, IN 46033, USA*****40.003600,-86.124216
+1515 IN-37, Elwood, IN 46036, USA*****40.264310,-85.817123
+8766 E 96th St, Fishers, IN 46037, USA*****39.928867,-86.015508
+12520 E 116th St, Fishers, IN 46037, USA*****39.959260,-85.940196
+7400 Fishers Station Dr, Fishers, IN 46038, USA*****39.958740,-86.038368
+8980 Technology Dr, Fishers, IN 46038, USA*****39.961523,-86.011320
+2021 E Wabash St, Frankfort, IN 46041, USA*****40.277681,-86.488520
+1930 Conner St, Noblesville, IN 46060, USA*****40.046918,-86.000277
+14450 Mundy Dr, Noblesville, IN 46060, USA*****39.998594,-86.001807
+17901 River Rd, Noblesville, IN 46062, USA*****40.048426,-86.029399
+3015 US-30, Grand Island, NE 68803, USA*****40.915166,-98.370747
+3015 E US Hwy 36, Avon, IN 46123, USA*****39.762726,-86.359288
+208 E South St, Tipton, IN 46072, USA*****40.277782,-86.038759
+899 E Jefferson St, Tipton, IN 46072, USA*****40.281948,-86.027861
+100 E Washington St, Tipton, IN 46072, USA*****40.283552,-86.041263
+10679 N Michigan Rd, Zionsville, IN 46077, USA*****39.943277,-86.236651
+5 Boone Village, Zionsville, IN 46077, USA*****39.950899,-86.276720
+5 Boone Village, Zionsville, IN 46077, USA*****39.950899,-86.276720
+1815 Albany St, Beech Grove, IN 46107, USA*****39.722732,-86.103879
+843 E Main St, Brownsburg, IN 46112, USA*****39.836940,-86.384394
+1172 N Main St, Franklin, IN 46131, USA*****39.492926,-86.063164
+1033 Indianapolis Rd, Greencastle, IN 46135, USA*****39.646603,-86.838446
+1240 N State St, Greenfield, IN 46140, USA*****39.800860,-85.771631
+2904 S State Rd 135, Greenwood, IN 46143, USA*****39.574608,-86.159835
+285 Morton Ave, Martinsville, IN 46151, USA*****39.416426,-86.431432
+435 Town Center S, Mooresville, IN 46158, USA*****39.618111,-86.352045
+2002 Stafford Rd, Plainfield, IN 46168, USA*****39.698565,-86.373494
+1015 IN-44, Shelbyville, IN 46176, USA*****39.519713,-85.760872
+2226 N Webster Ave, Indianapolis, IN 46219, USA*****39.798916,-86.063653
+6243 E Washington St, Indianapolis, IN 46219, USA*****39.770547,-86.059094
+2135 N Post Rd, Indianapolis, IN 46219, USA*****39.797549,-86.007071
+333 S Franklin Rd, Indianapolis, IN 46219, USA*****39.766341,-86.025661
+2302 E 53rd St, Indianapolis, IN 46220, USA*****39.849548,-86.123963
+2350 Broad Ripple Ave, Indianapolis, IN 46220, USA*****39.869710,-86.123222
+3633 Kentucky Ave, Indianapolis, IN 46221, USA*****39.712282,-86.240190
+35 N Lynhurst Dr, Indianapolis, IN 46224, USA*****39.766667,-86.248695
+6121 Crawfordsville Rd, Speedway, IN 46224, USA*****39.798306,-86.267360
+5104 N Franklin Rd, Lawrence, IN 46226, USA*****39.846587,-86.028319
+10901 E Washington St, Indianapolis, IN 46229, USA*****39.773595,-85.972120
+11625 Fox Rd, Indianapolis, IN 46236, USA*****39.900598,-85.961028
+5249 Thompson Rd, Indianapolis, IN 46237, USA*****39.694594,-86.081394
+1440 E 86th St, Indianapolis, IN 46240, USA*****39.914065,-86.135537
+5151 E 82nd St, Indianapolis, IN 46250, USA*****39.903869,-86.082460
+7481 Shadeland Ave, Indianapolis, IN 46250, USA*****39.890043,-86.043559
+5624 Georgetown Rd, Indianapolis, IN 46254, USA*****39.853939,-86.242550
+6915 Holly Springs Pl, Indianapolis, IN 46254, USA*****39.845658,-86.281904
+6965 W 38th St, Indianapolis, IN 46254, USA*****39.822518,-86.282317
+9800 Crosspoint Blvd, Indianapolis, IN 46256, USA*****39.932686,-86.027043
+1435 W 86th St, Indianapolis, IN 46260, USA*****39.911116,-86.185677
+7099 Michigan Rd, Indianapolis, IN 46268, USA*****39.884524,-86.208617
+5830 W 86th St, Indianapolis, IN 46278, USA*****39.913007,-86.264868
+500 S Buffalo St, Warsaw, IN 46580, USA*****41.234014,-85.858060
+220 S Jefferson St, Huntington, IN 46750, USA*****40.878577,-85.494669
+208 E Southway Blvd, Kokomo, IN 46902, USA*****40.445117,-86.129410
+315 14th St, Logansport, IN 46947, USA*****40.755523,-86.352963
+824 N 3rd St, Logansport, IN 46947, USA*****40.758566,-86.369274
+1013 N Forest Ave, Marion, IN 46952, USA*****40.567264,-85.677648
+4512 S Adams St, Marion, IN 46953, USA*****40.515311,-85.655529
+3075 25th St, Columbus, IN 47203, USA*****39.223238,-85.886401
+736 W Main St, Greensburg, IN 47240, USA*****39.337207,-85.495072
+1305 N Lincoln St, Greensburg, IN 47240, USA*****39.349449,-85.479216
+1800 S Burlington Dr, Muncie, IN 47302, USA*****40.179326,-85.345762
+3705 S Madison St, Muncie, IN 47302, USA*****40.157697,-85.382188
+1301 E McGalliard Rd, Muncie, IN 47303, USA*****40.218013,-85.371913
+715 S Tillotson Ave, Muncie, IN 47304, USA*****40.187769,-85.421597
+3910 W Bethel Ave, Muncie, IN 47304, USA*****40.221611,-85.432480
+1500 W McGalliard Rd, Muncie, IN 47304, USA*****40.220349,-85.404584
+Roberts Park, 2900 Park Rd, Connersville, IN 47331, USA*****39.668856,-85.125873
+1711 N Walnut St, Hartford City, IN 47348, USA*****40.465642,-85.371187
+2915 S 14th St, New Castle, IN 47362, USA*****39.904007,-85.361019
+501 National Rd W, Richmond, IN 47374, USA*****39.825887,-84.908487
+9510 W Depot St, Yorktown, IN 47396, USA*****40.169347,-85.498755
+9511 W Depot St, Yorktown, IN 47396, USA*****40.167998,-85.497518
+2424 S Walnut St, Bloomington, IN 47401, USA*****39.137879,-86.531703
+3600 W 3rd St, Bloomington, IN 47404, USA*****39.166201,-86.579763
+1825 N Kinser Pike, Bloomington, IN 47404, USA*****39.187479,-86.539910
+3516 W 3rd St, Bloomington, IN 47404, USA*****39.165871,-86.579497
+123 Kingston Dr S, Bloomington, IN 47408, USA*****39.165930,-86.492232
+3825 IN-26, West Lafayette, IN 47906, USA*****40.444256,-86.978236
+2250 Teal Rd, Lafayette, IN 47905, USA*****40.396441,-86.870099
+2410 N Salisbury St, West Lafayette, IN 47906, USA*****40.451992,-86.913806
+1730 S Erie Blvd, Hamilton, OH 45011, USA*****39.379375,-84.549813
+1500 Plaza Dr, Hamilton, OH 45013, USA*****39.407059,-84.610879
+1204 Main St, Hamilton, OH 45013, USA*****39.417961,-84.585168
+621 N University Blvd, Middletown, OH 45042, USA*****39.519931,-84.381232
+693 Northland Blvd, Cincinnati, OH 45240, USA*****39.279774,-84.500029
+11865 Hamilton Ave, Cincinnati, OH 45231, USA*****39.299175,-84.564972
+223 Aukerman St, Eaton, OH 45320, USA*****39.746124,-84.630499
+982 N Market St, Troy, OH 45373, USA*****40.051253,-84.194335
+1107 S Shannon St, Van Wert, OH 45891, USA*****40.857908,-84.599302

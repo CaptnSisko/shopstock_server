@@ -1,0 +1,9 @@
+280 N 3rd St, Gadsden, AL 35901, USA*****34.017129,-85.996688
+1615 Quintard Ave, Anniston, AL 36207, USA*****33.665618,-85.825425
+2950 Delta Fair Blvd, Antioch, CA 94509, USA*****37.999580,-121.836867
+4015 Northside Dr, Macon, GA 31210, USA*****32.900535,-83.704886
+2017 N Slappey Blvd, Albany, GA 31701, USA*****31.603816,-84.177431
+800 E Kentucky St, Louisville, KY 40204, USA*****38.236670,-85.740585
+530 W Hill St #375, Louisville, KY 40208, USA*****38.226131,-85.764962
+2110 N Frontage Rd, Meridian, MS 39301, USA*****32.354803,-88.690329
+6116 University Pkwy, Winston-Salem, NC 27105, USA*****36.192932,-80.279073

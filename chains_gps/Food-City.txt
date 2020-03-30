@@ -1,0 +1,32 @@
+1629, 3202 E Greenway Rd, Phoenix, AZ 85032, USA*****33.627589,-112.011367
+6544 W Thomas Rd, Phoenix, AZ 85033, USA*****33.481509,-112.201238
+1005 N Arizona Ave, Chandler, AZ 85225, USA*****33.321598,-111.839438
+2600 W 16th St, Yuma, AZ 85364, USA*****32.699879,-114.651867
+900 W Rex Allen Dr, Willcox, AZ 85643, USA*****32.264058,-109.836442
+12100 N Dove Mountain Blvd, Marana, AZ 85658, USA*****32.426662,-111.078216
+2000 E Irvington Rd, Tucson, AZ 85714, USA*****32.161454,-110.941908
+1203 W Hwy 50, Clermont, FL 34711, USA*****28.552948,-81.777099
+215 Cassidy Blvd, Pikeville, KY 41501, USA*****37.504182,-82.537270
+28093 US-119, Belfry, KY 41514, USA*****37.653781,-82.270466
+250 Avenue A, Turners Falls, MA 01376, USA*****42.605108,-72.561427
+15 Depot St, Bridgton, ME 04009, USA*****44.053148,-70.706959
+65 East Ave, Lewiston, ME 04240, USA*****44.088556,-70.199439
+583 Lisbon St, Lisbon Falls, ME 04252, USA*****44.003962,-70.073346
+93 Main St, Livermore Falls, ME 04254, USA*****44.476663,-70.192843
+200 Lower St, Turner, ME 04282, USA*****44.230261,-70.244366
+810 S Main St #101, High Point, NC 27260, USA*****35.946978,-80.004150
+705 Columbus Ave, New York, NY 10025, USA*****40.791377,-73.967621
+5 Halstead Ave, Harrison, NY 10528, USA*****40.961896,-73.723435
+7414 3rd Ave, Brooklyn, NY 11209, USA*****40.631762,-74.027947
+1829 Germantown St, Dayton, OH 45417, USA*****39.744539,-84.224825
+1911 Moreland Dr, Kingsport, TN 37663, USA*****36.489446,-82.508123
+1219 East Pkwy, Gatlinburg, TN 37738, USA*****35.726393,-83.480525
+515 Asheville Hwy, Greeneville, TN 37743, USA*****36.146936,-82.845676
+New Tazewell, TN 37824, USA*****36.440000,-83.600000
+115 S Illinois Ave, Oak Ridge, TN 37830, USA*****36.010007,-84.265646
+2712 Loves Creek, Knoxville, TN 37924, USA*****36.036020,-83.870072
+1180 West Ave, Crossville, TN 38555, USA*****35.956317,-85.037295
+40 Chase St, Clintwood, VA 24228, USA*****37.147774,-82.457831
+930 E Morgan Ave, Pennington Gap, VA 24277, USA*****36.753444,-83.037964
+910 N Main St, Marion, VA 24354, USA*****36.840725,-81.505635
+101 Lake St, St Albans City, VT 05478, USA*****44.812059,-73.087217

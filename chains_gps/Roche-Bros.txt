@@ -1,0 +1,16 @@
+1100 Union St, Westborough, MA 01581, USA*****42.269833,-71.608559
+102 Nonset Path, Acton, MA 01720, USA*****42.520914,-71.423370
+387 Massachusetts Ave, Acton, MA 01720, USA*****42.475406,-71.450101
+Brant Rock, MA 02020, USA*****42.091236,-70.646706
+605 Plain St, Marshfield, MA 02050, USA*****42.104113,-70.740822
+6 Milliston Rd, Millis, MA 02054, USA*****42.166812,-71.354325
+338 Washington St, Westwood, MA 02090, USA*****42.217568,-71.187832
+1800 Centre St, West Roxbury, MA 02132, USA*****42.286197,-71.152000
+101 Falls Blvd #3, Quincy, MA 02169, USA*****42.238079,-70.983843
+25 Washington St, North Easton, MA 02356, USA*****42.088063,-71.094791
+Babson Park, MA 02457, USA*****42.301553,-71.266966
+70 Hastings St, Wellesley, MA 02481, USA*****42.314059,-71.249510
+184 Linden St, Wellesley, MA 02482, USA*****42.301400,-71.292551
+377 Chestnut St, Needham, MA 02492, USA*****42.273817,-71.238697
+11 Commercial St, Mashpee, MA 02649, USA*****41.612543,-70.488143
+MA-140, Massachusetts, USA*****42.126959,-71.517985

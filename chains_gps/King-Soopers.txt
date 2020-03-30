@@ -1,0 +1,118 @@
+18605 Green Valley Ranch Blvd, Denver, CO 80249, USA*****39.785275,-104.770143
+9731 W 58th Ave, Arvada, CO 80002, USA*****39.803205,-105.106515
+10351 Federal Blvd, Westminster, CO 80260, USA*****39.883386,-105.027798
+8031 Wadsworth Blvd, Arvada, CO 80003, USA*****39.843431,-105.083872
+6350 Sheridan Boulevard, Arvada, CO 80003, USA*****39.811072,-105.051541
+8055 Sheridan Boulevard, Arvada, CO 80003, USA*****39.842732,-105.056079
+12350 W 64th Ave, Arvada, CO 80004, USA*****39.811284,-105.136491
+15200 W 64th Ave, Arvada, CO 80007, USA*****39.810584,-105.171859
+15109 E Colfax Ave, Aurora, CO 80011, USA*****39.740458,-104.812829
+655 Peoria St, Aurora, CO 80011, USA*****39.726498,-104.849484
+1983 Tower Rd, Aurora, CO 80011, USA*****39.747184,-104.772587
+15250 E Mississippi Ave, Aurora, CO 80012, USA*****39.695114,-104.810898
+1155 S Havana St, Aurora, CO 80012, USA*****39.695449,-104.867439
+18211 E Hampden Ave, Aurora, CO 80013, USA*****39.654917,-104.775978
+4257 S Buckley Rd, Aurora, CO 80013, USA*****39.639770,-104.793262
+4271 S Buckley Rd, Aurora, CO 80013, USA*****39.639388,-104.793483
+17000 E Iliff Ave, Aurora, CO 80013, USA*****39.672568,-104.789696
+3190 S Parker Rd, Aurora, CO 80014, USA*****39.659487,-104.843891
+19711 E Smoky Hill Rd, Centennial, CO 80015, USA*****39.615211,-104.758471
+6412 S Parker Rd, Parker, CO 80134, USA*****39.600207,-104.802846
+12167 Sheridan Boulevard, Broomfield, CO 80020, USA*****39.917100,-105.055559
+5105 W 120th Ave, Broomfield, CO 80020, USA*****39.916356,-105.051678
+1150 US-287, Broomfield, CO 80020, USA*****39.933200,-105.088074
+9983 Wadsworth Pkwy, Westminster, CO 80021, USA*****39.876509,-105.098269
+4850 E 62nd Ave, Commerce City, CO 80022, USA*****39.808740,-104.930672
+6040 E 64th Ave, Commerce City, CO 80022, USA*****39.811978,-104.919174
+1375 E South Boulder Rd, Louisville, CO 80027, USA*****39.988326,-105.124251
+3400 Youngfield St, Wheat Ridge, CO 80033, USA*****39.764492,-105.140727
+1045 S 1st St, Bennett, CO 80102, USA*****39.742945,-104.435993
+750 S Ridge Rd, Castle Rock, CO 80104, USA*****39.352722,-104.814463
+100 Founders Pkwy, Castle Rock, CO 80104, USA*****39.411599,-104.864616
+7284 Lagae Rd, Castle Rock, CO 80108, USA*****39.468550,-104.879577
+5050 S Federal Blvd, Englewood, CO 80110, USA*****39.625432,-105.024261
+101 Englewood Pkwy, Englewood, CO 80110, USA*****39.655759,-104.989452
+6000 S Holly St, Greenwood Village, CO 80111, USA*****39.607639,-104.920817
+750 Woodridge Rd, Franktown, CO 80116, USA*****39.349954,-104.671001
+100 W Littleton Blvd, Littleton, CO 80120, USA*****39.612162,-104.989817
+7901 S Broadway, Littleton, CO 80122, USA*****39.572544,-104.990913
+5050 E Arapahoe Rd, Centennial, CO 80122, USA*****39.594363,-104.928756
+8200 S Holly St, Centennial, CO 80122, USA*****39.567523,-104.920817
+7575 S University Blvd, Centennial, CO 80122, USA*****39.578496,-104.961509
+9820 W Belleview Ave, Littleton, CO 80123, USA*****39.623139,-105.107441
+9551 S University Blvd, Littleton, CO 80126, USA*****39.542251,-104.944270
+4000 Red Cedar Dr, Highlands Ranch, CO 80126, USA*****39.525166,-104.940163
+11747 W Ken Caryl Ave, Littleton, CO 80127, USA*****39.582162,-105.130829
+4555 S Quail St, Littleton, CO 80127, USA*****39.634393,-105.124309
+6760 S Pierce St, Littleton, CO 80128, USA*****39.593498,-105.072090
+8126 S Wadsworth Blvd Unit A, Littleton, CO 80128, USA*****39.568493,-105.081498
+2205 W Wildcat Reserve Pkwy, Highlands Ranch, CO 80129, USA*****39.536537,-105.013581
+8673 S Quebec St, Highlands Ranch, CO 80130, USA*****39.558917,-104.907802
+12959 S Parker Rd, Parker, CO 80134, USA*****39.479774,-104.760697
+17031 Lincoln Ave, Parker, CO 80134, USA*****39.536030,-104.790656
+1331 Speer Blvd, Denver, CO 80204, USA*****39.737564,-104.997851
+2810 Quebec St, Denver, CO 80207, USA*****39.756536,-104.901844
+3817 Sheridan Boulevard, Wheat Ridge, CO 80212, USA*****39.770325,-105.053724
+5301 W 38th Ave, Wheat Ridge, CO 80212, USA*****39.770193,-105.054267
+1725 Sheridan Boulevard #1, Edgewater, CO 80214, USA*****39.744904,-105.056198
+1555 Quail St, Lakewood, CO 80215, USA*****39.742115,-105.125347
+2727 W Evans Ave, Denver, CO 80219, USA*****39.679387,-105.021075
+5125 W Florida Ave, Denver, CO 80219, USA*****39.690236,-105.052253
+1355 Krameria St, Denver, CO 80220, USA*****39.737671,-104.917697
+2750 S Colorado Blvd, Denver, CO 80222, USA*****39.666764,-104.936878
+6470 E Hampden Ave, Denver, CO 80222, USA*****39.651835,-104.914156
+2223 S Monaco Pkwy, Denver, CO 80222, USA*****39.677009,-104.913307
+55 Tejon St, Denver, CO 80223, USA*****39.716543,-105.011319
+65 Tejon St, Denver, CO 80223, USA*****39.716281,-105.012385
+65 Yuma St, Denver, CO 80223, USA*****39.717198,-105.016110
+60 Yuma St, Denver, CO 80223, USA*****39.717845,-105.014193
+890 S Monaco Pkwy, Denver, CO 80224, USA*****39.701018,-104.911327
+3100 S Sheridan Blvd, Denver, CO 80227, USA*****39.655405,-105.049509
+1927 S Wadsworth Blvd, Lakewood, CO 80227, USA*****39.681301,-105.083233
+12403 W Alameda Dr, Lakewood, CO 80228, USA*****39.706957,-105.138349
+12043 W Alameda Pkwy, Lakewood, CO 80228, USA*****39.708633,-105.137317
+1545 S Kipling Pkwy, Lakewood, CO 80232, USA*****39.690597,-105.119500
+3801 E 120th Ave, Thornton, CO 80233, USA*****39.914673,-104.943540
+750 E 104th Ave Unit A, Thornton, CO 80233, USA*****39.883755,-104.975944
+10251 E 51st Ave, Denver, CO 80239, USA*****39.792294,-104.869907
+825 S Colorado Blvd, Denver, CO 80246, USA*****39.702184,-104.941532
+10350 Federal Blvd, Federal Heights, CO 80260, USA*****39.884065,-105.022833
+1575 W 84th Ave, Federal Heights, CO 80260, USA*****39.850391,-105.004678
+1650 30th St, Boulder, CO 80301, USA*****40.015786,-105.251846
+6550 Lookout Rd, Boulder, CO 80301, USA*****40.072109,-105.201042
+17171 S Golden Rd, Golden, CO 80401, USA*****39.739405,-105.192972
+25637 Conifer Rd, Conifer, CO 80433, USA*****39.544201,-105.292076
+995 S Hover St, Longmont, CO 80501, USA*****40.150503,-105.134119
+2255 Main St #101, Longmont, CO 80501, USA*****40.197920,-105.103000
+1611 Pace St, Longmont, CO 80504, USA*****40.186645,-105.076063
+6110 Firestone Blvd, Longmont, CO 80504, USA*****40.159074,-104.939433
+2100 35th Ave, Greeley, CO 80634, USA*****40.404621,-104.733189
+Erie, CO 80514, USA*****40.074787,-104.950567
+1015 S Taft Hill Rd, Fort Collins, CO 80521, USA*****40.573869,-105.116942
+4503 John F Kennedy Pkwy, Fort Collins, CO 80525, USA*****40.524825,-105.073658
+2602 S Timberline Rd, Fort Collins, CO 80525, USA*****40.551965,-105.037917
+2325 S College Ave, Fort Collins, CO 80525, USA*****40.558171,-105.078575
+1000 W Horsetooth Rd B4, Fort Collins, CO 80526, USA*****40.538913,-105.094831
+1275 Eagle Dr, Loveland, CO 80537, USA*****40.379795,-105.099676
+253 E 29th St, Loveland, CO 80538, USA*****40.424523,-105.075423
+1520 Main St, Windsor, CO 80550, USA*****40.481425,-104.927752
+500 E Bromley Ln Unit A, Brighton, CO 80601, USA*****39.970210,-104.816096
+13700 Colorado Blvd, Brighton, CO 80602, USA*****39.944581,-104.938149
+2930 11th Ave, Greeley, CO 80631, USA*****40.389515,-104.696806
+3001 8th Ave, Evans, CO 80620, USA*****40.388388,-104.691895
+1028 5th Ave, Greeley, CO 80631, USA*****40.421583,-104.685099
+2100 35th Ave, Greeley, CO 80634, USA*****40.404774,-104.733044
+Hartsel Dr, Colorado Springs, CO 80920, USA*****38.938905,-104.759357
+4562 Capps Rd, Air Force Academy, CO 80840, USA*****38.988464,-104.852571
+US AIR FORCE, CO 80840, USA*****38.994425,-104.857137
+815 Cheyenne Meadows Rd, Colorado Springs, CO 80906, USA*****38.775992,-104.811949
+1750 W Uintah St, Colorado Springs, CO 80904, USA*****38.849022,-104.847104
+815 Cheyenne Meadows Rd, Colorado Springs, CO 80906, USA*****38.775992,-104.811949
+3250 Centennial Blvd, Colorado Springs, CO 80907, USA*****38.877227,-104.848928
+665 N Murray Blvd, Colorado Springs, CO 80915, USA*****38.843103,-104.746807
+2910 S Academy Blvd, Colorado Springs, CO 80911, USA*****38.790461,-104.760662
+3570 Hartsel Dr, Colorado Springs, CO 80920, USA*****38.940095,-104.760298
+6030 Stetson Hills Blvd, Colorado Springs, CO 80923, USA*****38.912282,-104.715820
+Center Court near JCPenney, 3429 Dillon Dr, Pueblo, CO 81008, USA*****38.302778,-104.608611
+3050 W Northern Ave, Pueblo, CO 81005, USA*****38.242773,-104.645482
+3702 Dell Range Blvd, Cheyenne, WY 82009, USA*****41.160743,-104.764591

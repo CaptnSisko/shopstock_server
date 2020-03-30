@@ -1,0 +1,220 @@
+1307 N 2nd St, Clinton, IA 52732, USA*****41.858843,-90.184182
+966 Illinois Rte 59, Antioch, IL 60002, USA*****42.476962,-88.106102
+38838 N Sheridan Rd, Antioch, IL 60002, USA*****42.427520,-88.140014
+440 E Rand Rd, Arlington Heights, IL 60004, USA*****42.111859,-87.976813
+122 N Vail Ave, Arlington Heights, IL 60005, USA*****42.084283,-87.985460
+1860 S Arlington Heights Rd, Arlington Heights, IL 60005, USA*****42.052339,-87.983853
+3000 Kirchoff Rd, Rolling Meadows, IL 60008, USA*****42.078885,-88.017199
+696 Northwest Hwy, Cary, IL 60013, USA*****42.218482,-88.255776
+6140 Northwest Hwy, Crystal Lake, IL 60014, USA*****42.228737,-88.318312
+16 S Waukegan Rd, Deerfield, IL 60015, USA*****42.151799,-87.837363
+819 Elmhurst Rd, Des Plaines, IL 60016, USA*****42.036750,-87.939004
+1500 Lee St, Des Plaines, IL 60018, USA*****42.026019,-87.895625
+1470 Lee St, Des Plaines, IL 60016, USA*****42.026464,-87.895644
+47 N Pistakee Lake Rd, Fox Lake, IL 60020, USA*****42.400006,-88.184640
+1350 US-12, Ingleside, IL 60041, USA*****42.366569,-88.172586
+885 E Belvidere Rd, Grayslake, IL 60030, USA*****42.335647,-88.026375
+6509 IL-132, Gurnee, IL 60031, USA*****42.371326,-87.920272
+6509 Grand Ave, Gurnee, IL 60031, USA*****42.382432,-87.965847
+1600 Deerfield Rd, Highland Park, IL 60035, USA*****42.177550,-87.821661
+892 N Western Ave, Lake Forest, IL 60045, USA*****42.256020,-87.841240
+890 N Western Ave, Lake Forest, IL 60045, USA*****42.255679,-87.841699
+2 Fox Hunt Trail, Hawthorn Woods, IL 60047, USA*****42.237226,-88.108277
+485 Ela Rd, Lake Zurich, IL 60047, USA*****42.189322,-88.103355
+333 E Euclid Ave, Mt Prospect, IL 60056, USA*****42.087255,-87.930876
+1501 S Lake St, Mundelein, IL 60060, USA*****42.243863,-87.993033
+45 S Plum Grove Rd, Palatine, IL 60067, USA*****42.108986,-88.042880
+481 Busse Hwy, Park Ridge, IL 60068, USA*****42.015698,-87.839473
+413 W Talcott Rd #1a, Park Ridge, IL 60068, USA*****41.995417,-87.828610
+900 E Rollins Rd, Round Lake, IL 60073, USA*****42.381947,-88.060604
+423 E Dundee Rd, Palatine, IL 60074, USA*****42.137874,-88.032689
+9449 Skokie Blvd, Skokie, IL 60077, USA*****42.052853,-87.744807
+2401 US-12, Spring Grove, IL 60081, USA*****42.435571,-88.243837
+922 N Green Bay Rd, Waukegan, IL 60085, USA*****42.374015,-87.882688
+3124 N Lewis Ave, Waukegan, IL 60087, USA*****42.409210,-87.857124
+79 McHenry Rd, Buffalo Grove, IL 60089, USA*****42.155055,-87.957832
+411 Green Bay Rd, Wilmette, IL 60091, USA*****42.072476,-87.706286
+140 W Lake St, Addison, IL 60101, USA*****41.934941,-87.992498
+103 S Randall Rd, Algonquin, IL 60102, USA*****42.174675,-88.332889
+123 E Stearns Rd, Bartlett, IL 60103, USA*****41.972838,-88.182984
+217 Irving Park Rd, Streamwood, IL 60107, USA*****42.011341,-88.178070
+350 Lake Marian Rd, Carpentersville, IL 60110, USA*****42.122274,-88.259730
+1322 Sycamore Rd, DeKalb, IL 60115, USA*****41.942717,-88.736682
+1320 Sycamore Rd, DeKalb, IL 60115, USA*****41.942637,-88.736619
+1250 W Main St, West Dundee, IL 60118, USA*****42.100404,-88.300085
+800 N Main St, Elburn, IL 60119, USA*****41.901179,-88.474598
+1040 Summit St, Elgin, IL 60120, USA*****42.048073,-88.252659
+1040 Summit St, Elgin, IL 60120, USA*****42.048073,-88.252659
+1660 Larkin Ave, Elgin, IL 60123, USA*****42.034836,-88.319224
+12N260 Hilltop Rd, Elgin, IL 60124, USA*****42.047053,-88.343173
+153 Schiller St, Elmhurst, IL 60126, USA*****41.901646,-87.937004
+Franklin Park, IL 60131, USA*****41.934854,-87.879523
+10203 Grand Ave, Franklin Park, IL 60131, USA*****41.929443,-87.880400
+599 Roosevelt Rd, Lombard, IL 60148, USA*****41.858540,-88.062742
+2164 Bloomingdale Rd, Glendale Heights, IL 60139, USA*****41.938248,-88.081985
+2164 Bloomingdale Rd, Glendale Heights, IL 60139, USA*****41.938248,-88.081985
+13200 Village Green Dr, Huntley, IL 60142, USA*****42.136520,-88.429029
+1177 S Main St, Lombard, IL 60148, USA*****41.861147,-88.015364
+2128 S Mannheim Rd, Westchester, IL 60154, USA*****41.849776,-87.882130
+1955 W North Ave, Melrose Park, IL 60160, USA*****41.908113,-87.857697
+800 W North Ave, Melrose Park, IL 60160, USA*****41.907053,-87.842850
+1069 N Roselle Rd, Hoffman Estates, IL 60195, USA*****42.047760,-88.077709
+2073 Prairie St, St. Charles, IL 60174, USA*****41.902543,-88.337746
+652 Kirk Rd, St. Charles, IL 60174, USA*****41.924536,-88.273145
+375 Randall Rd, South Elgin, IL 60177, USA*****41.986762,-88.338733
+220 W Peace Rd, Sycamore, IL 60178, USA*****42.013833,-88.678231
+33 E St Charles Rd, Villa Park, IL 60181, USA*****41.889144,-87.977939
+177 E Roosevelt Rd, West Chicago, IL 60185, USA*****41.865852,-88.202978
+30 Danada Square W, Wheaton, IL 60189, USA*****41.831619,-88.105187
+2031 N Main St, Wheaton, IL 60187, USA*****41.886562,-88.106102
+114 E Willow Ave, Wheaton, IL 60187, USA*****41.862688,-88.105554
+750 W Army Trail Rd, Carol Stream, IL 60188, USA*****41.940382,-88.147482
+3 Irving Park Rd, Bensenville, IL 60106, USA*****41.960471,-87.954977
+343 W Irving Park Rd, Wood Dale, IL 60191, USA*****41.967139,-87.990700
+1485 Palatine Rd, Hoffman Estates, IL 60192, USA*****42.109190,-88.115866
+1022 Mercury Ct, Schaumburg, IL 60193, USA*****42.008130,-88.123857
+1151 S Roselle Rd, Schaumburg, IL 60193, USA*****42.006310,-88.078015
+1821 Linton Ct, Schaumburg, IL 60193, USA*****41.997540,-88.126975
+1630 Sherman Ave, Evanston, IL 60201, USA*****42.048171,-87.682306
+1128 Chicago Ave, Evanston, IL 60202, USA*****42.039214,-87.680765
+2485 Howard St, Evanston, IL 60202, USA*****42.020870,-87.708066
+438 Madison St, Oak Park, IL 60302, USA*****41.880175,-87.786379
+7525 Lake St, River Forest, IL 60305, USA*****41.887892,-87.813367
+2335 Parkrose Ave, Crest Hill, IL 60403, USA*****41.563804,-88.141934
+199 Brook Forest Ave, Shorewood, IL 60404, USA*****41.522731,-88.202135
+2320 Burr Oak Ave, Blue Island, IL 60406, USA*****41.663074,-87.679224
+3220 Chicago Rd, South Chicago Heights, IL 60411, USA*****41.479472,-87.638842
+1117 Leavitt Ave, Flossmoor, IL 60422, USA*****41.541808,-87.681266
+352 South La Grange Road, Frankfort, IL 60423, USA*****41.504413,-87.853051
+354 South La Grange Road, La Grange, IL 60525, USA*****41.807232,-87.869821
+3153 183rd St, Homewood, IL 60430, USA*****41.555894,-87.693165
+17705 Halsted St, Homewood, IL 60430, USA*****41.567842,-87.633858
+3158 183rd St, Homewood, IL 60430, USA*****41.557611,-87.693740
+1401 W Jefferson St, Joliet, IL 60435, USA*****41.525102,-88.115867
+1403 W Jefferson St, Joliet, IL 60435, USA*****41.525076,-88.116070
+1537 N Larkin Ave, Joliet, IL 60435, USA*****41.550888,-88.127461
+1202 State St, Lemont, IL 60439, USA*****41.655407,-88.001600
+1200 W Boughton Rd, Bolingbrook, IL 60440, USA*****41.704989,-88.124088
+126 Brookwood Ln E, Bolingbrook, IL 60440, USA*****41.698787,-88.117412
+126 E Boughton Rd, Bolingbrook, IL 60440, USA*****41.712260,-88.067413
+128 E Boughton Rd, Bolingbrook, IL 60440, USA*****41.712654,-88.067391
+183 Roberts Rd, Bolingbrook, IL 60440, USA*****41.713510,-88.065683
+16625 W 159th St, Lockport, IL 60441, USA*****41.596048,-88.024253
+20 S Weber Rd, Romeoville, IL 60446, USA*****41.623226,-88.126241
+2051 Ridge Rd, Minooka, IL 60447, USA*****41.420042,-88.272730
+1414 N Division St, Morris, IL 60450, USA*****41.372431,-88.423273
+646 Lenox St, New Lenox, IL 60451, USA*****41.533727,-87.955420
+2021 E Laraway Rd, New Lenox, IL 60451, USA*****41.485905,-87.924747
+5616 W 159th St, Oak Forest, IL 60452, USA*****41.604182,-87.757728
+8801 Ridgeland Ave, Oak Lawn, IL 60453, USA*****41.731636,-87.778952
+9528 S Roberts Rd, Hickory Hills, IL 60457, USA*****41.716502,-87.820238
+7910 S Cicero Ave, Burbank, IL 60459, USA*****41.747407,-87.742346
+2500 Lincoln Hwy, Olympia Fields, IL 60461, USA*****41.504926,-87.678507
+9352 W 159th St, Orland Park, IL 60462, USA*****41.603440,-87.847532
+7127 W 127th St, Palos Heights, IL 60463, USA*****41.659090,-87.794745
+256 Westwood Dr, Park Forest, IL 60466, USA*****41.483373,-87.693646
+17930 Wolf Rd, Orland Park, IL 60467, USA*****41.563074,-87.893172
+763 E 162nd St, South Holland, IL 60473, USA*****41.599960,-87.598347
+17117 S Harlem Ave, Tinley Park, IL 60477, USA*****41.579272,-87.791857
+9021 Mansfield Dr, Tinley Park, IL 60487, USA*****41.558262,-87.837868
+1157 N Eola Rd, Aurora, IL 60502, USA*****41.780180,-88.238094
+2530 US-30, Oswego, IL 60543, USA*****41.717829,-88.317459
+430 N River St #308, Aurora, IL 60506, USA*****41.765161,-88.312010
+1270 N Lake St, Aurora, IL 60506, USA*****41.784248,-88.320666
+508 Spring St, Batavia, IL 60510, USA*****41.852091,-88.299420
+119 S Randall Rd, Batavia, IL 60510, USA*****41.848317,-88.342603
+34 S Prospect Ave, Clarendon Hills, IL 60514, USA*****41.795797,-87.954788
+2415 Ogden Ave APT 8, Downers Grove, IL 60515, USA*****41.804985,-88.043027
+6215 Main St, Downers Grove, IL 60516, USA*****41.774054,-88.007412
+1759 W Ogden Ave, Naperville, IL 60540, USA*****41.762843,-88.188287
+3795 Orchard Rd, Oswego, IL 60543, USA*****41.683500,-88.383260
+306 Main St, Oswego, IL 60543, USA*****41.679895,-88.355408
+25023 Sandra Ln, Plainfield, IL 60544, USA*****41.631022,-88.227594
+45 E Cross St, Sugar Grove, IL 60554, USA*****41.761351,-88.441183
+4 E Ogden Ave, Westmont, IL 60559, USA*****41.811525,-87.973599
+234 E Veterans Pkwy, Yorkville, IL 60560, USA*****41.655636,-88.440540
+7335 S Cass Ave, Darien, IL 60561, USA*****41.753545,-87.972222
+127 E Ogden Ave, Naperville, IL 60563, USA*****41.786919,-88.145150
+2855 95th St, Naperville, IL 60564, USA*****41.712161,-88.203348
+13460 Illinois Rte 59, Plainfield, IL 60585, USA*****41.638203,-88.205790
+2400 Illinois Rte 59, Ingleside, IL 60041, USA*****42.379838,-88.167359
+16110 S Arbor Dr, Plainfield, IL 60586, USA*****41.590164,-88.196311
+1224 S Wabash Ave, Chicago, IL 60605, USA*****41.866198,-87.626194
+3033 S Halsted St, Chicago, IL 60608, USA*****41.838984,-87.645936
+3644 S Archer Ave, Chicago, IL 60609, USA*****41.827861,-87.682692
+550 N State St, Chicago, IL 60654, USA*****41.892086,-87.628540
+1210 N Sandburg Terrace, Chicago, IL 60610, USA*****41.905131,-87.631478
+3630 N Southport Ave, Chicago, IL 60613, USA*****41.947968,-87.664356
+443 E 34th St, Chicago, IL 60616, USA*****41.833062,-87.614472
+10738 S Torrence Ave, Chicago, IL 60617, USA*****41.699815,-87.559910
+1655 E 95th St, Chicago, IL 60617, USA*****41.720305,-87.582911
+3940 E 106th St, Chicago, IL 60617, USA*****41.704156,-87.527778
+3400 N Western Ave, Chicago, IL 60618, USA*****41.943445,-87.690008
+4250 N Lincoln Ave, Chicago, IL 60618, USA*****41.958492,-87.682431
+3570 N Elston Ave, Chicago, IL 60618, USA*****41.944989,-87.708596
+8257 S Ellis Ave #1s, Chicago, IL 60619, USA*****41.744170,-87.599777
+9400 S Ashland Ave, Chicago, IL 60620, USA*****41.723127,-87.663199
+6709 S Green St, Chicago, IL 60621, USA*****41.772115,-87.645461
+1341 N Paulina St, Chicago, IL 60622, USA*****41.906452,-87.668749
+4000 W Washington Blvd #913, Chicago, IL 60624, USA*****41.881941,-87.725696
+11414 S Halsted St, Chicago, IL 60628, USA*****41.686100,-87.642799
+10146 S Wentworth Ave, Chicago, IL 60628, USA*****41.709336,-87.628645
+3730 W 59th Pl, Chicago, IL 60629, USA*****41.785329,-87.716838
+4042 W Foster Ave, Chicago, IL 60630, USA*****41.976146,-87.730047
+4729 N Central Ave, Chicago, IL 60630, USA*****41.966874,-87.766724
+5324 S Pulaski Rd, Chicago, IL 60632, USA*****41.795472,-87.724864
+5320 S Pulaski Rd, Chicago, IL 60632, USA*****41.795863,-87.725117
+4938 S Kedzie Ave, Chicago, IL 60632, USA*****41.803069,-87.705746
+5633 W Eddy St, Chicago, IL 60634, USA*****41.944733,-87.768080
+6430 W Irving Park Rd, Chicago, IL 60634, USA*****41.954042,-87.787862
+6057 S Western Ave, Chicago, IL 60636, USA*****41.783226,-87.683225
+6107 S Archer Ave, Chicago, IL 60638, USA*****41.793949,-87.770337
+2247 N Lavergne Ave, Chicago, IL 60639, USA*****41.921947,-87.750907
+5516 N Clark St, Chicago, IL 60640, USA*****41.982743,-87.669132
+4660 Irving Park Rd, Chicago, IL 60641, USA*****41.955388,-87.744776
+5133 W Belmont Ave, Chicago, IL 60641, USA*****41.938710,-87.755534
+2317 W 111th St, Chicago, IL 60643, USA*****41.691474,-87.680053
+7530 S St Louis Ave, Chicago, IL 60652, USA*****41.756065,-87.709897
+3128 W 103rd St, Chicago, IL 60655, USA*****41.706846,-87.699931
+4734 N Cumberland Ave, Chicago, IL 60656, USA*****41.965523,-87.837938
+2940 N Ashland Ave, Chicago, IL 60657, USA*****41.935304,-87.670290
+5646 N Ridge Ave #1s, Chicago, IL 60660, USA*****41.984360,-87.661979
+370 S Desplaines St, Chicago, IL 60661, USA*****41.876823,-87.644230
+Chicago, IL 60680, USA*****41.880000,-87.640000
+Chicago, IL 60690, USA*****41.879998,-87.629997
+6505 W Diversey Ave, Chicago, IL 60639, USA*****41.930954,-87.788239
+5667 W Touhy Ave, Niles, IL 60714, USA*****42.010919,-87.768786
+8203 W Golf Rd, Niles, IL 60714, USA*****42.054139,-87.831659
+12001 S Pulaski Rd, Alsip, IL 60803, USA*****41.674206,-87.717939
+9341 S Pulaski Rd #1s, Evergreen Park, IL 60805, USA*****41.723080,-87.721071
+255 W Bourbonnais St, Kankakee, IL 60901, USA*****41.115804,-87.869303
+446 S Washington Ave, Kankakee, IL 60901, USA*****41.116221,-87.867404
+2036 Laura Ct, Bourbonnais, IL 60914, USA*****41.175692,-87.826460
+655 Main St NW, Bourbonnais, IL 60914, USA*****41.160892,-87.886118
+1380 N Galena Ave, Dixon, IL 61021, USA*****41.864030,-89.498505
+2010 1st Street A, Moline, IL 61265, USA*****41.491758,-90.535088
+305 3rd Ave Ct, Silvis, IL 61282, USA*****41.509209,-90.425866
+1312 John Deere Expy, Silvis, IL 61282, USA*****41.495326,-90.407585
+1022 Shooting Park Rd, Peru, IL 61354, USA*****41.338511,-89.118297
+2203 E Oakland Ave, Bloomington, IL 61701, USA*****40.472275,-88.960387
+2103 N Veterans Pkwy #336, Bloomington, IL 61704, USA*****40.502427,-88.952985
+901 S Cottage Ave, Normal, IL 61761, USA*****40.501674,-89.012406
+2777 S 6th St, Springfield, IL 62703, USA*****39.764892,-89.650609
+1903 W Monroe St, Springfield, IL 62704, USA*****39.800394,-89.684118
+770 Indian Boundary Rd, Chesterton, IN 46304, USA*****41.615433,-87.037519
+747 Indian Boundary Rd, Chesterton, IN 46304, USA*****41.617921,-87.040409
+1276 N Main St, Crown Point, IN 46307, USA*****41.431646,-87.363383
+805 Joliet St, Dyer, IN 46311, USA*****41.494843,-87.508205
+1018 Harrison Ave, Dyer, IN 46311, USA*****41.513117,-87.517521
+716 Ridge Rd, Munster, IN 46321, USA*****41.559802,-87.509751
+10243 Indianapolis Blvd, Highland, IN 46322, USA*****41.527934,-87.468523
+3535 Franklin St, Michigan City, IN 46360, USA*****41.688218,-86.895876
+320 Wyatt Dr, Las Cruces, NM 88001, USA*****32.301044,-106.772397
+3040 N Josey Ln, Carrollton, TX 75007, USA*****32.998028,-96.884529
+123 W Oklahoma Ave, Milwaukee, WI 53207, USA*****42.986048,-87.910035
+1735 W Silver Spring Dr, Glendale, WI 53209, USA*****43.118085,-87.931764
+2355 N 35th St, Milwaukee, WI 53210, USA*****43.061892,-87.959057
+709 E Capitol Dr, Milwaukee, WI 53212, USA*****43.087843,-87.901758
+1100 E Garfield Ave, Milwaukee, WI 53212, USA*****43.059769,-87.896984
+7901 W Layton Ave, Greenfield, WI 53220, USA*****42.958108,-88.012046
+1317 4th Ave, Huntington, WV 25701, USA*****38.421846,-82.436322

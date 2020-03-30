@@ -1,0 +1,9 @@
+1080 SW 4th St, Homestead, FL 33030, USA*****25.465960,-80.490051
+46 Washington St, Dorchester, MA 02121, USA*****42.307086,-71.082098
+776 Dudley St, Boston, MA 02125, USA*****42.317489,-71.065725
+6000 Chase Rd, Dearborn, MI 48126, USA*****42.333095,-83.185708
+602 Berckman St, Plainfield, NJ 07060, USA*****40.623777,-74.408639
+604 Berckman St, Plainfield, NJ 07062, USA*****40.623745,-74.408481
+364 15th Ave, Newark, NJ 07103, USA*****40.736095,-74.194467
+759 Springfield Ave, Irvington, NJ 07111, USA*****40.728895,-74.216578
+361 Market St, Perth Amboy, NJ 08861, USA*****40.509836,-74.279300

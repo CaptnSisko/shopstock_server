@@ -1,0 +1,39 @@
+1624 Fairgrounds Dr Ste A, Vallejo, CA 94589, USA*****38.145761,-122.234994
+400 El Camino Ave, Sacramento, CA 95815, USA*****38.610445,-121.457848
+10153 Live Oak Blvd, Live Oak, CA 95953, USA*****39.278314,-121.660866
+7562 W Irlo Bronson Memorial Hwy, Kissimmee, FL 34747, USA*****28.333591,-81.589095
+115 Hawkins Pl, Boonton, NJ 07005, USA*****40.907748,-74.424991
+875 Bloomfield Ave, West Caldwell, NJ 07006, USA*****40.851443,-74.298875
+120 Linwood Plaza, Fort Lee, NJ 07024, USA*****40.860967,-73.970718
+1212 Bernard McFeeley Shipyard Ln, Hoboken, NJ 07030, USA*****40.751574,-74.025122
+325 River St, Hoboken, NJ 07030, USA*****40.740130,-74.027690
+255 S Livingston Ave, Livingston, NJ 07039, USA*****40.786490,-74.312646
+159 Maplewood Ave, Maplewood, NJ 07040, USA*****40.731423,-74.276939
+650 Valley Rd, Montclair, NJ 07043, USA*****40.843535,-74.208119
+300 Pompton Ave, Verona, NJ 07044, USA*****40.833772,-74.225482
+700 Lanidex Plaza #2, Parsippany-Troy Hills, NJ 07054, USA*****40.861946,-74.421693
+Center Dr, Parsippany-Troy Hills, NJ 07054, USA*****40.883515,-74.433723
+64 Mountain Blvd, Warren, NJ 07059, USA*****40.617270,-74.494405
+778 Morris Turnpike, Short Hills, NJ 07078, USA*****40.722292,-74.334461
+Short Hills, NJ 07078, USA*****40.739450,-74.329420
+85 Godwin Ave, Midland Park, NJ 07432, USA*****40.984447,-74.139271
+112 N Maple Ave, Ridgewood, NJ 07450, USA*****40.981176,-74.113260
+201 Berdan Ave, Wayne, NJ 07470, USA*****40.966262,-74.244985
+70 Union Ave, Cresskill, NJ 07626, USA*****40.940902,-73.960320
+381 Washington Ave, Hillsdale, NJ 07642, USA*****41.000853,-74.040974
+784 Old Springfield Ave, Summit, NJ 07901, USA*****40.712620,-74.384490
+434 Springfield Ave, Berkeley Heights, NJ 07922, USA*****40.684942,-74.439256
+100 Morristown Rd, Bernardsville, NJ 07924, USA*****40.720188,-74.563835
+393 Main St, Chatham, NJ 07928, USA*****40.742300,-74.388528
+184 Columbia Turnpike, Florham Park, NJ 07932, USA*****40.789952,-74.393037
+86 E Main St, Mendham, NJ 07945, USA*****40.783133,-74.589197
+191 South St, Morristown, NJ 07960, USA*****40.790691,-74.475001
+513 US-22, Whitehouse Station, NJ 08889, USA*****40.623127,-74.767359
+531 US-22, Whitehouse Station, NJ 08889, USA*****40.620244,-74.764155
+880 Franklin Ave, Garden City, NY 11530, USA*****40.727726,-73.635321
+410 N 4th St, Allentown, PA 18102, USA*****40.609781,-75.468316
+365 N Cedar Crest Blvd, Allentown, PA 18104, USA*****40.593116,-75.525621
+552 State St, Hamburg, PA 19526, USA*****40.555186,-75.979977
+PA-73, Oley, PA, USA*****40.386384,-75.793013
+73 2nd St, Shillington, PA 19607, USA*****40.301471,-75.966617
+7297 SC-905, Conway, SC 29526, USA*****33.905379,-78.841231

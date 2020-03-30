@@ -1,0 +1,8 @@
+327 London Ave, Egg Harbor City, NJ 08215, USA*****39.533652,-74.646185
+220 N Main St, Pleasantville, NJ 08232, USA*****39.396116,-74.518474
+952 N Main St, Pleasantville, NJ 08232, USA*****39.405745,-74.509478
+500 S Main St, Pleasantville, NJ 08232, USA*****39.386350,-74.526783
+405 N Pennsylvania Ave, Atlantic City, NJ 08401, USA*****39.369411,-74.427968
+1741 Baltic Ave, Atlantic City, NJ 08401, USA*****39.363163,-74.434770
+1125 Arctic Ave, Atlantic City, NJ 08401, USA*****39.365031,-74.426159
+1500 W Riverside Dr, Atlantic City, NJ 08401, USA*****39.370923,-74.448304

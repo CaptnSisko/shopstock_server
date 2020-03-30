@@ -1,0 +1,8 @@
+1311 Glendale Blvd Ste F, Los Angeles, CA 90026, USA*****34.078914,-118.260725
+5930 Santa Monica Blvd, Los Angeles, CA 90038, USA*****34.090464,-118.318775
+10633 Valley Blvd, El Monte, CA 91731, USA*****34.076704,-118.039793
+16032 Amar Rd, City of Industry, CA 91744, USA*****34.035730,-117.935018
+13720 Amar Rd, La Puente, CA 91746, USA*****34.053748,-117.977720
+8868 Mission Dr Ste A, Rosemead, CA 91770, USA*****34.084821,-118.075775
+19315 San Jose Ave, City of Industry, CA 91748, USA*****33.999354,-117.880740
+San Jose, CA, USA*****37.338208,-121.886329

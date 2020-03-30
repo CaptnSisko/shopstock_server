@@ -1,0 +1,60 @@
+Washington, DC 20001, USA*****38.912068,-77.019023
+257 N Dupont Hwy, Dover, DE 19901, USA*****39.170570,-75.515335
+22599 MacArthur Blvd, California, MD 20619, USA*****38.287721,-76.484999
+9343 Annapolis Rd, Lanham, MD 20706, USA*****38.964495,-76.843730
+13600 Baltimore Ave, Laurel, MD 20707, USA*****39.077698,-76.869107
+9017 Contee Rd, Laurel, MD 20708, USA*****39.072832,-76.849083
+3831 Bladensburg Rd, Colmar Manor, MD 20722, USA*****38.934779,-76.949761
+3441 Fort Meade Rd, Maryland City, MD 20724, USA*****39.098637,-76.813542
+6300 Coventry Way, Clinton, MD 20735, USA*****38.783429,-76.897137
+4720 Cherry Hill Rd, College Park, MD 20740, USA*****39.016831,-76.928835
+4801 Marlboro Pike, Capitol Heights, MD 20743, USA*****38.872330,-76.930906
+6111 Livingston Rd, Oxon Hill, MD 20745, USA*****38.805176,-76.991937
+5820 Silver Hill Rd, District Heights, MD 20747, USA*****38.856349,-76.907127
+806 Largo Center Dr, Upper Marlboro, MD 20774, USA*****38.900697,-76.837147
+2441 Chillum Rd, Hyattsville, MD 20782, USA*****38.951166,-76.968895
+2400 University Blvd E, Hyattsville, MD 20783, USA*****38.984977,-76.967997
+7750 Riverdale Rd, New Carrollton, MD 20784, USA*****38.959034,-76.874209
+7790 Riverdale Rd, New Carrollton, MD 20784, USA*****38.957873,-76.872637
+7051 Martin Luther King Jr Hwy, Hyattsville, MD 20785, USA*****38.914431,-76.883356
+18140 Village Center Dr, Olney, MD 20832, USA*****39.153026,-77.063696
+Germantown, MD, USA*****39.173162,-77.271650
+Great Seneca Hwy & Mateny Rd, Germantown, MD 20874, USA*****39.164096,-77.273894
+5110 Nicholson Ln, Kensington, MD 20895, USA*****39.044550,-77.104901
+2201 Randolph Rd, Silver Spring, MD 20902, USA*****39.060331,-77.047271
+6881 New Hampshire Ave, Takoma Park, MD 20912, USA*****38.973536,-76.993502
+670 Old Mill Rd, Millersville, MD 21108, USA*****39.118130,-76.631795
+1649 Crofton Center, Crofton, MD 21114, USA*****39.016152,-76.693785
+8160 Ritchie Hwy, Pasadena, MD 21122, USA*****39.121890,-76.586100
+8048 Ritchie Hwy, Pasadena, MD 21122, USA*****39.125129,-76.591975
+7857 Quarterfield Rd, Severn, MD 21144, USA*****39.141564,-76.649961
+1951 E Joppa Rd, Baltimore, MD 21234, USA*****39.397476,-76.544387
+1112 Reisterstown Rd, Pikesville, MD 21208, USA*****39.373815,-76.722772
+2801 Smith Ave, Baltimore, MD 21209, USA*****39.374617,-76.690052
+1200 Eastern Blvd, Baltimore, MD 21221, USA*****39.315474,-76.463435
+7930 Eastern Ave, Baltimore, MD 21224, USA*****39.298314,-76.509351
+6500 Eastern Ave, Baltimore, MD 21224, USA*****39.289331,-76.535881
+5457 Baltimore National Pike, Baltimore, MD 21229, USA*****39.289982,-76.718244
+5483 Baltimore National Pike, Baltimore, MD 21229, USA*****39.290168,-76.718286
+857 E Fort Ave, Baltimore, MD 21230, USA*****39.270426,-76.603790
+2371 Solomons Island Rd, Annapolis, MD 21401, USA*****38.979622,-76.536721
+6335, 6335 Multiplex Dr, Centreville, VA 20121, USA*****38.827674,-77.438797
+13920 Lee Jackson Memorial Hwy, Chantilly, VA 20151, USA*****38.894176,-77.427794
+7471 Somerset Crossing Dr, Gainesville, VA 20155, USA*****38.794223,-77.630724
+47100 Community Plaza, Sterling, VA 20164, USA*****39.014427,-77.375688
+2425 Centreville Rd, Herndon, VA 20171, USA*****38.950451,-77.407791
+1079 Edwards Ferry Rd NE, Leesburg, VA 20176, USA*****39.113167,-77.532473
+9274 Old Keene Mill Rd, Burke, VA 22015, USA*****38.777808,-77.265065
+9724 Old Keene Mill Rd, Burke, VA 22015, USA*****38.774404,-77.282067
+10455 Armstrong St, Fairfax, VA 22030, USA*****38.840787,-77.308247
+6360 Seven Corners Center, Seven Corners, VA 22044, USA*****38.868664,-77.151071
+Falls Church, VA 22046, USA*****38.886113,-77.177274
+9409 Lorton Market St, Lorton, VA 22079, USA*****38.702998,-77.219633
+12193 Greatbridge Rd, Woodbridge, VA 22192, USA*****38.689171,-77.348908
+14000 Shoppers Best Way, Woodbridge, VA 22192, USA*****38.650066,-77.299953
+Mt Vernon Ave, Virginia, USA*****38.826863,-77.058777
+6228 N Kings Hwy, Alexandria, VA 22303, USA*****38.782615,-77.080451
+3801 Jefferson Davis Hwy, Stafford, VA 22554, USA*****38.505629,-77.374680
+6200 Little River Turnpike, Alexandria, VA 22312, USA*****38.818930,-77.140299
+Fredericksburg, VA 22401, USA*****38.303184,-77.460540
+1505 Stafford Market Pl, Stafford, VA 22556, USA*****38.470933,-77.411115

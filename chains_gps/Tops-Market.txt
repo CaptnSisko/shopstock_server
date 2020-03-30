@@ -1,0 +1,32 @@
+6308 AL-9, Chestertown, NY 12817, USA*****43.649721,-73.799724
+2525 NY-9N, Au Sable Forks, NY 12912, USA*****44.442749,-73.666264
+1716 Front St, Keeseville, NY 12944, USA*****44.504206,-73.480433
+352 Genesee St, Auburn, NY 13021, USA*****42.919039,-76.590287
+1122 Mohawk St, Utica, NY 13501, USA*****43.091404,-75.222861
+12775 Broadway, Alden, NY 14004, USA*****42.893784,-78.510264
+658 W Main St, Arcade, NY 14009, USA*****42.531095,-78.446597
+390 W Main St, Batavia, NY 14020, USA*****43.006918,-78.204354
+4777 Transit Rd, Depew, NY 14043, USA*****42.868593,-78.694974
+6914 Erie Rd, Derby, NY 14047, USA*****42.698880,-78.988032
+9660 Transit Rd, East Amherst, NY 14051, USA*****43.032728,-78.698262
+3949 Lockport Olcott Rd, Lockport, NY 14094, USA*****43.221812,-78.675730
+5827 S Transit Rd, Lockport, NY 14094, USA*****43.141812,-78.693901
+1385 Nash Rd, North Tonawanda, NY 14120, USA*****43.060882,-78.864362
+184 S Cascade Dr, Springville, NY 14141, USA*****42.504203,-78.687559
+1740 Sheridan Dr, Buffalo, NY 14223, USA*****42.982182,-78.870685
+2101 Elmwood Ave, Buffalo, NY 14207, USA*****42.955200,-78.876798
+6363 Main St, Williamsville, NY 14221, USA*****42.964315,-78.714576
+1740 Sheridan Dr, Buffalo, NY 14223, USA*****42.982520,-78.870642
+3865 Union Rd, Cheektowaga, NY 14225, USA*****42.920072,-78.751372
+3980 Maple Rd, Amherst, NY 14226, USA*****42.992399,-78.815434
+100 Allied Dr, Buffalo, NY 14227, USA*****42.897409,-78.780783
+1000 Portage Rd, Niagara Falls, NY 14301, USA*****43.098287,-79.052323
+4235 Military Rd, Niagara Falls, NY 14305, USA*****43.125772,-79.001203
+408 West Ave, Albion, NY 14411, USA*****43.239293,-78.205066
+795 Canandaigua Rd, Geneva, NY 14456, USA*****42.854982,-77.012490
+40 Catherwood Rd, Ithaca, NY 14850, USA*****42.483581,-76.491371
+6272 Furnace Rd, Ontario, NY 14519, USA*****43.226546,-77.279485
+1854 Empire Blvd, Webster, NY 14580, USA*****43.190289,-77.502781
+93 Elmore Dr, Rochester, NY 14606, USA*****43.181873,-77.734724
+309 W Morris St, Bath, NY 14810, USA*****42.335869,-77.330199
+299 S Main St, Elmira, NY 14904, USA*****42.082307,-76.803434

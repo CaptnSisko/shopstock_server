@@ -1,0 +1,10 @@
+4002 Shelby St, Indianapolis, IN 46227, USA*****39.708192,-86.139406
+4024 Shelby St, Indianapolis, IN 46227, USA*****39.707355,-86.139430
+340 Tower St, Gaylord, MN 55334, USA*****44.554442,-94.198774
+45161 Hwy 19 Blvd, Gaylord, MN 55334, USA*****44.556454,-94.175337
+120 Tower St, Gaylord, MN 55334, USA*****44.555389,-94.196777
+2nd St, Gaylord, MN 55334, USA*****44.555114,-94.217803
+1109 Prairie Rose Way, Victoria, MN 55386, USA*****44.858946,-93.647453
+34187 Co Rd 20, Le Sueur, MN 56058, USA*****44.452618,-93.995036
+Wakefield, NE 68784, USA*****42.269167,-96.865042
+1 Papetti Plaza, Elizabeth, NJ 07206, USA*****40.658895,-74.189430

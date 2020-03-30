@@ -1,0 +1,33 @@
+Warrensburg, NY, USA*****43.496735,-73.776231
+6363 Transit Rd, Depew, NY 14043, USA*****42.930538,-78.694294
+George Urban Blvd, Depew, NY 14043, USA*****42.918690,-78.720652
+Niagara Falls Blvd, New York, USA*****43.080053,-78.871667
+N French Rd & Transit Rd, Clarence, NY 14051, USA*****43.033392,-78.696916
+65 Grey St, East Aurora, NY 14052, USA*****42.767251,-78.631904
+South Park Ave, Hamburg, NY, USA*****42.733632,-78.825456
+906 Center St, Lewiston, NY 14092, USA*****43.171435,-79.031451
+North Tonawanda, NY 14120, USA*****43.038668,-78.864203
+301 Meadow Dr, North Tonawanda, NY 14120, USA*****43.050712,-78.874534
+890 Young St, Tonawanda, NY 14150, USA*****43.001369,-78.857929
+150 Niagara St, Tonawanda, NY 14150, USA*****43.020169,-78.884493
+425 Niagara St, Buffalo, NY 14201, USA*****42.895831,-78.886031
+Grant St, Buffalo, NY 14207, USA*****42.934602,-78.888535
+999 Broadway, Buffalo, NY 14212, USA*****42.893215,-78.837654
+3701 McKinley Parkway, One McKinley Mall, Blasdell, NY 14219, USA*****42.785040,-78.808511
+1460 South Park Ave, Buffalo, NY 14220, USA*****42.858449,-78.830124
+Maple Rd, Williamsville, NY 14221, USA*****42.991108,-78.745711
+1740 Sheridan Dr, Buffalo, NY 14223, USA*****42.982182,-78.870685
+355 Orchard Park Rd, Buffalo, NY 14224, USA*****42.832827,-78.783979
+800 Harlem Rd #400, Buffalo, NY 14224, USA*****42.866082,-78.788406
+700 Thruway Plaza Dr, Cheektowaga, NY 14225, USA*****42.904187,-78.782157
+3500 Main St, Buffalo, NY 14226, USA*****42.958779,-78.818427
+270 E Main St, Avon, NY 14414, USA*****42.911497,-77.732511
+1100 Jefferson Rd, Rochester, NY 14623, USA*****43.088195,-77.608032
+128 W Main St, Le Roy, NY 14482, USA*****42.979651,-78.004733
+3507 Mt Read Blvd, Rochester, NY 14616, USA*****43.222778,-77.661667
+Riedman Health Center, 1455 East Ridge Road, Rochester, NY 14621, USA*****43.197492,-77.577855
+1601 Penfield Rd, Rochester, NY 14625, USA*****43.133126,-77.497262
+2300 N Triphammer Rd, Ithaca, NY 14850, USA*****42.481825,-76.486440
+710 S Meadow St, Ithaca, NY 14850, USA*****42.432018,-76.510344
+111 Bolivar Rd, Wellsville, NY 14895, USA*****42.126903,-77.962890
+21593 Lorain Rd, Fairview Park, OH 44126, USA*****41.441105,-81.860524

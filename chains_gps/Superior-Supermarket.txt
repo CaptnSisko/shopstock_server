@@ -1,0 +1,5 @@
+42 Woodward Ave, Norwalk, CT 06854, USA*****41.091908,-73.417045
+2139 N Church St, Burlington, NC 27217, USA*****36.092820,-79.400841
+1216 W Front St, Plainfield, NJ 07063, USA*****40.603106,-74.446037
+1694 Boston Rd, The Bronx, NY 10460, USA*****40.836664,-73.888517
+4008 Queens Blvd, Long Island City, NY 11104, USA*****40.743492,-73.923991

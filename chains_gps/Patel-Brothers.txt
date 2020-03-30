@@ -1,0 +1,10 @@
+2039 El Camino Real, Santa Clara, CA 95050, USA*****37.352963,-121.960514
+425 Moody St, Waltham, MA 02453, USA*****42.368918,-71.237659
+42-79B Main St, Flushing, NY 11355, USA*****40.753225,-73.827115
+42-92 Main St, Flushing, NY 11355, USA*****40.752671,-73.827410
+37-27 74th Street, Flushing, NY 11372, USA*****40.748117,-73.891387
+124-10 Liberty Ave, Jamaica, NY 11419, USA*****40.687750,-73.819610
+25108 Hillside Avenue, Jamaica, NY 11426, USA*****40.735373,-73.716203
+290 S Broadway, Hicksville, NY 11801, USA*****40.761845,-73.517493
+3821 William Penn Hwy, Monroeville, PA 15146, USA*****40.436246,-79.784314
+16338 Kensington Dr #130, Sugar Land, TX 77479, USA*****29.596949,-95.630270

@@ -1,0 +1,13 @@
+5950 Belair Rd, Baltimore, MD 21206, USA*****39.347056,-76.540604
+10867 W Jefferson Ave, River Rouge, MI 48218, USA*****42.269267,-83.134996
+2305 E Aurora Rd, Twinsburg, OH 44087, USA*****41.312341,-81.457306
+7070 Columbia Rd, Olmsted Falls, OH 44138, USA*****41.387258,-81.903877
+5 Paint Ln, Blackville, SC 29817, USA*****33.326434,-81.262625
+109 S Main St, Anahuac, TX 77514, USA*****29.772250,-94.682945
+109 S Main St, Baytown, TX 77520, USA*****29.731359,-94.968412
+2913 N Broadway, Los Angeles, CA 90031, USA*****34.074095,-118.211154
+8632 US-158, Stokesdale, NC 27357, USA*****36.245017,-79.988635
+20884 Royalton Rd, Strongsville, OH 44149, USA*****41.313193,-81.856155
+2858 W Market St, Fairlawn, OH 44333, USA*****41.125503,-81.606118
+2248 NW 1st Terrace, Oklahoma City, OK 73107, USA*****35.468200,-97.551023
+1115 Freeport St, Houston, TX 77015, USA*****29.774390,-95.177505

@@ -1,0 +1,7 @@
+3488 Madison St, Riverside, CA 92504, USA*****33.936595,-117.405512
+14062 Springdale St, Westminster, CA 92683, USA*****33.757970,-118.024144
+500 Lincoln Ave, Saugus, MA 01906, USA*****42.448462,-71.009369
+138 Central Ave, Chelsea, MA 02150, USA*****42.389128,-71.030230
+321 Cypress St, Brookline, MA 02445, USA*****42.324732,-71.121712
+334 Pleasant St, Belmont, MA 02478, USA*****42.403931,-71.165785
+626 Caton Ave, Brooklyn, NY 11218, USA*****40.647461,-73.973721

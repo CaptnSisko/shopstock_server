@@ -1,0 +1,130 @@
+192 Wakelee Ave, Ansonia, CT 06401, USA*****41.345438,-73.090585
+15 Kings Ct, Derby, CT 06418, USA*****41.320298,-73.067114
+90 Fernwood Dr, Stratford, CT 06614, USA*****41.218724,-73.146324
+40 Black Rock Turnpike, Fairfield, CT 06825, USA*****41.162723,-73.229907
+100 Pencader Plaza, Newark, DE 19713, USA*****39.658235,-75.736186
+Edgemoor, DE 19809, USA*****39.777737,-75.489024
+358 E Dupont Blvd, Millsboro, DE 19966, USA*****38.576513,-75.289416
+560 Blanding Blvd, Orange Park, FL 32073, USA*****30.154509,-81.748441
+4500 Director Rd, Jacksonville, FL 32220, USA*****30.372880,-81.822095
+12200 Atlantic Blvd, Jacksonville, FL 32225, USA*****30.317538,-81.487329
+753 Creekwater Terrace, Lake Mary, FL 32746, USA*****28.750155,-81.344532
+774 Glenwood Dr, Lake Mary, FL 32746, USA*****28.745019,-81.347461
+473 Sun Lake Cir, Lake Mary, FL 32746, USA*****28.741025,-81.355595
+490 Monroe Rd, Sanford, FL 32771, USA*****28.818706,-81.323268
+4270 W State Rd 46, Sanford, FL 32771, USA*****28.811416,-81.336962
+1112 Windridge Cir, Sanford, FL 32773, USA*****28.784325,-81.296333
+90 Hidden Lake Dr APT 136, Sanford, FL 32773, USA*****28.760301,-81.295940
+12190 Lake Underhill Rd, Orlando, FL 32825, USA*****28.544796,-81.207644
+4697 Millenia Plaza Way, Orlando, FL 32839, USA*****28.494389,-81.427839
+1155 Palm Bay Rd NE, Melbourne, FL 32905, USA*****28.037226,-80.640843
+415 E Merritt Ave, Merritt Island, FL 32953, USA*****28.360178,-80.691077
+8005 NW 95th St, Hialeah, FL 33016, USA*****25.861310,-80.328454
+5901 W Hillsboro Blvd, Parkland, FL 33067, USA*****26.319281,-80.204766
+10425 Marlin Rd, Cutler Bay, FL 33157, USA*****25.591185,-80.360776
+7007 SW 117th Ave, Kendall, FL 33183, USA*****25.702825,-80.381001
+16205 SW 88th St, Miami, FL 33196, USA*****25.682575,-80.458595
+5100 Powerline Rd, Fort Lauderdale, FL 33309, USA*****26.190024,-80.153462
+7651 W Waters Ave, Tampa, FL 33615, USA*****28.027616,-82.565433
+6290 Commerce Palms Dr, Tampa, FL 33647, USA*****28.116419,-82.375689
+1929 NE Pine Island Rd, Cape Coral, FL 33909, USA*****26.673069,-81.930836
+9300 6 Mile Cypress Pkwy, Fort Myers, FL 33966, USA*****26.606176,-81.813486
+9300 6 Mile Cypress Pkwy, Fort Myers, FL 33966, USA*****26.606176,-81.813486
+8085 Cooper Creek Blvd, Bradenton, FL 34201, USA*****27.394170,-82.451989
+1100 W Osceola Pkwy, Kissimmee, FL 34741, USA*****28.339282,-81.414333
+239 Chadworth Dr, Kissimmee, FL 34758, USA*****28.174415,-81.481168
+4150 NW Federal Hwy, Jensen Beach, FL 34957, USA*****27.255371,-80.281261
+1725 Market Pl Blvd, Cumming, GA 30041, USA*****34.190383,-84.131641
+6344 Cash Ct NW, Norcross, GA 30071, USA*****33.942016,-84.241090
+211 Nina Cir, Locust Grove, GA 30248, USA*****33.396778,-84.097016
+650 Memorial Dr, Chicopee, MA 01020, USA*****42.175201,-72.579356
+42 Colrain Rd, Greenfield, MA 01301, USA*****42.588745,-72.622693
+777 Washington St, Auburn, MA 01501, USA*****42.181155,-71.853176
+869 Quaker Hwy, Uxbridge, MA 01569, USA*****42.021646,-71.605553
+290 Turnpike Rd, Westborough, MA 01581, USA*****42.280816,-71.646384
+26 Whittier St, Framingham, MA 01701, USA*****42.306665,-71.398951
+21 Strathmore Rd, Natick, MA 01760, USA*****42.296363,-71.384779
+688 Providence Hwy, Dedham, MA 02026, USA*****42.242309,-71.174372
+1 Mercer Ln, Franklin, MA 02038, USA*****42.046982,-71.437752
+100 Corporate Dr, Franklin, MA 02038, USA*****42.093324,-71.434760
+901 Technology Center Dr, Stoughton, MA 02072, USA*****42.147167,-71.065191
+85 Cedar St, Malden, MA 02148, USA*****42.430129,-71.076225
+21 Ward St, Revere, MA 02151, USA*****42.424433,-71.005389
+622 Washington St, Weymouth, MA 02188, USA*****42.206045,-70.951522
+420 Attucks Ln, Hyannis, MA 02601, USA*****41.677687,-70.306123
+460 State Rd, Dartmouth, MA 02747, USA*****41.643688,-70.999816
+2085 Bay St, Taunton, MA 02780, USA*****41.959916,-71.116072
+1000 St Nicholas Dr, Waldorf, MD 20603, USA*****38.614170,-76.932884
+44950 Worth Ave, California, MD 20619, USA*****38.301383,-76.520100
+16520 Ballpark Rd, Bowie, MD 20716, USA*****38.945279,-76.712542
+9011 Snowden River Pkwy, Columbia, MD 21046, USA*****39.181445,-76.818215
+55 Music Fair Rd, Owings Mills, MD 21117, USA*****39.407756,-76.776482
+820 Market St, Westminster, MD 21157, USA*****39.564757,-76.965386
+110 Mt Auburn Ave, Auburn, ME 04210, USA*****44.120299,-70.238423
+255 Shenstone Blvd, Garner, NC 27529, USA*****35.691235,-78.578681
+7905 Lyles Ln NW, Concord, NC 28027, USA*****35.364194,-80.713299
+11715 Carolina Pl Pkwy, Pineville, NC 28134, USA*****35.074486,-80.876866
+400 Quality Dr, Hooksett, NH 03106, USA*****43.046340,-71.456837
+119 Laconia Rd, Tilton, NH 03276, USA*****43.456891,-71.560721
+262 N Plainfield Rd, West Lebanon, NH 03784, USA*****43.627698,-72.325613
+1001 E Edgar Rd, Linden, NJ 07036, USA*****40.639394,-74.235740
+300 NJ-17, East Rutherford, NJ 07073, USA*****40.824102,-74.096650
+1904 NJ-35, Oakhurst, NJ 07755, USA*****40.260642,-74.044150
+1 Howard Blvd, Ledgewood, NJ 07852, USA*****40.880795,-74.649009
+62 Haines Ave, Berlin, NJ 08009, USA*****39.793417,-74.929029
+309 Dultys Ln, Burlington, NJ 08016, USA*****40.098458,-74.825925
+152 NJ-73, Voorhees Township, NJ 08043, USA*****39.836118,-74.924123
+321 Martin Truex Jr Blvd, Stafford Township, NJ 08050, USA*****39.701420,-74.277535
+131 E Kings Hwy, Maple Shade Township, NJ 08052, USA*****39.949320,-74.974394
+200 S Wrangleboro Rd, Galloway, NJ 08205, USA*****39.477652,-74.512456
+200 Wrangleboro Rd, Mays Landing, NJ 08330, USA*****39.451072,-74.628515
+2300 Wrangleboro Rd, Mays Landing, NJ 08330, USA*****39.453025,-74.629299
+3849 S Delsea Dr, Vineland, NJ 08360, USA*****39.428573,-75.035012
+900 Marketplace Blvd, Hamilton Township, NJ 08691, USA*****40.197216,-74.634371
+941 NJ-37, Toms River, NJ 08755, USA*****39.972538,-74.241226
+3303 Crompond Rd, Yorktown Heights, NY 10598, USA*****41.290241,-73.828715
+232 Larkin Dr, Monroe, NY 10950, USA*****41.319414,-74.152072
+1000 Palisades Center Dr, West Nyack, NY 10994, USA*****41.097794,-73.955373
+339 Gateway Dr, Brooklyn, NY 11239, USA*****40.650868,-73.874035
+13705 20th Ave, College Point, NY 11356, USA*****40.783364,-73.830812
+6626 Metropolitan Ave, Middle Village, NY 11379, USA*****40.711612,-73.892252
+100 Mill Rd, Freeport, NY 11520, USA*****40.651410,-73.570271
+125 Green Acres Rd S, Valley Stream, NY 11581, USA*****40.660924,-73.721629
+960 Brush Hollow Rd, Westbury, NY 11590, USA*****40.773333,-73.558401
+Nichols Rd, Islandia, NY 11749, USA*****40.799939,-73.165154
+607 Old Country Rd, Riverhead, NY 11901, USA*****40.933766,-72.661867
+3067 NY-50, Saratoga Springs, NY 12866, USA*****43.099807,-73.736201
+4145 NY-31, Clay, NY 13041, USA*****43.189866,-76.232118
+400 River Rd, Rome, NY 13440, USA*****43.211072,-75.434905
+1 Riverside Dr, Utica, NY 13502, USA*****43.117074,-75.212412
+6100 St Lawrence Centre, Massena, NY 13662, USA*****44.948822,-74.839774
+8330 Lewiston Rd, Batavia, NY 14020, USA*****43.009531,-78.212188
+4408 Milestrip Rd, Buffalo, NY 14219, USA*****42.790589,-78.813598
+5183 Transit Rd, Williamsville, NY 14221, USA*****42.987330,-78.694896
+3635 Berry Fields Rd, Geneva, NY 14456, USA*****42.855770,-77.020102
+Webster, NY 14580, USA*****43.212285,-77.429994
+1899 Cinema Dr, Olean, NY 14760, USA*****42.081541,-78.463952
+3080 NY-417, Jasper, NY 14855, USA*****42.115133,-77.561197
+6944 W 130th St, Middleburg Heights, OH 44130, USA*****41.376112,-81.786733
+219 E Chickasaw Ave, McAlester, OK 74501, USA*****34.930513,-95.767577
+2250 York Crossing Dr, West Manchester Township, PA 17408, USA*****39.964195,-76.775737
+110 Centerville Rd, Lancaster, PA 17603, USA*****40.043293,-76.392486
+1785 Airport Rd, Allentown, PA 18109, USA*****40.635821,-75.434419
+250 Mountaineer Dr, Stroudsburg, PA 18360, USA*****40.998019,-75.243495
+350 Commerce Dr, Fort Washington, PA 19034, USA*****40.136751,-75.198266
+1260 E Woodland Ave, Springfield, PA 19064, USA*****39.909064,-75.330468
+2054 Red Lion Rd, Philadelphia, PA 19115, USA*****40.099532,-75.024204
+2300 W Oregon Ave, Philadelphia, PA 19145, USA*****39.915489,-75.188281
+300 Alan Wood Rd, Conshohocken, PA 19428, USA*****40.095722,-75.304957
+550 Madison Ave, Reading, PA 19605, USA*****40.372832,-75.928179
+790 Centre of New England Blvd, Coventry, RI 02816, USA*****41.662347,-71.547914
+173 E Main Rd, Middletown, RI 02842, USA*****41.516803,-71.294653
+1300 Hartford Ave, Johnston, RI 02919, USA*****41.822425,-71.492770
+2823 Murfreesboro Pike, Antioch, TN 37013, USA*****36.065470,-86.630575
+3985 Plank Rd, Fredericksburg, VA 22407, USA*****38.292136,-77.527367
+7260 Bell Creek Rd, Mechanicsville, VA 23111, USA*****37.601911,-77.350030
+1320 Starling Dr, Richmond, VA 23229, USA*****37.601978,-77.570851
+8942 Quioccasin Rd, Henrico, VA 23229, USA*****37.606694,-77.570184
+2301 Taylor Rd, Chesapeake, VA 23321, USA*****36.822027,-76.408039
+3712 Virginia Beach Blvd, Virginia Beach, VA 23452, USA*****36.841787,-76.101044
+5820 E Virginia Beach Blvd, Norfolk, VA 23502, USA*****36.857171,-76.206107

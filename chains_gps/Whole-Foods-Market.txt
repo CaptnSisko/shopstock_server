@@ -1,0 +1,68 @@
+4656 S 33rd St, Phoenix, AZ 85040, USA*****33.403507,-112.011145
+167 W Kesler Ln, Chandler, AZ 85225, USA*****33.291964,-111.845047
+1955 E 48th St, Vernon, CA 90058, USA*****34.001280,-118.236490
+15315 W Magnolia Blvd, Sherman Oaks, CA 91403, USA*****34.165166,-118.466595
+1870 Harbor Blvd, Costa Mesa, CA 92627, USA*****33.641924,-117.918584
+999 Valencia St, San Francisco, CA 94110, USA*****37.757035,-122.420970
+2721 Midtown Ct, Palo Alto, CA 94303, USA*****37.434393,-122.128341
+San Rafael, CA 94901, USA*****37.965063,-122.503327
+140 Westridge Dr #101, Watsonville, CA 95076, USA*****36.913921,-121.785012
+58 Union St, Watsonville, CA 95076, USA*****36.907427,-121.751828
+549 Zinfandel Dr, Escalon, CA 95320, USA*****37.791834,-121.006170
+5757 Cypress Ave #148, Carmichael, CA 95608, USA*****38.639632,-121.329915
+1751 E Roseville Pkwy, Roseville, CA 95661, USA*****38.740559,-121.230649
+8800 Sierra College Blvd, Roseville, CA 95661, USA*****38.739945,-121.226462
+Sacramento, CA, USA*****38.581572,-121.494400
+13900 E Harvard Ave, Aurora, CO 80014, USA*****39.671287,-104.826788
+900 E 11th Ave, Denver, CO 80218, USA*****39.733291,-104.975850
+660 Autumn Crest Cir, Colorado Springs, CO 80919, USA*****38.906544,-104.838564
+17 Welles St, Glastonbury, CT 06033, USA*****41.714378,-72.605834
+19 Welles St, Glastonbury, CT 06033, USA*****41.714355,-72.605898
+21 Welles St, Glastonbury, CT 06033, USA*****41.714331,-72.605962
+99 High Wood Rd, West Hartford, CT 06117, USA*****41.800236,-72.772216
+400 E Johnson Ave, Cheshire, CT 06410, USA*****41.552848,-72.873895
+2000 N Federal Hwy, Fort Lauderdale, FL 33305, USA*****26.153533,-80.117752
+11701 Lake Victoria Gardens Ave, Palm Beach Gardens, FL 33410, USA*****26.847498,-80.093855
+2120 Worrington St, Sarasota, FL 34231, USA*****27.291675,-82.527747
+5930 Roswell Rd NE, Sandy Springs, GA 30328, USA*****33.918008,-84.380371
+1687 Lavista Rd NE, Atlanta, GA 30329, USA*****33.816492,-84.332636
+Braselton Industrial Blvd, Braselton, GA 30517, USA*****34.101642,-83.776345
+760 Waukegan Rd, Deerfield, IL 60015, USA*****42.166324,-87.848069
+2950 N Oakley Ave, Chicago, IL 60618, USA*****41.935162,-87.685659
+480 45th St, Munster, IN 46321, USA*****41.541859,-87.516864
+6411 E Central Ave, Wichita, KS 67208, USA*****37.694302,-97.260893
+10555 W 21st St, Wichita, KS 67205, USA*****37.722141,-97.465104
+2100 N Amidon Ave, Wichita, KS 67203, USA*****37.721062,-97.361312
+2172 N Amidon Ave, Wichita, KS 67203, USA*****37.721942,-97.362145
+10555 W 21st St, Wichita, KS 67205, USA*****37.722195,-97.465149
+6574 E Central Ave, Wichita, KS 67206, USA*****37.694602,-97.260695
+27 Harbor Loop, Gloucester, MA 01930, USA*****42.611241,-70.659095
+15 Parker St, Gloucester, MA 01930, USA*****42.615673,-70.650771
+1905 Clarkson Way, Landover, MD 20785, USA*****38.915929,-76.902339
+1555 Cabin Branch Dr, Hyattsville, MD 20785, USA*****38.911280,-76.902901
+1905 Clarkson Way, Landover, MD 20785, USA*****38.915929,-76.902339
+5515 Security Ln, North Bethesda, MD 20852, USA*****39.042082,-77.112290
+8505 Fenton St, Silver Spring, MD 20910, USA*****38.996127,-77.024151
+1340 Smith Ave, Baltimore, MD 21209, USA*****39.368845,-76.650078
+1404 Walton Blvd, Rochester Hills, MI 48309, USA*****42.681904,-83.157620
+610 E 4th St, Duluth, MN 55805, USA*****46.795571,-92.094083
+4005 Glen Arbor Dr, Wilmington, NC 28411, USA*****34.264282,-77.781079
+2715 Ramona Rd, Reno, NV 89521, USA*****39.372551,-119.719777
+252 7th Ave Ph W, New York, NY 10001, USA*****40.745225,-73.995085
+13998 Cedar Rd, University Heights, OH 44118, USA*****41.500890,-81.536816
+2357 W Gore Blvd, Lawton, OK 73505, USA*****34.609165,-98.424912
+3535 NE 15th Ave, Portland, OR 97212, USA*****45.548822,-122.651160
+1210 N Bethlehem Pike, Lower Gwynedd Township, PA 19002, USA*****40.193874,-75.224054
+Richardson, TX 75080, USA*****32.976029,-96.738695
+302 N Main St, Duncanville, TX 75116, USA*****32.653900,-96.907932
+1105 N Lamar Blvd, Austin, TX 78703, USA*****30.276044,-97.751389
+550 Bowie St, Austin, TX 78703, USA*****30.270635,-97.752892
+601 N Lamar Blvd, Austin, TX 78703, USA*****30.271766,-97.753299
+2700 Wilson Blvd, Arlington, VA 22201, USA*****38.889225,-77.091240
+6548 Little River Turnpike, Lincolnia, VA 22312, USA*****38.823118,-77.160649
+888 116th Ave NE, Bellevue, WA 98004, USA*****47.618294,-122.184590
+15 Lake Bellevue Dr #100, Bellevue, WA 98005, USA*****47.619317,-122.182555
+4250 E Marginal Way S, Seattle, WA 98134, USA*****47.564473,-122.338048
+3122 Harborview Dr, Gig Harbor, WA 98335, USA*****47.329572,-122.581302
+6810 27th St W, Tacoma, WA 98466, USA*****47.235162,-122.528236
+1239 Rumsey Ave, Cody, WY 82414, USA*****44.527320,-109.062388

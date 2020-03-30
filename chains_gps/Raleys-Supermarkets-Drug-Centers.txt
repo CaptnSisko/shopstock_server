@@ -1,0 +1,40 @@
+890 Southampton Rd, Benicia, CA 94510, USA*****38.066580,-122.167689
+2400 Sand Creek Rd, Brentwood, CA 94513, USA*****37.942913,-121.736166
+3001 Travis Blvd, Fairfield, CA 94534, USA*****38.257662,-122.065773
+39200 Paseo Padre Pkwy, Fremont, CA 94538, USA*****37.553674,-121.978907
+6397 Jarvis Ave, Newark, CA 94560, USA*****37.548729,-122.052004
+2077 Main St, Oakley, CA 94561, USA*****38.003073,-121.734065
+1375 Buchanan Rd, Pittsburg, CA 94565, USA*****37.998846,-121.872443
+1369 Buchanan Rd, Pittsburg, CA 94565, USA*****37.998860,-121.872748
+5420 Sunol Blvd, Pleasanton, CA 94566, USA*****37.651952,-121.878524
+270 Sunset Ave, Suisun City, CA 94585, USA*****38.246051,-122.021737
+3360 San Pablo Dam Rd, San Pablo, CA 94803, USA*****37.961692,-122.324747
+100 Raley's Town Center, Rohnert Park, CA 94928, USA*****38.346638,-122.707435
+2323 W Hammer Ln, Stockton, CA 95209, USA*****38.022439,-121.343607
+1611 E Hatch Rd, Modesto, CA 95351, USA*****37.610529,-120.967906
+500, 2401 E Orangeburg Ave, Modesto, CA 95355, USA*****37.663975,-120.953433
+2900 Geer Rd, Turlock, CA 95382, USA*****37.518580,-120.848644
+1407 Fulton Rd, Santa Rosa, CA 95403, USA*****38.453955,-122.771241
+1315 N State St, Ukiah, CA 95482, USA*****39.168518,-123.208759
+10603 Old Redwood Hwy, Windsor, CA 95492, USA*****38.564692,-122.829385
+5159 Fair Oaks Blvd, Carmichael, CA 95608, USA*****38.597706,-121.345317
+8870 Madison Ave, Fair Oaks, CA 95628, USA*****38.662236,-121.227773
+1915 Douglas Blvd, Roseville, CA 95661, USA*****38.745793,-121.256906
+166 Placerville Dr, Placerville, CA 95667, USA*****38.727119,-120.835269
+3063 Alamo Dr, Vacaville, CA 95687, USA*****38.336434,-121.954295
+6845 Douglas Blvd, Granite Bay, CA 95746, USA*****38.744572,-121.173366
+4051 Woodcreek Oaks Blvd, Roseville, CA 95747, USA*****38.769742,-121.332182
+4850 Freeport Blvd, Sacramento, CA 95822, USA*****38.530681,-121.496519
+700 W Onstott Frontage Rd, Yuba City, CA 95991, USA*****39.133130,-121.637434
+725 S Main St, Red Bluff, CA 96080, USA*****40.163120,-122.229404
+4005 E US Hwy 50, Garden City, KS 67846, USA*****37.960361,-100.825684
+50 US-50, Stateline, NV 89449, USA*****38.962770,-119.941872
+2910 Juan Tabo Blvd NE, Albuquerque, NM 87112, USA*****35.115363,-106.513840
+13150 Central Ave SE, Albuquerque, NM 87123, USA*****35.066660,-106.500502
+South Ct, Gardnerville, NV 89410, USA*****38.945518,-119.756018
+2895 N McCarran Blvd, Sparks, NV 89431, USA*****39.555325,-119.754390
+1125 W Winnemucca Blvd, Winnemucca, NV 89445, USA*****40.964559,-117.741919
+1075 N Hills Blvd, Reno, NV 89506, USA*****39.605509,-119.839752
+1441 Mayberry Dr, Reno, NV 89501, USA*****39.510409,-119.836471
+18144 Wedge Pkwy, Reno, NV 89511, USA*****39.395033,-119.765775
+3701 S Carson St, Carson City, NV 89701, USA*****39.132645,-119.769091

@@ -1,0 +1,1141 @@
+9200 Hwy 119, Alabaster, AL 35007, USA*****33.212675,-86.825662
+132 Treymoor Dr, Alabaster, AL 35007, USA*****33.244256,-86.792823
+3014 Allison-Bonnett Memorial Dr, Bessemer, AL 35023, USA*****33.453343,-86.978206
+4730 Hwy 17, Helena, AL 35080, USA*****33.280207,-86.853659
+105 High Crest Rd, Pelham, AL 35124, USA*****33.294718,-86.756152
+5150 Old Springville Rd, Pinson, AL 35126, USA*****33.655917,-86.647034
+7272 Gadsden Hwy, Trussville, AL 35173, USA*****33.641332,-86.579895
+411 Green Springs Hwy, Homewood, AL 35209, USA*****33.465276,-86.819611
+1325 Montclair Rd, Birmingham, AL 35210, USA*****33.521001,-86.731185
+784 Montgomery Hwy, Vestavia Hills, AL 35216, USA*****33.444946,-86.793290
+3141 Overton Rd, Mountain Brook, AL 35223, USA*****33.465692,-86.732650
+410 Doug Baker Blvd, Birmingham, AL 35242, USA*****33.408947,-86.668556
+2620 Dolly Ridge Rd, Vestavia Hills, AL 35243, USA*****33.431477,-86.758627
+5188 Caldwell Mill Rd, Hoover, AL 35244, USA*****33.385821,-86.740616
+2543 John Hawkins Pkwy, Hoover, AL 35244, USA*****33.355814,-86.842628
+1944 Montgomery Hwy, Birmingham, AL 35244, USA*****33.347011,-86.797317
+1190 University Blvd, Tuscaloosa, AL 35401, USA*****33.212115,-87.553568
+1800 Crabtree Rd, Tuscaloosa, AL 35405, USA*****33.141769,-87.563136
+4851 Rice Mine Rd NE, Tuscaloosa, AL 35406, USA*****33.263251,-87.513697
+14495 Vienna Rd, Coker, AL 35452, USA*****33.239179,-87.681131
+2300 McFarland Blvd, Northport, AL 35476, USA*****33.241138,-87.578759
+1605 Beltline Rd SW, Decatur, AL 35603, USA*****34.565135,-87.012340
+8000 Madison Blvd, Madison, AL 35758, USA*****34.691378,-86.718892
+7794 Hwy 72 W, Madison, AL 35758, USA*****34.753954,-86.741021
+7830 Hwy 72 W, Madison, AL 35758, USA*****34.755818,-86.743759
+12290 Highway 231/431 North, Meridianville, AL 35759, USA*****34.871021,-86.569203
+6707 US-431, Owens Cross Roads, AL 35763, USA*****34.659073,-86.481174
+4851 Whitesburg Dr, Huntsville, AL 35802, USA*****34.692906,-86.566061
+2246 Winchester Rd NE, Huntsville, AL 35811, USA*****34.816193,-86.489939
+4851 Whitesburg Dr Ste B, Huntsville, AL 35802, USA*****34.692906,-86.566061
+11112 Memorial Pkwy SW I2, Huntsville, AL 35803, USA*****34.624812,-86.568296
+12796 Bailey Cove Rd SE, Huntsville, AL 35803, USA*****34.622733,-86.538648
+2246 Winchester Rd NE, Huntsville, AL 35811, USA*****34.816193,-86.489939
+3026 Zelda Rd, Montgomery, AL 36106, USA*****32.355463,-86.265932
+4045 Atlanta Hwy, Montgomery, AL 36109, USA*****32.383654,-86.241731
+7700 Vaughn Rd, Montgomery, AL 36116, USA*****32.336711,-86.182725
+7076 Atlanta Hwy, Montgomery, AL 36117, USA*****32.381377,-86.171679
+25771 Perdido Beach Blvd, Orange Beach, AL 36561, USA*****30.271791,-87.588006
+5408 Summerville Rd, Phenix City, AL 36867, USA*****32.521380,-85.028462
+950 Blanding Blvd, Orange Park, FL 32065, USA*****30.139158,-81.774741
+5000 US-17 #11, Fleming Island, FL 32003, USA*****30.104211,-81.710914
+410 Blanding Blvd, Orange Park, FL 32073, USA*****30.163225,-81.748876
+1421 Sadler Rd, Fernandina Beach, FL 32034, USA*****30.641293,-81.454163
+113 Orion Rd, Green Cove Springs, FL 32043, USA*****30.011700,-81.694086
+501 Vermont Ave, Green Cove Springs, FL 32043, USA*****29.981039,-81.689937
+12711 72nd Trail, Live Oak, FL 32060, USA*****30.318532,-83.009385
+1528 Ohio Ave S, Live Oak, FL 32064, USA*****30.281520,-82.989970
+868 Blanding Blvd, Orange Park, FL 32065, USA*****30.143127,-81.765800
+950 Blanding Blvd, Orange Park, FL 32065, USA*****30.139158,-81.774741
+4790 Gopher Cir, Middleburg, FL 32068, USA*****30.019042,-81.917480
+2640 Blanding Blvd, Middleburg, FL 32068, USA*****30.064906,-81.872060
+410 Blanding Blvd, Orange Park, FL 32073, USA*****30.163225,-81.748876
+1033 A1A Beach Blvd, St. Augustine, FL 32080, USA*****29.828203,-81.271972
+136 Willow Pond Ln, Ponte Vedra Beach, FL 32082, USA*****30.189933,-81.379311
+3777 Palm Valley Rd, Ponte Vedra Beach, FL 32082, USA*****30.150646,-81.375589
+600 Sawgrass Village Dr, Ponte Vedra Beach, FL 32082, USA*****30.205772,-81.380349
+4255 US-1, St. Augustine, FL 32086, USA*****29.813555,-81.324913
+125 Jenkins St, St. Augustine, FL 32086, USA*****29.865863,-81.328080
+455 W Town Pl, St. Augustine, FL 32092, USA*****29.985076,-81.470352
+1500 Beville Rd, Daytona Beach, FL 32114, USA*****29.171199,-81.041825
+808 Catherine Ave, Daytona Beach, FL 32117, USA*****29.233484,-81.053666
+1850 Ridgewood Ave, Holly Hill, FL 32117, USA*****29.261841,-81.051919
+2595 N Atlantic Ave, Daytona Beach, FL 32118, USA*****29.262362,-81.028546
+2400 S Ridgewood Ave, South Daytona, FL 32119, USA*****29.164050,-81.001826
+1660 Taylor Rd, Port Orange, FL 32128, USA*****29.106155,-81.033887
+1323 S Central Ave, Flagler Beach, FL 32136, USA*****29.471073,-81.123464
+298 Palm Coast Pkwy NE, Palm Coast, FL 32137, USA*****29.558189,-81.208936
+5415 N Ocean Shore Blvd, Palm Coast, FL 32137, USA*****29.601388,-81.196761
+2970 S Ridgewood Ave, Edgewater, FL 32141, USA*****28.948663,-80.885684
+1120 Bichara Blvd, Lady Lake, FL 32159, USA*****28.939563,-81.947941
+8780 SE 165th Mulberry Ln, The Villages, FL 32162, USA*****28.979959,-82.007077
+3475 Wedgewood Ln, The Villages, FL 32162, USA*****28.929414,-82.014055
+93 Point of Woods Dr, Palm Coast, FL 32164, USA*****29.499522,-81.211292
+800 Belle Terre Pkwy, Palm Coast, FL 32164, USA*****29.487721,-81.219955
+1930 FL-44, New Smyrna Beach, FL 32168, USA*****29.011964,-80.945569
+709 E 3rd Ave, New Smyrna Beach, FL 32169, USA*****29.026782,-80.894710
+3750 Roscommon Dr, Ormond Beach, FL 32174, USA*****29.401346,-81.148666
+1478 W Granada Blvd, Ormond Beach, FL 32174, USA*****29.255570,-81.111591
+211 Town and Country Dr, Palatka, FL 32177, USA*****29.646496,-81.671961
+2033 Riverside Ave, Jacksonville, FL 32204, USA*****30.311352,-81.682173
+2845 Community Rd, Jacksonville, FL 32207, USA*****30.264095,-81.629922
+5858 Atlantic Blvd, Jacksonville, FL 32207, USA*****30.312375,-81.601663
+5210 Norwood Ave, Jacksonville, FL 32208, USA*****30.371100,-81.665401
+4495 Roosevelt Blvd, Jacksonville, FL 32210, USA*****30.279975,-81.718804
+7628 103rd St, Jacksonville, FL 32210, USA*****30.247514,-81.774942
+4320 Deerwood Lake Pkwy, Jacksonville, FL 32216, USA*****30.268337,-81.561099
+8576 Touchton Rd, Jacksonville, FL 32246, USA*****30.264316,-81.549800
+3600 University Blvd W, Jacksonville, FL 32217, USA*****30.261349,-81.623545
+731 Duval Station Rd, Jacksonville, FL 32218, USA*****30.485357,-81.604791
+1100 Dunn Ave, Jacksonville, FL 32218, USA*****30.428036,-81.663862
+7764 Normandy Blvd, Jacksonville, FL 32221, USA*****30.292771,-81.774051
+7749 Normandy Blvd, Jacksonville, FL 32221, USA*****30.296876,-81.775711
+9518 Argyle Forest Blvd, Jacksonville, FL 32222, USA*****30.193394,-81.825672
+11400 San Jose Blvd, Jacksonville, FL 32223, USA*****30.167351,-81.632063
+3355 Claire Ln, Jacksonville, FL 32223, USA*****30.176565,-81.623121
+11406 San Jose Blvd, Jacksonville, FL 32223, USA*****30.166493,-81.633557
+4765 Hodges Blvd, Jacksonville, FL 32224, USA*****30.254232,-81.464611
+13170 Atlantic Blvd, Jacksonville, FL 32225, USA*****30.319132,-81.461129
+2771 Monument Rd, Jacksonville, FL 32225, USA*****30.361937,-81.501261
+9100 Merrill Rd, Jacksonville, FL 32225, USA*****30.350988,-81.548862
+985 Atlantic Blvd, Atlantic Beach, FL 32233, USA*****30.325935,-81.411586
+6001 Argyle Forest Blvd #45, Jacksonville, FL 32244, USA*****30.193594,-81.742664
+12620 Beach Blvd, Jacksonville, FL 32224, USA*****30.285859,-81.487041
+4413 Town Center Pkwy, Jacksonville, FL 32246, USA*****30.264139,-81.526642
+10719 Indies Dr S, Jacksonville, FL 32246, USA*****30.315694,-81.522152
+14444 Beach Blvd, Jacksonville, FL 32250, USA*****30.286243,-81.435927
+670 Marsh Landing Pkwy, Jacksonville Beach, FL 32250, USA*****30.253483,-81.392350
+10920 Baymeadows Rd, Jacksonville, FL 32256, USA*****30.214608,-81.518511
+9964 Old Baymeadows Rd, Jacksonville, FL 32256, USA*****30.219726,-81.553420
+11250 Old St Augustine Rd, Jacksonville, FL 32257, USA*****30.171903,-81.605063
+10500 San Jose Blvd, Jacksonville, FL 32257, USA*****30.187652,-81.630052
+13820 Old St Augustine Rd, Jacksonville, FL 32258, USA*****30.140491,-81.549635
+450 State Rd 13, St Johns, FL 32259, USA*****30.119408,-81.626482
+2750 Race Track Rd, Fruit Cove, FL 32259, USA*****30.112627,-81.589159
+5566 Fort Caroline Rd, Jacksonville, FL 32277, USA*****30.363267,-81.604620
+2855 Apalachee Pkwy #80b, Tallahassee, FL 32301, USA*****30.424898,-84.232321
+3551 N Blair Stone Rd, Tallahassee, FL 32301, USA*****30.403848,-84.237676
+101 N Blair Stone Rd, Tallahassee, FL 32301, USA*****30.443053,-84.248829
+Kappa Kappa Gamma, 528 W Jefferson St, Tallahassee, FL 32301, USA*****30.439911,-84.289719
+1700 N Monroe St, Tallahassee, FL 32303, USA*****30.462726,-84.284226
+2829 Misty Garden Cir, Tallahassee, FL 32303, USA*****30.487026,-84.320180
+5810 N Monroe St, Tallahassee, FL 32303, USA*****30.530988,-84.363851
+1905 Sherwood Dr, Tallahassee, FL 32303, USA*****30.464392,-84.319874
+800 Ocala Rd #200, Tallahassee, FL 32304, USA*****30.445712,-84.318867
+800 Ocala Rd, Tallahassee, FL 32304, USA*****30.445739,-84.318914
+777 Capital Cir SW, Tallahassee, FL 32305, USA*****30.379783,-84.302716
+2111 Capital Cir NE, Tallahassee, FL 32308, USA*****30.479788,-84.236663
+3111 Mahan Dr, Tallahassee, FL 32308, USA*****30.459807,-84.224998
+6615 Mahan Dr, Tallahassee, FL 32308, USA*****30.479838,-84.167171
+3483 Thomasville Rd, Tallahassee, FL 32309, USA*****30.506788,-84.247142
+6753 Thomasville Rd, Tallahassee, FL 32312, USA*****30.562751,-84.213305
+650 W 23rd St, Panama City, FL 32405, USA*****30.191734,-85.669594
+11220 Hutchison Blvd, Panama City Beach, FL 32407, USA*****30.188614,-85.815968
+2419 Thomas Dr, Panama City, FL 32408, USA*****30.160361,-85.752285
+23026 Panama City Beach Pkwy, Panama City Beach, FL 32413, USA*****30.266272,-85.972998
+23036 Panama City Beach Pkwy, Panama City Beach, FL 32413, USA*****30.264510,-85.972697
+17680 Front Beach Rd, Panama City Beach, FL 32413, USA*****30.233852,-85.909689
+2310 FL-77, Lynn Haven, FL 32444, USA*****30.223189,-85.651676
+110 Watercolor Way, Santa Rosa Beach, FL 32459, USA*****30.328273,-86.125959
+681 Chat Holley Rd, Santa Rosa Beach, FL 32459, USA*****30.387557,-86.185606
+2250 S Ferdon Blvd, Crestview, FL 32536, USA*****30.738066,-86.566728
+4425 Commons Dr E, Destin, FL 32541, USA*****30.390440,-86.430203
+421 Mary Esther Cut Off NW, Fort Walton Beach, FL 32548, USA*****30.426277,-86.645079
+251 Miracle Strip Pkwy SW, Fort Walton Beach, FL 32548, USA*****30.406571,-86.630569
+725 Grand Blvd, Miramar Beach, FL 32550, USA*****30.379494,-86.311606
+8244 Navarre Pkwy, Navarre, FL 32566, USA*****30.403921,-86.878248
+4351 Railroad St, Milton, FL 32571, USA*****30.595607,-87.163305
+5015 King Oaks Mobile Home Park, Milton, FL 32571, USA*****30.586342,-87.115523
+1302 N Main St, Gainesville, FL 32601, USA*****29.663842,-82.325689
+4115 NW 16th Blvd, Gainesville, FL 32605, USA*****29.671808,-82.387307
+1200 NW 76th Blvd, Gainesville, FL 32606, USA*****29.662232,-82.425125
+9200 NW 39th Ave, Gainesville, FL 32606, USA*****29.691703,-82.440207
+5200 NW 43rd St, Gainesville, FL 32606, USA*****29.701857,-82.390208
+125 SW 34th St, Gainesville, FL 32607, USA*****29.651084,-82.371209
+2755 SW 91st St, Gainesville, FL 32608, USA*****29.629266,-82.436394
+3100 SW 35th Blvd, Gainesville, FL 32608, USA*****29.625081,-82.379174
+5200 SW 34th St, Gainesville, FL 32608, USA*****29.605001,-82.372819
+5801 SW 75th St, Gainesville, FL 32608, USA*****29.601884,-82.420510
+3720 NW 13th St, Gainesville, FL 32609, USA*****29.687378,-82.340633
+NE 127th Pl, Anthony, FL 32617, USA*****29.335155,-82.104143
+6014 NW 54 Way, Gainesville, FL 32653, USA*****29.710196,-82.401666
+14130 W Newberry Rd, Newberry, FL 32669, USA*****29.655529,-82.494734
+482 E Altamonte Dr, Altamonte Springs, FL 32701, USA*****28.662012,-81.373689
+2100 West Rd, Apopka, FL 32703, USA*****28.601445,-81.549123
+330 Country Landing Blvd, Apopka, FL 32703, USA*****28.682224,-81.534508
+540 S Hunt Club Blvd, Apopka, FL 32703, USA*****28.671497,-81.451416
+1455 FL-436, Maitland, FL 32751, USA*****28.627352,-81.319333
+3 King Arthur Ct, Casselberry, FL 32707, USA*****28.666889,-81.315035
+Willa Springs Dr, Florida, USA*****28.644864,-81.269681
+3385 S US Hwy 17 92, Casselberry, FL 32707, USA*****28.678541,-81.334300
+1160 E State Rd 434, Winter Springs, FL 32708, USA*****28.699375,-81.264015
+5655 Red Bug Lake Rd, Winter Springs, FL 32708, USA*****28.646409,-81.269965
+1545 Rock Springs Rd, Apopka, FL 32712, USA*****28.707241,-81.507693
+851 S State Rd 434, Altamonte Springs, FL 32714, USA*****28.645021,-81.411844
+951 N State Rd 434, Altamonte Springs, FL 32714, USA*****28.682235,-81.416823
+2400 S Woodland Blvd, DeLand, FL 32720, USA*****28.985488,-81.300311
+915 Doyle Rd, Deltona, FL 32725, USA*****28.868351,-81.251967
+1950 FL-19, Eustis, FL 32726, USA*****28.874313,-81.689359
+2840 David Walker Dr, Eustis, FL 32726, USA*****28.824210,-81.704430
+2142 Durfey Ct, Fern Park, FL 32730, USA*****28.652063,-81.344791
+2160 Howland Blvd, Deltona, FL 32738, USA*****28.924952,-81.187401
+605 Courtland Blvd, Deltona, FL 32738, USA*****28.879383,-81.177032
+601 Weldon Blvd, Lake Mary, FL 32746, USA*****28.737767,-81.304266
+3899 W Lake Mary Blvd, Lake Mary, FL 32746, USA*****28.754372,-81.346043
+825 Rinehart Rd, Lake Mary, FL 32746, USA*****28.780906,-81.345473
+4195 W Lake Mary Blvd, Heathrow, FL 32746, USA*****28.754389,-81.349454
+242 N Orlando Ave, Maitland, FL 32751, USA*****28.628665,-81.363400
+305 Lake Seminary Cir, Maitland, FL 32751, USA*****28.645858,-81.360759
+1720 N Unser St, Mt Dora, FL 32757, USA*****28.812386,-81.631015
+18990 US-441, Mt Dora, FL 32757, USA*****28.822695,-81.642379
+2556 Enterprise Rd, Orange City, FL 32763, USA*****28.915050,-81.296718
+81 Alafaya Woods Blvd, Oviedo, FL 32765, USA*****28.650535,-81.205147
+2204 Catbriar Way, Oviedo, FL 32765, USA*****28.659102,-81.246914
+4250 Alafaya Trail, Oviedo, FL 32765, USA*****28.613125,-81.205841
+2100 Winter Springs Blvd, Oviedo, FL 32765, USA*****28.669332,-81.225894
+1801 E Broadway St, Oviedo, FL 32765, USA*****28.661174,-81.178367
+5256 W State Rd 46, Sanford, FL 32771, USA*****28.811880,-81.355374
+5240 W State Rd 46, Sanford, FL 32771, USA*****28.813048,-81.353606
+2225 Knox McRae Dr, Titusville, FL 32780, USA*****28.571602,-80.828773
+1923 Knox McRae Dr, Titusville, FL 32780, USA*****28.570829,-80.824717
+741 S Orlando Ave, Winter Park, FL 32789, USA*****28.591554,-81.366461
+4270 Aloma Ave, Winter Park, FL 32792, USA*****28.612209,-81.280966
+2295 Aloma Ave, Winter Park, FL 32792, USA*****28.602561,-81.321977
+3265 Garden St, Titusville, FL 32796, USA*****28.616683,-80.843290
+3222 E Colonial Dr, Orlando, FL 32803, USA*****28.551654,-81.342176
+1400 E Colonial Dr, Orlando, FL 32803, USA*****28.553135,-81.362670
+2015 Edgewater Dr, Orlando, FL 32804, USA*****28.569898,-81.388485
+2873 S Orange Ave, Orlando, FL 32806, USA*****28.509894,-81.373274
+1950 Sand Lake Rd, Orlando, FL 32809, USA*****28.448752,-81.406540
+7653 S Orange Blossom Trail, Orlando, FL 32809, USA*****28.454756,-81.397994
+5800 N Orange Blossom Trail, Orlando, FL 32810, USA*****28.610589,-81.431003
+4606 S Kirkman Rd, Orlando, FL 32811, USA*****28.495261,-81.460513
+5317 Curry Ford Rd M103, Orlando, FL 32812, USA*****28.524630,-81.318302
+4402 Curry Ford Rd, Orlando, FL 32812, USA*****28.521491,-81.330401
+1910 S Conway Rd, Orlando, FL 32812, USA*****28.519904,-81.331864
+4501 Hoffner Ave, Orlando, FL 32812, USA*****28.481963,-81.329369
+4800 New Broad St, Orlando, FL 32814, USA*****28.566561,-81.327659
+1501 Meeting Pl, Orlando, FL 32814, USA*****28.566293,-81.327105
+10115 University Blvd, Orlando, FL 32817, USA*****28.599090,-81.242848
+7640 W Sand Lake Rd, Orlando, FL 32819, USA*****28.448725,-81.486612
+4780 S Apopka Vineland Rd, Orlando, FL 32819, USA*****28.492085,-81.509034
+4870 S Apopka Vineland Rd, Orlando, FL 32819, USA*****28.490750,-81.510584
+16825 E Colonial Dr, Orlando, FL 32820, USA*****28.562579,-81.130811
+5350 Central Florida Pkwy, Orlando, FL 32821, USA*****28.407015,-81.448327
+8145 Vineland Ave, Orlando, FL 32821, USA*****28.386972,-81.485479
+4046 S Semoran Blvd, Orlando, FL 32822, USA*****28.503084,-81.310361
+4048 S Semoran Blvd, Orlando, FL 32822, USA*****28.503231,-81.311631
+4267 S Semoran Blvd, Orlando, FL 32822, USA*****28.500899,-81.308193
+13850 Landstar Blvd, Orlando, FL 32824, USA*****28.362750,-81.367139
+409 S Chickasaw Trail, Orlando, FL 32825, USA*****28.537767,-81.273821
+2300 S Chickasaw Trail, Orlando, FL 32825, USA*****28.510789,-81.269960
+11955 E Colonial Dr, Orlando, FL 32826, USA*****28.568335,-81.203770
+3400 Avalon Park E Blvd, Orlando, FL 32828, USA*****28.514275,-81.154334
+1921 S Alafaya Trail, Orlando, FL 32828, USA*****28.525892,-81.193782
+6485 S Chickasaw Trail, Orlando, FL 32829, USA*****28.470395,-81.266165
+10615 Narcoossee Rd, Orlando, FL 32832, USA*****28.412914,-81.240955
+2435 S Hiawassee Rd, Orlando, FL 32835, USA*****28.514892,-81.483576
+12195 S Orange Blossom Trail, Orlando, FL 32837, USA*****28.388533,-81.402312
+3972 Town Center Blvd, Orlando, FL 32837, USA*****28.361656,-81.424293
+5265 S John Young Pkwy, Orlando, FL 32839, USA*****28.487778,-81.415106
+1411 S Babcock St, Melbourne, FL 32901, USA*****28.086659,-80.620047
+2261 W New Haven Ave, West Melbourne, FL 32904, USA*****28.077583,-80.659830
+145 Palm Bay Rd NE #117, West Melbourne, FL 32904, USA*****28.037717,-80.669278
+4711 Babcock St NE, Palm Bay, FL 32905, USA*****28.031815,-80.621240
+1150 Malabar Rd SE, Palm Bay, FL 32907, USA*****27.997011,-80.635336
+3450 Bayside Lakes Blvd SE, Palm Bay, FL 32909, USA*****27.951463,-80.658096
+2301 FL-524, Cocoa, FL 32926, USA*****28.395200,-80.764568
+7325 US-1, Cocoa, FL 32927, USA*****28.486185,-80.773837
+5645 N Atlantic Ave, Cocoa Beach, FL 32931, USA*****28.369594,-80.607540
+2067 N Atlantic Ave, Cocoa Beach, FL 32931, USA*****28.344821,-80.610378
+3200 Lake Washington Rd, Melbourne, FL 32934, USA*****28.147544,-80.674446
+86 Lamplighter Dr, Melbourne, FL 32934, USA*****28.112047,-80.702491
+4100 N Wickham Rd, Melbourne, FL 32935, USA*****28.175043,-80.674132
+270 E Eau Gallie Blvd, Indian Harbour Beach, FL 32937, USA*****28.140739,-80.597362
+500 Palm Springs Blvd, Indian Harbour Beach, FL 32937, USA*****28.149780,-80.587803
+7777 N Wickham Rd, Melbourne, FL 32940, USA*****28.229784,-80.697470
+3830 S Hwy A1A, Melbourne Beach, FL 32951, USA*****28.015447,-80.534990
+1850 N Courtenay Pkwy, Merritt Island, FL 32953, USA*****28.388514,-80.701733
+3802 Murrell Rd, Rockledge, FL 32955, USA*****28.294022,-80.724279
+3820 Murrell Rd, Rockledge, FL 32955, USA*****28.294847,-80.722600
+1880 US-1, Rockledge, FL 32955, USA*****28.328313,-80.719289
+1451 Sebastian Blvd, Sebastian, FL 32958, USA*****27.765706,-80.510065
+9621 US-1, Sebastian, FL 32958, USA*****27.769324,-80.447372
+13435 US-1, Sebastian, FL 32958, USA*****27.838511,-80.487138
+400 18th St, Vero Beach, FL 32960, USA*****27.634510,-80.381501
+415 21st St, Vero Beach, FL 32960, USA*****27.638486,-80.382904
+526 21st St, Vero Beach, FL 32960, USA*****27.641282,-80.384231
+1255 US-1, Vero Beach, FL 32960, USA*****27.624487,-80.391090
+810 US-1, Vero Beach, FL 32962, USA*****27.587987,-80.376739
+2040 58th Ave, Vero Beach, FL 32966, USA*****27.640379,-80.445008
+4145 9th St SW, Vero Beach, FL 32968, USA*****27.585856,-80.428942
+402 E Dania Beach Blvd, Hollywood, FL 33019, USA*****26.051778,-80.136512
+401 E Sheridan St, Dania Beach, FL 33004, USA*****26.035051,-80.136403
+1400 E Hallandale Beach Blvd, Hallandale Beach, FL 33009, USA*****25.984553,-80.133597
+E 7th St, Hialeah, FL 33010, USA*****25.828486,-80.271479
+Hialeah, FL 33010, USA*****25.839203,-80.282306
+155 E 2nd Ave, Hialeah, FL 33010, USA*****25.823372,-80.276820
+950 SE 12th St, Hialeah, FL 33010, USA*****25.811002,-80.260195
+630 W 49th St, Hialeah, FL 33012, USA*****25.865452,-80.295803
+1585 W 49th St, Hialeah, FL 33012, USA*****25.869053,-80.314096
+15000 Miami Lakes Dr, Hialeah, FL 33014, USA*****25.910536,-80.306535
+1325 W 68th St APT 517, Hialeah, FL 33014, USA*****25.885272,-80.310478
+12670 NW 200th St, Hialeah, FL 33015, USA*****25.954801,-80.334671
+18496 NW 67th Ave, Hialeah, FL 33015, USA*****25.940989,-80.309002
+8319 NW 201st St, Hialeah, FL 33015, USA*****25.956102,-80.337478
+8601 NW 186th St, Hialeah, FL 33015, USA*****25.943878,-80.341180
+2414 W 60th St, Hialeah, FL 33016, USA*****25.875791,-80.332163
+1735 E Young Cir, Hollywood, FL 33020, USA*****26.011990,-80.141171
+3251 Hollywood Blvd, Hollywood, FL 33021, USA*****26.012657,-80.173701
+5211 Sheridan St, Hollywood, FL 33021, USA*****26.034680,-80.197167
+Miramar Pkwy, Miramar, FL 33023, USA*****25.982001,-80.226998
+6890 Miramar Pkwy, Miramar, FL 33023, USA*****25.981063,-80.225422
+9359 Sheridan St, Hollywood, FL 33024, USA*****26.032691,-80.266814
+600 N University Dr, Pembroke Pines, FL 33024, USA*****26.013664,-80.251822
+6901 Taft St, Hollywood, FL 33024, USA*****26.025835,-80.226380
+9951 Miramar Pkwy, Miramar, FL 33025, USA*****25.982222,-80.277691
+11000 Pembroke Rd, Miramar, FL 33025, USA*****25.991396,-80.294410
+11041 Springfield Pl, Hollywood, FL 33026, USA*****26.036523,-80.294454
+1657 N Hiatus Rd, Pembroke Pines, FL 33026, USA*****26.021410,-80.298253
+15729 Pines Blvd, Pembroke Pines, FL 33027, USA*****26.009595,-80.355686
+170 S Flamingo Rd, Pembroke Pines, FL 33027, USA*****26.005803,-80.314173
+14375 Miramar Pkwy, Miramar, FL 33027, USA*****25.980569,-80.337412
+12795 NW 18th Manor, Pembroke Pines, FL 33028, USA*****26.024777,-80.319613
+18341 Pines Blvd, Pembroke Pines, FL 33029, USA*****26.009418,-80.391379
+18409 Miramar Pkwy, Miramar, FL 33029, USA*****25.980061,-80.392743
+818 E Mowry Dr #917, Homestead, FL 33030, USA*****25.469549,-80.465976
+891 N Homestead Blvd, Homestead, FL 33030, USA*****25.478263,-80.462563
+3060 NE 41st Terrace, Homestead, FL 33033, USA*****25.498138,-80.414656
+2950 NE 8th St, Homestead, FL 33033, USA*****25.475219,-80.434147
+101437 Overseas Hwy, Key Largo, FL 33037, USA*****25.112570,-80.420899
+3316 N Roosevelt Blvd, Key West, FL 33040, USA*****24.569510,-81.763919
+740 Prado Cir, Key West, FL 33040, USA*****24.596407,-81.662386
+5407 Overseas Hwy, Marathon, FL 33050, USA*****24.714458,-81.076242
+411 S Cypress Rd, Pompano Beach, FL 33060, USA*****26.225085,-80.124452
+1405 S Federal Hwy, Deerfield Beach, FL 33441, USA*****26.299312,-80.094935
+2511 E Atlantic Blvd, Pompano Beach, FL 33062, USA*****26.233151,-80.098449
+4849 Coconut Creek Pkwy, Coconut Creek, FL 33063, USA*****26.246294,-80.188465
+5700 Lakeside Dr #516, Margate, FL 33063, USA*****26.241366,-80.201051
+7230 W Atlantic Blvd, Margate, FL 33063, USA*****26.233922,-80.222546
+2450 N Federal Hwy, Lighthouse Point, FL 33064, USA*****26.261946,-80.097576
+3700 N Federal Hwy, Lighthouse Point, FL 33064, USA*****26.276348,-80.095918
+10301 Royal Palm Blvd, Coral Springs, FL 33065, USA*****26.259953,-80.262566
+11600 W Sample Rd, Coral Springs, FL 33065, USA*****26.271781,-80.280826
+6270 W Sample Rd, Pompano Beach, FL 33067, USA*****26.272411,-80.209735
+8160 Wiles Rd, Coral Springs, FL 33067, USA*****26.285317,-80.235529
+8140 W McNab Rd, North Lauderdale, FL 33068, USA*****26.206255,-80.236968
+1297 S State Rd 7, North Lauderdale, FL 33068, USA*****26.211037,-80.204221
+1140 SW 36th Ave, Pompano Beach, FL 33069, USA*****26.215357,-80.171565
+1400 Coral Ridge Dr, Coral Springs, FL 33071, USA*****26.247941,-80.281208
+11005 SW 1st Ct, Coral Springs, FL 33071, USA*****26.230811,-80.272400
+1305 N University Dr, Coral Springs, FL 33071, USA*****26.246041,-80.251560
+6570 N State Rd 7, Coconut Creek, FL 33073, USA*****26.310601,-80.202131
+4760 W Hillsboro Blvd, Coconut Creek, FL 33073, USA*****26.317311,-80.188236
+5365 Lyons Rd, Coconut Creek, FL 33073, USA*****26.297422,-80.188291
+5600 W Sample Rd, Margate, FL 33073, USA*****26.271533,-80.199972
+5950 Coral Ridge Dr, Coral Springs, FL 33076, USA*****26.305195,-80.280731
+10701 Wiles Rd, Coral Springs, FL 33076, USA*****26.288303,-80.269939
+1421 NW N River Dr, Miami, FL 33125, USA*****25.786033,-80.219450
+5715 NW 7th St, Miami, FL 33126, USA*****25.779913,-80.289186
+1020 NW 45th Ave #106, Miami, FL 33126, USA*****25.782246,-80.270070
+134 SW 13th St, Miami, FL 33130, USA*****25.761239,-80.196660
+311 SW 7th St, Miami, FL 33130, USA*****25.767650,-80.199449
+668 SW 3rd St, Miami, FL 33130, USA*****25.770439,-80.205256
+2551 S Le Jeune Rd, Coral Gables, FL 33134, USA*****25.748180,-80.261671
+1500 Douglas Rd, Miami, FL 33134, USA*****25.757850,-80.255044
+3801 W Flagler St, Miami, FL 33134, USA*****25.772253,-80.257602
+4870 Biscayne Blvd, Miami, FL 33137, USA*****25.820312,-80.188117
+8500 Biscayne Blvd, Miami, FL 33138, USA*****25.853481,-80.185218
+9050 Biscayne Blvd, Miami Shores, FL 33138, USA*****25.858767,-80.184528
+1045 Dade Blvd, Miami Beach, FL 33139, USA*****25.794549,-80.140154
+1920 West Ave, Miami Beach, FL 33139, USA*****25.795129,-80.143294
+2009 Calais Dr, Miami Beach, FL 33141, USA*****25.853748,-80.142320
+6876 Collins Ave, Miami Beach, FL 33141, USA*****25.853234,-80.120832
+8250 Harding Ave, Miami Beach, FL 33141, USA*****25.867849,-80.122576
+2414 NW 60th St, Miami, FL 33142, USA*****25.829276,-80.237407
+8341 W Flagler St, Miami, FL 33126, USA*****25.771331,-80.331929
+2270 SW 27th Ave, Miami, FL 33145, USA*****25.748907,-80.239015
+1401 Monza Ave, Coral Gables, FL 33146, USA*****25.708058,-80.282219
+3339 NW 80th St, Miami, FL 33147, USA*****25.846692,-80.252882
+9510 NW 24th Ave, Miami, FL 33147, USA*****25.861002,-80.238409
+9400 Harding Ave, Surfside, FL 33154, USA*****25.883979,-80.123754
+8680 Coral Way, Miami, FL 33155, USA*****25.746083,-80.334730
+7350 SW 31st St, Miami, FL 33155, USA*****25.740859,-80.314543
+7805 Bird Rd, Miami, FL 33155, USA*****25.735997,-80.322257
+9105 S Dadeland Blvd, Kendall, FL 33156, USA*****25.686307,-80.315653
+18485 S Dixie Hwy, Cutler Bay, FL 33157, USA*****25.597040,-80.350944
+8221 SW 162nd St, Palmetto Bay, FL 33157, USA*****25.620355,-80.325532
+9510 SW 160th St, Miami, FL 33157, USA*****25.618837,-80.347507
+18330 Collins Ave, Sunny Isles Beach, FL 33160, USA*****25.946367,-80.122178
+12855 NE 6th Ave, North Miami, FL 33161, USA*****25.893566,-80.185240
+850 N Miami Beach Blvd, North Miami Beach, FL 33162, USA*****25.926649,-80.183583
+11050 SW 47th Terrace, Miami, FL 33165, USA*****25.722822,-80.374325
+11495 SW 40th St, Miami, FL 33165, USA*****25.733892,-80.380613
+9420 SW 56th St, Miami, FL 33173, USA*****25.715586,-80.347476
+19955 NW 2nd Ave, North Miami Beach, FL 33169, USA*****25.958198,-80.203216
+1525 SW 107th Ave, Miami, FL 33174, USA*****25.755245,-80.366648
+14630 SW 26th St, Miami, FL 33175, USA*****25.741659,-80.431087
+13890 SW 56th St, Miami, FL 33183, USA*****25.713273,-80.418534
+13005 SW 89th Pl, Miami, FL 33176, USA*****25.648707,-80.339501
+14601 S Dixie Hwy, Miami, FL 33176, USA*****25.633946,-80.336455
+9041 SW 107th Ave, Miami, FL 33176, USA*****25.684341,-80.365952
+20201 SW 127th Ave, Miami, FL 33177, USA*****25.579612,-80.395613
+14263 SW 153rd Terrace, Miami, FL 33177, USA*****25.624941,-80.424328
+13735 SW 152nd St, Miami, FL 33177, USA*****25.627556,-80.415700
+9755 NW 41st St, Doral, FL 33178, USA*****25.812986,-80.355519
+10755 NW 58th St, Doral, FL 33178, USA*****25.827667,-80.371172
+1700 NE Miami Gardens Dr, North Miami Beach, FL 33179, USA*****25.944865,-80.166995
+18995 Biscayne Blvd, Aventura, FL 33180, USA*****25.950772,-80.143120
+2952 NE 199th St, Aventura, FL 33180, USA*****25.959622,-80.141214
+14641 Biscayne Blvd, North Miami Beach, FL 33181, USA*****25.911510,-80.155718
+12850 Biscayne Blvd, North Miami, FL 33181, USA*****25.895112,-80.163440
+8250 Mills Dr, Kendall, FL 33183, USA*****25.691058,-80.387691
+13850 SW 8th St, Miami, FL 33184, USA*****25.759833,-80.420229
+11822 SW 13th St, Miami, FL 33184, USA*****25.756076,-80.386902
+15755 SW 56th St, Miami, FL 33185, USA*****25.714763,-80.448444
+4260 SW 152nd Ave, Miami, FL 33185, USA*****25.726852,-80.441097
+13820 SW 88th St, Miami, FL 33186, USA*****25.684014,-80.419177
+13001 SW 112th St, Miami, FL 33186, USA*****25.664971,-80.406744
+10290 SW 145th Pl, Miami, FL 33186, USA*****25.671302,-80.429501
+12100 SW 127th Ave, Miami, FL 33186, USA*****25.655854,-80.400474
+20425 Old Cutler Rd, Cutler Bay, FL 33189, USA*****25.577124,-80.336980
+20711 S Dixie Hwy, Miami, FL 33189, USA*****25.574188,-80.373085
+15750 SW 72nd St, Miami, FL 33193, USA*****25.698099,-80.448124
+10201 Hammocks Blvd, Miami, FL 33196, USA*****25.671799,-80.442924
+16800 SW 88th St, Miami, FL 33196, USA*****25.682797,-80.464722
+3400 N Federal Hwy, Fort Lauderdale, FL 33306, USA*****26.169631,-80.117646
+2613 Acacia Ct, Fort Lauderdale, FL 33301, USA*****26.115147,-80.110819
+601 S Andrews Ave, Fort Lauderdale, FL 33301, USA*****26.114144,-80.143731
+900 N Federal Hwy, Fort Lauderdale, FL 33304, USA*****26.135495,-80.136665
+1415 E Sunrise Blvd, Fort Lauderdale, FL 33304, USA*****26.138463,-80.129337
+3400 N Federal Hwy, Fort Lauderdale, FL 33306, USA*****26.169631,-80.117646
+4703 N Ocean Dr, Lauderdale-By-The-Sea, FL 33308, USA*****26.197447,-80.097242
+3255 NW 44th St APT 4, Oakland Park, FL 33309, USA*****26.180791,-80.190324
+100 W Oakland Park Blvd, Wilton Manors, FL 33311, USA*****26.165509,-80.148004
+2121 NW 21st Terrace, Fort Lauderdale, FL 33311, USA*****26.153455,-80.171868
+3500 Davie Blvd, Fort Lauderdale, FL 33312, USA*****26.104110,-80.193347
+120 SW 30th Ave, Fort Lauderdale, FL 33312, USA*****26.120016,-80.184503
+3102 Griffin Rd, Fort Lauderdale, FL 33312, USA*****26.061498,-80.184950
+3251 Hollywood Oaks Dr, Fort Lauderdale, FL 33312, USA*****26.053247,-80.188132
+5855 W Oakland Park Blvd, Lauderhill, FL 33313, USA*****26.164698,-80.226735
+2412 NW 52nd Ave, Lauderhill, FL 33313, USA*****26.156829,-80.220226
+5997 Stirling Rd, Davie, FL 33314, USA*****26.047362,-80.225683
+1940 Cordova Rd, Fort Lauderdale, FL 33316, USA*****26.097222,-80.130113
+6921 W Broward Blvd, Plantation, FL 33317, USA*****26.122250,-80.239324
+6525 Nova Dr, Davie, FL 33317, USA*****26.087250,-80.230769
+4121 W Commercial Blvd, Tamarac, FL 33319, USA*****26.188285,-80.205725
+5881 N University Dr, Tamarac, FL 33321, USA*****26.196893,-80.255457
+8245 NW 88th Ave, Tamarac, FL 33321, USA*****26.227204,-80.271154
+8101 W Sunrise Blvd, Plantation, FL 33322, USA*****26.149158,-80.259052
+12500 W Sunrise Blvd, Sunrise, FL 33323, USA*****26.144120,-80.315566
+8842 W State Rd 84, Davie, FL 33324, USA*****26.100673,-80.266815
+10065 Cleary Blvd, Plantation, FL 33324, USA*****26.134752,-80.283787
+550 N Pine Island Rd, Plantation, FL 33324, USA*****26.127391,-80.261491
+7951 SW 6th St, Plantation, FL 33324, USA*****26.114294,-80.257702
+2441 115th Trail, Davie, FL 33325, USA*****26.089664,-80.302986
+13700 W State Rd 84, Davie, FL 33325, USA*****26.116485,-80.332712
+225 S Flamingo Rd, Plantation, FL 33325, USA*****26.116728,-80.315926
+294 Indian Trace, Weston, FL 33326, USA*****26.118165,-80.391786
+1170 Weston Rd, Weston, FL 33326, USA*****26.104372,-80.363098
+1601 Promenade Blvd, Weston, FL 33326, USA*****26.098168,-80.380713
+2465 Glades Cir, Weston, FL 33327, USA*****26.139109,-80.420655
+4701 S University Dr, Davie, FL 33328, USA*****26.062463,-80.253388
+5630 S Flamingo Rd, Cooper City, FL 33330, USA*****26.047573,-80.310920
+4901 Volunteer Rd, Southwest Ranches, FL 33331, USA*****26.058575,-80.346035
+4567 Weston Rd, Weston, FL 33331, USA*****26.065122,-80.364622
+15801 Sheridan St, Fort Lauderdale, FL 33331, USA*****26.031036,-80.357687
+19441 Sheridan St, Fort Lauderdale, FL 33332, USA*****26.030776,-80.407714
+1003 E Commercial Blvd, Oakland Park, FL 33334, USA*****26.190966,-80.134310
+2633 N Dixie Hwy, Wilton Manors, FL 33334, USA*****26.160772,-80.132463
+10155 W Oakland Park Blvd, Sunrise, FL 33351, USA*****26.170817,-80.286704
+375 S Rosemary Ave, West Palm Beach, FL 33401, USA*****26.710690,-80.057596
+828 Southern Blvd, West Palm Beach, FL 33405, USA*****26.674488,-80.061831
+11566 US-1, Palm Beach Gardens, FL 33408, USA*****26.845850,-80.060221
+108 Lakeshore Dr, North Palm Beach, FL 33408, USA*****26.830987,-80.055354
+400 Northlake Blvd, North Palm Beach, FL 33408, USA*****26.805449,-80.059008
+374 Northlake Blvd, North Palm Beach, FL 33408, USA*****26.804594,-80.058469
+831 Village Blvd, West Palm Beach, FL 33409, USA*****26.714092,-80.102083
+2895 N Military Trl, West Palm Beach, FL 33409, USA*****26.720044,-80.112629
+10913 N Military Trl, Palm Beach Gardens, FL 33418, USA*****26.839773,-80.106464
+9900 FL A1AAlt, Palm Beach Gardens, FL 33410, USA*****26.822531,-80.082913
+4260 Northlake Blvd, Palm Beach Gardens, FL 33410, USA*****26.807835,-80.100589
+4200 Northlake Blvd, Palm Beach Gardens, FL 33410, USA*****26.805998,-80.101026
+28950 N Military Trl, Boca Raton, FL 33431, USA*****26.368456,-80.120994
+6820 Okeechobee Blvd, West Palm Beach, FL 33411, USA*****26.705917,-80.150796
+1180 Royal Palm Beach Blvd, Royal Palm Beach, FL 33411, USA*****26.707743,-80.226990
+11977 Southern Blvd, Royal Palm Beach, FL 33411, USA*****26.683534,-80.245395
+8989 Okeechobee Blvd, West Palm Beach, FL 33411, USA*****26.710461,-80.184699
+10130 Northlake Blvd, West Palm Beach, FL 33412, USA*****26.810242,-80.198926
+6790 Forest Hill Blvd, Greenacres, FL 33413, USA*****26.648935,-80.147760
+1527 Olive Tree Cir, Greenacres, FL 33413, USA*****26.652983,-80.151418
+11950 Forest Hill Blvd, Wellington, FL 33414, USA*****26.651708,-80.235439
+127 S State Rd 7, Royal Palm Beach, FL 33414, USA*****26.677803,-80.203374
+13880 Wellington Trace, West Palm Beach, FL 33414, USA*****26.660601,-80.266629
+890 S Military Trail, West Palm Beach, FL 33415, USA*****26.664125,-80.111051
+926 S Military Trail, West Palm Beach, FL 33415, USA*****26.664552,-80.110579
+4075 Haverhill Rd, West Palm Beach, FL 33417, USA*****26.737372,-80.119653
+6251 PGA Boulevard, Palm Beach Gardens, FL 33418, USA*****26.841826,-80.133263
+1005 Gateway Blvd, Boynton Beach, FL 33426, USA*****26.551508,-80.074271
+133 N Congress Ave, Boynton Beach, FL 33436, USA*****26.527054,-80.092004
+4753 N Congress Ave, Boynton Beach, FL 33426, USA*****26.570528,-80.090980
+9856 Marina Blvd, Boca Raton, FL 33428, USA*****26.328902,-80.201690
+22973 FL-7, Boca Raton, FL 33428, USA*****26.334961,-80.204418
+11650 W Palmetto Park Rd, Boca Raton, FL 33428, USA*****26.347185,-80.232219
+4141 N Federal Hwy, Boca Raton, FL 33431, USA*****26.386890,-80.078034
+1968 NE 5th Ave, Boca Raton, FL 33431, USA*****26.368550,-80.076279
+1001 S Federal Hwy, Boca Raton, FL 33432, USA*****26.341050,-80.086286
+7060 W Palmetto Park Rd, Boca Raton, FL 33433, USA*****26.347549,-80.157516
+3003 Yamato Rd, Boca Raton, FL 33434, USA*****26.395553,-80.147132
+9846 Glades Rd, Boca Raton, FL 33434, USA*****26.364691,-80.201280
+501 SE 18th Ave, Boynton Beach, FL 33435, USA*****26.512771,-80.061506
+3483 Woolbright Rd, Boynton Beach, FL 33436, USA*****26.512817,-80.119400
+4966 Le Chalet Blvd, Boynton Beach, FL 33436, USA*****26.554031,-80.122183
+3775 Woolbright Rd, Boynton Beach, FL 33436, USA*****26.513133,-80.118388
+6627 W Boynton Beach Blvd, Boynton Beach, FL 33437, USA*****26.529399,-80.149662
+150 S Federal Hwy, Deerfield Beach, FL 33441, USA*****26.315211,-80.090566
+1337 S Military Trail, Deerfield Beach, FL 33442, USA*****26.301976,-80.135095
+777 SW 12th Ave, Deerfield Beach, FL 33442, USA*****26.308350,-80.122968
+3740 W Hillsboro Blvd, Deerfield Beach, FL 33442, USA*****26.317693,-80.156289
+4771 W Atlantic Ave, Delray Beach, FL 33445, USA*****26.459053,-80.119304
+16130 Jog Rd, Delray Beach, FL 33446, USA*****26.437485,-80.145126
+13860 Jog Rd, Delray Beach, FL 33446, USA*****26.471240,-80.145586
+7375 W Atlantic Ave, Delray Beach, FL 33446, USA*****26.455526,-80.161427
+11750 SE Federal Hwy, Hobe Sound, FL 33455, USA*****27.060858,-80.139456
+6330 W Indiantown Rd, Jupiter, FL 33458, USA*****26.932489,-80.131017
+6238 Riverwalk Ln UNIT 8, Jupiter, FL 33458, USA*****26.938363,-80.128591
+123 Honeybell Way, Jupiter, FL 33458, USA*****26.911845,-80.101940
+5500 Military Trail, Jupiter, FL 33458, USA*****26.884276,-80.106128
+1910 Lake Worth Rd, Lake Worth, FL 33461, USA*****26.618357,-80.071597
+1700 S Congress Ave, Palm Springs, FL 33461, USA*****26.638551,-80.086590
+1589 Lantana Rd Apt W, Lantana, FL 33462, USA*****26.587287,-80.067382
+4849 S Military Trail, Greenacres, FL 33463, USA*****26.605816,-80.115465
+4075 Haverhill Rd, Greenacres, FL 33463, USA*****26.617452,-80.121777
+8899 Hypoluxo Rd, Lake Worth, FL 33467, USA*****26.568860,-80.187332
+8888 Lantana Rd, Lake Worth, FL 33467, USA*****26.589290,-80.187332
+5970 Jog Rd, Lake Worth, FL 33467, USA*****26.590752,-80.145124
+9855 Lake Worth Rd, Lake Worth, FL 33467, USA*****26.618400,-80.202785
+7745 Lake Worth Rd, Lake Worth, FL 33467, USA*****26.618905,-80.168586
+500 US-1, Jupiter, FL 33469, USA*****26.967303,-80.088541
+105 US-1, Jupiter, FL 33477, USA*****26.932922,-80.080220
+7050 Seminole Pratt Whitney Rd, Loxahatchee, FL 33470, USA*****26.781007,-80.292343
+8340 Jog Rd, Boynton Beach, FL 33472, USA*****26.551011,-80.149574
+4060 US-1, Jupiter, FL 33477, USA*****26.894198,-80.061729
+95 US-1, Jupiter, FL 33477, USA*****26.933156,-80.077167
+10142 W Indiantown Rd, Jupiter, FL 33478, USA*****26.939137,-80.192476
+265 Sunset Ave, Palm Beach, FL 33480, USA*****26.719288,-80.040463
+1538 S Federal Hwy, Delray Beach, FL 33483, USA*****26.443670,-80.070718
+555 NE 6th Ave, Delray Beach, FL 33483, USA*****26.471474,-80.066979
+1339 W Palmetto Park Rd, Boca Raton, FL 33486, USA*****26.353317,-80.111887
+7431 N Federal Hwy, Boca Raton, FL 33487, USA*****26.415650,-80.076240
+9715 Clint Moore Rd, Boca Raton, FL 33496, USA*****26.408727,-80.199251
+5050 Champion Blvd, Boca Raton, FL 33496, USA*****26.410203,-80.124103
+1220 Kingsway Rd, Brandon, FL 33510, USA*****27.957132,-82.278111
+3309 Buckhorn Creek Rd, Brandon, FL 33511, USA*****27.894257,-82.296243
+11255 Causeway Blvd, Brandon, FL 33511, USA*****27.921283,-82.323739
+1311 Lake Lucerne Way, Brandon, FL 33511, USA*****27.912476,-82.321592
+939 W Brandon Blvd, Brandon, FL 33511, USA*****27.935651,-82.297616
+855 E Bloomingdale Ave, Brandon, FL 33511, USA*****27.893630,-82.272175
+7320 Gall Blvd, Zephyrhills, FL 33541, USA*****28.265290,-82.186430
+5400 Bruce B Downs Blvd, Wesley Chapel, FL 33544, USA*****28.235514,-82.347060
+1290 Bruce B Downs Blvd, Wesley Chapel, FL 33544, USA*****28.175420,-82.353773
+1920 Bruce B Downs Blvd, Wesley Chapel, FL 33543, USA*****28.184634,-82.350737
+5642 Fishhawk Crossing Blvd, Lithia, FL 33547, USA*****27.853369,-82.204929
+19221 Dale Mabry Hwy, Lutz, FL 33548, USA*****28.156500,-82.481077
+16560 N Nebraska Ave, Lutz, FL 33549, USA*****28.106233,-82.459564
+3939 Van Dyke Rd, Lutz, FL 33558, USA*****28.129561,-82.504038
+18901 FL-54, Lutz, FL 33558, USA*****28.195211,-82.502936
+3103 E County Line Rd, Lutz, FL 33559, USA*****28.169403,-82.421979
+2515 Thonotosassa Rd, Plant City, FL 33563, USA*****28.023882,-82.150370
+2202 James L Redman Pkwy, Plant City, FL 33563, USA*****27.990870,-82.119931
+11667 Boyette Rd, Riverview, FL 33569, USA*****27.852128,-82.304063
+4854 Sun City Center Blvd, Sun City Center, FL 33573, USA*****27.714375,-82.336542
+11109 Winthrop Market St, Riverview, FL 33578, USA*****27.892289,-82.317525
+13154 US-301, Riverview, FL 33579, USA*****27.793672,-82.333066
+12803 Rhodine Rd, Riverview, FL 33579, USA*****27.821894,-82.275665
+11782 E Dr Martin Luther King Jr Blvd, Seffner, FL 33584, USA*****27.981903,-82.298865
+10928 Cross Creek Blvd, Tampa, FL 33647, USA*****28.145575,-82.283533
+11908 Thonotosassa Rd, Thonotosassa, FL 33592, USA*****28.048450,-82.273291
+1930 FL-60, Valrico, FL 33594, USA*****27.939301,-82.255698
+2213 Miramont Cir, Valrico, FL 33594, USA*****27.941951,-82.248900
+3461 Lithia Pinecrest Rd, Valrico, FL 33596, USA*****27.892836,-82.241437
+6001 N Nebraska Ave, Tampa, FL 33604, USA*****28.002158,-82.450487
+8743 N Wick Pl, Tampa, FL 33604, USA*****28.032005,-82.421547
+243 Bayshore Blvd, Tampa, FL 33606, USA*****27.942305,-82.460467
+3615 W Gandy Blvd, Tampa, FL 33611, USA*****27.895046,-82.503192
+2724 W Hillsborough Ave, Tampa, FL 33614, USA*****27.994624,-82.487290
+10019 W Hillsborough Ave, Town 'N' Country, FL 33615, USA*****28.004080,-82.596125
+5450 E Busch Blvd, Tampa, FL 33617, USA*****28.033944,-82.394850
+8700 N 50th St #932, Tampa, FL 33617, USA*****28.030786,-82.403331
+11502 N 53rd St, Tampa, FL 33617, USA*****28.053290,-82.397027
+15151 N Dale Mabry Hwy, Tampa, FL 33618, USA*****28.087481,-82.502516
+10015 N Dale Mabry Hwy, Tampa, FL 33618, USA*****28.040902,-82.503779
+13178 N Dale Mabry Hwy, Tampa, FL 33618, USA*****28.067027,-82.506853
+12026 Anderson Rd, Tampa, FL 33625, USA*****28.060226,-82.543630
+5371 Ehrlich Rd, Tampa, FL 33625, USA*****28.084265,-82.543083
+12139 W Linebaugh Ave, Tampa, FL 33626, USA*****28.057089,-82.624887
+7835 Gunn Hwy, Tampa, FL 33626, USA*****28.080598,-82.576567
+1313 S Dale Mabry Hwy, Tampa, FL 33629, USA*****27.930939,-82.507252
+1515 S Dale Mabry Hwy, Tampa, FL 33629, USA*****27.929653,-82.506195
+7018 W Waters Ave, Tampa, FL 33634, USA*****28.024411,-82.560005
+8975 Race Track Rd, Tampa, FL 33635, USA*****28.035712,-82.646572
+19034 Bruce B Downs Blvd, Tampa, FL 33647, USA*****28.145238,-82.355152
+16041 Tampa Palms Blvd W, Tampa, FL 33647, USA*****28.100330,-82.399039
+10928 Cross Creek Blvd, Tampa, FL 33647, USA*****28.145575,-82.283533
+250 3rd St S, St. Petersburg, FL 33701, USA*****27.769097,-82.636453
+7999 Dr M.L.K. Jr St N, St. Petersburg, FL 33702, USA*****27.845357,-82.643702
+200 37th Ave N, St. Petersburg, FL 33704, USA*****27.806374,-82.635008
+4655 Gulf Blvd, St Pete Beach, FL 33706, USA*****27.723248,-82.739982
+111 104th Ave, Treasure Island, FL 33706, USA*****27.766103,-82.767495
+6850 Gulfport Blvd S, South Pasadena, FL 33707, USA*****27.757231,-82.734236
+Welch Causeway, Florida 33708, USA*****27.813742,-82.787834
+5577 Park St N, St. Petersburg, FL 33709, USA*****27.822733,-82.751402
+5510 58th Way N A206, Kenneth City, FL 33709, USA*****27.822917,-82.714336
+7044 22nd Ave N, St. Petersburg, FL 33710, USA*****27.791204,-82.736315
+3501 49th St N, St. Petersburg, FL 33710, USA*****27.804216,-82.698866
+5295 34th St S, St. Petersburg, FL 33711, USA*****27.720595,-82.680240
+1700 34th St N, St. Petersburg, FL 33713, USA*****27.788648,-82.680642
+120 Carillon Pkwy, St. Petersburg, FL 33716, USA*****27.893133,-82.662100
+10496 Roosevelt Blvd N, St. Petersburg, FL 33716, USA*****27.867066,-82.646150
+1555 S Highland Ave, Clearwater, FL 33756, USA*****27.940084,-82.773646
+610 S Duncan Ave, Clearwater, FL 33756, USA*****27.958325,-82.767173
+619 S Ft Harrison Ave, Clearwater, FL 33756, USA*****27.959352,-82.799167
+2600 McCormick Dr, Clearwater, FL 33759, USA*****27.999713,-82.728265
+1520 McMullen Booth Rd, Clearwater, FL 33759, USA*****27.980011,-82.711024
+5000 E Bay Dr, Clearwater, FL 33764, USA*****27.918114,-82.734967
+525 S Belcher Rd, Clearwater, FL 33764, USA*****27.959034,-82.744576
+23674 US Hwy 19 N, Clearwater, FL 33765, USA*****27.989130,-82.732211
+200 Island Way, Clearwater, FL 33767, USA*****27.978861,-82.817186
+857 W Bay Dr, Largo, FL 33770, USA*****27.915137,-82.797904
+857 W Bay Dr, Largo, FL 33770, USA*****27.915278,-82.798056
+1229 Missouri Ave N, Largo, FL 33770, USA*****27.930701,-82.789145
+10411 Ulmerton Rd, Largo, FL 33771, USA*****27.896552,-82.783754
+11175 Park Blvd N, Seminole, FL 33772, USA*****27.841025,-82.794138
+12022 Indian Rocks Rd, Largo, FL 33774, USA*****27.881946,-82.833296
+9201 Oakhurst Rd, Seminole, FL 33776, USA*****27.857436,-82.829897
+10801 Starkey Rd, Seminole, FL 33777, USA*****27.871382,-82.760418
+7580 49th St N, Pinellas Park, FL 33781, USA*****27.840772,-82.701411
+6450 78th Ave N #42, Pinellas Park, FL 33781, USA*****27.842319,-82.725525
+7333 Park Blvd N, Pinellas Park, FL 33781, USA*****27.841398,-82.740185
+733 Park Blvd N, Pinellas Park, FL 33781, USA*****27.839551,-82.684373
+1617 Bartow Rd, Lakeland, FL 33801, USA*****28.023157,-81.926370
+3636 Harden Blvd, Lakeland, FL 33803, USA*****27.998213,-81.972061
+2515 Florida Ave S, Lakeland, FL 33803, USA*****28.013580,-81.958255
+5375 N Socrum Loop Rd, Lakeland, FL 33809, USA*****28.111912,-81.945042
+6767 US Hwy 98 N, Lakeland, FL 33809, USA*****28.129392,-81.972061
+5233 US Hwy 98 N #153, Lakeland, FL 33809, USA*****28.110336,-81.973352
+2300 Griffin Rd, Lakeland, FL 33810, USA*****28.079445,-81.991934
+5607 Forest Creek Rd, Lakeland, FL 33810, USA*****28.115903,-82.058867
+1075 Old S Dr, Lakeland, FL 33811, USA*****27.959578,-81.976992
+3300 Publix Corporate Pkwy, Lakeland, FL 33811, USA*****28.002854,-82.013919
+3525 Aviation Dr, Lakeland, FL 33811, USA*****27.977977,-82.016472
+5225 US Hwy 98 S, Lakeland, FL 33812, USA*****27.970315,-81.881978
+2125 E County Rd 540A, Lakeland, FL 33813, USA*****27.951841,-81.925177
+4730 Florida Ave S, Lakeland, FL 33813, USA*****27.978372,-81.956039
+1936 George Jenkins Blvd, Lakeland, FL 33815, USA*****28.041639,-81.987714
+3045 New Tampa Hwy, Lakeland, FL 33815, USA*****28.038470,-82.006791
+606 Havendale Blvd, Auburndale, FL 33823, USA*****28.051944,-81.774992
+1020 US Hwy 27 S, Avon Park, FL 33825, USA*****27.583979,-81.515954
+255 E Van Fleet Dr, Bartow, FL 33830, USA*****27.902557,-81.841732
+617 U.S. Hwy 17-92 N W, Haines City, FL 33844, USA*****28.105527,-81.638960
+39883 US-27, Haines City, FL 33844, USA*****28.178515,-81.637816
+350 US-27, Lake Placid, FL 33852, USA*****27.302012,-81.359894
+102 FL-60, Lake Wales, FL 33853, USA*****27.892704,-81.589031
+23965 US-27, Lake Wales, FL 33859, USA*****27.958612,-81.620890
+2040 Shepherd Rd, Mulberry, FL 33860, USA*****27.936714,-81.988194
+2824 US Hwy 27 N, Sebring, FL 33870, USA*****27.516314,-81.493617
+2824 US Hwy 27 S, Sebring, FL 33870, USA*****27.472499,-81.445768
+800 Cypress Gardens Blvd, Winter Haven, FL 33880, USA*****28.002750,-81.716558
+1090 Spirit Lake Rd, Winter Haven, FL 33880, USA*****28.005824,-81.776737
+1395 6th St NW, Winter Haven, FL 33881, USA*****28.035282,-81.734413
+6031 Cypress Gardens Blvd, Winter Haven, FL 33884, USA*****27.987274,-81.685937
+8301 Champions Gate Blvd, Reunion, FL 34747, USA*****28.263027,-81.619167
+7700 Osceola Polk Line Rd, Davenport, FL 33896, USA*****28.258249,-81.591877
+2440 Sand Mine Rd, Davenport, FL 33897, USA*****28.311581,-81.669553
+2424 Sand Mine Rd, Davenport, FL 33897, USA*****28.311202,-81.670023
+2160 McGregor Blvd, Fort Myers, FL 33901, USA*****26.637802,-81.876631
+3783 Seago Ln, Fort Myers, FL 33901, USA*****26.607374,-81.870187
+18900 N Tamiami Trail, North Fort Myers, FL 33903, USA*****26.738299,-81.911893
+4065 Hancock Bridge Pkwy, North Fort Myers, FL 33903, USA*****26.653327,-81.913152
+1016 Cape Coral Pkwy E, Cape Coral, FL 33904, USA*****26.561250,-81.951350
+11851 Palm Beach Blvd, Fort Myers, FL 33905, USA*****26.698918,-81.761355
+4901 Palm Beach Blvd, Fort Myers, FL 33905, USA*****26.681317,-81.805331
+7070 College Pkwy, Fort Myers, FL 33907, USA*****26.557629,-81.873142
+19100 S Tamiami Trail, Fort Myers, FL 33908, USA*****26.462926,-81.830921
+15880 Summerlin Rd, Fort Myers, FL 33908, USA*****26.515192,-81.900145
+15000 Summerlin Rd, Fort Myers, FL 33908, USA*****26.515200,-81.897696
+11600 Gladiolus Dr, Fort Myers, FL 33908, USA*****26.517567,-81.942501
+20321 Summerlin Rd, Fort Myers, FL 33908, USA*****26.491608,-81.972697
+16520 S Tamiami Trail, Fort Myers, FL 33908, USA*****26.501218,-81.857279
+13250 Fiddlesticks Blvd, Fort Myers, FL 33912, USA*****26.541322,-81.804168
+13650 Fiddlesticks Blvd, Fort Myers, FL 33912, USA*****26.545089,-81.805069
+6900 Daniels Pkwy, Fort Myers, FL 33912, USA*****26.545391,-81.842373
+2420 Santa Barbara Blvd, Cape Coral, FL 33914, USA*****26.606930,-81.975873
+1616 Cape Coral Pkwy W, Cape Coral, FL 33914, USA*****26.560885,-82.008205
+4025 Ballard Rd, Fort Myers, FL 33916, USA*****26.652390,-81.831882
+5997 South Pointe Blvd, Fort Myers, FL 33919, USA*****26.558706,-81.904879
+4600 Summerlin Rd, Fort Myers, FL 33919, USA*****26.595279,-81.885113
+20311 Grande Oak Shoppes Blvd, Estero, FL 33928, USA*****26.437600,-81.770000
+21251 Corkscrew Village Ln, Estero, FL 33928, USA*****26.429900,-81.808154
+21301 S Tamiami Trail, Estero, FL 33928, USA*****26.429781,-81.807918
+4791 Estero Blvd, Fort Myers Beach, FL 33931, USA*****26.437291,-81.920065
+1324 Homestead Rd N, Lehigh Acres, FL 33936, USA*****26.609600,-81.650682
+8725 Placida Rd, Placida, FL 33946, USA*****26.853651,-82.289676
+19451 Cochran Blvd, Port Charlotte, FL 33948, USA*****27.009986,-82.132176
+2310 Tamiami Trail, Punta Gorda, FL 33950, USA*****26.918402,-82.046601
+3941 Tamiami Trail, Punta Gorda, FL 33950, USA*****26.888577,-82.025558
+615 Cross St #1116, Punta Gorda, FL 33950, USA*****26.929256,-82.048862
+21060 Kearney Ave, Port Charlotte, FL 33952, USA*****27.004699,-82.105069
+24123 Peachland Blvd, Punta Gorda, FL 33980, USA*****27.015719,-82.053579
+7334 N Tulip Tree, Punta Gorda, FL 33955, USA*****26.872348,-82.019405
+5781 Lee Blvd, Lehigh Acres, FL 33971, USA*****26.618388,-81.765201
+1000 Kings Hwy #10, Punta Gorda, FL 33980, USA*****27.012622,-82.048243
+4265 Tamiami Trail, Port Charlotte, FL 33980, USA*****26.966959,-82.079725
+13435 S McCall Rd, Port Charlotte, FL 33981, USA*****26.932590,-82.236800
+1105 SE 23rd Ave, Cape Coral, FL 33990, USA*****26.631771,-81.926238
+1631 Del Prado Blvd S, Cape Coral, FL 33990, USA*****26.619057,-81.939450
+1411 SE 23rd Ave, Cape Coral, FL 33990, USA*****26.626706,-81.926211
+3015 SW Pine Island Rd, Cape Coral, FL 33991, USA*****26.639328,-82.037580
+100 Hancock Bridge Pkwy, Cape Coral, FL 33991, USA*****26.648432,-81.976833
+5475 Tamiami Trail N, Naples, FL 34108, USA*****26.212777,-81.802585
+1981 Tamiami Trail N, Naples, FL 34102, USA*****26.170621,-81.801000
+4860 Davis Blvd, Naples, FL 34112, USA*****26.137194,-81.748534
+7101 Radio Rd, Naples, FL 34104, USA*****26.155563,-81.722089
+2310 Pine Ridge Rd, Naples, FL 34109, USA*****26.210457,-81.771695
+2450 Vanderbilt Beach Rd, Naples, FL 34109, USA*****26.241826,-81.767508
+5624 Strand Blvd, Naples, FL 34110, USA*****26.275205,-81.745799
+4370 Thomasson Dr, Naples, FL 34112, USA*****26.106110,-81.749902
+5238 Texas Ave, Naples, FL 34113, USA*****26.080837,-81.721198
+12663 Tamiami Trail E, Naples, FL 34113, USA*****26.066655,-81.701335
+8585 Collier Blvd, Naples, FL 34114, USA*****26.110471,-81.688675
+15265 Collier Blvd, Naples, FL 34119, USA*****26.271397,-81.690985
+5991 Pine Ridge Rd, Naples, FL 34119, USA*****26.213146,-81.728798
+3306 Bonita Beach Rd SW, Bonita Springs, FL 34134, USA*****26.331759,-81.810191
+24600 S Tamiami Trail, Bonita Springs, FL 34134, USA*****26.381793,-81.809835
+12900 Trade Center Dr, Bonita Springs, FL 34135, USA*****26.329862,-81.738959
+175 S Barfield Dr Apt S, Marco Island, FL 34145, USA*****25.931753,-81.699282
+11205 E State Rd 70, Lakewood Ranch, FL 34202, USA*****27.434505,-82.430332
+8330 Market St, Lakewood Ranch, FL 34202, USA*****27.390596,-82.443285
+7290 55th Ave E, Bradenton, FL 34203, USA*****27.441746,-82.464614
+1005 44th Ave E, Bradenton, FL 34203, USA*****27.462291,-82.553545
+3913 Manatee Ave W, Bradenton, FL 34205, USA*****27.494387,-82.600811
+1005 Cortez Rd W, Bradenton, FL 34207, USA*****27.460803,-82.573500
+6030 14th St W, Bradenton, FL 34207, USA*****27.434134,-82.577418
+5001 FL-64, Bradenton, FL 34208, USA*****27.497607,-82.499132
+7308 Manatee Ave W, Bradenton, FL 34209, USA*****27.497656,-82.633499
+7310 Manatee Ave W, Bradenton, FL 34209, USA*****27.498228,-82.633657
+3407 57th Ave Dr W, Bradenton, FL 34210, USA*****27.440902,-82.596669
+5584 Cortez Rd W, Bradenton, FL 34210, USA*****27.463912,-82.617869
+1755 Lakewood Ranch Blvd, Bradenton, FL 34211, USA*****27.483090,-82.432492
+3900 E Bay Dr, Holmes Beach, FL 34217, USA*****27.495619,-82.708389
+6242 US-301, Ellenton, FL 34222, USA*****27.533696,-82.500401
+55 N Indiana Ave, Englewood, FL 34223, USA*****26.963042,-82.351716
+55 N Indiana Ave, Englewood, FL 34223, USA*****26.963042,-82.351716
+525 Bay Isles Pkwy, Longboat Key, FL 34228, USA*****27.367529,-82.624455
+3428 Clark Rd, Sarasota, FL 34231, USA*****27.267954,-82.499724
+6543 S Tamiami Trail, Sarasota, FL 34231, USA*****27.259254,-82.521343
+5391 Fruitville Rd, Sarasota, FL 34232, USA*****27.339519,-82.462329
+935 N Beneva Rd, Sarasota, FL 34232, USA*****27.343591,-82.499263
+5804 Bee Ridge Rd, Sarasota, FL 34233, USA*****27.297363,-82.454119
+3690 Bee Ridge Rd, Sarasota, FL 34233, USA*****27.297431,-82.496087
+5100 Clark Rd, Sarasota, FL 34233, USA*****27.265697,-82.467914
+1044 N Tamiami Trail, Sarasota, FL 34236, USA*****27.345573,-82.545479
+282 Shopping Ave, Sarasota, FL 34237, USA*****27.333608,-82.524832
+8409 S Tamiami Trail, Sarasota, FL 34238, USA*****27.228514,-82.491350
+3825 S Osprey Ave, Sarasota, FL 34239, USA*****27.299847,-82.532580
+2875 University Pkwy, Sarasota, FL 34243, USA*****27.390894,-82.511396
+2092 Timucua Trail, Nokomis, FL 34275, USA*****27.167149,-82.448639
+1091 N Tamiami Trail, Nokomis, FL 34275, USA*****27.137005,-82.459282
+535 S Tamiami Trail, Venice, FL 34285, USA*****27.091993,-82.442447
+1291 S Sumter Blvd Apt S, North Port, FL 34287, USA*****27.069353,-82.210637
+4250 Natchez Terrace, North Port, FL 34287, USA*****27.054753,-82.242774
+14879 Tamiami Trail, North Port, FL 34287, USA*****27.039900,-82.221254
+1251 Toledo Blade Blvd, North Port, FL 34288, USA*****27.066887,-82.158918
+1445 E Venice Ave, Venice, FL 34292, USA*****27.098339,-82.414836
+4173 S Tamiami Trail, Venice, FL 34293, USA*****27.051150,-82.393831
+10135 US-441, Belleview, FL 34420, USA*****29.074786,-82.070760
+6760 W Gulf to Lake Hwy, Crystal River, FL 34429, USA*****28.889371,-82.548934
+2685 N Forest Ridge Blvd, Hernando, FL 34442, USA*****28.901916,-82.446078
+3942 S Suncoast Blvd, Homosassa, FL 34448, USA*****28.804773,-82.578933
+1420 US-41, Inverness, FL 34450, USA*****28.841124,-82.344398
+3450 E Silver Springs Blvd, Ocala, FL 34470, USA*****29.194342,-82.088204
+7578 SE Maricamp Rd #100, Ocala, FL 34472, USA*****29.116286,-82.027804
+303 SE 17th St, Ocala, FL 34471, USA*****29.173487,-82.132432
+7578 SE Maricamp Rd, Ocala, FL 34472, USA*****29.116301,-82.027857
+3101 SW 34th Ave, Ocala, FL 34474, USA*****29.155860,-82.176632
+5400 SW College Rd, Ocala, FL 34474, USA*****29.125182,-82.208014
+2655 NE 35th St, Ocala, FL 34479, USA*****29.224231,-82.100932
+8585 SW State Rd 200, Ocala, FL 34481, USA*****29.075894,-82.262828
+4963 NW Blitchton Rd, Ocala, FL 34482, USA*****29.215675,-82.199401
+19490 Cortez Blvd, Brooksville, FL 34601, USA*****28.538957,-82.405689
+19390 Cortez Blvd, Brooksville, FL 34601, USA*****28.540664,-82.408654
+4401 Commercial Way, Spring Hill, FL 34606, USA*****28.495920,-82.598530
+4365 Commercial Way, Spring Hill, FL 34606, USA*****28.494035,-82.599926
+1400 Pinehurst Dr, Spring Hill, FL 34606, USA*****28.455625,-82.627108
+7030 Evergreen Woods Trail A117, Spring Hill, FL 34608, USA*****28.529274,-82.517865
+14371 Spring Hill Dr, Spring Hill, FL 34609, USA*****28.480078,-82.486697
+4158 Mariner Blvd, Spring Hill, FL 34609, USA*****28.491441,-82.540794
+160 Mariner Blvd, Spring Hill, FL 34609, USA*****28.435610,-82.547092
+7830 Land O' Lakes Blvd, Land O Lakes, FL 34638, USA*****28.271825,-82.479083
+2121 Collier Pkwy, Land O Lakes, FL 34639, USA*****28.188333,-82.439221
+5127 US-19, Port Richey, FL 34652, USA*****28.233975,-82.730712
+9850 Little Rd, New Port Richey, FL 34654, USA*****28.298375,-82.670031
+1346 Seven Springs Blvd, New Port Richey, FL 34655, USA*****28.179083,-82.696929
+3100 Little Rd, Trinity, FL 34655, USA*****28.205013,-82.664673
+5324 Little Rd, New Port Richey, FL 34655, USA*****28.237412,-82.668175
+13752 Little Rd, Hudson, FL 34667, USA*****28.357474,-82.664631
+12031 US-19, Hudson, FL 34667, USA*****28.331921,-82.699355
+7037 Ridge Rd, Port Richey, FL 34668, USA*****28.282627,-82.698206
+3400 E Lake Rd S, Palm Harbor, FL 34685, USA*****28.060555,-82.706470
+1140 Ridge Dr, Palm Harbor, FL 34683, USA*****28.091196,-82.765409
+2636 Sunnyside Cir, Palm Harbor, FL 34684, USA*****28.056568,-82.728624
+30535 US Hwy 19 N, Palm Harbor, FL 34684, USA*****28.050104,-82.735810
+33343 US Hwy 19 N, Palm Harbor, FL 34684, USA*****28.075011,-82.737243
+3400 E Lake Rd S, Palm Harbor, FL 34685, USA*****28.060555,-82.706470
+36301 E Lake Rd S, Palm Harbor, FL 34685, USA*****28.102380,-82.692639
+36301 E Lake Rd S, Palm Harbor, FL 34685, USA*****28.102358,-82.692661
+40856 US Hwy 19 N, Tarpon Springs, FL 34689, USA*****28.143254,-82.740372
+40932 US Hwy 19 N, Tarpon Springs, FL 34689, USA*****28.143774,-82.742722
+4701 Sunray Dr, Holiday, FL 34690, USA*****28.199328,-82.737849
+902 Curlew Rd, Dunedin, FL 34698, USA*****28.050094,-82.778607
+1491 Main St, Dunedin, FL 34698, USA*****28.018227,-82.762010
+250 Citrus Tower Blvd, Clermont, FL 34711, USA*****28.565989,-81.741354
+4351 S Hwy 27, Clermont, FL 34711, USA*****28.501232,-81.716599
+13900 County Rd 455, Clermont, FL 34711, USA*****28.548096,-81.681232
+17445 US-192, Clermont, FL 34714, USA*****28.348472,-81.665745
+7739 South Bay Lake Rd, Groveland, FL 34736, USA*****28.460536,-81.920110
+1910 N John Young Pkwy, Kissimmee, FL 34741, USA*****28.308710,-81.418111
+1980 E Osceola Pkwy, Kissimmee, FL 34743, USA*****28.343674,-81.364121
+963 Florida Pkwy, Kissimmee, FL 34743, USA*****28.335643,-81.374333
+2340 Fortune Rd, Kissimmee, FL 34744, USA*****28.303679,-81.348621
+3839 Pleasant Hill Rd, Kissimmee, FL 34746, USA*****28.181166,-81.438628
+2915 Vineland Rd, Kissimmee, FL 34746, USA*****28.334021,-81.477625
+14928 E Orange Lake Blvd, Kissimmee, FL 34747, USA*****28.349218,-81.614321
+1 Herald Dr, Leesburg, FL 34748, USA*****28.829330,-81.890029
+27615 US-27, Leesburg, FL 34748, USA*****28.749176,-81.879030
+717 N 14th St, Leesburg, FL 34748, USA*****28.819233,-81.889147
+410 W Main St, Leesburg, FL 34748, USA*****28.811343,-81.877364
+841 Cypress Pkwy, Poinciana, FL 34759, USA*****28.148410,-81.451502
+8863 W Colonial Dr, Ocoee, FL 34761, USA*****28.553337,-81.505978
+1720 E Silver Star Rd, Ocoee, FL 34761, USA*****28.575046,-81.516661
+2600 Maguire Rd, Ocoee, FL 34761, USA*****28.532181,-81.539673
+4401 13th St, St Cloud, FL 34769, USA*****28.250918,-81.316917
+1951 S Narcoossee Rd, St Cloud, FL 34771, USA*****28.247590,-81.242332
+741 S Orlando Ave, Winter Park, FL 32789, USA*****28.591554,-81.366461
+13450 Summerport Village Pkwy, Windermere, FL 34786, USA*****28.476439,-81.583891
+1230 W Pointe Villas Blvd, Winter Garden, FL 34787, USA*****28.547695,-81.605662
+15508 Stoneybrook W Pkwy, Winter Garden, FL 34787, USA*****28.517547,-81.619649
+13750 W Colonial Dr, Winter Garden, FL 34787, USA*****28.549035,-81.589373
+954 Woodson Hammock Cir, Winter Garden, FL 34787, USA*****28.591937,-81.565341
+10601 US-441, Leesburg, FL 34788, USA*****28.822879,-81.781331
+38115 Yale Cir, Leesburg, FL 34788, USA*****28.901431,-81.749571
+2517 S US Hwy 1, Fort Pierce, FL 34982, USA*****27.422688,-80.325995
+1851 N US Hwy 1, Fort Pierce, FL 34946, USA*****27.468863,-80.333243
+1125 SE Port St Lucie Blvd, Port St. Lucie, FL 34952, USA*****27.272989,-80.316175
+788 SE Becker Rd, Port St. Lucie, FL 34984, USA*****27.209573,-80.326359
+7576 US-1, Port St. Lucie, FL 34952, USA*****27.329065,-80.319747
+9100 S US Highway 1, Port St. Lucie, FL 34952, USA*****27.300330,-80.302508
+3235 SW Port St Lucie Blvd, Port St. Lucie, FL 34953, USA*****27.247875,-80.374434
+1780 NE Jensen Beach Blvd, Jensen Beach, FL 34957, USA*****27.241338,-80.227513
+4231 NW Federal Hwy, Jensen Beach, FL 34957, USA*****27.257954,-80.277865
+3551 US-441, Okeechobee, FL 34974, USA*****27.210543,-80.831724
+2517 S US Hwy 1, Fort Pierce, FL 34982, USA*****27.422688,-80.325995
+5473 NW St James Dr, Port St. Lucie, FL 34983, USA*****27.355005,-80.358122
+788 SE Becker Rd, Port St. Lucie, FL 34984, USA*****27.209573,-80.326359
+1333 NW, St Lucie W Blvd, Port St. Lucie, FL 34986, USA*****27.318174,-80.388415
+10400 SW Village Center Dr, Port St. Lucie, FL 34987, USA*****27.268381,-80.431174
+1455 SW Silver Pine Way, Palm City, FL 34990, USA*****27.172066,-80.278572
+1395 SW Martin Hwy, Palm City, FL 34990, USA*****27.162531,-80.271246
+2750 SW Martin Downs Blvd, Palm City, FL 34990, USA*****27.170985,-80.290753
+2650 SW Martin Downs Blvd, Palm City, FL 34990, USA*****27.172352,-80.289764
+746 SW Federal Hwy, Stuart, FL 34994, USA*****27.191156,-80.256439
+1395 SW Martin Hwy, Palm City, FL 34990, USA*****27.162531,-80.271246
+940 NE Ocean Blvd, Stuart, FL 34996, USA*****27.216568,-80.177931
+6550 S Kanner Hwy, Stuart, FL 34997, USA*****27.125566,-80.253912
+3304 SE Federal Hwy, Stuart, FL 34997, USA*****27.162818,-80.228408
+5893 SE Federal Hwy, Stuart, FL 34997, USA*****27.133529,-80.204440
+270 Rucker Rd, Roswell, GA 30075, USA*****34.079445,-84.357409
+13800 GA-9, Alpharetta, GA 30004, USA*****34.117142,-84.271024
+908 Birmingham Rd, Milton, GA 30004, USA*****34.166677,-84.332880
+11800 Haynes Bridge Rd, Alpharetta, GA 30009, USA*****34.073216,-84.293790
+4900 Atlanta Hwy, Alpharetta, GA 30004, USA*****34.159524,-84.239569
+5180 McGinnis Ferry Rd, Alpharetta, GA 30005, USA*****34.093234,-84.206387
+1591 GA-20, Conyers, GA 30012, USA*****33.684139,-83.997793
+Rockdale Dr NW, Georgia 30012, USA*****33.700895,-84.005654
+1910 GA-20, Conyers, GA 30013, USA*****33.636162,-84.012859
+13015 Brown Bridge Rd, Covington, GA 30016, USA*****33.576930,-83.964860
+2463 Hamilton Mill Pkwy, Dacula, GA 30019, USA*****34.073450,-83.915365
+831 Auburn Rd, Dacula, GA 30019, USA*****34.030871,-83.886891
+720 Dacula Rd, Dacula, GA 30019, USA*****34.003267,-83.912635
+710 Dacula Rd, Dacula, GA 30019, USA*****34.002152,-83.912014
+445 Hurricane Trail, Dacula, GA 30019, USA*****33.991242,-83.931898
+6000 North Point Pkwy, Alpharetta, GA 30022, USA*****34.045897,-84.286306
+3520 Merganser Ln, Alpharetta, GA 30022, USA*****34.011144,-84.259548
+11585 Jones Bridge Rd, Johns Creek, GA 30022, USA*****34.061868,-84.214643
+9925 Haynes Bridge Rd, Alpharetta, GA 30022, USA*****34.023165,-84.267550
+4305 State Bridge Rd, Alpharetta, GA 30022, USA*****34.057403,-84.235299
+11130 State Bridge Rd, Johns Creek, GA 30022, USA*****34.055443,-84.228785
+4154 Silver Peak Pkwy, Suwanee, GA 30024, USA*****34.054649,-84.081523
+7780 McGinnis Ferry Rd, Suwanee, GA 30024, USA*****34.057112,-84.128931
+3245 Peachtree Pkwy, Suwanee, GA 30024, USA*****34.084332,-84.159154
+2855 Lawrenceville-Suwanee Rd, Suwanee, GA 30024, USA*****34.026424,-84.043278
+1000 Peachtree Industrial Blvd #17, Suwanee, GA 30024, USA*****34.049758,-84.088909
+1000 Peachtree Industrial Blvd, Suwanee, GA 30024, USA*****34.049758,-84.088909
+580 Atlanta Rd, Cumming, GA 30040, USA*****34.188183,-84.137835
+3870 N Druid Hills Rd NE, Decatur, GA 30033, USA*****33.811371,-84.274713
+2155 N Decatur Rd, Decatur, GA 30033, USA*****33.789628,-84.304398
+3649 Flakes Mill Rd, Decatur, GA 30034, USA*****33.679733,-84.231667
+2075 S Hairston Rd, Decatur, GA 30035, USA*****33.730072,-84.196099
+3045 Panola Rd, Stonecrest, GA 30038, USA*****33.698672,-84.174586
+Centerville Hwy, Snellville, GA 30039, USA*****33.812049,-84.042071
+3550 Centerville Hwy, Snellville, GA 30039, USA*****33.802580,-84.040697
+3550 Centerville Rosebud Rd, Snellville, GA 30039, USA*****33.803369,-84.025881
+3991 Tanglewood Rd, Snellville, GA 30039, USA*****33.831849,-84.064044
+5475 Bethelview Rd, Cumming, GA 30040, USA*****34.174290,-84.187112
+580 Atlanta Rd, Cumming, GA 30040, USA*****34.188216,-84.137946
+3480 Keith Bridge Rd, Cumming, GA 30041, USA*****34.258088,-84.071163
+1735 Buford Hwy, Cumming, GA 30041, USA*****34.163572,-84.114786
+1030 Old Peachtree Rd NE, Lawrenceville, GA 30043, USA*****34.035235,-83.993590
+1030 Old Peachtree Rd NW, Lawrenceville, GA 30043, USA*****33.998397,-84.068124
+2380 Buford Dr, Lawrenceville, GA 30043, USA*****34.036294,-83.990156
+911 Duluth Hwy, Lawrenceville, GA 30043, USA*****33.969057,-84.023678
+3370 Sugarloaf Pkwy, Lawrenceville, GA 30044, USA*****33.921130,-84.018147
+4850 Sugarloaf Pkwy, Lawrenceville, GA 30044, USA*****33.954289,-84.055078
+3059 Lawrenceville Hwy, Lawrenceville, GA 30044, USA*****33.922297,-84.085526
+930 New Hope Rd, Lawrenceville, GA 30045, USA*****33.934701,-83.956400
+4045 Five Forks Trickum Rd SW, Lilburn, GA 30047, USA*****33.869513,-84.091448
+375 Rockbridge Rd NW, Lilburn, GA 30047, USA*****33.883304,-84.164039
+4051 Stone Mountain Hwy, Lilburn, GA 30047, USA*****33.838222,-84.071217
+4194 Indian Trce SW, Lilburn, GA 30047, USA*****33.846478,-84.082729
+4045 Embassy Way, Lilburn, GA 30047, USA*****33.846515,-84.071071
+4325 Atlanta Hwy, Loganville, GA 30052, USA*****33.839219,-83.908083
+2715 Loganville Hwy SW, Loganville, GA 30052, USA*****33.879032,-83.938431
+1050 E Piedmont Rd, Marietta, GA 30062, USA*****33.976211,-84.478457
+1750 Powder Springs Rd SW, Marietta, GA 30064, USA*****33.903368,-84.606863
+2500 Dallas Hwy, Marietta, GA 30064, USA*****33.948271,-84.625655
+50 Barrett Pkwy, Marietta, GA 30066, USA*****34.016219,-84.550988
+1860 Sandy Plains Rd, Marietta, GA 30066, USA*****33.994066,-84.508926
+2900 Delk Rd SE, Marietta, GA 30067, USA*****33.923319,-84.467072
+1100 Johnson Ferry Rd, Marietta, GA 30068, USA*****33.977114,-84.415076
+885 Woodstock Rd, Roswell, GA 30075, USA*****34.061065,-84.385577
+4401 Shallowford Rd, Roswell, GA 30075, USA*****34.027855,-84.423060
+4750 Alabama Rd NE, Roswell, GA 30075, USA*****34.065697,-84.422792
+1425 Market Blvd, Roswell, GA 30076, USA*****34.018101,-84.320611
+145 Foal Dr, Roswell, GA 30076, USA*****33.992833,-84.292207
+1905 Scenic Hwy N, Snellville, GA 30078, USA*****33.876686,-84.015055
+4480 S Cobb Dr SE Ste H, Smyrna, GA 30080, USA*****33.843472,-84.504466
+2148 S Cobb Dr SE, Smyrna, GA 30082, USA*****33.898875,-84.542439
+4358 Coopers Creek Dr SE, Smyrna, GA 30082, USA*****33.845757,-84.506851
+5158 Memorial Dr, Stone Mountain, GA 30083, USA*****33.798379,-84.224998
+4422 Hugh Howell Rd, Tucker, GA 30084, USA*****33.852082,-84.205893
+380 N Deshon Rd, Stone Mountain, GA 30087, USA*****33.785699,-84.100213
+3200 Holcomb Bridge Rd, Norcross, GA 30092, USA*****33.951599,-84.233042
+7736 Spalding Dr, Norcross, GA 30092, USA*****33.968615,-84.260885
+1250 Tech Dr, Norcross, GA 30093, USA*****33.914796,-84.165028
+2880 GA-212, Conyers, GA 30094, USA*****33.617159,-84.081399
+2750 Buford Hwy, Duluth, GA 30096, USA*****34.006976,-84.130156
+1625 Pleasant Hill Rd, Duluth, GA 30096, USA*****33.944693,-84.127187
+3870 Peachtree Industrial Blvd, Duluth, GA 30096, USA*****33.987893,-84.168655
+2380 Buford Hwy, Duluth, GA 30097, USA*****34.015731,-84.122048
+5805 State Bridge Rd, Johns Creek, GA 30097, USA*****34.017218,-84.186906
+6110 Cedarcrest Rd, Acworth, GA 30101, USA*****34.064151,-84.726495
+1727 Mars Hill Rd NW, Acworth, GA 30101, USA*****34.056105,-84.684281
+3507 Baker Rd, Acworth, GA 30101, USA*****34.074556,-84.651907
+1109 S Park St #600, Carrollton, GA 30117, USA*****33.560833,-85.075000
+3760 Sixes Rd, Canton, GA 30114, USA*****34.178831,-84.548919
+1451 Riverstone Pkwy, Canton, GA 30114, USA*****34.252992,-84.475724
+120 Prominence Point Pkwy, Canton, GA 30114, USA*****34.191717,-84.511418
+12424 Cumming Hwy, Canton, GA 30115, USA*****34.236735,-84.290911
+6175 Hickory Flat Hwy, Canton, GA 30115, USA*****34.177222,-84.417118
+1109 S Park St, Carrollton, GA 30117, USA*****33.560446,-85.076565
+300 Cherokee Pl, Cartersville, GA 30121, USA*****34.172689,-84.784577
+2675 Lee Rd, Lithia Springs, GA 30122, USA*****33.735336,-84.668817
+1025 Veterans Memorial Hwy SE, Mableton, GA 30126, USA*****33.805635,-84.525741
+5015 Floyd Rd SW, Mableton, GA 30126, USA*****33.832223,-84.575402
+3721 New MacLand Rd, Powder Springs, GA 30127, USA*****33.864305,-84.674146
+5100 Dallas Hwy, Powder Springs, GA 30127, USA*****33.941632,-84.703228
+80 Seven Hills Blvd, Dallas, GA 30132, USA*****34.029582,-84.778709
+4300 Chapel Hill Rd, Douglasville, GA 30135, USA*****33.689112,-84.714739
+3316 GA-5, Douglasville, GA 30135, USA*****33.714393,-84.765909
+2090 Baker Rd, Kennesaw, GA 30144, USA*****34.049229,-84.610777
+4430 Wade Green Rd NW, Kennesaw, GA 30144, USA*****34.061721,-84.590500
+4290 Bells Ferry Rd, Kennesaw, GA 30144, USA*****34.055232,-84.553504
+2774 Cobb Pkwy NW, Kennesaw, GA 30152, USA*****34.023524,-84.623793
+1635 Old 41 Hwy NW, Kennesaw, GA 30152, USA*****33.993639,-84.599418
+51 E Paulding Dr, Dallas, GA 30157, USA*****33.958748,-84.787523
+2000 Mirror Lake Blvd, Villa Rica, GA 30180, USA*****33.733509,-84.898884
+12165 GA-92, Woodstock, GA 30188, USA*****34.089608,-84.484032
+6236 Old Hwy 5, Woodstock, GA 30188, USA*****34.130085,-84.498669
+4403 Towne Lake Pkwy, Woodstock, GA 30189, USA*****34.126779,-84.571187
+1430 Towne Lake Pkwy, Woodstock, GA 30189, USA*****34.106213,-84.540040
+840 Glynn St S, Fayetteville, GA 30214, USA*****33.431344,-84.457249
+108 Pavilion Pkwy, Fayetteville, GA 30214, USA*****33.478459,-84.438575
+130 Peachtree Ct, Fayetteville, GA 30215, USA*****33.426736,-84.556405
+11155 Tara Blvd, Hampton, GA 30228, USA*****33.449793,-84.327416
+7899 Tara Blvd, Jonesboro, GA 30236, USA*****33.538863,-84.367184
+139 Commerce Ave, LaGrange, GA 30241, USA*****33.050768,-85.024158
+2730 GA-155 S, Locust Grove, GA 30248, USA*****33.365837,-84.181262
+920 Hwy 81, McDonough, GA 30252, USA*****33.437152,-84.121331
+2158 GA-20, McDonough, GA 30253, USA*****33.413734,-84.202599
+250 Jonesboro Rd, McDonough, GA 30253, USA*****33.455311,-84.166987
+141 Marian's Way, McDonough, GA 30253, USA*****33.448821,-84.152644
+2035 Mt Zion Rd, Morrow, GA 30260, USA*****33.561712,-84.325115
+370 Bullsboro Dr, Newnan, GA 30263, USA*****33.396032,-84.764115
+Newnan, GA 30264, USA*****33.376326,-84.713521
+1110 Lower Fayetteville Rd, Newnan, GA 30265, USA*****33.374550,-84.752556
+100 Glenda Trace, Newnan, GA 30265, USA*****33.410524,-84.687626
+613 Peachtree Station Cir, Peachtree City, GA 30269, USA*****33.374400,-84.556129
+130 S Peachtree Pkwy, Peachtree City, GA 30269, USA*****33.406886,-84.568755
+1200 Hwy 74 S, Peachtree City, GA 30269, USA*****33.342689,-84.536648
+7535 GA-85, Riverdale, GA 30274, USA*****33.549494,-84.417102
+209 Farmbrook Pkwy, Stockbridge, GA 30281, USA*****33.603791,-84.193826
+250 E Atlanta Rd, Stockbridge, GA 30281, USA*****33.554988,-84.232325
+909 Eagles Landing Pkwy, Stockbridge, GA 30281, USA*****33.510368,-84.219893
+1512 GA-74, Tyrone, GA 30290, USA*****33.488284,-84.587107
+2828 E Atlanta Rd, Ellenwood, GA 30294, USA*****33.617633,-84.243958
+2900 Peachtree Rd NW, Atlanta, GA 30305, USA*****33.833464,-84.384090
+2868 Peachtree Rd NW, Atlanta, GA 30305, USA*****33.833410,-84.383493
+250 West Paces Ferry Rd NW, Atlanta, GA 30305, USA*****33.843756,-84.394098
+2365 Peachtree Rd, Atlanta, GA 30305, USA*****33.820483,-84.386623
+1001 Ponce De Leon Ave NE, Atlanta, GA 30306, USA*****33.772874,-84.354451
+3 North Avenue NE, Atlanta, GA 30308, USA*****33.771270,-84.387367
+595 Piedmont Ave NE, Atlanta, GA 30308, USA*****33.770298,-84.381122
+710 Peachtree St NE, Atlanta, GA 30308, USA*****33.774183,-84.384879
+950 W Peachtree St NW, Atlanta, GA 30309, USA*****33.780240,-84.388207
+2303 Highview Rd SW, Atlanta, GA 30311, USA*****33.729317,-84.462694
+825 M.L.K. Jr Dr NW, Atlanta, GA 30314, USA*****33.754816,-84.413872
+2235 Glenwood Ave SE, Atlanta, GA 30316, USA*****33.738613,-84.313195
+1314 Chattahoochee Ave NW, Atlanta, GA 30318, USA*****33.801309,-84.430888
+2020 Howell Mill Rd NW, Atlanta, GA 30318, USA*****33.809981,-84.414954
+3435 Ashford Dunwoody Rd NE, Brookhaven, GA 30319, USA*****33.890618,-84.324539
+3529 Blair Cir NE, Atlanta, GA 30319, USA*****33.894273,-84.324219
+2325 Cheshire Bridge Rd NE, Atlanta, GA 30324, USA*****33.818249,-84.348786
+1544 Piedmont Ave NE, Atlanta, GA 30324, USA*****33.797843,-84.370884
+3535 Peachtree Rd NE, Atlanta, GA 30326, USA*****33.851640,-84.359627
+1250 West Paces Ferry Rd NW, Atlanta, GA 30327, USA*****33.848218,-84.427852
+6615 Roswell Rd NE, Sandy Springs, GA 30328, USA*****33.935094,-84.377615
+1100 Hammond Dr, Atlanta, GA 30328, USA*****33.919535,-84.352566
+2969 N Druid Hills Rd NE, Atlanta, GA 30329, USA*****33.813514,-84.311340
+3730 Carmia Dr SW, Atlanta, GA 30331, USA*****33.656455,-84.510831
+3655 Cascade Rd SW, Atlanta, GA 30311, USA*****33.722094,-84.497729
+5370 Campbellton Rd SW, Atlanta, GA 30331, USA*****33.703826,-84.563313
+5550 Chamblee Dunwoody Rd, Dunwoody, GA 30338, USA*****33.950584,-84.338109
+2451 Cumberland Pkwy SE, Atlanta, GA 30339, USA*****33.862674,-84.478703
+6300 Powers Ferry Rd NW, Sandy Springs, GA 30339, USA*****33.905482,-84.427606
+4279 Roswell Rd NE, Atlanta, GA 30342, USA*****33.871216,-84.379093
+2162 Henderson Mill Rd, Atlanta, GA 30345, USA*****33.847414,-84.257179
+7525 Roswell Rd, Atlanta, GA 30350, USA*****33.961027,-84.363838
+8725 Roswell Rd, Atlanta, GA 30350, USA*****33.994792,-84.350077
+85 Mount Zion Rd SW #85, Atlanta, GA 30354, USA*****33.673243,-84.390595
+1374 Atlantic Dr, Atlanta, GA 30363, USA*****33.792799,-84.397652
+1380 Atlantic Dr, Atlanta, GA 30363, USA*****33.792726,-84.397871
+580 Atlanta Ave, Vidalia, GA 30474, USA*****32.217949,-82.405678
+879 Dawsonville Hwy, Gainesville, GA 30501, USA*****34.296516,-83.859712
+1236 Thompson Bridge Rd, Gainesville, GA 30501, USA*****34.319003,-83.830315
+2221 Sailors Ave LOT 24, Gainesville, GA 30504, USA*****34.260510,-83.848719
+1213 Loowit Falls Ct, Braselton, GA 30517, USA*****34.115616,-83.819396
+2095 GA Hwy 211, Braselton, GA 30517, USA*****34.102863,-83.813024
+6060 Golf Club Dr, Braselton, GA 30517, USA*****34.111349,-83.824120
+4840 Golden Pkwy, Buford, GA 30518, USA*****34.142399,-83.950692
+5885 Cumming Hwy NE, Buford, GA 30518, USA*****34.118782,-84.075044
+3446 Winder Hwy, Flowery Branch, GA 30542, USA*****34.218267,-83.863289
+5900 Spout Springs Rd, Flowery Branch, GA 30542, USA*****34.176428,-83.911521
+1860 Barnett Shoals Rd, Watkinsville, GA 30677, USA*****33.859892,-83.380469
+3620 Atlanta Hwy, Athens, GA 30606, USA*****33.940700,-83.455518
+6320 Lake Oconee Pkwy, Greensboro, GA 30642, USA*****33.455780,-83.244695
+2061 Experiment Station Rd, Watkinsville, GA 30677, USA*****33.871207,-83.441177
+17 Monroe Hwy, Winder, GA 30680, USA*****33.981218,-83.713770
+4274 Washington Rd, Evans, GA 30809, USA*****33.533437,-82.127670
+403 Furys Ferry Rd, Martinez, GA 30907, USA*****33.530377,-82.072973
+2816 Washington Rd, Augusta, GA 30909, USA*****33.507858,-82.031093
+1114 GA-96, Kathleen, GA 31047, USA*****32.547177,-83.692096
+275 Perry Pkwy, Perry, GA 31069, USA*****32.472945,-83.706131
+207 Russell Pkwy, Warner Robins, GA 31088, USA*****32.591799,-83.628374
+195 Tom Hill Sr Blvd, Macon, GA 31210, USA*****32.897236,-83.687281
+12800 GA-144, Richmond Hill, GA 31324, USA*****31.909536,-81.278810
+Savannah, GA 31402, USA*****32.080000,-81.100000
+5500 Abercorn St, Savannah, GA 31405, USA*****32.022917,-81.109395
+155 Johnny Mercer Blvd, Wilmington Island, GA 31410, USA*****32.013834,-80.987278
+4717 US-80 Ste B, Savannah, GA 31410, USA*****32.041726,-81.006530
+110 Altama Connector, Brunswick, GA 31520, USA*****31.209021,-81.499731
+171 Village At Glynn Pl, Brunswick, GA 31525, USA*****31.214140,-81.481981
+1601 GA-40, Kingsland, GA 31548, USA*****30.784172,-81.634970
+1741 Gornto Rd, Valdosta, GA 31601, USA*****30.845634,-83.322990
+2715 Dawson Rd, Albany, GA 31707, USA*****31.621272,-84.223277
+2551 E Pinetree Blvd, Thomasville, GA 31792, USA*****30.849204,-83.950382
+1639 Bradley Park Dr, Columbus, GA 31904, USA*****32.534293,-84.967415
+3201 Macon Rd, Columbus, GA 31906, USA*****32.481920,-84.944340
+5435 Woodruff Farm Rd, Columbus, GA 31907, USA*****32.519627,-84.893749
+7600 Schomburg Rd, Columbus, GA 31909, USA*****32.557788,-84.905051
+6700 Pioneer Pkwy, Johnston, IA 50131, USA*****41.668029,-93.712615
+350 E Cermak Rd, Chicago, IL 60616, USA*****41.854763,-87.618542
+3181 3rd Ave, Detroit, MI 48201, USA*****42.342594,-83.064620
+400 Plaza Dr, Secaucus, NJ 07094, USA*****40.787431,-74.043364
+371 Riverhead Rd, Westhampton Beach, NY 11978, USA*****40.847184,-72.646061
+38 Fountain Square Plaza, Cincinnati, OH 45202, USA*****39.102173,-84.512129
+7320 Broad River Rd, Irmo, SC 29063, USA*****34.096845,-81.157418
+100 Old Cherokee Rd, Lexington, SC 29072, USA*****33.999875,-81.219846
+501 Gervais St, Columbia, SC 29201, USA*****33.998191,-81.044672
+2800 Rosewood Dr, Columbia, SC 29205, USA*****33.987245,-81.003245
+4840 Forest Dr, Columbia, SC 29206, USA*****34.017512,-80.964737
+150 Harbison Blvd, Columbia, SC 29212, USA*****34.066212,-81.164586
+2732 N Lake Dr, Columbia, SC 29212, USA*****34.097885,-81.220829
+10128 Two Notch Rd, Columbia, SC 29223, USA*****34.114615,-80.884561
+4611 HardScrabble Rd, Columbia, SC 29229, USA*****34.153186,-80.912824
+1905 E Main St, Spartanburg, SC 29307, USA*****34.967358,-81.890676
+2153 E Main St, Duncan, SC 29334, USA*****34.888440,-82.067441
+520 Folly Beach Rd, Charleston, SC 29412, USA*****32.753785,-79.971320
+1401 Sam Rittenberg Blvd, Charleston, SC 29407, USA*****32.813618,-79.996588
+520 Folly Rd, Charleston, SC 29412, USA*****32.753620,-79.970939
+8409 Dorchester Rd, North Charleston, SC 29420, USA*****32.913486,-80.110448
+208 St James Ave, Goose Creek, SC 29445, USA*****33.007102,-80.042847
+3642 Savannah Hwy, Johns Island, SC 29455, USA*****32.805067,-80.111549
+1000 Johnnie Dodds Blvd, Mt Pleasant, SC 29464, USA*****32.813538,-79.868096
+1435 Ben Sawyer Blvd, Mt Pleasant, SC 29464, USA*****32.791643,-79.854256
+1125 Park W Blvd, Mt Pleasant, SC 29466, USA*****32.874114,-79.779324
+Dorchester Rd, Summerville, SC 29485, USA*****32.953758,-80.164706
+1585 Central Ave, Summerville, SC 29483, USA*****33.011654,-80.234969
+1575 Old Trolley Rd, Summerville, SC 29485, USA*****32.966837,-80.166021
+162 Seven Farms Drive, Daniel Island, SC 29492, USA*****32.863223,-79.903214
+400 E McBee Ave, Greenville, SC 29601, USA*****34.847943,-82.395299
+235 S Pleasantburg Dr, Greenville, SC 29607, USA*****34.836268,-82.364429
+1750 Woodruff Rd, Greenville, SC 29607, USA*****34.818317,-82.271739
+215 Pelham Rd, Greenville, SC 29615, USA*****34.867153,-82.347426
+5000 Old Buncombe Rd, Greenville, SC 29617, USA*****34.910987,-82.427677
+1611 E Greenville St, Anderson, SC 29621, USA*****34.531028,-82.636443
+3801 Clemson Blvd, Anderson, SC 29625, USA*****34.553631,-82.684245
+6525 Calhoun Memorial Hwy, Easley, SC 29640, USA*****34.819977,-82.584677
+411 The Parkway, Greer, SC 29650, USA*****34.871500,-82.256085
+111 W Butler Rd, Mauldin, SC 29662, USA*****34.776929,-82.310124
+655 Fairview Rd Ste C, Simpsonville, SC 29680, USA*****34.711298,-82.255299
+2700 Woodruff Rd, Simpsonville, SC 29681, USA*****34.804699,-82.227697
+2801 Wade Hampton Blvd, Taylors, SC 29687, USA*****34.901327,-82.337222
+250 E Gate Dr, Aiken, SC 29803, USA*****33.511424,-81.716302
+334 E Martintown Rd, North Augusta, SC 29841, USA*****33.495762,-81.962431
+334 E Martintown Rd, North Augusta, SC 29841, USA*****33.495762,-81.962431
+163 Sea Island Pkwy, Beaufort, SC 29907, USA*****32.414309,-80.648733
+45 Pembroke Dr, Hilton Head Island, SC 29926, USA*****32.210335,-80.725340
+101 Buckwalter Pkwy, Bluffton, SC 29910, USA*****32.270367,-80.916793
+Daufuskie Island, SC 29915, USA*****32.118854,-80.864449
+45 Pembroke Dr, Hilton Head Island, SC 29926, USA*****32.210335,-80.725340
+11 Palmetto Bay Rd, Hilton Head Island, SC 29928, USA*****32.156857,-80.765412
+8105 Moores Ln, Brentwood, TN 37027, USA*****35.964511,-86.800899
+101 Creekside Crossing, Brentwood, TN 37027, USA*****36.036911,-86.798829
+10638 Concord Rd, Brentwood, TN 37027, USA*****35.997163,-86.691794
+1021 Center Point Pl, Franklin, TN 37064, USA*****35.913498,-86.830971
+1483 Nashville Pike, Gallatin, TN 37066, USA*****36.359600,-86.496038
+1400 Liberty Pike, Franklin, TN 37067, USA*****35.924717,-86.795912
+2020 Fieldstone Pkwy, Franklin, TN 37069, USA*****35.964630,-86.883106
+460 Long Hollow Pike, Goodlettsville, TN 37072, USA*****36.331545,-86.699100
+110 Indian Lake Blvd, Hendersonville, TN 37075, USA*****36.310156,-86.605292
+4670 Lebanon Pike, Hermitage, TN 37076, USA*****36.217300,-86.593288
+4670 Lebanon Pike, Hermitage, TN 37076, USA*****36.216296,-86.596448
+1703 W Main St, Lebanon, TN 37087, USA*****36.223470,-86.345043
+3415 Memorial Blvd, Murfreesboro, TN 37129, USA*****35.912147,-86.386116
+1691 Memorial Blvd, Murfreesboro, TN 37129, USA*****35.868205,-86.389164
+1731 S Rutherford Blvd, Murfreesboro, TN 37130, USA*****35.813188,-86.368365
+661 President Pl, Smyrna, TN 37167, USA*****35.979819,-86.554977
+4935 Columbia Pike, Spring Hill, TN 37174, USA*****35.775111,-86.918351
+15544 Old Hickory Blvd, Nashville, TN 37211, USA*****36.040960,-86.741404
+15544 Old Hickory Blvd, Nashville, TN 37211, USA*****36.041008,-86.741481
+7604 Hwy 70 S, Nashville, TN 37221, USA*****36.078499,-86.945421
+8028 TN-100, Nashville, TN 37221, USA*****36.047180,-86.952239

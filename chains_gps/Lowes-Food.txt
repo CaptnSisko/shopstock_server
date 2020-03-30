@@ -1,0 +1,87 @@
+2501 Lewisville Clemmons Rd, Clemmons, NC 27012, USA*****36.029948,-80.380392
+911 E Atkins St, Dobson, NC 27017, USA*****36.392788,-80.708296
+6221 Shallowford Rd, Lewisville, NC 27023, USA*****36.100923,-80.411529
+612 S Key St, Pilot Mountain, NC 27041, USA*****36.378562,-80.478928
+5180 Reidsville Rd, Walkertown, NC 27051, USA*****36.162970,-80.136839
+1381 Old Mill Cir #200, Winston-Salem, NC 27103, USA*****36.074637,-80.308514
+1380 Old Mill Cir, Winston-Salem, NC 27103, USA*****36.074754,-80.309054
+200 Summit Square Blvd, Winston-Salem, NC 27105, USA*****36.184537,-80.271333
+3372 Robinhood Rd, Winston-Salem, NC 27106, USA*****36.115086,-80.314521
+2890 Reynolda Rd, Winston-Salem, NC 27106, USA*****36.141963,-80.300679
+5034 Peters Creek Pkwy, Winston-Salem, NC 27127, USA*****36.003105,-80.264984
+372 N Fayetteville St, Asheboro, NC 27203, USA*****35.710490,-79.811163
+737 W Dixie Dr, Asheboro, NC 27205, USA*****35.686340,-79.825647
+1191 University Dr, Burlington, NC 27215, USA*****36.077653,-79.529344
+66 NC-109, Lexington, NC 27292, USA*****35.763097,-80.105420
+131 NC-705, Robbins, NC 27325, USA*****35.437443,-79.587998
+412 S Main St, Graham, NC 27253, USA*****36.063252,-79.398906
+10106 S Main St Ste A, Archdale, NC 27263, USA*****35.899642,-79.948212
+200 US-70, Hillsborough, NC 27278, USA*****36.086747,-79.099086
+1236 Guilford College Rd, Jamestown, NC 27282, USA*****36.040315,-79.921128
+103 S 5th St, Mebane, NC 27302, USA*****36.094268,-79.265289
+136 N Brady St, Ramseur, NC 27316, USA*****35.738599,-79.655321
+650 W Academy St, Randleman, NC 27317, USA*****35.822255,-79.817658
+168 Lewis Rd, Robbins, NC 27325, USA*****35.473422,-79.440033
+1418 National Hwy, Thomasville, NC 27360, USA*****35.920042,-80.058993
+3701 High Point Rd, Greensboro, NC 27407, USA*****36.026106,-79.875444
+1581 New Garden Rd, Greensboro, NC 27410, USA*****36.114586,-79.881682
+1741 Walnut St, Cary, NC 27511, USA*****35.764434,-78.745705
+11500 US Hwy 15 501 N, Chapel Hill, NC 27517, USA*****35.846565,-79.089345
+3480 Kildaire Farm Rd, Cary, NC 27518, USA*****35.704981,-78.797290
+6430 Tryon Rd, Cary, NC 27513, USA*****35.746084,-78.761347
+901 S Beckford Dr, Henderson, NC 27536, USA*****36.332879,-78.431604
+112 Bass Lake Rd, Holly Springs, NC 27540, USA*****35.653707,-78.824992
+Wide waters Pkwy, Knightdale, NC 27545, USA*****35.796910,-78.505817
+816 N Madison Blvd, Roxboro, NC 27573, USA*****36.406264,-78.975875
+307 E Macon St, Warrenton, NC 27589, USA*****36.396410,-78.151544
+8100 Brier Creek Pkwy, Raleigh, NC 27617, USA*****35.909962,-78.785979
+1000 N Miami Blvd, Durham, NC 27703, USA*****35.994639,-78.870502
+3160 Evans St, Greenville, NC 27834, USA*****35.572660,-77.383940
+851 W Main St, Murfreesboro, NC 27855, USA*****36.441021,-77.114628
+807 Main St, Scotland Neck, NC 27874, USA*****36.126579,-77.421876
+1007 E Memorial Dr, Ahoskie, NC 27910, USA*****36.277251,-76.978258
+17001 Kenton Dr, Cornelius, NC 28031, USA*****35.446570,-80.891995
+11124 Renaissance Dr, Davidson, NC 28036, USA*****35.442627,-80.762404
+1949 Hoffman Rd, Gastonia, NC 28054, USA*****35.225340,-81.132537
+4445 NC-49, Harrisburg, NC 28075, USA*****35.320611,-80.650900
+13108 Eastfield Rd, Huntersville, NC 28078, USA*****35.384867,-80.784392
+631 Brawley School Rd, Mooresville, NC 28117, USA*****35.581401,-80.875569
+16045 US-521, Greeleyville, SC 29056, USA*****33.610336,-80.034976
+8445 Davis Lake Pkwy, Charlotte, NC 28269, USA*****35.334221,-80.814408
+5075 Fayetteville Rd, Lumberton, NC 28360, USA*****34.668069,-79.000546
+244 Central Park Ave, Pinehurst, NC 28374, USA*****35.205359,-79.481448
+3804 Oleander Dr, Wilmington, NC 28403, USA*****34.213637,-77.900765
+341 S College Rd, Wilmington, NC 28403, USA*****34.234532,-77.871612
+925 Seaside Rd SW, Ocean Isle Beach, NC 28469, USA*****33.917858,-78.490645
+5051 Main St, Shallotte, NC 28459, USA*****33.965714,-78.392488
+3001 Arendell St, Morehead City, NC 28557, USA*****34.723513,-76.744163
+1405 29th Ave Dr NE, Hickory, NC 28601, USA*****35.766330,-81.305341
+1340 US-321, Hickory, NC 28601, USA*****35.751124,-81.369003
+9441 NC-127, Hickory, NC 28601, USA*****35.816585,-81.303578
+935 Crossroads Dr, Statesville, NC 28625, USA*****35.812096,-80.873927
+Mount Jefferson State Natural Area, State, Park Road, 8448, 1481 Mt Jefferson Rd, West Jefferson, NC 28694, USA*****36.401727,-81.470268
+1208 Hickory Blvd, Lenoir, NC 28645, USA*****35.896410,-81.523041
+211 River Loop, Newland, NC 28657, USA*****36.047490,-81.893831
+NC-18, North Wilkesboro, NC, USA*****36.158230,-81.147538
+310 Wilkesboro Ave, North Wilkesboro, NC 28659, USA*****36.155920,-81.145397
+NC-115, North Wilkesboro, NC, USA*****36.165912,-81.136531
+1828 Winkler St, Wilkesboro, NC 28697, USA*****36.152097,-81.195176
+421 Wilkesboro Blvd, Wilkesboro, NC 28697, USA*****36.151076,-81.144604
+11th St NW, Albuquerque, NM, USA*****35.114138,-106.655980
+Albuquerque, NM 87103, USA*****35.080000,-106.650000
+4701 4th St NW, Albuquerque, NM 87107, USA*****35.131168,-106.643729
+1700 St Michaels Dr, Santa Fe, NM 87505, USA*****35.656825,-105.971610
+Española, NM, USA*****35.991038,-106.081823
+2400 7th St, Las Vegas, NM 87701, USA*****35.617180,-105.223960
+625 Mills Ave, Las Vegas, NM 87701, USA*****35.605156,-105.222247
+970 82nd Pkwy, Myrtle Beach, SC 29572, USA*****33.760828,-78.816839
+1410 Elizabeth Dr, Murrells Inlet, SC 29576, USA*****33.590866,-78.993840
+1399 S Commons Dr, Myrtle Beach, SC 29588, USA*****33.650285,-78.986971
+867 Stockbridge Dr, Fort Mill, SC 29708, USA*****35.062375,-80.994575
+1119 E 1st St, Dumas, TX 79029, USA*****35.864706,-101.958256
+1613 N Texas Ave, Odessa, TX 79761, USA*****31.859233,-102.376079
+1600 N Grant Ave, Odessa, TX 79761, USA*****31.858657,-102.376369
+2021 E 8th St, Odessa, TX 79761, USA*****31.861948,-102.345061
+1107 E 42nd St, Odessa, TX 79762, USA*****31.885938,-102.373147
+1025 N Carolina Dr, El Paso, TX 79915, USA*****31.740299,-106.347178
+9120 Dyer St, El Paso, TX 79924, USA*****31.870771,-106.426324

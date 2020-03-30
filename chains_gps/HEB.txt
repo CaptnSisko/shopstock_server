@@ -1,0 +1,278 @@
+1902 S Thunderbird Dr, Apache Junction, AZ 85120, USA*****33.397920,-111.558079
+94-22 Northern Blvd, Flushing, NY 11372, USA*****40.756606,-73.873276
+201 S 15th St, Corsicana, TX 75110, USA*****32.090175,-96.467389
+101 S Clay St, Ennis, TX 75119, USA*****32.324046,-96.633583
+800 N Hwy 77, Waxahachie, TX 75165, USA*****32.411719,-96.839957
+5750 E Lovers Ln, Dallas, TX 75206, USA*****32.849500,-96.768719
+3780 Gattis School Rd, Round Rock, TX 78664, USA*****30.497728,-97.613831
+419 NW Loop, Carthage, TX 75633, USA*****32.149256,-94.368266
+419 SW Loop, Carthage, TX 75633, USA*****32.136896,-94.351527
+1035 E Loop 304, Crockett, TX 75835, USA*****31.325169,-95.437687
+1035 E Loop 304, Crockett, TX 75835, USA*****31.325169,-95.437687
+412 N Timberland Dr, Lufkin, TX 75901, USA*****31.340289,-94.716839
+600 W Henderson St, Cleburne, TX 76033, USA*****32.347152,-97.393868
+2901 Race St #6, Fort Worth, TX 76111, USA*****32.773435,-97.305371
+3725 Desert Ridge Dr, Fort Worth, TX 76116, USA*****32.716934,-97.440396
+500 S Oak St, Roanoke, TX 76262, USA*****32.994346,-97.231602
+3379 FM913, Stephenville, TX 76401, USA*****32.146974,-98.111495
+2150 W Washington St, Stephenville, TX 76401, USA*****32.208819,-98.225478
+3002 S 31st St, Temple, TX 76502, USA*****31.072117,-97.370901
+1314 W Adams Ave, Temple, TX 76504, USA*****31.102102,-97.353578
+525 N Main St, Belton, TX 76513, USA*****31.060963,-97.460533
+804 E Hwy 190, Copperas Cove, TX 76522, USA*****31.119507,-97.895680
+1207 E Main St, Gatesville, TX 76528, USA*****31.435582,-97.743265
+1351 County Rd 357, Granger, TX 76530, USA*****30.751954,-97.358469
+809 N Gray St, Killeen, TX 76541, USA*****31.124996,-97.727149
+111 E Avenue F, Killeen, TX 76541, USA*****31.119232,-97.730192
+2511 Trimmier Rd Ste 100, Killeen, TX 76542, USA*****31.091084,-97.735916
+601 Indian Trail, Harker Heights, TX 76548, USA*****31.078929,-97.654877
+705 S Key Ave, Lampasas, TX 76550, USA*****31.061890,-98.180873
+100 Carlos G Parker Blvd NW #101, Taylor, TX 76574, USA*****30.601980,-97.418545
+100 Carlos G Parker Blvd NW #101, Taylor, TX 76574, USA*****30.601980,-97.418545
+3600 N Main St, Taylor, TX 76574, USA*****30.599442,-97.414900
+435 Live Oak St, Marlin, TX 76661, USA*****31.307074,-96.890313
+701 E Milam St, Mexia, TX 76667, USA*****31.685256,-96.477396
+810 Penton Ln, Waco, TX 76705, USA*****31.599292,-97.084198
+801 I-35, Waco, TX 76706, USA*****31.547138,-97.126221
+1102 Speight Ave, Waco, TX 76706, USA*****31.540222,-97.123740
+3801 N 19th St, Waco, TX 76708, USA*****31.581235,-97.172460
+4370 Lake Shore Dr, Waco, TX 76710, USA*****31.562384,-97.194670
+1301 Wooded Acres Dr, Waco, TX 76710, USA*****31.533653,-97.188792
+6001 W Waco Dr, Waco, TX 76710, USA*****31.516405,-97.188648
+1110 S Valley Mills Dr, Beverly Hills, TX 76711, USA*****31.526951,-97.146875
+9100 Woodway Dr, Waco, TX 76712, USA*****31.495043,-97.221974
+553 Hwy 6, Cisco, TX 76437, USA*****32.399504,-98.982190
+1511 W 18th St, Houston, TX 77008, USA*****29.802447,-95.427987
+6102 Scott St, Houston, TX 77021, USA*****29.700702,-95.360672
+12900 Aldine Westfield Rd, Houston, TX 77039, USA*****29.901896,-95.353972
+10251 Kempwood Dr, Houston, TX 77043, USA*****29.821789,-95.546627
+2660 Fountain View Dr, Houston, TX 77057, USA*****29.738348,-95.486056
+21155 TX-249, Houston, TX 77070, USA*****29.998006,-95.582525
+10919 Louetta Rd, Houston, TX 77070, USA*****29.995460,-95.576332
+10100 Beechnut St, Houston, TX 77072, USA*****29.690635,-95.559923
+9828 Blackhawk Blvd, Houston, TX 77075, USA*****29.601577,-95.250000
+11815 Westheimer Rd, Houston, TX 77077, USA*****29.735990,-95.585770
+14540 Memorial Dr, Houston, TX 77079, USA*****29.771231,-95.605470
+14498 Bellaire Blvd, Houston, TX 77083, USA*****29.705751,-95.641687
+1550 Fry Rd, Houston, TX 77084, USA*****29.788940,-95.717759
+4955 Hwy 6 N, Houston, TX 77084, USA*****29.847253,-95.647584
+3111 Woodridge Dr SUITE 500, Houston, TX 77087, USA*****29.698390,-95.294733
+500 Gulfgate Center Mall, Houston, TX 77087, USA*****29.697035,-95.299249
+5417 S Braeswood Blvd, Houston, TX 77096, USA*****29.675699,-95.477897
+2108 N Frazier St, Conroe, TX 77301, USA*****30.335147,-95.465658
+216 Farm to Market 1960 Bypass Rd E, Humble, TX 77338, USA*****30.002749,-95.265260
+2304 Sam Houston Ave, Huntsville, TX 77340, USA*****30.706518,-95.550162
+7405 Farm to Market 1960 Rd E, Humble, TX 77346, USA*****29.998243,-95.164617
+1509 W Church St, Livingston, TX 77351, USA*****30.709785,-94.951322
+Magnolia, TX, USA*****30.209379,-95.750782
+19900 US-59, Sugar Land, TX 77479, USA*****29.564710,-95.685863
+22618 Aldine Westfield Rd, Spring, TX 77373, USA*****30.043090,-95.382715
+701 W Parkwood Ave, Friendswood, TX 77546, USA*****29.505733,-95.190883
+28520 TX-249, Tomball, TX 77375, USA*****30.083103,-95.632088
+7310 Louetta Rd, Spring, TX 77379, USA*****30.021756,-95.526552
+9595 Six Pines Dr, Spring, TX 77380, USA*****30.164040,-95.464219
+10777 Kuykendahl Rd, Spring, TX 77382, USA*****30.180246,-95.539213
+5130 Cedar St, Bellaire, TX 77401, USA*****29.706953,-95.469756
+2700 7th St, Bay City, TX 77414, USA*****28.982703,-95.957659
+24224 Northwest Fwy, Cypress, TX 77429, USA*****29.957476,-95.673241
+306 N Mechanic St, El Campo, TX 77437, USA*****29.199006,-96.269514
+1621 S Mason Rd, Katy, TX 77450, USA*****29.758261,-95.751045
+1550 S Fry Rd, Katy, TX 77450, USA*****29.764699,-95.716107
+4724 Hwy 6, Missouri City, TX 77459, USA*****29.579126,-95.582254
+4724 Hwy 6, Missouri City, TX 77459, USA*****29.579126,-95.582254
+1301 Guadalupe St, Laredo, TX 78040, USA*****27.506168,-99.483263
+6711 S Fry Rd, Katy, TX 77494, USA*****29.712949,-95.776237
+6210 Fairmont Pkwy, Pasadena, TX 77505, USA*****29.648692,-95.144347
+207 E South St, Alvin, TX 77511, USA*****29.409726,-95.242656
+1239 E Mulberry St, Angleton, TX 77515, USA*****29.171499,-95.418419
+2200 N Main St, Baytown, TX 77520, USA*****29.748324,-94.962445
+3601 Center St, Deer Park, TX 77536, USA*****29.678545,-95.121791
+115 W Parkwood Ave, Friendswood, TX 77546, USA*****29.508110,-95.188902
+701 W Parkwood Ave, Friendswood, TX 77546, USA*****29.505968,-95.190929
+410 Plantation Dr, Lake Jackson, TX 77566, USA*****29.020756,-95.422184
+2955 Gulf Fwy S, League City, TX 77573, USA*****29.468929,-95.090971
+2805 Business Center Dr, Pearland, TX 77584, USA*****29.559168,-95.390507
+918 21st St N, Texas City, TX 77590, USA*****29.393929,-94.923166
+5000 32nd St, Groves, TX 77619, USA*****29.929012,-93.922589
+2424 N 16th St, Orange, TX 77630, USA*****30.115633,-93.746207
+3401 Gulfway Dr, Port Arthur, TX 77642, USA*****29.905032,-93.923684
+819 N Main St, Lumberton, TX 77657, USA*****30.264359,-94.200184
+1180 S 11th St, Beaumont, TX 77701, USA*****30.064977,-94.129867
+3025 Dowlen Rd, Beaumont, TX 77706, USA*****30.106497,-94.170414
+3930 E Lucas Dr, Beaumont, TX 77706, USA*****30.122446,-94.141700
+725 E Villa Maria Rd, Bryan, TX 77802, USA*****30.644241,-96.351083
+1905 Old Hearne Rd, Bryan, TX 77803, USA*****30.690599,-96.373284
+1900 Texas Ave S, College Station, TX 77840, USA*****30.612756,-96.318038
+1505 E Rio Grande St, Victoria, TX 77901, USA*****28.805192,-96.989041
+1161 N Esplanade St, Cuero, TX 77954, USA*****29.100057,-97.285645
+301 N Wells St, Edna, TX 77957, USA*****28.979306,-96.648030
+101 Calhoun Plaza, Port Lavaca, TX 77979, USA*****28.626782,-96.637762
+201 W Gonzales St, Yoakum, TX 77995, USA*****29.292692,-97.150388
+420 W Bandera Rd, Boerne, TX 78006, USA*****29.781721,-98.734292
+300 Main St, Kerrville, TX 78028, USA*****30.051837,-99.143949
+1301 Guadalupe St, Laredo, TX 78040, USA*****27.506006,-99.483071
+1002 Farragut St, Laredo, TX 78040, USA*****27.506023,-99.506078
+210 W Del Mar Blvd, Laredo, TX 78041, USA*****27.568097,-99.499746
+2310 E Saunders St, Laredo, TX 78041, USA*****27.530945,-99.471306
+4801 San Dario Ave, Laredo, TX 78041, USA*****27.542129,-99.500875
+7811 McPherson Rd, Laredo, TX 78045, USA*****27.576543,-99.471956
+1911 Bob Bullock Loop, Laredo, TX 78045, USA*****27.607476,-99.473866
+2314 S Zapata Hwy, Laredo, TX 78046, USA*****27.476503,-99.475950
+1956 Interstate 35 Access Rd, San Antonio, TX 78211, USA*****29.363875,-98.521432
+205 N Oak St, Pearsall, TX 78061, USA*****28.893090,-99.094866
+219 W Oaklawn Rd, Pleasanton, TX 78064, USA*****28.955992,-98.486562
+20475 TX-46, Spring Branch, TX 78070, USA*****29.797236,-98.427612
+100 E Houston St, Beeville, TX 78102, USA*****28.400518,-97.746338
+923 10th St, Floresville, TX 78114, USA*****29.143016,-98.157527
+805 W Main St, Kenedy, TX 78119, USA*****28.814768,-97.856601
+651 S Walnut Ave, New Braunfels, TX 78130, USA*****29.688483,-98.125964
+910 Kitty Hawk Rd, Universal City, TX 78148, USA*****29.546516,-98.312483
+17460 IH 35 N, Schertz, TX 78154, USA*****29.597597,-98.277831
+1368 E Court St, Seguin, TX 78155, USA*****29.570656,-97.944484
+2118 Fredericksburg Rd, San Antonio, TX 78201, USA*****29.465891,-98.525759
+3485 Fredericksburg Rd, San Antonio, TX 78201, USA*****29.475749,-98.539045
+1601 Nogalitos St, San Antonio, TX 78204, USA*****29.397743,-98.514864
+108 N Rosillo St, San Antonio, TX 78207, USA*****29.428383,-98.524548
+1955 Nacogdoches Rd, San Antonio, TX 78209, USA*****29.507545,-98.458270
+946 Quintana Rd, San Antonio, TX 78211, USA*****29.379793,-98.552731
+300 W Olmos Dr, San Antonio, TX 78212, USA*****29.470814,-98.496650
+6000 West Ave, San Antonio, TX 78213, USA*****29.515281,-98.524870
+6839 San Pedro Ave, San Antonio, TX 78216, USA*****29.503601,-98.500283
+4710 N PanAm Expy, San Antonio, TX 78218, USA*****29.477574,-98.401560
+4710 I-35, San Antonio, TX 78218, USA*****29.477532,-98.399577
+6520 Fratt Rd, San Antonio, TX 78218, USA*****29.486864,-98.392169
+1015 S WW White Rd, San Antonio, TX 78220, USA*****29.414913,-98.406501
+735 SW Military Dr, San Antonio, TX 78221, USA*****29.357422,-98.502649
+4100 S New Braunfels Ave, San Antonio, TX 78223, USA*****29.380004,-98.457975
+8231 Marbach Rd, San Antonio, TX 78227, USA*****29.418833,-98.652768
+400 Valley Hi Dr, San Antonio, TX 78227, USA*****29.379722,-98.637974
+2323 Lockhill Selma Rd, San Antonio, TX 78231, USA*****29.543711,-98.529456
+14610 Huebner Rd, San Antonio, TX 78230, USA*****29.572142,-98.545765
+12777 W IH 10, San Antonio, TX 78230, USA*****29.561987,-98.588077
+9900 Wurzbach Rd, San Antonio, TX 78230, USA*****29.531325,-98.560084
+N Interstate 35, San Antonio, TX 78233, USA*****29.523564,-98.393926
+5601 Bandera Rd, San Antonio, TX 78238, USA*****29.482673,-98.594768
+6030 Montgomery Dr, San Antonio, TX 78239, USA*****29.510343,-98.370115
+5803 Babcock Rd, San Antonio, TX 78240, USA*****29.525620,-98.600307
+6580 FM78, San Antonio, TX 78244, USA*****29.479910,-98.359157
+7951 Guilbeau Rd, San Antonio, TX 78250, USA*****29.519809,-98.643397
+9255 Grissom Rd, San Antonio, TX 78251, USA*****29.484985,-98.664992
+10660 Culebra Rd, San Antonio, TX 78251, USA*****29.491418,-98.703031
+24165 I-10 #300, San Antonio, TX 78257, USA*****29.665045,-98.633303
+20760 North, US-281 a, San Antonio, TX 78258, USA*****29.634941,-98.454718
+San Antonio, TX 78283, USA*****29.413459,-98.503093
+248 E Goodnight Ave, Aransas Pass, TX 78336, USA*****27.901774,-97.144193
+101 E Goodnight Ave, Aransas Pass, TX 78336, USA*****27.901574,-97.146297
+2616 TX-361, Ingleside, TX 78362, USA*****27.882614,-97.209423
+601 E San Patricio Ave, Mathis, TX 78368, USA*****28.091201,-97.822943
+1600 Wildcat Dr, Portland, TX 78374, USA*****27.887213,-97.317398
+308 E Main Ave, Robstown, TX 78380, USA*****27.789004,-97.665747
+S Live Oak St, Rockport, TX 78382, USA*****28.015104,-97.055780
+1409 Hwy 35 N Bypass, Rockport, TX 78382, USA*****28.033635,-97.081073
+106 S San Patricio St, Sinton, TX 78387, USA*****28.035532,-97.517178
+3133 S Alameda St, Corpus Christi, TX 78404, USA*****27.757043,-97.391405
+3406 S Staples St, Corpus Christi, TX 78411, USA*****27.748637,-97.393513
+4320 S Alameda St, Corpus Christi, TX 78412, USA*****27.729911,-97.370715
+5313 Saratoga Blvd, Corpus Christi, TX 78413, USA*****27.684678,-97.388636
+6209 Duke Dr, Corpus Christi, TX 78414, USA*****27.669949,-97.379018
+4444 Kostoryz Rd, Corpus Christi, TX 78415, USA*****27.739744,-97.405671
+1145 Waldron Rd, Corpus Christi, TX 78418, USA*****27.665264,-97.282038
+900 S 10th St, McAllen, TX 78501, USA*****26.195009,-98.232724
+3200 N 10th St, McAllen, TX 78501, USA*****26.232725,-98.223507
+3601 Pecan Blvd, McAllen, TX 78501, USA*****26.218735,-98.259266
+901 Trenton Rd, McAllen, TX 78504, USA*****26.266374,-98.218415
+1211 E Frontage Rd, Alamo, TX 78516, USA*****26.190496,-98.123537
+1628 Central Blvd, Brownsville, TX 78520, USA*****25.926375,-97.510246
+924 E Elizabeth St, Brownsville, TX 78520, USA*****25.902730,-97.500276
+2250 Boca Chica Blvd, Brownsville, TX 78521, USA*****25.920298,-97.488594
+2950 Southmost Rd, Brownsville, TX 78521, USA*****25.905537,-97.464698
+2155 Paredes Line Rd, Brownsville, TX 78526, USA*****25.950018,-97.488518
+813 Miller Ave, Donna, TX 78537, USA*****26.168700,-98.055447
+E Business Hwy 83, Donna, TX 78537, USA*****26.167889,-98.036482
+1212 S Closner Blvd, Edinburg, TX 78539, USA*****26.289607,-98.163569
+2700 W Freddy Gonzalez Dr, Edinburg, TX 78539, USA*****26.289908,-98.195913
+512 E Edinburg Ave, Elsa, TX 78543, USA*****26.292158,-97.985504
+1213 S Commerce St, Harlingen, TX 78550, USA*****26.181274,-97.681479
+613 S Expressway 83, Harlingen, TX 78550, USA*****26.183422,-97.714176
+613 N S St, Harlingen, TX 78550, USA*****26.198816,-97.717098
+1103 Morgan Blvd, Harlingen, TX 78550, USA*****26.203438,-97.677246
+209 N Texas Ave, Mercedes, TX 78570, USA*****26.153415,-97.912896
+200 E Griffin Pkwy, Mission, TX 78572, USA*****26.228145,-98.322248
+2206 N Conway Ave, Mission, TX 78572, USA*****26.229139,-98.322716
+2216 N Conway Ave, Mission, TX 78572, USA*****26.229156,-98.322869
+820 N Conway Ave, Mission, TX 78572, USA*****26.213682,-98.324523
+2206 W Palma Vista Dr, Palmview, TX 78572, USA*****26.219409,-98.350838
+6816 W Expy 83, Mission, TX 78572, USA*****26.237704,-98.402290
+402 E Cherokee Ave, Pharr, TX 78577, USA*****26.191532,-98.179963
+1300 W U.S. Hwy 83, Pharr, TX 78577, USA*****26.197765,-98.198852
+1679 TX-100, Port Isabel, TX 78578, USA*****26.072142,-97.226539
+405 W Hidalgo Ave, Raymondville, TX 78580, USA*****26.481604,-97.785873
+1141 US-77, Hallettsville, TX 77964, USA*****29.472209,-96.936408
+901 W Expy 83, San Juan, TX 78589, USA*****26.203085,-98.164437
+1300 E Business 83, San Juan, TX 78589, USA*****26.185702,-98.136569
+310 N Westgate Dr, Weslaco, TX 78596, USA*****26.163293,-98.005526
+2206 W Palma Vista Dr, Palmview, TX 78572, USA*****26.219409,-98.350838
+1502 Janie St, Weslaco, TX 78599, USA*****26.187838,-98.005043
+1004 Texas Blvd N, Weslaco, TX 78596, USA*****26.171201,-97.989745
+104 Hasler Blvd, Bastrop, TX 78602, USA*****30.109664,-97.334440
+15300 S IH 35 Frontage Rd, Buda, TX 78610, USA*****30.088151,-97.820113
+105 S Boundary St, Burnet, TX 78611, USA*****30.758672,-98.223007
+170 E Whitestone Blvd, Cedar Park, TX 78613, USA*****30.521637,-97.828977
+2800 E Whitestone Blvd, Cedar Park, TX 78613, USA*****30.532951,-97.784666
+407 S Adams St, Fredericksburg, TX 78624, USA*****30.270807,-98.875221
+Fredericksburg, TX 78624, USA*****30.275201,-98.871984
+4500 Williams Dr, Georgetown, TX 78633, USA*****30.682167,-97.719748
+424 St Matthew St, Gonzales, TX 78629, USA*****29.499271,-97.450897
+4500 Ranch Rd 2338, Florence, TX 76527, USA*****30.751466,-97.806474
+112 Brushy Creek Trail, Hutto, TX 78634, USA*****30.491994,-97.535323
+215 Ranch Rd 2900, Kingsland, TX 78639, USA*****30.658153,-98.445886
+5401 Farm to Market 1626, Kyle, TX 78640, USA*****30.015866,-97.862011
+403 S Colorado St, Lockhart, TX 78644, USA*****29.881876,-97.670023
+320 E Pierce St, Luling, TX 78648, USA*****29.680299,-97.652692
+1501 Ranch Rd 1431, Marble Falls, TX 78654, USA*****30.572293,-98.244698
+1503 Ranch Rd 1431, Marble Falls, TX 78654, USA*****30.582856,-98.279935
+201 Farm to Market 685, Pflugerville, TX 78660, USA*****30.437045,-97.611601
+1434 Wells Branch Pkwy, Pflugerville, TX 78660, USA*****30.441987,-97.663882
+1700 E Palm Valley Blvd, Round Rock, TX 78664, USA*****30.518818,-97.658540
+603 Louis Henna Blvd, Round Rock, TX 78664, USA*****30.481475,-97.659069
+641 E Hopkins St, San Marcos, TX 78666, USA*****29.886958,-97.926244
+16900 Ranch Rd 620, Round Rock, TX 78681, USA*****30.500421,-97.722317
+5800a W Slaughter Ln, Austin, TX 78749, USA*****30.202409,-97.876803
+1000 E 41st St, Austin, TX 78751, USA*****30.299857,-97.719932
+2701 E 7th St, Austin, TX 78702, USA*****30.259185,-97.711546
+2400 S Congress Ave, Austin, TX 78704, USA*****30.238689,-97.753794
+7112 Ed Bluestein Blvd, Austin, TX 78723, USA*****30.312058,-97.664758
+7112 Ed Bluestein Blvd #125, Austin, TX 78723, USA*****30.312162,-97.665185
+11521 N FM 620, Austin, TX 78726, USA*****30.453413,-97.826311
+7301 N FM 620, Austin, TX 78730, USA*****30.404784,-97.851555
+6001 W Parmer Ln, Austin, TX 78727, USA*****30.442067,-97.743716
+7025 Village Center Dr, Austin, TX 78731, USA*****30.351906,-97.754827
+7015 Village Center Dr, Austin, TX 78731, USA*****30.351856,-97.755005
+7010 TX-71, Austin, TX 78735, USA*****30.235793,-97.874508
+12400 TX-71, Austin, TX 78738, USA*****30.304063,-97.932393
+2508 E Riverside Dr, Austin, TX 78741, USA*****30.236430,-97.722151
+6607 S IH 35 Frontage Rd, Austin, TX 78744, USA*****30.188873,-97.768666
+2200 Tallow Ct, Austin, TX 78744, USA*****30.194852,-97.755103
+600 W William Cannon Dr, Austin, TX 78745, USA*****30.197669,-97.785055
+701 S Capital of Texas Hwy, Austin, TX 78746, USA*****30.292112,-97.825996
+2110 W Slaughter Ln #1, Austin, TX 78748, USA*****30.174873,-97.825729
+2110 W Slaughter Ln, Austin, TX 78748, USA*****30.174873,-97.825729
+5800 W Slaughter Ln, Austin, TX 78749, USA*****30.201840,-97.876752
+13776 US-183, Austin, TX 78750, USA*****30.462331,-97.796429
+6406 N Interstate Hwy 35 #2150, Austin, TX 78752, USA*****30.325391,-97.708516
+2409 E Expressway 83, Mission, TX 78572, USA*****26.198136,-98.303636
+9414 N Lamar Blvd, Austin, TX 78753, USA*****30.364548,-97.698061
+5808 Burnet Rd, Austin, TX 78756, USA*****30.334425,-97.741011
+10710 Research Blvd, Austin, TX 78759, USA*****30.398774,-97.748293
+10710 Research Blvd Suite 200, Austin, TX 78759, USA*****30.398566,-97.748291
+400 N 5th St, Carrizo Springs, TX 78834, USA*****28.524455,-99.859846
+514 E Zavala St, Crystal City, TX 78839, USA*****28.682070,-99.828929
+500 Pecan St, Del Rio, TX 78840, USA*****29.358057,-100.897280
+200 Veterans Blvd, Del Rio, TX 78840, USA*****29.366291,-100.899449
+2135 Main St, Eagle Pass, TX 78852, USA*****28.710037,-100.484974
+609 19th St, Hondo, TX 78861, USA*****29.347521,-99.134719
+2105 Milam St, Columbus, TX 78934, USA*****29.694058,-96.538396
+450 E Travis St, La Grange, TX 78945, USA*****29.906878,-96.872474
+1345 Barrow St, Abilene, TX 79605, USA*****32.433318,-99.758324
+2000 S Gregg St, Big Spring, TX 79720, USA*****32.234713,-101.472344
+3801 E 42nd St, Odessa, TX 79762, USA*****31.891434,-102.351017

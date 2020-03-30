@@ -1,0 +1,5 @@
+56845 Station Dr, Calumet, MI 49913, USA*****47.240456,-88.455144
+801 Market St, Hancock, MI 49930, USA*****47.131515,-88.591720
+139 S Main St, L'Anse, MI 49946, USA*****46.755872,-88.456587
+Ontonagon, MI 49953, USA*****46.871052,-89.314030
+751 Greenland Rd, Ontonagon, MI 49953, USA*****46.863493,-89.298368

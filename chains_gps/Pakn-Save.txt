@@ -1,0 +1,5 @@
+2255 Gellert Blvd, South San Francisco, CA 94080, USA*****37.646650,-122.451881
+555 Floresta Blvd, San Leandro, CA 94578, USA*****37.702755,-122.143697
+610 Hegenberger Rd, Oakland, CA 94621, USA*****37.745824,-122.194382
+1187 S Main St, Manteca, CA 95337, USA*****37.786734,-121.218840
+1291 Sanguinetti Rd, Sonora, CA 95370, USA*****37.973716,-120.362106

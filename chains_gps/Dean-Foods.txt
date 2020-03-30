@@ -1,0 +1,29 @@
+6303 Maxon Rd, Harvard, IL 60033, USA*****42.417962,-88.666639
+11713 Mill St, Huntley, IL 60142, USA*****42.164498,-88.424305
+630 Meadow St, Belvidere, IL 61008, USA*****42.261635,-88.835753
+215 W 3rd St, Pecatonica, IL 61063, USA*****42.314072,-89.361924
+1126 Kilburn Ave, Rockford, IL 61101, USA*****42.286203,-89.102835
+96 Sickles Dr, Decatur, IL 62521, USA*****39.813513,-88.956552
+965 S Wyckles Rd, Decatur, IL 62522, USA*****39.829342,-89.029625
+11555 N Meridian St, Carmel, IN 46032, USA*****39.954327,-86.156592
+N 775 E, Indiana 46036, USA*****40.334761,-85.866340
+2710 Kettering Dr, South Bend, IN 46635, USA*****41.695145,-86.210509
+1700 N Old US Hwy 31, Rochester, IN 46975, USA*****41.080069,-86.218265
+265 Murphy Ln, Nicholasville, KY 40356, USA*****37.905497,-84.643199
+1199 W Central St, Franklin, MA 02038, USA*****42.088009,-71.444560
+26443 Stollman Dr, Inkster, MI 48141, USA*****42.308333,-83.298933
+8607 Roman Dr, Sterling Heights, MI 48312, USA*****42.569432,-83.023927
+42589 W Red Arrow Hwy, Paw Paw, MI 49079, USA*****42.208817,-85.962066
+7380 Harmon Ln, Jenison, MI 49428, USA*****42.903001,-85.846164
+1930 Wooddale Dr, Woodbury, MN 55125, USA*****44.921061,-92.972088
+Minneapolis, MN 55401, USA*****44.983654,-93.269357
+7990 Bainbrook Dr, Chagrin Falls, OH 44023, USA*****41.371837,-81.357515
+1415 W Waterloo Rd, Akron, OH 44314, USA*****41.033191,-81.576866
+2808 W Omaha St, Rapid City, SD 57702, USA*****44.084246,-103.266061
+3405 Edwards St, Rapid City, SD 57703, USA*****44.097352,-103.159865
+4711 S Interstate 90 Service Rd, Rapid City, SD 57701, USA*****44.101886,-103.140606
+1595 Mary St, Sandston, VA 23150, USA*****37.529771,-77.308043
+2477 Vista Dr, Lake Geneva, WI 53147, USA*****42.615480,-88.409902
+920 Sextonville Rd, Richland Center, WI 53581, USA*****43.329382,-90.386203
+WI-44, Wisconsin, USA*****43.735389,-88.825476
+101 Kennedy Dr, Fairwater, WI 53931, USA*****43.743274,-88.864323

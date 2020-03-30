@@ -1,0 +1,9 @@
+90 Water St, Fitchburg, MA 01420, USA*****42.580448,-71.793685
+700 Boston Rd #13, Billerica, MA 01821, USA*****42.540358,-71.244173
+288 Chelmsford St Ste C, Chelmsford, MA 01824, USA*****42.613893,-71.332241
+186 Haverhill St, Methuen, MA 01844, USA*****42.704881,-71.201475
+331 Fletcher St, Lowell, MA 01854, USA*****42.644528,-71.319250
+875 East St, Tewksbury, MA 01876, USA*****42.615313,-71.194980
+240 Main St, Wilmington, MA 01887, USA*****42.556281,-71.178735
+261 Daniel Webster Hwy, Nashua, NH 03060, USA*****42.706991,-71.443529
+1500 Lafayette Rd, Portsmouth, NH 03801, USA*****43.045038,-70.774284

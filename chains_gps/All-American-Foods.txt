@@ -1,0 +1,6 @@
+200 Banks Station Road, Fayetteville, GA 30214, USA*****33.467574,-84.444589
+35 Foodmart Rd, Boston, MA 02118, USA*****42.336605,-71.061979
+121 Mohr Dr, Mankato, MN 56001, USA*****44.197625,-93.995018
+23382 3rd Ave, Mankato, MN 56001, USA*****44.214613,-93.992666
+1501 2nd St SE, Waseca, MN 56093, USA*****44.063679,-93.507886
+1920 Crest View Dr, Hudson, WI 54016, USA*****44.961877,-92.732260

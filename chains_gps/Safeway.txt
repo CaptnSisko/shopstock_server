@@ -1,0 +1,1073 @@
+3101 Penland Pkwy, Anchorage, AK 99508, USA*****61.216672,-149.820482
+3101 Penland Pkwy, Anchorage, AK 99508, USA*****61.216754,-149.818516
+90 Sterling Hwy, Homer, AK 99603, USA*****59.643384,-151.534502
+10576 Kenai Spur Hwy, Kenai, AK 99611, USA*****60.560253,-151.240888
+2685 Mill Bay Rd, Kodiak, AK 99615, USA*****57.810701,-152.367470
+1907 Seward Hwy, Seward, AK 99664, USA*****60.126061,-149.436558
+44428 Sterling Hwy, Soldotna, AK 99669, USA*****60.484125,-151.071117
+30 College Rd, Fairbanks, AK 99701, USA*****64.851568,-147.700212
+301 N Santa Claus Ln, North Pole, AK 99705, USA*****64.758130,-147.354738
+30 S Santa Claus Ln, North Pole, AK 99705, USA*****64.754668,-147.353349
+3627 Airport Way, Fairbanks, AK 99709, USA*****64.835724,-147.808172
+3033 Vintage Blvd, Juneau, AK 99801, USA*****58.371030,-134.595594
+2417 Tongass Ave, Ketchikan, AK 99901, USA*****55.348487,-131.673399
+28455 N Vistancia Blvd, Peoria, AZ 85383, USA*****33.740766,-112.320547
+340 E McDowell Rd, Phoenix, AZ 85004, USA*****33.466259,-112.067478
+520 W Osborn Rd, Phoenix, AZ 85013, USA*****33.488560,-112.081357
+3132 E Camelback Rd, Phoenix, AZ 85016, USA*****33.511380,-112.014755
+4750 E Indian School Rd, Phoenix, AZ 85018, USA*****33.495917,-111.979264
+9619 N 21st Dr, Phoenix, AZ 85021, USA*****33.573629,-112.104039
+13440 N 7th St, Phoenix, AZ 85022, USA*****33.608965,-112.066919
+550 E Bell Rd, Phoenix, AZ 85022, USA*****33.641847,-112.067105
+29834 N Cave Creek Rd, Cave Creek, AZ 85331, USA*****33.757920,-111.991839
+18631 N 19th Ave, Phoenix, AZ 85027, USA*****33.655842,-112.098527
+20227 N 27th Ave, Phoenix, AZ 85027, USA*****33.670325,-112.116474
+10030 W Indian School Rd APT 152, Phoenix, AZ 85037, USA*****33.494616,-112.278775
+6202 S 16th St, Phoenix, AZ 85042, USA*****33.390597,-112.049314
+4747 E Elliot Rd, Phoenix, AZ 85044, USA*****33.347971,-111.982151
+1334 E Chandler Blvd, Phoenix, AZ 85048, USA*****33.306969,-112.053878
+4005 E Chandler Blvd, Phoenix, AZ 85044, USA*****33.303193,-111.996199
+8021 N 35th Ave, Phoenix, AZ 85051, USA*****33.553895,-112.131937
+3655 W Anthem Way, Anthem, AZ 85086, USA*****33.865135,-112.139109
+1960 W Main St, Mesa, AZ 85201, USA*****33.415277,-111.873250
+1225 W Guadalupe Rd, Mesa, AZ 85202, USA*****33.363087,-111.859746
+1800 E Covina St #137, Mesa, AZ 85203, USA*****33.425424,-111.790116
+1855 N Power Rd, Mesa, AZ 85207, USA*****33.449738,-111.682189
+4029 E Caballero St, Mesa, AZ 85205, USA*****33.423096,-111.743976
+9101 E Baseline Rd, Mesa, AZ 85209, USA*****33.377009,-111.638032
+2740 E University Dr, Mesa, AZ 85213, USA*****33.424107,-111.771993
+2736 N Salem, Mesa, AZ 85215, USA*****33.465562,-111.703173
+3185 Apache Trail, Apache Junction, AZ 85120, USA*****33.413764,-111.579730
+1637 N Trekell Rd, Casa Grande, AZ 85122, USA*****32.895549,-111.740902
+719 N Center Ave, Casa Grande, AZ 85122, USA*****32.880371,-111.753850
+1159 W Chandler Blvd, Chandler, AZ 85224, USA*****33.303988,-111.863007
+1060 E Ray Rd, Chandler, AZ 85225, USA*****33.321663,-111.822630
+1050 9th St, Coolidge, AZ 85128, USA*****32.987228,-111.532813
+404 W Bealey Ave, Coolidge, AZ 85128, USA*****32.985149,-111.522027
+1449 N Arizona Blvd, Coolidge, AZ 85128, USA*****32.993803,-111.522347
+3325 N Hunt Hwy, Florence, AZ 85132, USA*****33.062613,-111.483762
+4747 E Warner Elliot Loop, Phoenix, AZ 85044, USA*****33.348577,-111.987032
+5137 E Baseline Rd, Gilbert, AZ 85234, USA*****33.377419,-111.723551
+18495 E Queen Creek Rd, Queen Creek, AZ 85142, USA*****33.264880,-111.683947
+4970 S Alma School Rd, Chandler, AZ 85248, USA*****33.233657,-111.860399
+7920 E Chaparral Rd, Scottsdale, AZ 85250, USA*****33.510699,-111.910330
+10773 N Scottsdale Rd, Scottsdale, AZ 85254, USA*****33.584297,-111.924506
+4857 E Greenway Rd, Scottsdale, AZ 85254, USA*****33.625557,-111.975636
+20901 N Pima Rd, Scottsdale, AZ 85255, USA*****33.675846,-111.888066
+23637 N Pinnacle Ct, Scottsdale, AZ 85255, USA*****33.701465,-111.859514
+23565 N Scottsdale Rd, Scottsdale, AZ 85255, USA*****33.700038,-111.922999
+8390 East Vía de Ventura, Scottsdale, AZ 85258, USA*****33.554750,-111.899291
+11275 E Vía Linda, Scottsdale, AZ 85259, USA*****33.586683,-111.837575
+14696 N Frank Lloyd Wright Blvd, Scottsdale, AZ 85260, USA*****33.619540,-111.875024
+32551 N Scottsdale Rd, Scottsdale, AZ 85266, USA*****33.781265,-111.922415
+13733 N Fountain Hills Blvd, Fountain Hills, AZ 85268, USA*****33.609947,-111.728791
+1005 W 17th St, Tempe, AZ 85281, USA*****33.410482,-111.954461
+926 E Broadway Rd, Tempe, AZ 85282, USA*****33.408954,-111.925235
+2750 S Priest Dr, Tempe, AZ 85282, USA*****33.399144,-111.961332
+1115 W Alameda Dr, Tempe, AZ 85282, USA*****33.398945,-111.958584
+1515 E Elliot Rd, Tempe, AZ 85284, USA*****33.348380,-111.913683
+90 S Val Vista Dr, Gilbert, AZ 85296, USA*****33.348665,-111.757261
+5080 W Olive Ave, Glendale, AZ 85302, USA*****33.568871,-112.167798
+16630 N 43rd Ave #178, Glendale, AZ 85306, USA*****33.636533,-112.153519
+5615 W Acoma Dr #71, Glendale, AZ 85306, USA*****33.617458,-112.180178
+5860 W Thunderbird Rd, Glendale, AZ 85306, USA*****33.612769,-112.184253
+20205 N 67th Ave, Glendale, AZ 85308, USA*****33.668663,-112.202775
+20227 N 67th Ave, Glendale, AZ 85308, USA*****33.670214,-112.202472
+6508 W Bell Rd, Glendale, AZ 85308, USA*****33.638998,-112.199887
+23425 N 39th Dr, Glendale, AZ 85310, USA*****33.699388,-112.141717
+29834 N Cave Creek Rd, Cave Creek, AZ 85331, USA*****33.757920,-111.991839
+440 N Estrella Pkwy, Goodyear, AZ 85338, USA*****33.451701,-112.394319
+121 W Riverside Dr, Parker, AZ 85344, USA*****34.154684,-114.275734
+6817 W Peoria Ave, Peoria, AZ 85345, USA*****33.580354,-112.205336
+10926 W Bell Rd, Sun City, AZ 85351, USA*****33.638475,-112.292237
+17049 W Bell Rd, Surprise, AZ 85388, USA*****33.637345,-112.425514
+14505 W Grand Ave, Surprise, AZ 85374, USA*****33.653697,-112.372260
+13503 W Camino Del Sol, Sun City West, AZ 85375, USA*****33.655033,-112.349890
+13828 W Waddell Rd, Surprise, AZ 85379, USA*****33.610000,-112.357619
+12320 N 83rd Ave, Peoria, AZ 85381, USA*****33.596567,-112.239706
+20713 N 83rd Ave, Peoria, AZ 85382, USA*****33.672321,-112.237630
+28455 N Vistancia Blvd, Peoria, AZ 85383, USA*****33.740661,-112.320577
+1999 W Wickenburg Way, Wickenburg, AZ 85390, USA*****33.961021,-112.771092
+56641 Cope Rd, Wickenburg, AZ 85390, USA*****33.997488,-112.756576
+14175 W Indian School Rd, Goodyear, AZ 85395, USA*****33.483819,-112.364216
+240 S Hill St, Globe, AZ 85501, USA*****33.394694,-110.785720
+4567 US-60, Poplar Bluff, MO 63901, USA*****36.802342,-90.457599
+401 AZ-260, Payson, AZ 85541, USA*****34.240043,-111.318317
+1208 S 9th Ave, Safford, AZ 85546, USA*****32.826223,-109.718127
+2125 US-70, Thatcher, AZ 85552, USA*****32.859109,-109.784263
+599 W 4th St, Benson, AZ 85602, USA*****31.969018,-110.306554
+101 S Naco Hwy, Bisbee, AZ 85603, USA*****31.400910,-109.917709
+1101 S Naco Hwy, Bisbee, AZ 85603, USA*****31.400454,-109.917413
+90 5th St, Douglas, AZ 85607, USA*****31.339842,-109.562082
+Fort Huachuca, Sierra Vista, AZ, USA*****31.555216,-110.349922
+1301 W Duval Mine Rd, Green Valley, AZ 85614, USA*****31.900941,-110.992504
+1602 S San Carla, Green Valley, AZ 85614, USA*****31.847414,-110.991669
+260 W Continental Rd, Green Valley, AZ 85622, USA*****31.852791,-110.996582
+419 W Mariposa Rd, Nogales, AZ 85621, USA*****31.366124,-110.940152
+465 W Mariposa Rd, Nogales, AZ 85621, USA*****31.364275,-110.940496
+1301 W Duval Mine Rd, Green Valley, AZ 85614, USA*****31.900941,-110.992504
+2190 E Fry Blvd, Sierra Vista, AZ 85635, USA*****31.552946,-110.275868
+650 N Bisbee Ave, Willcox, AZ 85643, USA*****32.263191,-109.842419
+7110 N Oracle Rd, Tucson, AZ 85704, USA*****32.335833,-110.974742
+1240 N 7th Ave #221, Tucson, AZ 85705, USA*****32.237790,-110.969641
+902 W Miracle Mile, Tucson, AZ 85705, USA*****32.261474,-110.986755
+101 N Jessica Ave #210, Tucson, AZ 85710, USA*****32.222873,-110.848551
+8225 E Speedway Blvd, Tucson, AZ 85710, USA*****32.236756,-110.815925
+8740 E Broadway Blvd, Tucson, AZ 85710, USA*****32.219402,-110.805466
+5548 E Grant Rd, Tucson, AZ 85712, USA*****32.249298,-110.872615
+3911 E Pima St, Tucson, AZ 85712, USA*****32.244033,-110.909173
+1702 W 36th St #2150, Tucson, AZ 85713, USA*****32.193590,-111.001656
+200 W Irvington Rd, Tucson, AZ 85714, USA*****32.163249,-110.971576
+7177 E Tanque Verde Rd, Tucson, AZ 85715, USA*****32.251945,-110.838994
+4752 E Sunrise Dr, Tucson, AZ 85718, USA*****32.307122,-110.891335
+1940 E Broadway Blvd, Tucson, AZ 85719, USA*****32.220764,-110.942840
+1767 E Prince Rd, Tucson, AZ 85719, USA*****32.273638,-110.945308
+9460 E Golf Links Rd, Tucson, AZ 85730, USA*****32.190190,-110.790938
+3245 S Wilmot Rd, Tucson, AZ 85730, USA*****32.183237,-110.856456
+6360 E Golf Links Rd, Tucson, AZ 85730, USA*****32.190210,-110.855993
+9705 N Thornydale Rd, Tucson, AZ 85742, USA*****32.382437,-111.048717
+9100 N Silverbell Rd, Tucson, AZ 85743, USA*****32.372240,-111.136858
+1001 W St Mary’s Rd #913, Tucson, AZ 85745, USA*****32.229401,-110.986197
+1615 W Niagara St, Tucson, AZ 85745, USA*****32.231370,-111.000377
+2140 W Grant Rd, Tucson, AZ 85745, USA*****32.252299,-111.012602
+2940 W Valencia Rd, Tucson, AZ 85746, USA*****32.135145,-111.029930
+9050 E Valencia Rd, Tucson, AZ 85747, USA*****32.117870,-110.798863
+10380 E Broadway Blvd, Tucson, AZ 85748, USA*****32.219579,-110.771208
+9125 E Tanque Verde Rd, Tucson, AZ 85749, USA*****32.258967,-110.797085
+12122 N Rancho Vistoso Blvd, Oro Valley, AZ 85737, USA*****32.426767,-110.959438
+7643 S Kau Bo-Oh, Tucson, AZ 85757, USA*****32.112590,-111.075358
+900 W Deuce of Clubs, Show Low, AZ 85901, USA*****34.246325,-110.051998
+2621 W Young, Show Low, AZ 85901, USA*****34.240608,-110.070673
+20 E White Mountain Blvd, Pinetop, AZ 85935, USA*****34.142367,-109.953687
+203 S Mountain Ave, Springerville, AZ 85938, USA*****34.130441,-109.289588
+1201 S Plaza Way, Flagstaff, AZ 86001, USA*****35.189308,-111.663930
+1490 E Cedar Ave, Flagstaff, AZ 86004, USA*****35.218461,-111.621662
+4910 US-89, Flagstaff, AZ 86004, USA*****35.225932,-111.578690
+4910 US-89, Flagstaff, AZ 86004, USA*****35.225932,-111.578690
+1500 E Cedar Ave, Flagstaff, AZ 86004, USA*****35.219200,-111.621512
+702 W Hopi Dr, Holbrook, AZ 86025, USA*****34.903478,-110.167199
+650 Elm St, Page, AZ 86040, USA*****36.916416,-111.459102
+637 W Rte 66, Williams, AZ 86046, USA*****35.248105,-112.194159
+1044 Willow Creek Rd, Prescott, AZ 86301, USA*****34.561388,-112.484558
+450 White Spar Rd, Prescott, AZ 86303, USA*****34.531120,-112.474782
+7720 AZ-69, Prescott Valley, AZ 86314, USA*****34.587331,-112.329760
+1031 US-89, Gardiner, MT 59030, USA*****45.145879,-110.817417
+1635 E Cottonwood St, Cottonwood, AZ 86326, USA*****34.727335,-112.007861
+650 E Elm St, Cottonwood, AZ 86326, USA*****34.721628,-112.021625
+2300 AZ-89A, Sedona, AZ 86336, USA*****34.864757,-111.800505
+3125 Stockton Hill Rd, Kingman, AZ 86401, USA*****35.214592,-114.037000
+1650 McCulloch Blvd N, Lake Havasu City, AZ 86403, USA*****34.474226,-114.342036
+3970 Stockton Hill Rd, Kingman, AZ 86409, USA*****35.238325,-114.035700
+4823 AZ-95, Fort Mohave, AZ 86426, USA*****35.016685,-114.599526
+1751 AZ-95, Bullhead City, AZ 86442, USA*****35.121802,-114.587221
+Santa Ana, CA 92711, USA*****33.765388,-117.851452
+3321 E Madison Ave, Fresno, CA 93702, USA*****36.749748,-119.768684
+1516 Constitution Blvd, Salinas, CA 93905, USA*****36.698811,-121.620555
+17539 Vierra Canyon Rd, Prunedale, CA 93907, USA*****36.793608,-121.665884
+104 Mid Valley Center, Carmel-By-The-Sea, CA 93923, USA*****36.522448,-121.810183
+5 Carmel Center Pl, Carmel-By-The-Sea, CA 93923, USA*****36.538101,-121.907854
+815 Canyon Del Rey Blvd, Del Rey Oaks, CA 93940, USA*****36.597560,-121.850381
+5200 Coe Ave #1094, Seaside, CA 93955, USA*****36.622635,-121.826413
+2100 Ralston Ave, Belmont, CA 94002, USA*****37.512242,-122.295603
+1100 El Camino Real, Belmont, CA 94002, USA*****37.518598,-122.275757
+1450 Howard Ave, Burlingame, CA 94010, USA*****37.576425,-122.348215
+85 Westlake Center, Daly City, CA 94015, USA*****37.699578,-122.481782
+160 1st St, Los Altos, CA 94022, USA*****37.379105,-122.119157
+525 El Camino Real, Menlo Park, CA 94025, USA*****37.450516,-122.179040
+325 Sharon Park Dr, Menlo Park, CA 94025, USA*****37.423994,-122.196795
+785 W El Camino Real, Palo Alto, CA 94301, USA*****37.385492,-122.083723
+1750 Miramonte Ave, Mountain View, CA 94040, USA*****37.372433,-122.088443
+2580 California St, Mountain View, CA 94040, USA*****37.405771,-122.108863
+877 Heatherstone Way #304, Mountain View, CA 94040, USA*****37.369241,-122.063934
+570 N Shoreline Blvd, Mountain View, CA 94043, USA*****37.402989,-122.079401
+850 Woodside Rd, Redwood City, CA 94061, USA*****37.465697,-122.225414
+1071 El Camino Real, Redwood City, CA 94063, USA*****37.484600,-122.230201
+170 El Camino Real, South San Francisco, CA 94080, USA*****37.644387,-122.422929
+30 Chestnut Ave, South San Francisco, CA 94080, USA*****37.655573,-122.431772
+733 S Wolfe Rd, Sunnyvale, CA 94086, USA*****37.365851,-122.015272
+785 E El Camino Real, Sunnyvale, CA 94086, USA*****37.357179,-122.017825
+762 Sunnyvale Saratoga Rd, Sunnyvale, CA 94087, USA*****37.364325,-122.031579
+639 S Bernardo Ave, Sunnyvale, CA 94087, USA*****37.372968,-122.058087
+1601 Hollenbeck Ave, Sunnyvale, CA 94087, USA*****37.340827,-122.042042
+100, 2300 16th St, San Francisco, CA 94103, USA*****37.765971,-122.407906
+298 King St, San Francisco, CA 94107, USA*****37.776666,-122.394123
+2020 Market St, San Francisco, CA 94114, USA*****37.768849,-122.427924
+730 Taraval St, San Francisco, CA 94116, USA*****37.743447,-122.474056
+12 Plaza St, San Francisco, CA 94116, USA*****37.748929,-122.459684
+850 La Playa St, San Francisco, CA 94121, USA*****37.772584,-122.509428
+2350 Noriega St, San Francisco, CA 94122, USA*****37.754211,-122.488648
+15 Marina Blvd, San Francisco, CA 94123, USA*****37.804395,-122.432878
+625 Monterey Blvd, San Francisco, CA 94127, USA*****37.731291,-122.450174
+5290 Diamond Heights Blvd, San Francisco, CA 94131, USA*****37.743556,-122.439115
+350 Bay St, San Francisco, CA 94133, USA*****37.805857,-122.412763
+2811 Middlefield Rd, Palo Alto, CA 94306, USA*****37.432866,-122.127321
+1655 S El Camino Real, San Mateo, CA 94402, USA*****37.553286,-122.313577
+100 De Anza Blvd, San Mateo, CA 94402, USA*****37.520709,-122.337884
+2227 S Shore Center, Alameda, CA 94501, USA*****37.757413,-122.251006
+103 W American Canyon Rd, American Canyon, CA 94503, USA*****38.164640,-122.255010
+14840 CA-4, Discovery Bay, CA 94505, USA*****37.891140,-121.620705
+3496 Camino Tassajara, Danville, CA 94506, USA*****37.798009,-121.917592
+200 Alamo Plaza, Alamo, CA 94507, USA*****37.850836,-122.035163
+3110 Balfour Rd, Brentwood, CA 94513, USA*****37.924078,-121.721862
+1125 2nd St, Brentwood, CA 94513, USA*****37.935883,-121.699149
+5431 Clayton Rd, Clayton, CA 94517, USA*****37.953826,-121.953717
+2250 Monument Blvd Ste F, Concord, CA 94520, USA*****37.957611,-122.035658
+4309 Clayton Rd, Concord, CA 94521, USA*****37.966155,-121.990764
+1978 Contra Costa Blvd, Pleasant Hill, CA 94523, USA*****37.949112,-122.057999
+600 Patterson Blvd, Pleasant Hill, CA 94523, USA*****37.934176,-122.072115
+10636 San Pablo Ave, El Cerrito, CA 94530, USA*****37.912435,-122.307626
+3365 Deer Valley Rd, Antioch, CA 94531, USA*****37.987735,-121.784186
+2401 Waterman Blvd, Fairfield, CA 94534, USA*****38.272045,-122.052849
+39100 Argonaut Way, Fremont, CA 94538, USA*****37.545595,-121.989488
+46848 Mission Blvd, Fremont, CA 94539, USA*****37.489665,-121.927578
+22280 Foothill Blvd, Hayward, CA 94541, USA*****37.679797,-122.083478
+231 W Jackson St, Hayward, CA 94544, USA*****37.652712,-122.091467
+20629 Redwood Rd, Castro Valley, CA 94546, USA*****37.696283,-122.074924
+3540 Mt Diablo Blvd, Lafayette, CA 94549, USA*****37.892907,-122.119423
+4495 First St, Livermore, CA 94551, USA*****37.695274,-121.742878
+3334 Alhambra Ave, Martinez, CA 94553, USA*****38.000779,-122.133000
+6688 Alhambra Ave, Martinez, CA 94553, USA*****37.957912,-122.093952
+1355 Moraga Way, Moraga, CA 94556, USA*****37.836349,-122.128447
+3375 Jefferson St, Napa, CA 94558, USA*****38.321291,-122.301716
+1620 Clay St, Napa, CA 94559, USA*****38.298357,-122.291882
+2 Camino Sobrante, Orinda, CA 94563, USA*****37.883734,-122.190835
+1421 Tara Hills Dr, Pinole, CA 94564, USA*****37.994356,-122.304208
+660 Bailey Rd, Pittsburg, CA 94565, USA*****38.016058,-121.943489
+4440 Tassajara Rd, Dublin, CA 94568, USA*****37.706699,-121.874139
+605 Parker Ave, Rodeo, CA 94572, USA*****38.029656,-122.265655
+555 Bancroft Ave, San Leandro, CA 94577, USA*****37.734451,-122.152341
+699 Lewelling Blvd, San Leandro, CA 94579, USA*****37.688177,-122.137151
+11060 Bollinger Canyon Rd, San Ramon, CA 94582, USA*****37.774905,-121.922074
+2505 San Ramon Valley Blvd, San Ramon, CA 94583, USA*****37.773209,-121.976832
+1790 Decoto Rd, Union City, CA 94587, USA*****37.587628,-122.019368
+5918 Stoneridge Mall Rd Bldg F, Pleasanton, CA 94588, USA*****37.697358,-121.932952
+5918 Stoneridge Mall Rd, Pleasanton, CA 94588, USA*****37.697358,-121.932952
+709 Lincoln Rd W, Vallejo, CA 94590, USA*****38.099260,-122.230566
+101 Iris Ct, Vallejo, CA 94591, USA*****38.089512,-122.201697
+122 Robles Way, Vallejo, CA 94591, USA*****38.084532,-122.210240
+774 Admiral Callaghan Ln, Vallejo, CA 94591, USA*****38.125223,-122.226744
+600 S Broadway, Walnut Creek, CA 94596, USA*****37.898001,-122.056578
+2800 Ygnacio Valley Rd, Walnut Creek, CA 94598, USA*****37.927413,-122.018569
+3550 Fruitvale Ave, Oakland, CA 94602, USA*****37.801180,-122.215308
+400 Montclair Ave #3, Oakland, CA 94606, USA*****37.802052,-122.243875
+3747 Grand Ave, Oakland, CA 94610, USA*****37.817256,-122.245625
+2096 Mountain Blvd, Oakland, CA 94611, USA*****37.825454,-122.208988
+5130 Broadway, Oakland, CA 94618, USA*****37.834754,-122.250688
+6310 College Ave, Oakland, CA 94618, USA*****37.850756,-122.252006
+4100 Redwood Rd, Oakland, CA 94619, USA*****37.798318,-122.182455
+1444 Shattuck Ave, Berkeley, CA 94709, USA*****37.880765,-122.269908
+4925 Macdonald Ave, Richmond, CA 94805, USA*****37.933149,-122.323064
+700 B St, San Rafael, CA 94901, USA*****37.970316,-122.529346
+900 Las Gallinas Ave, San Rafael, CA 94903, USA*****38.007889,-122.548256
+137 Corte Madera Town Center, Corte Madera, CA 94925, USA*****37.927970,-122.517711
+6340 Commerce Blvd, Rohnert Park, CA 94928, USA*****38.347565,-122.708431
+110 Strawberry Village, Mill Valley, CA 94941, USA*****37.899299,-122.514821
+1 Camino Alto, Mill Valley, CA 94941, USA*****37.894162,-122.531440
+900 Diablo Ave, Novato, CA 94947, USA*****38.103781,-122.571652
+470 Ignacio Blvd, Novato, CA 94949, USA*****38.067484,-122.542898
+373 S McDowell Blvd, Petaluma, CA 94954, USA*****38.248759,-122.621415
+838 Sir Francis Drake Blvd, San Anselmo, CA 94960, USA*****37.980715,-122.564229
+16 Rancho Del Mar, Aptos, CA 95003, USA*****36.978622,-121.908562
+10667 Rosewood Rd Unit B, Cupertino, CA 95014, USA*****37.332669,-122.021216
+2010 Freedom Blvd, Freedom, CA 95019, USA*****36.940016,-121.775374
+840 Denio Ave, Gilroy, CA 95020, USA*****37.047451,-121.572072
+905 1st St, Gilroy, CA 95020, USA*****37.014601,-121.589173
+591 Tres Pinos Rd, Hollister, CA 95023, USA*****36.838748,-121.391683
+470 N Santa Cruz Ave, Los Gatos, CA 95030, USA*****37.231389,-121.979125
+1500 Pollard Rd, Los Gatos, CA 95032, USA*****37.263733,-121.984367
+15549 Union Ave, Los Gatos, CA 95032, USA*****37.242423,-121.932645
+551 E Calaveras Blvd, Milpitas, CA 95035, USA*****37.433449,-121.895836
+100 Ogier Ave, Morgan Hill, CA 95037, USA*****37.177385,-121.697159
+235 Tennant Station, Morgan Hill, CA 95037, USA*****37.112799,-121.639184
+239 Tennant Station, Morgan Hill, CA 95037, USA*****37.113124,-121.639536
+2605 The Alameda, Santa Clara, CA 95050, USA*****37.345235,-121.936579
+2760 Homestead Rd, Santa Clara, CA 95051, USA*****37.338559,-121.975046
+3970 Rivermark Plaza, Santa Clara, CA 95054, USA*****37.394725,-121.947578
+2111 Mission St, Santa Cruz, CA 95060, USA*****36.962215,-122.044022
+324 Encinal St, Santa Cruz, CA 95060, USA*****36.987502,-122.035313
+117 Morrissey Blvd, Santa Cruz, CA 95062, USA*****36.982136,-122.007466
+12876 Saratoga Sunnyvale Rd, Saratoga, CA 95070, USA*****37.281306,-122.031149
+2720 41st Ave, Soquel, CA 95073, USA*****36.986214,-121.964107
+48 Lassen Way Apt A, Watsonville, CA 95076, USA*****36.923538,-121.775054
+4050 Almaden Expy, San Jose, CA 95118, USA*****37.265348,-121.877135
+4950 Almaden Expy, San Jose, CA 95118, USA*****37.260362,-121.874523
+6477 Almaden Expy, San Jose, CA 95120, USA*****37.219520,-121.861615
+1771 E Capitol Expy, San Jose, CA 95121, USA*****37.309272,-121.810533
+1530 Hamilton Ave, San Jose, CA 95125, USA*****37.293300,-121.910991
+127, 2306 Almaden Rd, San Jose, CA 95125, USA*****37.291920,-121.878955
+1305 S Winchester Blvd, San Jose, CA 95117, USA*****37.300800,-121.951856
+1395 S Winchester Blvd, San Jose, CA 95128, USA*****37.298608,-121.950254
+6150 Bollinger Rd, San Jose, CA 95129, USA*****37.309660,-122.011818
+5146 Stevens Creek Blvd, San Jose, CA 95129, USA*****37.322137,-121.995112
+1600 Saratoga Ave, San Jose, CA 95129, USA*****37.292339,-121.988390
+1600 Saratoga Ave, San Jose, CA 95129, USA*****37.291523,-121.988454
+Safeway, 2558 Berryessa Rd, San Jose, CA 95132, USA*****37.388048,-121.857773
+179 Branham Ln, San Jose, CA 95136, USA*****37.267256,-121.833220
+2808 Country Club Blvd, Stockton, CA 95204, USA*****37.962185,-121.337543
+6445 Pacific Ave, Stockton, CA 95207, USA*****38.008518,-121.321458
+2449 W Kettleman Ln, Lodi, CA 95242, USA*****38.117763,-121.305727
+2001 McHenry Ave, Modesto, CA 95350, USA*****37.671487,-120.995832
+1801 W 11th St, Tracy, CA 95376, USA*****37.740083,-121.449367
+16900 W Schulte Rd, Tracy, CA 95376, USA*****37.717266,-121.518043
+3051 Countryside Dr, Turlock, CA 95380, USA*****37.520967,-120.883446
+1799 Marlow Rd, Santa Rosa, CA 95401, USA*****38.452054,-122.752896
+Santa Rosa, CA 95402, USA*****38.439975,-122.710764
+2300 Mendocino Ave, Santa Rosa, CA 95403, USA*****38.463691,-122.717608
+2785 Yulupa Ave, Santa Rosa, CA 95405, USA*****38.425797,-122.668536
+100 Calistoga Rd, Santa Rosa, CA 95409, USA*****38.465677,-122.651675
+660 S Main St, Fort Bragg, CA 95437, USA*****39.433457,-123.805449
+16405 River Rd, Guerneville, CA 95446, USA*****38.501980,-123.000424
+1115 Vine St, Healdsburg, CA 95448, USA*****38.608394,-122.872979
+406 N Main St, Sebastopol, CA 95472, USA*****38.404452,-122.827055
+477 W Napa St, Sonoma, CA 95476, USA*****38.291594,-122.467712
+653 S State St, Ukiah, CA 95482, USA*****39.144455,-123.205949
+845 S Main St, Willits, CA 95490, USA*****39.403359,-123.349834
+9080 Brooks Rd S, Windsor, CA 95492, USA*****38.551584,-122.806373
+930 W Harris St, Eureka, CA 95503, USA*****40.781222,-124.181381
+2520 Harris St, Eureka, CA 95503, USA*****40.779607,-124.139205
+1503 City Center Rd, McKinleyville, CA 95519, USA*****40.943872,-124.102849
+600 F St, Arcata, CA 95521, USA*****40.865722,-124.085237
+475 M St, Crescent City, CA 95531, USA*****41.756228,-124.193000
+701 S Fortuna Blvd, Fortuna, CA 95540, USA*****40.584148,-124.144920
+W Capitol Ave, West Sacramento, CA 95605, USA*****38.579761,-121.540722
+1431 W Covell Blvd, Davis, CA 95616, USA*****38.561846,-121.766648
+2121 Cowell Blvd, Davis, CA 95618, USA*****38.541345,-121.723792
+1235 Stratford Ave, Dixon, CA 95620, USA*****38.457065,-121.839177
+7301 Greenback Ln, Citrus Heights, CA 95621, USA*****38.679881,-121.293954
+5450 Dewey Dr, Fair Oaks, CA 95628, USA*****38.665239,-121.307248
+1850 Prairie City Rd, Folsom, CA 95630, USA*****38.649882,-121.165755
+12110 Industry Blvd, Jackson, CA 95642, USA*****38.368245,-120.800047
+505 S, CA-65, Lincoln, CA 95648, USA*****38.875361,-121.296456
+989 Sunrise Ave, Roseville, CA 95661, USA*****38.731073,-121.271041
+1908 Robin Brook Way, Roseville, CA 95661, USA*****38.758089,-121.236402
+8640 Sierra College Blvd, Roseville, CA 95661, USA*****38.741904,-121.228475
+3955 Missouri Flat Rd, Placerville, CA 95667, USA*****38.713448,-120.839633
+10635 Folsom Blvd, Rancho Cordova, CA 95670, USA*****38.595593,-121.293213
+1080 Pleasant Grove Blvd, Roseville, CA 95678, USA*****38.776841,-121.291470
+228 Vernon St, Roseville, CA 95678, USA*****38.749548,-121.283670
+2090 Harbison Dr, Vacaville, CA 95687, USA*****38.362152,-121.961745
+6498 Pony Express Trail, Pollock Pines, CA 95726, USA*****38.762336,-120.576907
+9045 Woodcreek Oaks Blvd, Roseville, CA 95747, USA*****38.794079,-121.330557
+5021 Laguna Blvd, Elk Grove, CA 95758, USA*****38.424246,-121.446600
+Francisco Dr, El Dorado Hills, CA 95762, USA*****38.715380,-121.084007
+2207 Francisco Dr, El Dorado Hills, CA 95762, USA*****38.710933,-121.084475
+2220 Sunset Blvd, Rocklin, CA 95765, USA*****38.802811,-121.274350
+1814 19th St, Sacramento, CA 95811, USA*****38.568083,-121.485938
+1025 Alhambra Blvd, Sacramento, CA 95816, USA*****38.571579,-121.464721
+3320 Arden Way, Sacramento, CA 95825, USA*****38.594476,-121.386859
+424 Howe Ave, Sacramento, CA 95825, USA*****38.573370,-121.413206
+8377 Elk Grove Florin Rd, Sacramento, CA 95829, USA*****38.453463,-121.370066
+2851 Del Paso Rd, Sacramento, CA 95815, USA*****38.657575,-121.524718
+5345 Elkhorn Blvd, Sacramento, CA 95842, USA*****38.686426,-121.339420
+720 Mangrove Ave, Chico, CA 95926, USA*****39.736593,-121.833596
+1366 East Ave, Chico, CA 95973, USA*****39.762403,-121.822721
+105 Neal St, Grass Valley, CA 95945, USA*****39.216047,-121.062802
+867 Sutton Way, Grass Valley, CA 95945, USA*****39.235577,-121.032256
+1596 CA-99, Gridley, CA 95948, USA*****39.362392,-121.686321
+6020 Clark Rd, Paradise, CA 95969, USA*****39.760475,-121.604438
+20 E Main St, Quincy, CA 95971, USA*****39.936791,-120.937702
+2275 Pine St, Redding, CA 96001, USA*****40.576723,-122.385255
+1070 E Cypress Ave, Redding, CA 96002, USA*****40.572833,-122.351392
+2601 Balls Ferry Rd, Anderson, CA 96007, USA*****40.452738,-122.288390
+37264 CA-299, Burney, CA 96013, USA*****40.884352,-121.659283
+600 Edith Ave, Corning, CA 96021, USA*****39.929608,-122.198106
+2970 Main St, Susanville, CA 96130, USA*****40.406083,-120.634551
+7815 N Lake Blvd, Tahoe Vista, CA 96148, USA*****39.239384,-120.033931
+850 N Lake Blvd, Tahoe City, CA 96145, USA*****39.173945,-120.136917
+1020 Johnson Blvd, South Lake Tahoe, CA 96150, USA*****38.944079,-119.967278
+South Lake Tahoe, CA 96150, USA*****38.939926,-119.977187
+212 Elks Point Rd #101, Zephyr Cove, NV 89448, USA*****38.986081,-119.943366
+11290 Donner Pass Rd, Truckee, CA 96161, USA*****39.327204,-120.206430
+7561 W 80th Ave, Arvada, CO 80003, USA*****39.843462,-105.080676
+12680 W 64th Ave, Arvada, CO 80004, USA*****39.811428,-105.141182
+12200 E Mississippi Ave, Aurora, CO 80012, USA*****39.695931,-104.845391
+18730 E Hampden Ave, Aurora, CO 80013, USA*****39.651301,-104.769779
+4125 S Cimarron Way #1128, Aurora, CO 80014, USA*****39.641482,-104.820958
+20153 E Smoky Hill Rd, Centennial, CO 80015, USA*****39.611817,-104.752499
+16921 E Quincy Ave, Aurora, CO 80015, USA*****39.640124,-104.790223
+22675 E Aurora Pkwy, Aurora, CO 80016, USA*****39.575192,-104.724675
+1730 S Buckley Rd, Aurora, CO 80017, USA*****39.684816,-104.789380
+8543 Church Ranch Blvd, Westminster, CO 80021, USA*****39.880386,-105.093433
+3602 W 144th Ave, Broomfield, CO 80023, USA*****39.956611,-105.035495
+1601 Coalton Rd, Superior, CO 80027, USA*****39.929661,-105.148921
+707 E South Boulder Rd, Louisville, CO 80027, USA*****39.987768,-105.134398
+7353 Federal Blvd, Westminster, CO 80030, USA*****39.829672,-105.027433
+8430 Federal Blvd, Westminster, CO 80031, USA*****39.849992,-105.023243
+3900 Wadsworth Blvd, Wheat Ridge, CO 80033, USA*****39.771092,-105.079579
+880 S Perry St, Castle Rock, CO 80104, USA*****39.361997,-104.860968
+220 S Elizabeth St, Elizabeth, CO 80107, USA*****39.360021,-104.610053
+560 Castle Pines Pkwy, Castle Rock, CO 80108, USA*****39.470489,-104.875338
+6900 S Yosemite St, Englewood, CO 80112, USA*****39.591022,-104.884518
+8200 S Quebec St, Centennial, CO 80112, USA*****39.567382,-104.902568
+7375 E Arapahoe Rd Unit A, Centennial, CO 80112, USA*****39.596351,-104.903298
+201 E Jefferson Ave, Englewood, CO 80113, USA*****39.651967,-104.984705
+181 W Mineral Ave Ste A, Littleton, CO 80120, USA*****39.574613,-104.992008
+6091 S Cherrywood Cir, Centennial, CO 80121, USA*****39.606353,-104.973819
+9229 Lincoln Ave, Lone Tree, CO 80129, USA*****39.537875,-104.883172
+8355 N Rampart Range Rd, Littleton, CO 80125, USA*****39.483608,-105.074505
+5025 S Kipling St, Littleton, CO 80127, USA*****39.625075,-105.111328
+12442 W Ken Caryl Ave, Littleton, CO 80127, USA*****39.579028,-105.134661
+7500 S Pierce St, Littleton, CO 80128, USA*****39.580171,-105.071998
+624 E Hwy 105, Monument, CO 80132, USA*****39.093266,-104.837235
+757 E 20th Ave, Denver, CO 80205, USA*****39.748482,-104.977537
+3110 E 1st Ave, Denver, CO 80206, USA*****39.717228,-104.950941
+2150 S Downing St, Denver, CO 80210, USA*****39.677972,-104.972838
+3800 W 44th Ave, Denver, CO 80211, USA*****39.775962,-105.036827
+2660 Federal Blvd, Denver, CO 80211, USA*****39.755229,-105.024303
+9160 W Colfax Ave, Lakewood, CO 80215, USA*****39.739226,-105.098884
+3215 E 42nd Ave, Denver, CO 80216, USA*****39.775437,-104.949112
+4500 Dahlia St, Denver, CO 80216, USA*****39.778833,-104.930672
+4301 Forest St, Denver, CO 80216, USA*****39.777593,-104.928117
+6405 E Stapleton Dr N, Denver, CO 80216, USA*****39.779363,-104.914612
+4600 E Stapleton Dr S, Denver, CO 80216, USA*****39.778755,-104.933849
+560 Corona St, Denver, CO 80218, USA*****39.724962,-104.973294
+6220 E 14th Ave, Denver, CO 80220, USA*****39.737257,-104.915616
+4860 N Pecos St, Denver, CO 80221, USA*****39.784611,-105.005565
+4950 E Hampden Ave, Denver, CO 80222, USA*****39.652414,-104.930216
+1653 S Colorado Blvd, Denver, CO 80222, USA*****39.687039,-104.942523
+7150 Leetsdale Dr, Denver, CO 80224, USA*****39.697640,-104.905214
+1955 S Sheridan Blvd, Denver, CO 80227, USA*****39.681149,-105.055194
+13111 W Alameda Pkwy, Lakewood, CO 80228, USA*****39.698243,-105.145735
+11088 W Jewell Ave, Lakewood, CO 80232, USA*****39.681367,-105.122660
+650 Malley Dr, Northglenn, CO 80233, USA*****39.901829,-104.978497
+3904 E 120th Ave, Thornton, CO 80233, USA*****39.912427,-104.942080
+12900 Zuni St, Westminster, CO 80234, USA*****39.930304,-105.013280
+4884 Chambers Rd, Denver, CO 80239, USA*****39.785859,-104.809485
+3325 28th St, Boulder, CO 80301, USA*****40.035331,-105.260262
+2798 Arapahoe Ave, Boulder, CO 80302, USA*****40.013320,-105.259662
+4800 Baseline Rd, Boulder, CO 80303, USA*****39.998788,-105.234836
+162 Ox Yoke Ln, Bailey, CO 80421, USA*****39.477751,-105.463765
+27152 Main St, Conifer, CO 80433, USA*****39.527220,-105.303423
+3481 Evergreen Pkwy, Evergreen, CO 80439, USA*****39.651365,-105.344172
+3841 Evergreen Pkwy, Evergreen, CO 80439, USA*****39.645854,-105.340287
+3851 Evergreen Pkwy, Evergreen, CO 80439, USA*****39.645738,-105.340024
+40 Co Rd 804, Fraser, CO 80442, USA*****39.945560,-105.810867
+40 Co Rd 804, Fraser, CO 80442, USA*****39.945560,-105.810867
+1008 N Summit Blvd, Frisco, CO 80443, USA*****39.590102,-106.095399
+2425 Miner St, Idaho Springs, CO 80452, USA*****39.740941,-105.506317
+Idaho Springs, CO, USA*****39.742488,-105.513608
+1900 US-24, Leadville, CO 80461, USA*****39.233444,-106.319008
+37500 US-40, Steamboat Springs, CO 80487, USA*****40.465825,-106.824288
+1630 Pace St, Longmont, CO 80501, USA*****40.187678,-105.072013
+1050 Ken Pratt Blvd, Longmont, CO 80501, USA*****40.153171,-105.110038
+1632 Hover St, Longmont, CO 80501, USA*****40.188033,-105.129368
+8134 County Rd 13, Longmont, CO 80504, USA*****40.119048,-104.939848
+3333 Arapahoe Rd, Erie, CO 80516, USA*****40.016925,-105.100772
+451 E Wonderview Ave, Estes Park, CO 80517, USA*****40.380285,-105.516756
+Fort Collins, CO 80521, USA*****40.588966,-105.137591
+460 S College Ave, Fort Collins, CO 80524, USA*****40.582380,-105.076383
+1426 E Harmony Rd, Fort Collins, CO 80525, USA*****40.525059,-105.051877
+2160 W Drake Rd, Fort Collins, CO 80526, USA*****40.554659,-105.116576
+Frederick, CO 80530, USA*****40.103687,-104.921364
+2321 W Eisenhower Blvd, Loveland, CO 80537, USA*****40.408764,-105.109633
+860 Cleveland Ave, Loveland, CO 80537, USA*****40.400759,-105.073825
+1535 Main St, Windsor, CO 80550, USA*****40.478562,-104.928061
+1605 E Bridge St, Brighton, CO 80601, USA*****39.987898,-104.801415
+1300 Dexter St, Fort Lupton, CO 80621, USA*****40.078950,-104.802600
+1122 11th Ave, Greeley, CO 80631, USA*****40.420289,-104.695134
+4548 Centerplace Dr, Greeley, CO 80634, USA*****40.394326,-104.752729
+3526 W 10th St, Greeley, CO 80634, USA*****40.421681,-104.736452
+620 W Platte Ave, Fort Morgan, CO 80701, USA*****40.252994,-103.810125
+111 18th St, Burlington, CO 80807, USA*****39.301353,-102.273659
+6925 Mesa Ridge Pkwy, Fountain, CO 80817, USA*****38.716326,-104.698961
+7655 McLaughlin Rd, Peyton, CO 80831, USA*****38.943863,-104.602642
+50 N Academy Blvd, Colorado Springs, CO 80909, USA*****38.832982,-104.757857
+1039 US-24, Woodland Park, CO 80863, USA*****38.984038,-105.046084
+1101 US-24, Woodland Park, CO 80863, USA*****38.982570,-105.046792
+3275 W Colorado Ave, Colorado Springs, CO 80904, USA*****38.854732,-104.877023
+1920 S Nevada Ave, Colorado Springs, CO 80906, USA*****38.806223,-104.823415
+2214 N Wahsatch Ave, Colorado Springs, CO 80907, USA*****38.864693,-104.816975
+2210 N Wahsatch Ave, Colorado Springs, CO 80907, USA*****38.864520,-104.817203
+1425 S Murray Blvd, Colorado Springs, CO 80916, USA*****38.812156,-104.746636
+3335 N Academy Blvd, Colorado Springs, CO 80917, USA*****38.880808,-104.755124
+5060 N Academy Blvd, Colorado Springs, CO 80918, USA*****38.903489,-104.777345
+840 Village Center Dr, Colorado Springs, CO 80919, USA*****38.923619,-104.844384
+2890 N Powers Blvd, Colorado Springs, CO 80922, USA*****38.873845,-104.722425
+1322 E 8th St, Pueblo, CO 81001, USA*****38.274274,-104.588562
+1853 S Pueblo Blvd, Pueblo, CO 81005, USA*****38.235009,-104.662523
+1231 S Prairie Ave, Pueblo, CO 81005, USA*****38.244940,-104.644298
+1017 N Market Pl, Pueblo West, CO 81007, USA*****38.325235,-104.698536
+617 W 29th St, Pueblo, CO 81008, USA*****38.299084,-104.616792
+315 W 2nd St, La Junta, CO 81050, USA*****37.987282,-103.547758
+906 E Olive St, Lamar, CO 81052, USA*****38.087440,-102.608167
+457 W Main St, Trinidad, CO 81082, USA*****37.167037,-104.510002
+222 W 7th St, Walsenburg, CO 81089, USA*****37.622752,-104.782998
+1200 2nd Ave, Monte Vista, CO 81144, USA*****37.578275,-106.142197
+232 G St, Salida, CO 81201, USA*****38.536198,-105.994501
+1414 Main St, Cañon City, CO 81212, USA*****38.445826,-105.228095
+112 S Spruce St, Gunnison, CO 81230, USA*****38.543672,-106.929866
+1580 E Main St, Cortez, CO 81321, USA*****37.350442,-108.565796
+1329 S Townsend Ave, Montrose, CO 81401, USA*****38.469158,-107.866162
+1550 CO-92, Delta, CO 81416, USA*****38.751388,-108.051713
+2148 Broadway, Grand Junction, CO 81507, USA*****39.088145,-108.651567
+2901 F Rd, Grand Junction, CO 81504, USA*****39.090418,-108.513760
+681 Horizon Dr, Grand Junction, CO 81506, USA*****39.103989,-108.551326
+2001 Grand Ave, Glenwood Springs, CO 81601, USA*****39.532017,-107.326678
+1295 W Victory Way, Craig, CO 81625, USA*****40.514977,-107.561932
+Vail, CO 81658, USA*****39.640000,-106.370000
+1601 Maryland Ave NE, Washington, DC 20002, USA*****38.900443,-76.979779
+514 Rhode Island Ave NE, Washington, DC 20002, USA*****38.921813,-76.999679
+415 14th St SE, Washington, DC 20003, USA*****38.883598,-76.986530
+4865 MacArthur Blvd NW, Washington, DC 20007, USA*****38.917451,-77.095881
+1800 20th St NW, Washington, DC 20009, USA*****38.914087,-77.044875
+1747 Columbia Rd NW, Washington, DC 20009, USA*****38.924098,-77.041064
+1823 19th St NW, Washington, DC 20009, USA*****38.914999,-77.043132
+3830 Georgia Ave NW, Washington, DC 20011, USA*****38.938422,-77.025033
+6500 Piney Branch Rd NW, Washington, DC 20012, USA*****38.969583,-77.026549
+5547 Connecticut Ave NW, Washington, DC 20015, USA*****38.964642,-77.074918
+5545 Connecticut Ave NW, Washington, DC 20015, USA*****38.964635,-77.074884
+4203 Davenport St NW, Washington, DC 20016, USA*****38.952420,-77.082528
+322 40th St NE, Washington, DC 20019, USA*****38.893132,-76.947323
+2845 Alabama Ave SE, Washington, DC 20020, USA*****38.859005,-76.966376
+401 M St SW, Washington, DC 20024, USA*****38.876694,-77.018168
+2550 Virginia Ave NW, Washington, DC 20037, USA*****38.899078,-77.054479
+2400 Peoples Plaza, Newark, DE 19702, USA*****39.600311,-75.748960
+1101 Governors Pl, Bear, DE 19701, USA*****39.631939,-75.664902
+2400 Peoples Plaza, Newark, DE 19702, USA*****39.600311,-75.748960
+2522 Foulk Rd, Wilmington, DE 19810, USA*****39.825914,-75.499049
+190 John Hunn Brown Rd, Dover, DE 19901, USA*****39.158397,-75.509291
+19238 Coastal Hwy, Rehoboth Beach, DE 19971, USA*****38.725248,-75.125751
+19266 Coastal Hwy, Rehoboth Beach, DE 19971, USA*****38.724312,-75.125674
+328 FL-60, Lake Wales, FL 33853, USA*****27.893675,-81.583741
+98-1277 Kaahumanu St, Aiea, HI 96701, USA*****21.389726,-157.951945
+91-590 Farrington Hwy, Ewa Beach, HI 96706, USA*****21.338509,-158.079699
+111 E Puainako St, Hilo, HI 96720, USA*****19.697369,-155.063331
+170 E Kamehameha Ave, Kahului, HI 96732, USA*****20.888542,-156.463553
+25 Kaneohe Bay Dr #140, Kailua, HI 96734, USA*****21.423325,-157.748326
+1060 Keolu Dr, Kailua, HI 96734, USA*****21.377247,-157.729278
+200 Hamakua Dr, Kailua, HI 96734, USA*****21.390498,-157.739710
+75-1027 Henry St, Kailua-Kona, HI 96740, USA*****19.646830,-155.989754
+46-065 Kamehameha Hwy, Kaneohe, HI 96744, USA*****21.421591,-157.802510
+4-831 Kuhio Hwy, Kapaʻa, HI 96746, USA*****22.062342,-159.321743
+277 Piikea Ave, Kihei, HI 96753, USA*****20.753181,-156.447526
+1221 Honoapiilani Hwy, Lahaina, HI 96761, USA*****20.886213,-156.684444
+4-831 Kuhio Hwy, Kapaʻa, HI 96746, USA*****22.062250,-159.321807
+4-1397 Kuhio Hwy, Kapaʻa, HI 96746, USA*****21.985791,-159.366682
+94-780 Meheula Pkwy, Waipahu, HI 96797, USA*****21.441967,-158.022641
+1360 Pali Hwy, Honolulu, HI 96813, USA*****21.313289,-157.857817
+1121 S Beretania St, Honolulu, HI 96814, USA*****21.301283,-157.844543
+888 Kapahulu Ave, Honolulu, HI 96816, USA*****21.283782,-157.814737
+680 Iwilei Rd #590, Honolulu, HI 96817, USA*****21.316663,-157.870763
+848 Ala Lilikoi St, Honolulu, HI 96818, USA*****21.345371,-157.913846
+716 Umi St, Honolulu, HI 96819, USA*****21.334203,-157.883615
+2855 E Manoa Rd, Honolulu, HI 96822, USA*****21.308851,-157.810312
+377 Keahole St, Honolulu, HI 96825, USA*****21.285110,-157.707390
+2330 Nez Perce Dr, Lewiston, ID 83501, USA*****46.399753,-116.998277
+216 1st St, Bonners Ferry, ID 83805, USA*****48.696199,-116.313062
+1001 N 4th St, Coeur d'Alene, ID 83814, USA*****47.683113,-116.781841
+121 E Neider Ave, Coeur d'Alene, ID 83815, USA*****47.707227,-116.786037
+1320 S Blaine St, Moscow, ID 83843, USA*****46.722410,-116.982944
+702 N Fifth Ave, Sandpoint, ID 83864, USA*****48.279717,-116.552444
+5040 E 16th St, Indianapolis, IN 46201, USA*****39.789213,-86.083640
+2176 Shelby St, Indianapolis, IN 46203, USA*****39.738227,-86.140110
+5602 N Illinois St, Indianapolis, IN 46208, USA*****39.854427,-86.159796
+2435 N Sherman Dr, Indianapolis, IN 46218, USA*****39.803142,-86.101293
+3008 W Kessler Blvd N Dr, Indianapolis, IN 46222, USA*****39.810332,-86.211958
+4540 Shadeland Ave, Indianapolis, IN 46226, USA*****39.838887,-86.046828
+10 King St, Waldorf, MD 20602, USA*****38.602464,-76.901955
+3051 Waldorf Market Pl, Waldorf, MD 20603, USA*****38.626887,-76.916859
+3129 Marshall Hall Rd, Bryans Road, MD 20616, USA*****38.628492,-77.073130
+40 Shining Willow Way, La Plata, MD 20646, USA*****38.542422,-76.982128
+80 W Dares Beach Rd, Prince Frederick, MD 20678, USA*****38.545405,-76.590271
+400 W Dares Beach Rd, Prince Frederick, MD 20678, USA*****38.545166,-76.590993
+4721 Boston Way, Lanham, MD 20706, USA*****38.954494,-76.838130
+4551 Forbes Blvd, Lanham, MD 20706, USA*****38.952335,-76.833264
+14100 Baltimore Ave, Laurel, MD 20707, USA*****39.083784,-76.865159
+3268 Superior Ln, Bowie, MD 20715, USA*****38.977751,-76.734168
+4101 Northview Dr, Bowie, MD 20716, USA*****38.945949,-76.736836
+12410 Fairwood Pkwy, Bowie, MD 20720, USA*****38.965066,-76.789231
+8785 Branch Ave, Clinton, MD 20735, USA*****38.769065,-76.889571
+Berwyn Heights, MD 20740, USA*****39.002688,-76.935498
+6300 Central Ave, Seat Pleasant, MD 20743, USA*****38.887892,-76.900784
+990 Swan Creek Rd E, Fort Washington, MD 20744, USA*****38.726917,-76.991847
+5800 Silver Hill Rd, District Heights, MD 20747, USA*****38.855403,-76.907914
+District Heights, MD 20747, USA*****38.857613,-76.889417
+2346 Iverson St, Temple Hills, MD 20748, USA*****38.834538,-76.958815
+10276 Southern Maryland Blvd, Dunkirk, MD 20754, USA*****38.718605,-76.662749
+7595 Greenbelt Rd, Greenbelt, MD 20770, USA*****38.992874,-76.876690
+7605 Crain Hwy, Upper Marlboro, MD 20772, USA*****38.786566,-76.794330
+50 Watkins Park Dr, Upper Marlboro, MD 20774, USA*****38.898813,-76.790243
+3511 Hamilton St, Hyattsville, MD 20782, USA*****38.953898,-76.959715
+9145 Riggs Rd, Hyattsville, MD 20783, USA*****39.003591,-76.969617
+4600 Cooper Ln, Hyattsville, MD 20784, USA*****38.942275,-76.905332
+7625 Old Georgetown Rd, Bethesda, MD 20814, USA*****38.986119,-77.095992
+5000 Bradley Blvd, Chevy Chase, MD 20815, USA*****38.977460,-77.099163
+4701 Sangamore Rd, Bethesda, MD 20816, USA*****38.950060,-77.119482
+3333 Spartan Rd, Olney, MD 20832, USA*****39.150287,-77.064541
+10016 Vanderbilt Cir APT 7, Rockville, MD 20850, USA*****39.110054,-77.209492
+403 Redland Blvd, Rockville, MD 20850, USA*****39.113330,-77.171702
+1902 Veirs Mill Rd, Rockville, MD 20851, USA*****39.076420,-77.117145
+5200 Randolph Rd, North Bethesda, MD 20852, USA*****39.052609,-77.104186
+5510 Norbeck Rd, Rockville, MD 20853, USA*****39.094401,-77.110087
+10104 River Rd, Potomac, MD 20854, USA*****39.016585,-77.208450
+25520 Oak Dr, Damascus, MD 20872, USA*****39.277164,-77.215339
+19718 Germantown Rd, Germantown, MD 20874, USA*****39.180740,-77.266273
+MONTGOMRY VLG, MD 20877, USA*****39.143875,-77.188775
+12251 Darnestown Rd, Darnestown, MD 20878, USA*****39.119006,-77.254990
+20211 Goshen Rd, Gaithersburg, MD 20879, USA*****39.188393,-77.185001
+Gaithersburg, MD 20885, USA*****39.140000,-77.200000
+3838 Howard Ave, Kensington, MD 20895, USA*****39.028450,-77.075694
+116 University Blvd W, Silver Spring, MD 20901, USA*****39.020613,-77.015334
+1101 University Blvd W, Silver Spring, MD 20902, USA*****39.036191,-77.027777
+11201 Georgia Ave, Silver Spring, MD 20902, USA*****39.039123,-77.050429
+10101 New Hampshire Ave, Silver Spring, MD 20903, USA*****39.020667,-76.976097
+13814 Outlet Dr, Silver Spring, MD 20904, USA*****39.084209,-76.946212
+15411 New Hampshire Ave, Silver Spring, MD 20905, USA*****39.108373,-76.996131
+Silver Spring, MD 20910, USA*****39.004150,-77.039175
+1451 Ritchie Hwy, Arnold, MD 21012, USA*****39.030274,-76.503929
+312 S Main St, Bel Air, MD 21014, USA*****39.533333,-76.346476
+225 Brierhill Dr, Bel Air, MD 21015, USA*****39.541899,-76.325375
+3301 Solomons Island Rd, Edgewater, MD 21037, USA*****38.926665,-76.568352
+52 Central Ave, Edgewater, MD 21037, USA*****38.927256,-76.573616
+5 Mayo Rd, Edgewater, MD 21037, USA*****38.939138,-76.563092
+Ellicott City, MD 21042, USA*****39.259057,-76.895155
+10000 Baltimore National Pike, Ellicott City, MD 21042, USA*****39.279964,-76.855430
+4370 Montgomery Rd, Ellicott City, MD 21043, USA*****39.251093,-76.818575
+8450 Baltimore National Pike, Ellicott City, MD 21043, USA*****39.286824,-76.806769
+5485 Harpers Farm Rd Ste A, Columbia, MD 21044, USA*****39.222941,-76.889784
+8775 Cloudleap Ct, Columbia, MD 21045, USA*****39.206632,-76.815984
+2644 Chapel Lake Dr, Gambrills, MD 21054, USA*****39.040217,-76.680433
+7643 Arundel Mills Blvd, Hanover, MD 21076, USA*****39.151922,-76.722876
+10335 Reisterstown Rd, Owings Mills, MD 21117, USA*****39.418238,-76.776301
+4211 Mountain Rd, Pasadena, MD 21122, USA*****39.120621,-76.514720
+9645 Belair Rd, Perry Hall, MD 21128, USA*****39.413519,-76.460804
+3499 Sweet Air Rd, Phoenix, MD 21131, USA*****39.515583,-76.556855
+540 Benfield Rd, Severna Park, MD 21146, USA*****39.083309,-76.583318
+444 WMC Dr, Westminster, MD 21157, USA*****39.586582,-77.012488
+8480 Baltimore National Pike, Ellicott City, MD 21043, USA*****39.286368,-76.808220
+201 Reisterstown Rd, Pikesville, MD 21208, USA*****39.365730,-76.712522
+4401 Harford Rd, Baltimore, MD 21214, USA*****39.339347,-76.571300
+2401 N Charles St, Baltimore, MD 21218, USA*****39.316615,-76.616631
+140 Carroll Island Rd, Baltimore, MD 21220, USA*****39.335763,-76.399862
+2610 Boston St, Baltimore, MD 21224, USA*****39.280636,-76.578714
+5748 Baltimore National Pike, Catonsville, MD 21228, USA*****39.288622,-76.735804
+5660 Baltimore National Pike, Baltimore, MD 21228, USA*****39.289408,-76.730236
+9647 Belair Rd, Nottingham, MD 21236, USA*****39.413576,-76.462133
+9645 Belair Rd, Nottingham, MD 21236, USA*****39.413562,-76.462147
+2365 Housley Rd, Annapolis, MD 21401, USA*****38.991019,-76.549581
+2635 Housley Rd, Annapolis, MD 21401, USA*****38.987221,-76.555145
+1781 Forest Dr, Annapolis, MD 21401, USA*****38.969917,-76.522900
+139 N Washington St, Easton, MD 21601, USA*****38.776430,-76.077154
+1925 Main St, Chester, MD 21619, USA*****38.974185,-76.274160
+24 Kent Town Market, Chester, MD 21619, USA*****38.974025,-76.277509
+927 W 7th St, Frederick, MD 21701, USA*****39.427484,-77.415247
+815 E Main St, Middletown, MD 21769, USA*****39.438781,-77.525575
+337 E Ridgeville Blvd, Mt Airy, MD 21771, USA*****39.366059,-77.160559
+Sykesville, MD 21784, USA*****39.373715,-76.967757
+Walkersville, MD 21793, USA*****39.486213,-77.351928
+Safeway, 151 Walkers Village Way, Walkersville, MD 21793, USA*****39.484928,-77.341866
+1401 W 13th St, Joplin, MO 64801, USA*****37.078356,-94.530295
+611 N Montana Ave, Helena, MT 59601, USA*****46.590617,-112.018557
+310 W Front St, Butte, MT 59701, USA*****45.997665,-112.537287
+1524 Park Ave, Anaconda, MT 59711, USA*****46.133019,-112.972996
+1525 Park Ave, Anaconda, MT 59711, USA*****46.132404,-112.973794
+901 W Main St, Bozeman, MT 59715, USA*****45.679987,-111.049472
+201 N Main St, Deer Lodge, MT 59722, USA*****46.403174,-112.734297
+3801 S Reserve St, Missoula, MT 59801, USA*****46.834631,-114.040463
+610 W Broadway St, Missoula, MT 59802, USA*****46.875361,-114.001943
+4636 Richlie St, Missoula, MT 59808, USA*****46.910099,-114.044360
+101 E Main St, Hamilton, MT 59840, USA*****46.246246,-114.155012
+40774 Mount Hwy 35, Polson, MT 59860, USA*****47.688472,-114.123203
+6580 US-93, Whitefish, MT 59937, USA*****48.399189,-114.336972
+611 N Spruce St, Ogallala, NE 69153, USA*****41.130011,-101.719551
+1930 Illinois St, Sidney, NE 69162, USA*****41.144906,-102.989373
+1944 Illinois St, Sidney, NE 69162, USA*****41.144962,-102.989345
+500 E 3rd St, Alliance, NE 69301, USA*****42.097794,-102.864731
+230 Morehead St, Chadron, NE 69337, USA*****42.830446,-103.002663
+601 Broadway, Scottsbluff, NE 69361, USA*****41.854302,-103.661326
+980 US-491, Gallup, NM 87301, USA*****35.534249,-108.757003
+730 W Main St, Farmington, NM 87401, USA*****36.729530,-108.216901
+3540 E Main St, Farmington, NM 87402, USA*****36.751307,-108.161021
+415 N Main Ave, Aztec, NM 87410, USA*****36.824942,-107.994763
+890 W Williams Ave, Fallon, NV 89406, USA*****39.477188,-118.787388
+US-95 & Armory Rd, Nevada 89415, USA*****38.536387,-118.630757
+925 Ironwood Dr #1100, Minden, NV 89423, USA*****38.962694,-119.778251
+2858 Vista Blvd, Sparks, NV 89434, USA*****39.555464,-119.703440
+2808 Vista Blvd, Sparks, NV 89434, USA*****39.555474,-119.704971
+212 Elks Point Rd, Zephyr Cove, NV 89448, USA*****38.985486,-119.943495
+4823 Kietzke Ln, Reno, NV 89509, USA*****39.480472,-119.797326
+5150 Mae Anne Ave, Reno, NV 89523, USA*****39.531427,-119.866279
+2035 N Carson St, Carson City, NV 89706, USA*****39.180331,-119.765914
+493 E 138th St, The Bronx, NY 10454, USA*****40.808051,-73.919655
+20535 SW Tualatin Valley Hwy, Aloha, OR 97006, USA*****45.496749,-122.888033
+Safeway 2631, 14555 SW Teal Blvd, Beaverton, OR 97007, USA*****45.441508,-122.828979
+6194 SW Murray Blvd, Beaverton, OR 97008, USA*****45.475112,-122.825174
+1055 SW 1st Ave, Canby, OR 97013, USA*****45.255464,-122.703192
+16300 SE Evelyn St, Clackamas, OR 97015, USA*****45.403569,-122.562234
+12032 SE Sunnyside Rd, Clackamas, OR 97015, USA*****45.428242,-122.540378
+401 E Columbia River Hwy, Clatskanie, OR 97016, USA*****46.106116,-123.207494
+500 SE Conyers St, Clatskanie, OR 97016, USA*****46.101393,-123.205015
+95 82nd Dr, Gladstone, OR 97027, USA*****45.381671,-122.581816
+1455 NE Division St, Gresham, OR 97030, USA*****45.505919,-122.416854
+2249 Cascade Ave, Hood River, OR 97031, USA*****45.708688,-121.535006
+401 A Ave, Lake Oswego, OR 97034, USA*****45.420855,-122.668588
+17779 Lower Boones Ferry Rd, Lake Oswego, OR 97224, USA*****45.398428,-122.741881
+17779 SW Ferry Rd, Lake Oswego, OR 97035, USA*****45.397087,-122.743321
+1525 W Main St, Molalla, OR 97038, USA*****45.151628,-122.603569
+Oregon City, OR 97045, USA*****45.336447,-122.605042
+795 N Columbia River Hwy, St Helens, OR 97051, USA*****45.869050,-122.816878
+37602 US-26, Powder River, WY 82648, USA*****43.031099,-106.973249
+520 Mt Hood St, The Dalles, OR 97058, USA*****45.604578,-121.194299
+2501 SW Cherry Park Rd, Troutdale, OR 97060, USA*****45.530085,-122.411278
+22000 Salamo Rd, West Linn, OR 97068, USA*****45.364591,-122.647493
+1655 Mt Hood Ave, Woodburn, OR 97071, USA*****45.152229,-122.833428
+1550 N Pacific Hwy, Woodburn, OR 97071, USA*****45.150506,-122.830116
+1001 SW Highland Dr, Gresham, OR 97030, USA*****45.489035,-122.476685
+1103 SW Highland Dr, Gresham, OR 97080, USA*****45.488400,-122.475911
+Portland, OR 97086, USA*****45.443307,-122.513435
+6745 SW Beaverton Hillsdale Hwy, Portland, OR 97225, USA*****45.487655,-122.745890
+20151 SE Hwy 212, Damascus, OR 97089, USA*****45.418045,-122.455879
+3250 Leif Erikson Dr, Astoria, OR 97103, USA*****46.192218,-123.808293
+3250 Marine Dr, Astoria, OR 97103, USA*****46.192230,-123.808305
+2833 Pacific Ave, Forest Grove, OR 97116, USA*****45.520500,-123.095726
+2525 SE Tualatin Valley Hwy, Hillsboro, OR 97123, USA*****45.505897,-122.954395
+2490 OR-99W, McMinnville, OR 97128, USA*****45.227664,-123.172703
+1140 N Springbrook Rd, Newberg, OR 97132, USA*****45.308573,-122.945406
+401 S Roosevelt Dr, Seaside, OR 97138, USA*****45.990843,-123.920060
+SW Pacific Hwy, Sherwood, OR, USA*****45.363200,-122.853139
+20685 SW Roy Rogers Rd, Sherwood, OR 97140, USA*****45.369779,-122.845410
+1815 4th St, Tillamook, OR 97141, USA*****45.455203,-123.845503
+3315 3rd St UNIT 23, Tillamook, OR 97141, USA*****45.455903,-123.829170
+101 NE 82nd Ave, Portland, OR 97220, USA*****45.523566,-122.579045
+3930 SE Powell Blvd, Portland, OR 97202, USA*****45.496987,-122.622033
+8330 N Ivanhoe St, Portland, OR 97203, USA*****45.587837,-122.753128
+4515 SE Woodstock Blvd, Portland, OR 97206, USA*****45.479941,-122.615958
+5920 NE Martin Luther King Jr Blvd, Portland, OR 97211, USA*****45.565968,-122.660219
+2800 SE Hawthorne Blvd, Portland, OR 97214, USA*****45.511741,-122.637528
+101 SE 82nd Ave, Portland, OR 97216, USA*****45.521922,-122.580008
+11919 N Jantzen Dr, Portland, OR 97217, USA*****45.610111,-122.679026
+8145 SW Barbur Blvd, Portland, OR 97219, USA*****45.465633,-122.698862
+4320 SE King Rd, Portland, OR 97206, USA*****45.446968,-122.618295
+4370 SE King Rd, Milwaukie, OR 97222, USA*****45.447593,-122.617432
+250, 11945 SW Pacific Hwy, Tigard, OR 97223, USA*****45.434732,-122.766066
+15570 SW Pacific Hwy, Tigard, OR 97224, USA*****45.407221,-122.792710
+6745 SW Beaverton Hillsdale Hwy, Portland, OR 97225, USA*****45.487655,-122.745890
+13485 NW Cornell Rd, Portland, OR 97229, USA*****45.527992,-122.814475
+221 NE 122nd Ave, Portland, OR 97230, USA*****45.524480,-122.538546
+1541 NE 181st Ave, Portland, OR 97230, USA*****45.534139,-122.479814
+1100 NE Broadway St, Portland, OR 97232, USA*****45.534702,-122.654165
+3527 SE 122nd Ave, Portland, OR 97236, USA*****45.496189,-122.539216
+16409 SE Division St, Portland, OR 97236, USA*****45.505549,-122.495163
+14840 SE Webster Rd, Milwaukie, OR 97267, USA*****45.415750,-122.590793
+15099 SE McLoughlin Blvd, Milwaukie, OR 97267, USA*****45.413335,-122.631875
+1265 Center St NE, Salem, OR 97301, USA*****44.940781,-123.024201
+3285 Commercial St SE, Salem, OR 97302, USA*****44.909181,-123.045349
+4990 River Rd N, Keizer, OR 97303, USA*****44.996360,-123.024008
+1455 Edgewater St NW, Salem, OR 97304, USA*****44.939357,-123.063351
+3380 Lancaster Dr NE, Salem, OR 97305, USA*****44.968688,-122.981862
+5660 Commercial St SE, Salem, OR 97306, USA*****44.872948,-123.024280
+1990 14th Ave SE, Albany, OR 97321, USA*****44.627827,-123.079781
+590 NE Circle Blvd, Corvallis, OR 97330, USA*****44.586913,-123.251207
+5270 SW, Philomath Blvd, Corvallis, OR 97333, USA*****44.550433,-123.308769
+450 SW 3rd St, Corvallis, OR 97333, USA*****44.560818,-123.263261
+138 W Ellendale Ave, Dallas, OR 97338, USA*****44.930248,-123.313231
+1983 S Main St, Lebanon, OR 97355, USA*****44.527334,-122.905877
+1986 S Main St, Lebanon, OR 97355, USA*****44.526741,-122.907492
+2220 N Coast Hwy, Newport, OR 97365, USA*****44.652380,-124.051991
+4101 NE Logan Rd, Lincoln City, OR 97367, USA*****44.997256,-124.006246
+301 Westfield St, Silverton, OR 97381, USA*****45.003245,-122.793957
+1535 N First Ave, Stayton, OR 97383, USA*****44.805703,-122.796044
+1540 Main St, Sweet Home, OR 97386, USA*****44.399495,-122.725749
+145 E 18th Ave, Eugene, OR 97401, USA*****44.040711,-123.090463
+1500 Coburg Rd, Eugene, OR 97401, USA*****44.078212,-123.070319
+945 Bailey Hill Rd, Eugene, OR 97402, USA*****44.049186,-123.147929
+2060 River Rd, Eugene, OR 97404, USA*****44.094838,-123.129044
+350 E 40th Ave, Eugene, OR 97405, USA*****44.010532,-123.088616
+230 E Johnson Ave, Coos Bay, OR 97420, USA*****43.358853,-124.210457
+155 E 1st St, Coquille, OR 97423, USA*****43.174374,-124.187415
+3 E 1st St, Coquille, OR 97423, USA*****43.174997,-124.189100
+Cottage Grove, OR 97424, USA*****43.797623,-123.059525
+1500 E Main St, Cottage Grove, OR 97424, USA*****43.798507,-123.052140
+700 US-101, Florence, OR 97439, USA*****43.972724,-124.103628
+1755 Pacific Hwy W, Junction City, OR 97448, USA*****44.229111,-123.206065
+725 Ash St, Myrtle Point, OR 97458, USA*****43.065939,-124.139200
+1735 Virginia Ave, North Bend, OR 97459, USA*****43.405706,-124.235848
+1499 US-101, Reedsport, OR 97467, USA*****43.734112,-124.111201
+Reedsport, OR 97467, USA*****43.702339,-124.096778
+406 SE Rose St, Roseburg, OR 97470, USA*****43.210919,-123.344371
+1539 NE Stephens St, Roseburg, OR 97470, USA*****43.229250,-123.349509
+1891 Pioneer Pkwy E, Springfield, OR 97477, USA*****44.063516,-123.024022
+5415 Main St, Springfield, OR 97478, USA*****44.044693,-122.933916
+713 S Riverside Ave, Medford, OR 97501, USA*****42.320610,-122.865878
+1003 Medford Center, Medford, OR 97504, USA*****42.333395,-122.863822
+971 Medford Center, Medford, OR 97504, USA*****42.334291,-122.865620
+3169 Crater Lake Hwy, Medford, OR 97504, USA*****42.362534,-122.858655
+115 SE 7th St, Grants Pass, OR 97526, USA*****42.438687,-123.324775
+1640 Williams Hwy, Grants Pass, OR 97527, USA*****42.421106,-123.336256
+211 N 8th St, Klamath Falls, OR 97601, USA*****42.227381,-121.782229
+2740 S 6th St, Klamath Falls, OR 97603, USA*****42.209402,-121.756251
+244 N F St, Lakeview, OR 97630, USA*****42.191683,-120.345219
+642 NE 3rd St, Bend, OR 97701, USA*****44.056492,-121.301304
+5980 US-20, LaGrange, IN 46761, USA*****41.641920,-85.312183
+2650 NE Hwy 20, Bend, OR 97701, USA*****44.057700,-121.264715
+1705 S Hwy 97, Bend, OR 97702, USA*****44.034958,-121.306193
+320 SW Century Dr, Bend, OR 97702, USA*****44.046758,-121.331120
+246 W Monroe St, Burns, OR 97720, USA*****43.587004,-119.057070
+80 NE Cedar St, Madras, OR 97741, USA*****44.643951,-121.128189
+1705 S Hwy 97, Redmond, OR 97756, USA*****44.260820,-121.179424
+203 SW 20th St, Pendleton, OR 97801, USA*****45.666108,-118.807280
+1205 Campbell St, Baker City, OR 97814, USA*****44.780819,-117.819169
+601 W North St, Enterprise, OR 97828, USA*****45.427772,-117.285873
+990 S Hwy 395, Hermiston, OR 97838, USA*****45.832639,-119.286016
+2111 Adams Ave, La Grande, OR 97850, USA*****45.321290,-118.081577
+455 N Columbia St, Milton-Freewater, OR 97862, USA*****45.940801,-118.388192
+550 E Lancaster Ave, Wayne, PA 19087, USA*****40.040132,-75.369471
+200 W Ridge Pike, Conshohocken, PA 19428, USA*****40.095211,-75.288873
+80 Reid St, Charleston, SC 29403, USA*****32.792272,-79.938573
+2120 Mt Rushmore Rd, Rapid City, SD 57701, USA*****44.064949,-103.230821
+730 Mountain View Rd, Rapid City, SD 57701, USA*****44.079998,-103.251365
+1606 North Ave, Spearfish, SD 57783, USA*****44.500354,-103.858512
+101 W Buckingham Rd, Garland, TX 75040, USA*****32.932072,-96.631682
+216, 3100 Independence Pkwy, Plano, TX 75075, USA*****33.039847,-96.751859
+Arlington, TX 76007, USA*****32.720000,-97.080000
+4220 Merchant Plaza, Lake Ridge, VA 22192, USA*****38.674699,-77.334428
+12 W Washington St, Middleburg, VA 20118, USA*****38.969200,-77.736714
+5111 Westfields Blvd, Centreville, VA 20120, USA*****38.867501,-77.448328
+12821 Braemar Village Pz, Bristow, VA 20136, USA*****38.750894,-77.570696
+43150 Broadlands Center Plaza, Ashburn, VA 20148, USA*****39.026999,-77.508732
+5111 Westfields Blvd, Centreville, VA 20120, USA*****38.867501,-77.448328
+22350 S Sterling Blvd, Sterling, VA 20164, USA*****38.997650,-77.407895
+30 Pidgeon Hill Dr, Potomac Falls, VA 20165, USA*****39.039089,-77.411295
+412 Elden St, Herndon, VA 20170, USA*****38.970118,-77.374140
+413 Elden St, Herndon, VA 20170, USA*****38.966822,-77.376558
+437 S King St, Leesburg, VA 20175, USA*****39.108925,-77.568838
+189 W Lee Hwy, Warrenton, VA 20186, USA*****38.730641,-77.797144
+11120 South Lakes Dr, Reston, VA 20191, USA*****38.939784,-77.330109
+2304 Hunters Woods Plaza, Reston, VA 20191, USA*****38.935641,-77.362182
+7414 Little River Turnpike, Annandale, VA 22003, USA*****38.832325,-77.200814
+5727 Burke Centre Pkwy, Burke, VA 22015, USA*****38.799865,-77.321225
+9596 Old Keene Mill Rd, Burke, VA 22015, USA*****38.778464,-77.275176
+10350 Willard Way, Fairfax, VA 22030, USA*****38.848704,-77.302466
+3918 Prosperity Ave, Fairfax, VA 22031, USA*****38.838795,-77.246597
+3043 Nutley St, Fairfax, VA 22031, USA*****38.871495,-77.260877
+9525 Braddock Rd, Fairfax, VA 22032, USA*****38.816522,-77.275266
+12200 West Ox Rd, Fairfax, VA 22033, USA*****38.866283,-77.368464
+5727 Burke Centre Pkwy, Burke, VA 22015, USA*****38.799865,-77.321225
+5821 Crossroads Cir, Falls Church, VA 22041, USA*****38.853575,-77.128921
+7397 Lee Hwy, Falls Church, VA 22042, USA*****38.875693,-77.198073
+6118 Arlington Blvd, Seven Corners, VA 22044, USA*****38.869717,-77.144507
+1330 Chain Bridge Rd, McLean, VA 22101, USA*****38.939487,-77.175746
+6244 Old Dominion Dr, McLean, VA 22101, USA*****38.920349,-77.149921
+5204 Port Royal Rd, Springfield, VA 22151, USA*****38.810134,-77.223045
+7421 Barkers Ct, Springfield, VA 22153, USA*****38.755865,-77.214311
+225 Maple Ave E, Vienna, VA 22180, USA*****38.903514,-77.261079
+2042 Daniel Stuart Square, Woodbridge, VA 22191, USA*****38.633144,-77.274012
+2205 Old Bridge Rd, Woodbridge, VA 22192, USA*****38.677385,-77.281325
+2205 Tacketts Mill Dr, Lake Ridge, VA 22192, USA*****38.675683,-77.277704
+4220 Merchant Plaza, Lake Ridge, VA 22192, USA*****38.674699,-77.334428
+4215 Cheshire Station Plaza, Dale City, VA 22193, USA*****38.645305,-77.332981
+5101 Wilson Blvd, Arlington, VA 22205, USA*****38.877964,-77.123618
+2500 N Harrison St, Arlington, VA 22207, USA*****38.896823,-77.139349
+3713 Lee Hwy, Arlington, VA 22207, USA*****38.896850,-77.105817
+1525 Wilson Blvd, Arlington, VA 22209, USA*****38.895212,-77.075424
+3526 King St, Alexandria, VA 22302, USA*****38.827548,-77.089452
+299 S Van Dorn St, Alexandria, VA 22304, USA*****38.810087,-77.133806
+221 W Glebe Rd, Alexandria, VA 22305, USA*****38.837838,-77.062720
+7451 Mount Vernon Square Center, Alexandria, VA 22306, USA*****38.755651,-77.081449
+1624 Belle View Blvd, Alexandria, VA 22307, USA*****38.776439,-77.060753
+7900 Fort Hunt Rd, Alexandria, VA 22308, USA*****38.743491,-77.057624
+8646 Richmond Hwy, Alexandria, VA 22309, USA*****38.724383,-77.121370
+6130 Rose Hill Dr, Alexandria, VA 22310, USA*****38.784045,-77.122449
+500 S Royal St, Alexandria, VA 22314, USA*****38.799622,-77.044348
+5980 Kingstowne Towne Ctr, Alexandria, VA 22315, USA*****38.769845,-77.141350
+309 Southgate Shopping Center, Culpeper, VA 22701, USA*****38.462246,-78.002592
+2012 N Main St, Danville, VA 24540, USA*****36.610329,-79.382874
+101 Auburn Way S, Auburn, WA 98002, USA*****47.306380,-122.227517
+2109 S 336th St, Federal Way, WA 98003, USA*****47.300622,-122.306706
+28810 Military Rd S, Federal Way, WA 98003, USA*****47.342560,-122.299965
+300 Bellevue Way NE, Bellevue, WA 98004, USA*****47.612998,-122.201015
+1121 124th Ave NE Fl 1, Bellevue, WA 98005, USA*****47.620393,-122.175707
+1645 140th Ave NE, Bellevue, WA 98005, USA*****47.626063,-122.154701
+3903 Factoria Square Mall SE, Bellevue, WA 98006, USA*****47.575975,-122.171308
+18221 Bothell Way NE, Bothell, WA 98011, USA*****47.760523,-122.208590
+13314 Bothell Everett Hwy, Mill Creek, WA 98012, USA*****47.876941,-122.214306
+20711 Bothell Everett Hwy, Bothell, WA 98012, USA*****47.809921,-122.205446
+Bellevue, WA 98015, USA*****47.610000,-122.190000
+14020 Main St NE, Duvall, WA 98019, USA*****47.726339,-121.984818
+152 Roosevelt Ave E, Enumclaw, WA 98022, USA*****47.198173,-121.979951
+23632 Hwy 99, Edmonds, WA 98026, USA*****47.784546,-122.344676
+6850 NE Bothell Way, Kenmore, WA 98028, USA*****47.759027,-122.247544
+10751 SE 272nd St, Kent, WA 98030, USA*****47.357298,-122.197608
+2109 S 336th St, Federal Way, WA 98003, USA*****47.300622,-122.306706
+20830 108th Ave SE, Kent, WA 98031, USA*****47.415121,-122.195619
+21401 Pacific Hwy S, Des Moines, WA 98198, USA*****47.410019,-122.299499
+210 Washington Ave S, Kent, WA 98032, USA*****47.380550,-122.246087
+12519 NE 85th St, Kirkland, WA 98033, USA*****47.678792,-122.173436
+14444 124th Ave NE, Kirkland, WA 98034, USA*****47.732372,-122.174169
+10020 NE 137th St, Kirkland, WA 98034, USA*****47.722936,-122.206362
+19715 Hwy 99, Lynnwood, WA 98036, USA*****47.819529,-122.313817
+Mercer Island, WA 98040, USA*****47.582423,-122.233123
+16850 SE 272nd St, Kent, WA 98030, USA*****47.358061,-122.199219
+17023 SE 272nd St, Covington, WA 98042, USA*****47.356584,-122.114845
+17051 SE 272nd St, Covington, WA 98042, USA*****47.357197,-122.112750
+715 SW Mt Si Blvd, North Bend, WA 98045, USA*****47.487293,-121.793212
+460 SW Mt Si Blvd, North Bend, WA 98045, USA*****47.487263,-121.791393
+15000 NE 24th St, Redmond, WA 98052, USA*****47.632684,-122.140475
+17246 Redmond Way, Redmond, WA 98052, USA*****47.671930,-122.109984
+200 S 3rd St, Renton, WA 98057, USA*****47.480225,-122.215140
+17230 140th Ave SE, Renton, WA 98058, USA*****47.447511,-122.152462
+4110 NE 4th St, Renton, WA 98059, USA*****47.489917,-122.162974
+4300 NE 4th St, Renton, WA 98059, USA*****47.489537,-122.161396
+6911 Coal Creek Pkwy SE, Newcastle, WA 98059, USA*****47.539470,-122.167733
+630 228th Ave NE, Sammamish, WA 98074, USA*****47.615394,-122.033584
+19150 NE Woodinville Duvall Rd, Woodinville, WA 98072, USA*****47.756018,-122.081206
+14826 Hwy 99, Lynnwood, WA 98087, USA*****47.863557,-122.284018
+13314 Bothell Everett Hwy, Mill Creek, WA 98012, USA*****47.876941,-122.214306
+8704 Greenwood Ave N, Seattle, WA 98103, USA*****47.692695,-122.354732
+8701 Phinney Ave N, Seattle, WA 98103, USA*****47.692421,-122.353936
+4732 Brooklyn Ave NE, Seattle, WA 98105, USA*****47.664278,-122.313910
+3020 NE 45th St, Seattle, WA 98105, USA*****47.662116,-122.295072
+1423 NW Market St, Seattle, WA 98107, USA*****47.668256,-122.374299
+2100 Queen Anne Ave N, Seattle, WA 98109, USA*****47.637642,-122.356134
+253 High School Rd NE, Bainbridge Island, WA 98110, USA*****47.635096,-122.519705
+1410 E John St, Seattle, WA 98112, USA*****47.620496,-122.313255
+2201 E Madison St, Seattle, WA 98122, USA*****47.617833,-122.303365
+7300 Roosevelt Way NE, Seattle, WA 98115, USA*****47.681856,-122.317019
+7340 35th Ave NE, Seattle, WA 98115, USA*****47.682513,-122.289339
+7400 Lake City Way NE, Seattle, WA 98115, USA*****47.683531,-122.316846
+2622 California Ave SW, Seattle, WA 98116, USA*****47.579939,-122.385946
+8340 15th Ave NW, Seattle, WA 98117, USA*****47.690064,-122.376131
+9262 Rainier Ave S, Seattle, WA 98118, USA*****47.520802,-122.268308
+3900 S Othello St, Seattle, WA 98118, USA*****47.537448,-122.283060
+4754 42nd Ave S, Seattle, WA 98118, USA*****47.559638,-122.280428
+7946 Duncan Ave S, Seattle, WA 98118, USA*****47.530670,-122.267658
+516 1st Ave W, Seattle, WA 98119, USA*****47.623572,-122.357801
+12318 15th Ave NE, Seattle, WA 98125, USA*****47.718096,-122.311965
+9620 28th Ave SW, Seattle, WA 98126, USA*****47.516822,-122.367243
+15332 Aurora Ave N, Shoreline, WA 98133, USA*****47.740902,-122.343634
+17202 15th Ave NE, Shoreline, WA 98155, USA*****47.754374,-122.312856
+120 SW 148th St, Burien, WA 98166, USA*****47.470731,-122.335771
+138 SW 148th St, Burien, WA 98166, USA*****47.471301,-122.336956
+4011 S 164th St, SeaTac, WA 98188, USA*****47.455652,-122.282407
+21401 International Blvd, Des Moines, WA 98198, USA*****47.410071,-122.299441
+27035 Pacific Hwy S, Des Moines, WA 98198, USA*****47.359392,-122.310536
+4128 Rucker Ave, Everett, WA 98201, USA*****47.962399,-122.212342
+7601 Evergreen Way, Everett, WA 98203, USA*****47.928595,-122.219832
+5802 134th Pl SE, Everett, WA 98208, USA*****47.875465,-122.153609
+11031 19th Ave SE, Everett, WA 98208, USA*****47.897351,-122.205111
+911 11th St, Anacortes, WA 98221, USA*****48.512393,-122.611581
+1020 Commercial Ave, Anacortes, WA 98221, USA*****48.513690,-122.613063
+20500 Olympic Pl, Arlington, WA 98223, USA*****48.182075,-122.127686
+3532 172nd St NE, Arlington, WA 98223, USA*****48.151874,-122.179399
+717 WA-9, Lake Stevens, WA 98258, USA*****48.001440,-122.105303
+8071 Guide Meridian Rd UNIT 101, Lynden, WA 98264, USA*****48.934325,-122.487309
+1258 State Ave, Marysville, WA 98270, USA*****48.062521,-122.174499
+315 E College Way, Mt Vernon, WA 98273, USA*****48.437694,-122.337145
+3086 Mount Baker Cir, Oak Harbor, WA 98277, USA*****48.321669,-122.521056
+31565 WA-20, Oak Harbor, WA 98277, USA*****48.289538,-122.659511
+1119 13th St, Snohomish, WA 98290, USA*****47.926103,-122.095539
+7601 Evergreen Way, Everett, WA 98203, USA*****47.928595,-122.219832
+19715 99th Ave SE, Snohomish, WA 98296, USA*****47.817950,-122.098304
+1401 NE McWilliams Rd, Bremerton, WA 98311, USA*****47.620754,-122.630826
+900 N Callow Ave, Bremerton, WA 98312, USA*****47.569760,-122.652767
+4831 Point Fosdick Dr, Gig Harbor, WA 98335, USA*****47.302134,-122.575817
+10105 224th St E, Graham, WA 98338, USA*****47.053823,-122.296438
+900 Meridian Ave E, Milton, WA 98354, USA*****47.248039,-122.295179
+110 E 3rd St, Port Angeles, WA 98362, USA*****48.115957,-123.435355
+2709 E Hwy 101, Port Angeles, WA 98362, USA*****48.106021,-123.380325
+1942 SE Lund Ave, Port Orchard, WA 98366, USA*****47.519206,-122.627887
+3355 Bethel Rd SE, Port Orchard, WA 98366, USA*****47.518356,-122.630161
+2611 E Sims Way, Port Townsend, WA 98368, USA*****48.108699,-122.775638
+442 W Sims Way, Port Townsend, WA 98368, USA*****48.108130,-122.782699
+611 S Meridian, Puyallup, WA 98371, USA*****47.187013,-122.292847
+10105 24th St E, Edgewood, WA 98371, USA*****47.235824,-122.294935
+1405 E Main Ave, Puyallup, WA 98371, USA*****47.193187,-122.274864
+13308 Meridian E, Puyallup, WA 98373, USA*****47.135143,-122.294191
+5512 161st St E, South Hill, WA 98375, USA*****47.110564,-122.314240
+680 W Washington St Bldg F, Sequim, WA 98382, USA*****48.080573,-123.116506
+680f W Washington St, Sequim, WA 98382, USA*****48.080982,-123.117262
+2850 NW Bucklin Hill Rd, Silverdale, WA 98383, USA*****47.650543,-122.688595
+21301 WA-410, Bonney Lake, WA 98391, USA*****47.166884,-122.146619
+1624 72nd St E, Tacoma, WA 98404, USA*****47.190667,-122.406865
+2537 M.L.K. Jr Way, Tacoma, WA 98405, USA*****47.236276,-122.447592
+1112 S M St, Tacoma, WA 98405, USA*****47.251231,-122.455364
+6201 6th Ave, Tacoma, WA 98406, USA*****47.256428,-122.520242
+3811 N 24th St, Tacoma, WA 98406, USA*****47.269207,-122.487418
+1302 S 38th St, Tacoma, WA 98408, USA*****47.222156,-122.451556
+15805 Pacific Ave S, Tacoma, WA 98444, USA*****47.112928,-122.432248
+3842 Bridgeport Way W, Tacoma, WA 98466, USA*****47.221671,-122.539346
+10223 Gravelly Lake Dr SW, Lakewood, WA 98499, USA*****47.164194,-122.519428
+609 4th Ave E, Olympia, WA 98501, USA*****47.044714,-122.894777
+520 Cleveland Ave SE, Tumwater, WA 98501, USA*****47.018985,-122.897755
+3215 Harrison Ave NW, Olympia, WA 98502, USA*****47.045543,-122.941981
+4700 Yelm Hwy SE, Lacey, WA 98503, USA*****46.997891,-122.822222
+6200 Pacific Ave SE, Lacey, WA 98503, USA*****47.039262,-122.799815
+1243 Marvin Rd NE, Olympia, WA 98516, USA*****47.058797,-122.765822
+8210 Martin Way E, Lacey, WA 98516, USA*****47.056563,-122.767309
+4280 Martin Way E, Olympia, WA 98516, USA*****47.049522,-122.829148
+221 W Heron St, Aberdeen, WA 98520, USA*****46.971945,-123.819121
+60 NE Ridgepoint Blvd, Belfair, WA 98528, USA*****47.454770,-122.817962
+1129 Harrison Ave, Centralia, WA 98531, USA*****46.727622,-122.981057
+1100 S Market Blvd, Chehalis, WA 98532, USA*****46.655123,-122.954075
+600 W Franklin St, Shelton, WA 98584, USA*****47.214630,-123.106411
+1109 E Yelm Ave, Yelm, WA 98597, USA*****46.934450,-122.594230
+904 W Main St, Battle Ground, WA 98604, USA*****45.781769,-122.546757
+800 NE 3rd Ave, Camas, WA 98607, USA*****45.586968,-122.399487
+411 Three Rivers Dr, Kelso, WA 98626, USA*****46.141980,-122.901878
+2930 Ocean Beach Hwy, Longview, WA 98632, USA*****46.148239,-122.960943
+1227 15th Ave, Longview, WA 98632, USA*****46.136683,-122.938583
+6711 NE 63rd St, Vancouver, WA 98661, USA*****45.666421,-122.603633
+6701 E Mill Plain Blvd, Vancouver, WA 98661, USA*****45.626115,-122.602930
+11696 NE 76th St, Vancouver, WA 98662, USA*****45.678802,-122.553519
+3707 Main St, Vancouver, WA 98663, USA*****45.648556,-122.666648
+408 NE 81st St, Vancouver, WA 98665, USA*****45.681750,-122.668385
+3307 Evergreen Way, Washougal, WA 98671, USA*****45.579159,-122.336121
+1725 Pacific Ave, Woodland, WA 98674, USA*****45.912391,-122.747960
+2615 NE 112th Ave, Vancouver, WA 98684, USA*****45.641280,-122.557004
+13719 SE Mill Plain Blvd, Vancouver, WA 98684, USA*****45.617015,-122.531074
+501 N Miller St, Wenatchee, WA 98801, USA*****47.430890,-120.323954
+510 Grant Rd, East Wenatchee, WA 98802, USA*****47.405034,-120.280821
+106 W Manson Hwy, Chelan, WA 98816, USA*****47.842103,-120.019736
+1150 Basin St SW, Ephrata, WA 98823, USA*****47.309911,-119.558307
+116 River Bend Dr, Leavenworth, WA 98826, USA*****47.596936,-120.645665
+601 S Pioneer Way Ste A, Moses Lake, WA 98837, USA*****47.129947,-119.268336
+3131 W Wapato Dr Unit 62, Moses Lake, WA 98837, USA*****47.099177,-119.312193
+607 Omache Dr, Omak, WA 98841, USA*****48.418059,-119.510456
+3999 Englewood Ave #103, Yakima, WA 98902, USA*****46.607930,-120.561295
+2204 W Nob Hill Blvd Ste A, Yakima, WA 98902, USA*****46.583847,-120.539641
+205 N 5th Ave, Yakima, WA 98902, USA*****46.603295,-120.516117
+905 E Mead Ave, Yakima, WA 98903, USA*****46.577958,-120.489451
+5702 Summitview Ave, Yakima, WA 98908, USA*****46.598904,-120.585035
+804 W 1st St, Cle Elum, WA 98922, USA*****47.195656,-120.953548
+400 N Ruby St, Ellensburg, WA 98926, USA*****46.996072,-120.542995
+610 E Wine Country Rd, Grandview, WA 98930, USA*****46.255510,-119.892622
+613 S 6th St, Sunnyside, WA 98944, USA*****46.322039,-120.013955
+613 N 6th St, Sunnyside, WA 98944, USA*****46.333622,-120.013297
+711 W 1st Ave, Toppenish, WA 98948, USA*****46.375866,-120.321690
+Wapato, WA 98951, USA*****46.447628,-120.420338
+2710 1st St, Cheney, WA 99004, USA*****47.505871,-117.567442
+17905 E Appleway Ave, Spokane Valley, WA 99016, USA*****47.658253,-117.163626
+1233 N Liberty Lake Rd, Liberty Lake, WA 99019, USA*****47.668442,-117.107394
+Nine Mile Falls, WA 99026, USA*****47.779510,-117.551519
+10 W Colville Ave, Chewelah, WA 99109, USA*****48.279813,-117.716098
+391 N Main St, Colville, WA 99114, USA*****48.547557,-117.906487
+1208 Morgan St, Davenport, WA 99122, USA*****47.654187,-118.157733
+101 E Grand Coulee Ave, Grand Coulee, WA 99133, USA*****47.934601,-119.000118
+121 W Walnut St, Newport, WA 99156, USA*****48.183325,-117.040457
+430 SE Bishop Blvd, Pullman, WA 99163, USA*****46.715515,-117.177879
+933 E Mission Ave, Spokane, WA 99202, USA*****47.672340,-117.394723
+2507 W Wellesley Ave, Spokane, WA 99205, USA*****47.699035,-117.448284
+3910 N Wall St, Spokane, WA 99205, USA*****47.693915,-117.421564
+902 W Francis Ave, Spokane, WA 99205, USA*****47.716119,-117.424616
+1616 W Northwest Blvd, Spokane, WA 99205, USA*****47.680310,-117.436206
+3919 N Market St, Spokane, WA 99207, USA*****47.694174,-117.367357
+3909 N Market St, Spokane, WA 99207, USA*****47.694224,-117.365489
+1441 N Argonne Rd, Spokane Valley, WA 99212, USA*****47.670690,-117.285036
+14020 E Sprague Ave, Spokane, WA 99216, USA*****47.655687,-117.216139
+2509 E 29th Ave, Spokane, WA 99203, USA*****47.629483,-117.374613
+2825 W Kennewick Ave, Kennewick, WA 99336, USA*****46.208758,-119.160655
+1803 George Washington Way, Richland, WA 99354, USA*****46.299554,-119.275923
+215 E Rose St, Walla Walla, WA 99362, USA*****46.070317,-118.337779
+1600 Plaza Way, Walla Walla, WA 99362, USA*****46.048788,-118.347187
+2512 Pioneer Ave, Cheyenne, WY 82001, USA*****41.140075,-104.823665
+710 S Greeley Hwy, Cheyenne, WY 82007, USA*****41.111097,-104.800855
+700 S Greeley Hwy, Cheyenne, WY 82007, USA*****41.110890,-104.802600
+Cole Rd, Wyoming 82009, USA*****41.160814,-105.060136
+554 N 3rd St, Laramie, WY 82072, USA*****41.317163,-105.594202
+1307 16th St, Wheatland, WY 82201, USA*****42.060747,-104.964532
+708 N Federal Blvd, Riverton, WY 82501, USA*****43.031109,-108.382078
+485 Main St, Lander, WY 82520, USA*****42.833112,-108.734987
+1375 CY Ave, Casper, WY 82604, USA*****42.832187,-106.339941
+300 SE Wyoming Blvd, Casper, WY 82609, USA*****42.848258,-106.271910
+1900 E Richards St, Douglas, WY 82633, USA*****42.744542,-105.361791
+169 Coffeen Ave, Sheridan, WY 82801, USA*****44.794555,-106.952316

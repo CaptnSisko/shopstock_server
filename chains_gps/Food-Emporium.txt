@@ -1,0 +1,31 @@
+160 E Putnam Ave, Cos Cob, CT 06807, USA*****41.038035,-73.600335
+280 Elm St, New Canaan, CT 06840, USA*****41.144813,-73.500041
+1261 E Putnam Ave, Riverside, CT 06878, USA*****41.042845,-73.577172
+3600 W Maple Rd, Bloomfield Village, MI 48301, USA*****42.546309,-83.262225
+2160 Lemoine Ave, Fort Lee, NJ 07024, USA*****40.856148,-73.965827
+1450 Washington St, Hoboken, NJ 07030, USA*****40.754321,-74.026210
+400e E 71st St, New York, NY 10021, USA*****40.766626,-73.956192
+228 West End Ave, New York, NY 10023, USA*****40.778530,-73.985136
+10 Union Square E, New York, NY 10003, USA*****40.734825,-73.989760
+475 E 6th St, New York, NY 10009, USA*****40.725657,-73.983997
+316 Greenwich St, New York, NY 10013, USA*****40.717949,-74.010974
+810 8th Ave, New York, NY 10019, USA*****40.761654,-73.986279
+1066 3rd Ave, New York, NY 10065, USA*****40.764447,-73.964878
+969 2nd Ave, New York, NY 10022, USA*****40.755907,-73.968193
+401 E 59th St, New York, NY 10022, USA*****40.759739,-73.961545
+2008 Broadway, New York, NY 10023, USA*****40.775537,-73.981688
+305-315 East 86th St, New York, NY 10028, USA*****40.777954,-73.950937
+1175 3rd Ave, New York, NY 10021, USA*****40.767345,-73.961377
+1211 Madison Ave, New York, NY 10128, USA*****40.781620,-73.958053
+5661 Riverdale Ave, The Bronx, NY 10471, USA*****40.906101,-73.905100
+450 Main St, Armonk, NY 10504, USA*****41.127538,-73.712753
+335 Halstead Ave, Harrison, NY 10528, USA*****40.969498,-73.709587
+1053 W Boston Post Rd, Mamaroneck, NY 10543, USA*****40.939636,-73.743281
+777 Post Rd, Scarsdale, NY 10583, USA*****40.974557,-73.803887
+345 Downing Dr, Yorktown Heights, NY 10598, USA*****41.272529,-73.781784
+100 Triangle Center, Yorktown Heights, NY 10598, USA*****41.277688,-73.779584
+325 Mamaroneck Ave, White Plains, NY 10605, USA*****41.025320,-73.763138
+777 White Plains Rd, Scarsdale, NY 10583, USA*****40.974638,-73.803876
+23 Quaker Ridge Rd, New Rochelle, NY 10804, USA*****40.947238,-73.794034
+510 Middle Neck Rd, Great Neck, NY 11023, USA*****40.800298,-73.734638
+13619 Mukilteo Speedway Ste A, Lynnwood, WA 98037, USA*****47.874227,-122.274357

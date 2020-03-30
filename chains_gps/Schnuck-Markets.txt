@@ -1,0 +1,108 @@
+6410 E State St, Rockford, IL 61108, USA*****42.270348,-88.991935
+2642 Charles St, Rockford, IL 61108, USA*****42.261476,-89.053616
+1810 Harlem Rd, Loves Park, IL 61111, USA*****42.341481,-89.030777
+1001 Court St, Pekin, IL 61554, USA*****40.567208,-89.637006
+1701 E Empire St #42, Bloomington, IL 61704, USA*****40.486231,-88.950931
+109 N Mattis Ave, Champaign, IL 61821, USA*****40.117012,-88.278810
+1301 Savoy Plaza Ln, Savoy, IL 61874, USA*****40.070514,-88.252050
+2811 Homer Adams Pkwy, Alton, IL 62002, USA*****38.915097,-90.144835
+2222 Troy Rd, Edwardsville, IL 62025, USA*****38.788209,-89.949114
+222 Troy Rd, Glen Carbon, IL 62034, USA*****38.774120,-89.946205
+2712 Godfrey Rd, Godfrey, IL 62035, USA*****38.923423,-90.193856
+3100 Madison Ave, Granite City, IL 62040, USA*****38.716951,-90.123908
+110 Carlyle Plaza Dr, Belleville, IL 62221, USA*****38.513718,-89.953515
+5720 N Belt W, Belleville, IL 62226, USA*****38.540877,-90.035041
+501 Beltline Rd, Collinsville, IL 62234, USA*****38.692457,-89.978574
+222 Troy Rd, Collinsville, IL 62234, USA*****38.708420,-89.948902
+738 N Market St, Waterloo, IL 62298, USA*****38.350147,-90.148987
+2800 N Water St, Decatur, IL 62526, USA*****39.874874,-88.954803
+1911 E Sangamon Ave, Springfield, IL 62702, USA*****39.833036,-89.629955
+3731 Wabash Ave, Springfield, IL 62711, USA*****39.757064,-89.722446
+1129 W Broadway, Centralia, IL 62801, USA*****38.528087,-89.153483
+91 Maine Rd, Carbondale, IL 62901, USA*****37.773522,-89.162112
+915 W Main St, Carbondale, IL 62901, USA*****37.725162,-89.228883
+8301 Bell Oaks Dr, Newburgh, IN 47630, USA*****37.974856,-87.401691
+3900 Vogel Rd, Arnold, MO 63010, USA*****38.416044,-90.394629
+15425 Manchester Rd, Ballwin, MO 63011, USA*****38.593775,-90.562574
+1060 Woods Mill Rd, Chesterfield, MO 63017, USA*****38.622968,-90.513910
+245 E 5th St, Eureka, MO 63025, USA*****38.506774,-90.619897
+2609 Julie Ann, Eureka, MO 63025, USA*****38.470516,-90.607752
+112 Forest Dr, Eureka, MO 63025, USA*****38.441484,-90.611887
+1181 E Gannon Dr, Festus, MO 63028, USA*****38.210160,-90.402170
+1160 Shackelford Rd, Florissant, MO 63031, USA*****38.812762,-90.346083
+5 Spring Dr, Florissant, MO 63031, USA*****38.777786,-90.321189
+8200 N Lindbergh Blvd, Florissant, MO 63031, USA*****38.789462,-90.344069
+13987 New Halls Ferry Road, Florissant, MO 63033, USA*****38.806920,-90.301194
+13987 New Halls Ferry Road, Florissant, MO 63033, USA*****38.806428,-90.299000
+74 Grandview Plaza Shopping Center, Florissant, MO 63033, USA*****38.773891,-90.303231
+16580 Manchester Rd, Grover, MO 63040, USA*****38.580048,-90.617900
+2030 Dorsett Village, Maryland Heights, MO 63043, USA*****38.715963,-90.456483
+12921 Enterprise Way, Bridgeton, MO 63044, USA*****38.770462,-90.431447
+11253 St Charles Rock Rd, Bridgeton, MO 63044, USA*****38.740799,-90.400370
+Gravois Rd, High Ridge, MO 63049, USA*****38.474587,-90.520386
+1310 Big Bend Crossing Dr, Manchester, MO 63088, USA*****38.566488,-90.481648
+2073 Washington Crossing, Washington, MO 63090, USA*****38.535774,-91.008320
+513 W 9th St, Washington, MO 63090, USA*****38.552996,-91.019070
+1030 Cass Ave, St. Louis, MO 63106, USA*****38.640514,-90.191030
+4127 N Grand Blvd, St. Louis, MO 63107, USA*****38.665813,-90.214428
+4171 Lindell Blvd, St. Louis, MO 63108, USA*****38.641786,-90.247249
+60 Hampton Village Plaza, St. Louis, MO 63109, USA*****38.591712,-90.293164
+7450 Hampton Ave, St. Louis, MO 63109, USA*****38.565635,-90.293511
+1020 Loughborough Ave, St. Louis, MO 63111, USA*****38.556500,-90.263196
+950 Loughborough Ave, St. Louis, MO 63111, USA*****38.557320,-90.261404
+9074 Overland Plaza, Overland, MO 63114, USA*****38.685476,-90.359045
+3431 Union Blvd, St. Louis, MO 63115, USA*****38.679395,-90.261271
+6600 Clayton Rd, Clayton, MO 63117, USA*****38.633274,-90.314855
+3430 S Grand Blvd, St. Louis, MO 63118, USA*****38.594871,-90.242497
+35 S Elm Ave, Webster Groves, MO 63119, USA*****38.591442,-90.357276
+8650 Big Bend Blvd, Webster Groves, MO 63119, USA*****38.582759,-90.356631
+1225 S Florissant Rd, St. Louis, MO 63121, USA*****38.728712,-90.303663
+10233 Manchester Rd, Kirkwood, MO 63122, USA*****38.602240,-90.396133
+St. Louis, MO 63122, USA*****38.578783,-90.421944
+10070 Gravois Rd, Affton, MO 63123, USA*****38.549314,-90.336201
+8867 Ladue Rd, St. Louis, MO 63124, USA*****38.656219,-90.354096
+10275 Clayton Rd, St. Louis, MO 63124, USA*****38.634296,-90.404755
+9540 Watson Rd, St. Louis, MO 63126, USA*****38.557111,-90.378808
+4333 Butler Hill Rd, St. Louis, MO 63128, USA*****38.487320,-90.358728
+5519 Oakville Shopping Center, St. Louis, MO 63129, USA*****38.472722,-90.307105
+6920 Olive Blvd, University City, MO 63130, USA*****38.663427,-90.314477
+7530 Shaftesbury Ave, University City, MO 63130, USA*****38.666898,-90.333782
+11945 Manchester Rd, Des Peres, MO 63131, USA*****38.602436,-90.434246
+9220 Shortline Dr, Olivette, MO 63132, USA*****38.678300,-90.371986
+2582 Main St, Jennings, MO 63136, USA*****38.726101,-90.267671
+8319 Jennings Station Rd, Jennings, MO 63136, USA*****38.718689,-90.261271
+St. Louis, MO 63136, USA*****38.747019,-90.252616
+1820 Santa Delora Walk, St. Louis, MO 63138, USA*****38.794402,-90.220858
+1589 Sierra Vista Plaza, St. Louis, MO 63138, USA*****38.771720,-90.218288
+5055 Arsenal St, St. Louis, MO 63139, USA*****38.606932,-90.274141
+10650 Olive Blvd, St. Louis, MO 63141, USA*****38.672404,-90.414138
+12756 Olive Blvd, Creve Coeur, MO 63141, USA*****38.678405,-90.473092
+8800 Manchester Rd, Brentwood, MO 63144, USA*****38.611368,-90.350072
+10367 Oxford Hill Dr APT 23, St. Louis, MO 63146, USA*****38.683108,-90.407250
+11420 Lackland Rd, St. Louis, MO 63146, USA*****38.696549,-90.416863
+11420 Lackland Rd, St. Louis, MO 63146, USA*****38.696467,-90.416687
+Watson St, St Charles, MO 63301, USA*****38.787551,-90.497092
+800 S Duchesne Dr, St Charles, MO 63301, USA*****38.787869,-90.514412
+2904 Orton St, St Charles, MO 63301, USA*****38.805535,-90.544008
+48 Plaza 94, St Peters, MO 63376, USA*****38.749314,-90.592225
+2073 Washington Crossing, Washington, MO 63090, USA*****38.535774,-91.008320
+6083 Mid Rivers Mall Dr, St Peters, MO 63304, USA*****38.745070,-90.637149
+8660 Veterans Memorial Pkwy, O'Fallon, MO 63366, USA*****38.799038,-90.698573
+101 Civic Center Dr, Lake St Louis, MO 63367, USA*****38.784656,-90.796824
+3029 State Hwy K, O'Fallon, MO 63368, USA*****38.755814,-90.703850
+792 Thunder Hill Dr, O'Fallon, MO 63368, USA*****38.744562,-90.731236
+48 Plaza Ninety Four Dr, St Peters, MO 63376, USA*****38.787506,-90.629893
+577 Mid Rivers Mall Dr, St Peters, MO 63376, USA*****38.787234,-90.628189
+1960 Wentzville Pkwy, Wentzville, MO 63385, USA*****38.814595,-90.873695
+1400 Forum Blvd, Columbia, MO 65203, USA*****38.935839,-92.359192
+3926 Goodman Rd W, Horn Lake, MS 38637, USA*****34.964517,-90.059443
+945 Goodman Rd E, Southaven, MS 38671, USA*****34.962043,-89.973544
+9025 US-64, Arlington, TN 38002, USA*****35.202466,-89.761871
+1150 N Germantown Pkwy, Cordova, TN 38016, USA*****35.157209,-89.792751
+275 New Byhalia Rd, Collierville, TN 38017, USA*****35.048148,-89.690893
+334 N Ericson Dr, Cordova, TN 38018, USA*****35.134237,-89.775111
+799 Truse Pkwy, Memphis, TN 38117, USA*****35.109816,-89.894207
+6100 Quince Rd, Memphis, TN 38119, USA*****35.086874,-89.859603
+2942 Kirby Whitten Rd, Bartlett, TN 38134, USA*****35.206668,-89.838066
+7735 Farmington Blvd, Germantown, TN 38138, USA*****35.093886,-89.805536
+3150 Village Shops Dr, Germantown, TN 38138, USA*****35.063440,-89.757240

@@ -1,0 +1,10 @@
+3500 West Blvd, Montgomery, AL 36108, USA*****32.328492,-86.354854
+6879 AL-9, Heflin, AL 36264, USA*****33.562539,-85.610131
+221 Meadow Dr, Cumming, GA 30040, USA*****34.201203,-84.139391
+329 Oak St #1, Gainesville, GA 30501, USA*****34.300205,-83.830356
+4823 E 1200 N, Syracuse, IN 46567, USA*****41.406205,-85.752495
+US-80, Jackson, MS 39201, USA*****32.282749,-90.185330
+4100 Port Union Rd, Fairfield, OH 45014, USA*****39.333092,-84.485181
+1835 Kerr St, Chattanooga, TN 37408, USA*****35.031942,-85.305462
+1001 Birmingham Hwy, Chattanooga, TN 37419, USA*****34.994179,-85.391137
+1620 Progress Pkwy, Morristown, TN 37813, USA*****36.140316,-83.295766

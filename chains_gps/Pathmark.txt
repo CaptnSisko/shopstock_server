@@ -1,0 +1,65 @@
+100 College Square, Newark, DE 19711, USA*****39.682743,-75.735514
+4365 Robert, Kirkwood Hwy, Wilmington, DE 19808, USA*****39.728740,-75.652931
+3901 Lancaster Pike, Wilmington, DE 19805, USA*****39.756546,-75.596620
+200 Milik St, Carteret, NJ 07008, USA*****40.590737,-74.251420
+481 River Rd, Edgewater, NJ 07020, USA*****40.813812,-73.984194
+651 N Stiles St, Linden, NJ 07036, USA*****40.625962,-74.268734
+2465 US-22, Union, NJ 07083, USA*****40.690211,-74.298440
+4100 Park Ave #13, Weehawken, NJ 07086, USA*****40.774121,-74.020281
+Woodbridge, NJ 07095, USA*****40.554582,-74.282486
+Washington Ave, Belleville, NJ 07109, USA*****40.796291,-74.148868
+Belleville, NJ 07109, USA*****40.795615,-74.165099
+726 Washington Ave, Belleville, NJ 07109, USA*****40.804868,-74.145651
+Lyons Ave, Irvington, NJ 07111, USA*****40.716567,-74.226015
+Jersey City, NJ 07305, USA*****40.700853,-74.088758
+25 Kinnelon Rd #13, Butler, NJ 07405, USA*****41.002807,-74.360996
+17 State St, Mahwah, NJ 07430, USA*****41.107777,-74.154434
+450 Hackensack Ave, Hackensack, NJ 07601, USA*****40.909591,-74.031229
+1933 NJ-35 #120, Wall Township, NJ 07719, USA*****40.154948,-74.056064
+50 NJ-36, Eatontown, NJ 07724, USA*****40.289740,-74.048460
+100 Schanck Rd, Freehold, NJ 07728, USA*****40.240389,-74.280766
+3020 NJ-35, Hazlet, NJ 07730, USA*****40.420430,-74.180235
+102 U.S. 9 #9, Englishtown, NJ 07726, USA*****40.352772,-74.306947
+977 Valley Rd, Gillette, NJ 07933, USA*****40.668348,-74.479583
+989 Church Rd, Cherry Hill, NJ 08002, USA*****39.945698,-75.022486
+525 Route 72 W, Manahawkin, NJ 08050, USA*****39.700914,-74.275466
+1450 Clements Bridge Rd, Woodbury, NJ 08096, USA*****39.831564,-75.110844
+Woodbury, NJ 08097, USA*****39.813546,-75.145782
+5100 Wellington Ave, Ventnor City, NJ 08406, USA*****39.351690,-74.478115
+3495 US-1, Princeton, NJ 08540, USA*****40.309951,-74.667306
+Seaside Park, NJ 08752, USA*****39.926785,-74.077081
+NJ-18 & Racetrack Rd, East Brunswick, NJ 08816, USA*****40.428566,-74.383365
+101 New Brunswick Ave, Perth Amboy, NJ 08861, USA*****40.522908,-74.296606
+227 Cherry St, New York, NY 10002, USA*****40.710987,-73.991021
+22 Cherry St, New York, NY 10002, USA*****40.710455,-73.995933
+160 E 125th St, New York, NY 10035, USA*****40.803643,-73.936880
+961 E 174th St, The Bronx, NY 10460, USA*****40.837046,-73.884951
+1351 Forest Ave, Staten Island, NY 10302, USA*****40.626230,-74.135557
+2730 Arthur Kill Rd #1, Staten Island, NY 10309, USA*****40.548606,-74.222885
+130 Midland Ave, Port Chester, NY 10573, USA*****40.992221,-73.670728
+138 Midland Ave, Port Chester, NY 10573, USA*****40.991556,-73.669494
+2500 Central Park Ave, Yonkers, NY 10710, USA*****40.981676,-73.826265
+1757 Central Park Ave, Yonkers, NY 10710, USA*****40.959687,-73.843101
+460 Franklin Ave, Franklin Square, NY 11010, USA*****40.695291,-73.683696
+2305 Jericho Turnpike, New Hyde Park, NY 11040, USA*****40.743076,-73.663594
+2335 New Hyde Park Rd, New Hyde Park, NY 11042, USA*****40.757960,-73.689132
+11110 Flatlands Ave, Brooklyn, NY 11207, USA*****40.649278,-73.888902
+2965 Cropsey Ave, Brooklyn, NY 11214, USA*****40.582757,-73.984931
+31-06 Farrington St, Flushing, NY 11354, USA*****40.768890,-73.834235
+92-02 Atlantic Ave, Jamaica, NY 11416, USA*****40.687065,-73.849717
+130 Wheatley Plaza, Greenvale, NY 11548, USA*****40.809195,-73.627372
+1251 Deer Park Ave, North Babylon, NY 11703, USA*****40.739161,-73.318180
+531 W Montauk Hwy, Lindenhurst, NY 11757, USA*****40.673352,-73.375526
+2060 Sunrise Hwy, Bay Shore, NY 11706, USA*****40.738693,-73.225622
+3901 Hempstead Turnpike, Bethpage, NY 11714, USA*****40.726318,-73.491490
+101 Wicks Rd, Brentwood, NY 11717, USA*****40.780689,-73.260297
+683 Old Country Rd, Dix Hills, NY 11746, USA*****40.830869,-73.360573
+4055 Merrick Rd, Seaford, NY 11783, USA*****40.667158,-73.483114
+Montauk Hwy, East Yaphank, NY 11967, USA*****40.800209,-72.891289
+1000 Easton Rd, Abington, PA 19001, USA*****40.118148,-75.136706
+2603 Durham Rd, Bristol, PA 19007, USA*****40.127333,-74.883866
+2506 Knights Rd, Bensalem, PA 19020, USA*****40.101392,-74.957318
+420 MacDade Boulevard, Folsom, PA 19033, USA*****39.888439,-75.326004
+840 Cottman Ave, Philadelphia, PA 19111, USA*****40.061103,-75.087213
+2900 N Broad St, Philadelphia, PA 19132, USA*****39.997071,-75.154561
+666 E Allegheny Ave, Philadelphia, PA 19134, USA*****39.996796,-75.117561

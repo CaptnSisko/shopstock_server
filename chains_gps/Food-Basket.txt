@@ -1,0 +1,5 @@
+72 Washington St, Concord, NH 03301, USA*****43.209030,-71.543502
+5921 20th Ave, Brooklyn, NY 11204, USA*****40.619397,-73.982509
+2 S Main St, San Angelo, TX 76903, USA*****31.464886,-100.430788
+1926 N Bryant Blvd, San Angelo, TX 76903, USA*****31.477764,-100.452388
+3504 Knickerbocker Rd, San Angelo, TX 76904, USA*****31.420829,-100.471981

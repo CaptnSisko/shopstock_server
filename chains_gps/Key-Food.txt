@@ -1,0 +1,64 @@
+2411 S Archer Ave, Chicago, IL 60616, USA*****41.848601,-87.642568
+2357 Lemoine Ave, Fort Lee, NJ 07024, USA*****40.862843,-73.963705
+1769 2nd Ave, New York, NY 10029, USA*****40.781973,-73.948995
+4365 Broadway, New York, NY 10033, USA*****40.853887,-73.934237
+43 Columbia St, New York, NY 10002, USA*****40.717138,-73.980401
+459 Forest Ave, Staten Island, NY 10301, USA*****40.630686,-74.104767
+1200 South Ave #103, Staten Island, NY 10314, USA*****40.609853,-74.179313
+1791 Walton Ave, The Bronx, NY 10453, USA*****40.848076,-73.910126
+3151 Westchester Ave, The Bronx, NY 10461, USA*****40.850317,-73.830603
+751 Lydig Ave, The Bronx, NY 10462, USA*****40.854659,-73.865476
+540 W 235th St, The Bronx, NY 10463, USA*****40.885380,-73.909322
+4171 White Plains Rd, The Bronx, NY 10466, USA*****40.893068,-73.857849
+3515 Jerome Ave, The Bronx, NY 10467, USA*****40.882515,-73.882013
+35 Pleasantville Rd, Pleasantville, NY 10570, USA*****41.133806,-73.794208
+151 Covert Ave, Floral Park, NY 11001, USA*****40.718806,-73.689398
+32-21 Newtown Ave, Long Island City, NY 11102, USA*****40.766727,-73.919626
+42-15 30th Ave, Queens, NY 11103, USA*****40.763061,-73.912642
+22-15 31st St, Astoria, NY 11105, USA*****40.775455,-73.911153
+369 Flatbush Ave Ext, Brooklyn, NY 11201, USA*****40.689922,-73.981116
+169 Atlantic Ave, Brooklyn, NY 11201, USA*****40.690359,-73.993973
+106 Montague St, Brooklyn, NY 11201, USA*****40.694882,-73.995297
+102 Montague St, Brooklyn, NY 11201, USA*****40.694916,-73.995470
+9408 3rd Ave, Brooklyn, NY 11209, USA*****40.617692,-74.033776
+2326 Nostrand Ave, Brooklyn, NY 11210, USA*****40.627889,-73.947462
+575 Grand St, Brooklyn, NY 11211, USA*****40.711411,-73.948611
+800 Rockaway Ave, Brooklyn, NY 11212, USA*****40.660212,-73.908655
+589 Prospect Ave, Brooklyn, NY 11215, USA*****40.656780,-73.977760
+130 7th Ave, Brooklyn, NY 11215, USA*****40.673154,-73.976805
+1144 Fulton St, Brooklyn, NY 11216, USA*****40.680650,-73.955040
+1533 Broadway, Brooklyn, NY 11221, USA*****40.686587,-73.916376
+319 Kings Hwy, Brooklyn, NY 11223, USA*****40.605162,-73.978380
+599 Avenue Z, Brooklyn, NY 11223, USA*****40.586450,-73.971793
+505 Neptune Ave, Brooklyn, NY 11224, USA*****40.580385,-73.972305
+2245 Gerritsen Ave, Brooklyn, NY 11229, USA*****40.601225,-73.934053
+1407 Foster Ave, Brooklyn, NY 11230, USA*****40.633991,-73.963750
+1804 Ralph Ave, Brooklyn, NY 11234, USA*****40.633112,-73.919042
+2066 Rockaway Pkwy, Brooklyn, NY 11236, USA*****40.632464,-73.888871
+25-03 Parsons Blvd, Flushing, NY 11354, USA*****40.776406,-73.823619
+142-41 Roosevelt Ave, Flushing, NY 11354, USA*****40.761172,-73.824908
+Store 1 - Key Food, 153-55 Cross Island Pkwy, Whitestone, NY 11357, USA*****40.788470,-73.809433
+172-21 46th Ave, Flushing, NY 11358, USA*****40.753450,-73.792880
+38th Rd, Queens, NY 11363, USA*****40.771189,-73.753341
+61-50 Springfield Blvd, Oakland Gardens, NY 11364, USA*****40.748021,-73.756301
+214-14 73rd Ave, Oakland Gardens, NY 11364, USA*****40.740038,-73.759466
+7301 37th Ave, Jackson Heights, NY 11372, USA*****40.749109,-73.892398
+108-27 Queens Blvd, Forest Hills, NY 11375, USA*****40.721364,-73.842817
+105-02 Queens Blvd, Flushing, NY 11375, USA*****40.722489,-73.848350
+11634 Queens Blvd, Forest Hills, NY 11375, USA*****40.715186,-73.832979
+6110 Queens Blvd, Queens, NY 11377, USA*****40.741333,-73.903649
+59-15 Roosevelt Ave, Flushing, NY 11377, USA*****40.745709,-73.904802
+87-25 Lefferts Blvd, Richmond Hill, NY 11418, USA*****40.699231,-73.830052
+114-11 Lefferts Blvd, Jamaica, NY 11420, USA*****40.678363,-73.819989
+143-66 243rd St, Rosedale, NY 11422, USA*****40.660891,-73.739276
+21322 Jamaica Ave, Queens Village, NY 11428, USA*****40.715879,-73.744005
+16602 Baisley Blvd, Jamaica, NY 11434, USA*****40.678684,-73.776082
+13837 Queens Blvd, Briarwood, NY 11435, USA*****40.708064,-73.817431
+148-27 Jamaica Ave, Jamaica, NY 11435, USA*****40.702031,-73.805866
+153 7th St, Garden City, NY 11530, USA*****40.725302,-73.635441
+1030 Railroad Ave, Woodmere, NY 11598, USA*****40.634397,-73.710180
+20-20 New Haven Ave, Far Rockaway, NY 11691, USA*****40.601035,-73.754347
+1517 Broadway, Buffalo, NY 14212, USA*****42.896127,-78.818465
+1470 Orchard Park Rd, Buffalo, NY 14224, USA*****42.811641,-78.762126
+1602 E 28th St, Lorain, OH 44055, USA*****41.445054,-82.145567
+1816 NW Miller Rd, Portland, OR 97229, USA*****45.536237,-122.775021

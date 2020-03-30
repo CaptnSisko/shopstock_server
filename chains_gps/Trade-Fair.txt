@@ -1,0 +1,12 @@
+30-08 30th Ave, Long Island City, NY 11102, USA*****40.766896,-73.922044
+37-11 Ditmars Blvd, Queens, NY 11105, USA*****40.773778,-73.907052
+22-20 36th Ave, Astoria, NY 11106, USA*****40.758972,-73.935576
+23-55 Broadway, Queens, NY 11106, USA*****40.763746,-73.928485
+950 McDonald Ave, Brooklyn, NY 11218, USA*****40.630880,-73.977436
+99-10 Astoria Blvd, Flushing, NY 11369, USA*****40.761751,-73.869932
+79-14 21st Ave, Queens, NY 11370, USA*****40.770648,-73.890376
+89-02 37th Ave, Queens, NY 11372, USA*****40.750295,-73.877590
+75-07 37th Ave, Jackson Heights, NY 11372, USA*****40.749238,-73.890436
+11040 Queens Blvd, Forest Hills, NY 11375, USA*****40.719433,-73.839884
+49-11 30th Ave, Flushing, NY 11377, USA*****40.760443,-73.907069
+130-10 Metropolitan Ave, Jamaica, NY 11418, USA*****40.703109,-73.821827

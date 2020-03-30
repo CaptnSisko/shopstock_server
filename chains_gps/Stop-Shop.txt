@@ -1,0 +1,662 @@
+2060 Montevallo Rd SW, Leeds, AL 35094, USA*****33.518411,-86.584011
+820 Overton Ave, Birmingham, AL 35217, USA*****33.575158,-86.781892
+9386 US-43, Creola, AL 36525, USA*****30.885291,-88.041602
+600 W Laurel Ave, Foley, AL 36535, USA*****30.406652,-87.694763
+6630 Rangeline Rd, Theodore, AL 36582, USA*****30.553489,-88.124523
+1254 Montlimar Dr, Mobile, AL 36609, USA*****30.663211,-88.133687
+1100 W 16th Ave, Pine Bluff, AR 71603, USA*****34.212784,-92.013784
+319 S Express Ave, Bradley, AR 71826, USA*****33.097043,-93.652591
+1203 Monte NE Rd, Rogers, AR 72756, USA*****36.322205,-94.108390
+777 S Gilbert Rd, Gilbert, AZ 85296, USA*****33.336207,-111.789343
+1123 Vine St, Los Angeles, CA 90038, USA*****34.091330,-118.327063
+846 E 6th St, Beaumont, CA 92223, USA*****33.929808,-116.970603
+1505 W 9th St, San Bernardino, CA 92411, USA*****34.115595,-117.318699
+8863 Philbin Ave, Riverside, CA 92503, USA*****33.939449,-117.468183
+800 Carlson Blvd, Richmond, CA 94804, USA*****37.921205,-122.332252
+5008 El Camino Ave, Carmichael, CA 95608, USA*****38.609779,-121.347529
+6007 Dry Creek Rd, Rio Linda, CA 95673, USA*****38.676878,-121.438882
+1303 36th St, Sacramento, CA 95816, USA*****38.567956,-121.459042
+3440 Folsom Blvd, Sacramento, CA 95816, USA*****38.566285,-121.463158
+6500 Folsom Blvd, Sacramento, CA 95819, USA*****38.553918,-121.427368
+2533 Edison Ave, Sacramento, CA 95821, USA*****38.627040,-121.402534
+4321 Madison Ave Ste E, Sacramento, CA 95842, USA*****38.661569,-121.363142
+Janesville, CA 96114, USA*****40.284042,-120.539423
+2331 E 46th Ave., Denver, CO 80216, USA*****39.780342,-104.958950
+100 E 3rd St, Flagler, CO 80815, USA*****39.291434,-103.067248
+504 West Ave, Alamosa, CO 81101, USA*****37.467896,-105.873940
+313 Cottage Grove Rd, Bloomfield, CT 06002, USA*****41.815601,-72.714242
+331 Cottage Grove Rd, Bloomfield, CT 06002, USA*****41.815919,-72.716278
+781 Pine St, Bristol, CT 06010, USA*****41.669367,-72.895113
+747 Pine St, Bristol, CT 06010, USA*****41.669699,-72.895224
+603 Farmington Ave, Bristol, CT 06010, USA*****41.691726,-72.924065
+11 E Main St, Canaan, CT 06018, USA*****42.024796,-73.321773
+55 Oak St, Glastonbury, CT 06033, USA*****41.706429,-72.594973
+215 Glastonbury Blvd, Glastonbury, CT 06033, USA*****41.722267,-72.624911
+Glastonbury Blvd, Glastonbury, CT 06033, USA*****41.721553,-72.620056
+120 Salmon Brook St, Granby, CT 06035, USA*****41.935661,-72.788814
+1135 Farmington Ave, Berlin, CT 06037, USA*****41.630403,-72.755400
+286 Broad St, Manchester, CT 06040, USA*****41.778892,-72.537500
+1309 Corbin Ave, New Britain, CT 06053, USA*****41.668734,-72.804834
+10 Pitkin Rd, Vernon, CT 06066, USA*****41.828710,-72.493993
+80 Town Line Rd, Rocky Hill, CT 06067, USA*****41.680585,-72.656812
+498 Bushy Hill Rd, Simsbury, CT 06070, USA*****41.816652,-72.864881
+530 Bushy Hill Rd, Simsbury, CT 06070, USA*****41.819439,-72.863052
+1739 Ellington Rd, South Windsor, CT 06074, USA*****41.824626,-72.555420
+54 Hazard Ave, Enfield, CT 06082, USA*****41.988404,-72.575348
+1823 Farmington Ave, Unionville, CT 06085, USA*****41.756800,-72.885652
+1092 Kennedy Rd, Windsor, CT 06095, USA*****41.894138,-72.650660
+1095 Kennedy Rd, Windsor, CT 06095, USA*****41.893345,-72.652766
+200 New Hartford Rd, Winsted, CT 06098, USA*****41.908861,-73.049907
+150 New Park Ave, Hartford, CT 06106, USA*****41.751806,-72.708656
+1881 Park St, Hartford, CT 06106, USA*****41.756339,-72.710109
+1235 Farmington Ave, West Hartford, CT 06107, USA*****41.754291,-72.765044
+1380 Berlin Turnpike, Wethersfield, CT 06109, USA*****41.718085,-72.693271
+1380 Berlin Turnpike, Wethersfield, CT 06109, USA*****41.718085,-72.693271
+44 Fenn Rd, Newington, CT 06111, USA*****41.697516,-72.754509
+940 Silver Ln, East Hartford, CT 06118, USA*****41.768325,-72.605507
+1391 Main St, Willimantic, CT 06226, USA*****41.716998,-72.230873
+1076 N Main St, Dayville, CT 06241, USA*****41.839666,-71.875373
+1092 Killingly Commons Drive, Dayville, CT 06241, USA*****41.841634,-71.880993
+1076 N Main St, Dayville, CT 06241, USA*****41.839666,-71.875373
+1046 N Main St, Dayville, CT 06241, USA*****41.836694,-71.876430
+1092 Killingly Commons Drive, Dayville, CT 06241, USA*****41.841634,-71.880993
+CT-12, Killingly, CT, USA*****41.843858,-71.877189
+117 Boston Post Rd, East Lyme, CT 06333, USA*****41.366420,-72.210631
+248 Flanders Rd, Niantic, CT 06357, USA*****41.357238,-72.211787
+248 Flanders Rd, Niantic, CT 06357, USA*****41.357238,-72.211787
+East Lyme, CT 06333, USA*****41.385812,-72.248222
+220 CT-12, Groton, CT 06340, USA*****41.369171,-72.067000
+2020 Norwich-New London Turnpike, Uncasville, CT 06382, USA*****41.479107,-72.104031
+252 Flanders Rd, Niantic, CT 06357, USA*****41.357582,-72.210793
+251 Main St, Niantic, CT 06357, USA*****41.323613,-72.193356
+42 Town St, Norwich, CT 06360, USA*****41.550352,-72.092298
+37 W Broad St, Pawcatuck, CT 06379, USA*****41.377841,-71.832400
+37 S Broad St, Pawcatuck, CT 06379, USA*****41.375506,-71.847590
+2020 Norwich-New London Turnpike, Uncasville, CT 06382, USA*****41.479107,-72.104031
+Uncasville, Montville, CT 06382, USA*****41.431690,-72.110095
+117 Boston Post Rd, Waterford, CT 06385, USA*****41.343790,-72.124820
+1 Boston Post Rd, New London, CT 06320, USA*****41.342776,-72.112548
+100 Division St, Ansonia, CT 06401, USA*****41.332638,-73.080095
+22 Leetes Island Rd, Branford, CT 06405, USA*****41.297646,-72.762735
+275 Highland Ave, Cheshire, CT 06410, USA*****41.506176,-72.901217
+215 E Main St, Clinton, CT 06413, USA*****41.273233,-72.506046
+99 Linwood Ave, Colchester, CT 06415, USA*****41.571105,-72.333888
+195 West St, Cromwell, CT 06416, USA*****41.601952,-72.678130
+195 West St, Cromwell, CT 06416, USA*****41.601952,-72.678130
+140 Samson Rock Dr, Madison, CT 06443, USA*****41.277930,-72.595519
+128 Samson Rock Dr, Madison, CT 06443, USA*****41.277637,-72.596082
+485 Broad St, Meriden, CT 06450, USA*****41.533076,-72.791564
+77 Centennial Ave, Meriden, CT 06451, USA*****41.539783,-72.824868
+416 Main St, Middletown, CT 06457, USA*****41.561979,-72.650332
+416 E Main St, Middletown, CT 06457, USA*****41.546240,-72.637142
+855 Bridgeport Ave, Milford, CT 06460, USA*****41.211438,-73.076418
+1360 E Town Rd, Milford, CT 06460, USA*****41.236445,-73.031253
+228 S Main St, Newtown, CT 06470, USA*****41.372271,-73.273780
+79 Washington Ave, North Haven, CT 06473, USA*****41.393856,-72.859616
+153 Washington Ave, North Haven, CT 06473, USA*****41.397794,-72.855702
+300 Montowese Avenue Ext, North Haven, CT 06473, USA*****41.353463,-72.865843
+200 Main St, Old Saybrook, CT 06475, USA*****41.292770,-72.375896
+665 Boston Post Rd, Old Saybrook, CT 06475, USA*****41.296800,-72.381351
+6 Business Park Rd, Old Saybrook, CT 06475, USA*****41.299232,-72.382445
+Elm St, Old Saybrook, CT 06475, USA*****41.296650,-72.387298
+Old Saybrook, CT 06475, USA*****41.291571,-72.390305
+249 Bull Hill Ln, Orange, CT 06477, USA*****41.273524,-72.986758
+259 Bull Hill Ln, Orange, CT 06477, USA*****41.274444,-72.986101
+15 Franklin St, Seymour, CT 06483, USA*****41.398016,-73.073372
+898 Bridgeport Ave, Shelton, CT 06484, USA*****41.265395,-73.131849
+100 Main St N, Southbury, CT 06488, USA*****41.478944,-73.210819
+505 N Main St, Southington, CT 06489, USA*****41.613992,-72.872410
+930 N Colony Rd, Wallingford, CT 06492, USA*****41.484164,-72.807050
+914 N Colony Rd, Wallingford, CT 06492, USA*****41.483549,-72.809219
+370 Hemingway Ave, East Haven, CT 06512, USA*****41.278275,-72.869086
+346 Hemingway Ave, East Haven, CT 06512, USA*****41.277546,-72.868968
+2335 Dixwell Ave, Hamden, CT 06514, USA*****41.372306,-72.915748
+57 Kaye Vue Dr Apt B, Hamden, CT 06514, USA*****41.366884,-72.928304
+1245 Dixwell Ave, Hamden, CT 06514, USA*****41.347208,-72.931450
+112 Amity Rd, New Haven, CT 06515, USA*****41.337059,-72.981434
+130 Amity Rd, New Haven, CT 06515, USA*****41.337125,-72.982583
+460 Elm St, West Haven, CT 06516, USA*****41.271701,-72.956483
+2145 Fairfield Ave, Bridgeport, CT 06606, USA*****41.163901,-73.217834
+4531 Main St, Bridgeport, CT 06606, USA*****41.220580,-73.218968
+4557 Main St, Bridgeport, CT 06606, USA*****41.221662,-73.217969
+2600 Madison Ave, Bridgeport, CT 06606, USA*****41.211345,-73.223277
+100 Quality St, Trumbull, CT 06611, USA*****41.255157,-73.216635
+200 E Main St, Stratford, CT 06614, USA*****41.202676,-73.116476
+240 Chase Ave, Waterbury, CT 06704, USA*****41.583036,-73.031488
+410 Reidville Dr, Waterbury, CT 06705, USA*****41.537646,-72.998799
+331 West St, Litchfield, CT 06759, USA*****41.744466,-73.204556
+691 Rubber Ave, Naugatuck, CT 06770, USA*****41.492394,-73.078144
+727 Rubber Ave, Naugatuck, CT 06770, USA*****41.493873,-73.077868
+180 Danbury Rd, New Milford, CT 06776, USA*****41.550340,-73.419148
+211 High St, Torrington, CT 06790, USA*****41.800334,-73.127125
+763 Straits Turnpike, Watertown, CT 06795, USA*****41.572332,-73.097155
+763 Straits Turnpike, Watertown, CT 06795, USA*****41.572332,-73.097155
+72 Newtown Rd, Danbury, CT 06810, USA*****41.407253,-73.418666
+44 Lake Ave Ext, Danbury, CT 06811, USA*****41.386007,-73.487929
+148 Heights Rd, Darien, CT 06820, USA*****41.070274,-73.494192
+1160 Kings Hwy, Fairfield, CT 06825, USA*****41.163050,-73.235912
+760 Villa Ave, Fairfield, CT 06825, USA*****41.175750,-73.228250
+161 West Putnam Avenue, Greenwich, CT 06830, USA*****41.027279,-73.631453
+11 Glen Ridge Rd, Greenwich, CT 06831, USA*****41.039550,-73.667325
+380 Main Ave, Norwalk, CT 06851, USA*****41.140811,-73.424175
+155 Main St, Norwalk, CT 06851, USA*****41.124902,-73.418620
+385 Connecticut Ave, Norwalk, CT 06854, USA*****41.100601,-73.438974
+125 Danbury Rd, Ridgefield, CT 06877, USA*****41.295038,-73.494006
+60 Compo Mill Cove, Westport, CT 06880, USA*****41.113400,-73.341252
+1790 Post Rd E, Westport, CT 06880, USA*****41.137423,-73.301874
+15 River Rd, Wilton, CT 06897, USA*****41.189847,-73.432138
+1937 W Main St, Stamford, CT 06902, USA*****41.049187,-73.560983
+2200 Bedford St, Stamford, CT 06905, USA*****41.067855,-73.545241
+1035 S Governors Ave, Dover, DE 19904, USA*****39.142009,-75.525191
+955 Orange Ave, Daytona Beach, FL 32114, USA*****29.200638,-81.035579
+6405 Norwood Ave, Jacksonville, FL 32208, USA*****30.377597,-81.668258
+2651 Spring Creek Hwy, Crawfordville, FL 32327, USA*****30.140420,-84.313483
+499 N State Rd 434 #1017, Altamonte Springs, FL 32714, USA*****28.668577,-81.418197
+4801 W 8th Ave, Hialeah, FL 33012, USA*****25.865304,-80.298372
+12351 NW 18th St, Pembroke Pines, FL 33026, USA*****26.023779,-80.311795
+19501 NW 57th Ave, Opa-locka, FL 33055, USA*****25.952032,-80.293803
+1401 E Sample Rd, Pompano Beach, FL 33064, USA*****26.275752,-80.103816
+1951 W Copans Rd #1, Pompano Beach, FL 33064, USA*****26.261044,-80.150621
+7929 School House Rd, Miami, FL 33143, USA*****25.697869,-80.276667
+4900 S Le Jeune Rd, Coral Gables, FL 33146, USA*****25.725532,-80.261948
+9100 NW 17th Ave, Miami, FL 33147, USA*****25.857777,-80.226170
+9610 Fontainebleau Blvd, Miami, FL 33172, USA*****25.774590,-80.350269
+10198 W Flagler St, Miami, FL 33174, USA*****25.768466,-80.360710
+1530 NE 205th Terrace, Miami, FL 33179, USA*****25.964269,-80.171747
+9901 SW 142nd Ave, Miami, FL 33186, USA*****25.674919,-80.421155
+1550 Cordova Rd, Fort Lauderdale, FL 33316, USA*****26.102290,-80.130449
+8013 W McNab Rd, Tamarac, FL 33321, USA*****26.208989,-80.258137
+1771 Florida Mango Rd, West Palm Beach, FL 33406, USA*****26.650266,-80.080338
+5951 Haverhill Rd, West Palm Beach, FL 33407, USA*****26.764805,-80.116752
+3870 Westgate Ave, West Palm Beach, FL 33409, USA*****26.702813,-80.100827
+4791 N Congress Ave, Boynton Beach, FL 33426, USA*****26.571472,-80.091445
+902 N Dixie Hwy, Lake Worth, FL 33460, USA*****26.626448,-80.056592
+5999 N Federal Hwy, Boca Raton, FL 33487, USA*****26.402486,-80.076759
+1201 E 142nd Ave, Tampa, FL 33613, USA*****28.075309,-82.446777
+432 1st St N, St. Petersburg, FL 33701, USA*****27.777236,-82.634290
+2801 Central Ave, St. Petersburg, FL 33713, USA*****27.771268,-82.671529
+1285 Cleveland St, Clearwater, FL 33755, USA*****27.965279,-82.783948
+811 E Palmetto St, Lakeland, FL 33801, USA*****28.036580,-81.948468
+3602 US-301, Ellenton, FL 34222, USA*****27.522035,-82.527993
+5420 Eagles Point Cir, Sarasota, FL 34231, USA*****27.272519,-82.538151
+2156 Hwy 81, Covington, GA 30016, USA*****33.645603,-83.863807
+3757 Kings Hwy, Douglasville, GA 30135, USA*****33.703511,-84.771507
+54 Hickory St NE, Rome, GA 30161, USA*****34.283125,-85.155370
+2075 Alison Ct SW, Atlanta, GA 30311, USA*****33.701026,-84.456523
+3257 Main St, College Park, GA 30337, USA*****33.667352,-84.445060
+2060 Southampton Rd, Atlanta, GA 30349, USA*****33.615895,-84.456116
+249 E 6th St, Waynesboro, GA 30830, USA*****33.091948,-82.012548
+725 Broad St, Augusta, GA 30901, USA*****33.475121,-81.964008
+820 N Houston Lake Blvd, Centerville, GA 31028, USA*****32.642930,-83.689625
+827 N Houston Rd, Warner Robins, GA 31093, USA*****32.633402,-83.643239
+103 Ignico Dr, Warner Robins, GA 31093, USA*****32.634668,-83.607964
+4691 Log Cabin Dr, Macon, GA 31204, USA*****32.817849,-83.709518
+2083 Central Ave, Waycross, GA 31503, USA*****31.213948,-82.324276
+1338 Rayonier Rd, Jesup, GA 31545, USA*****31.656736,-81.891593
+1408 E Hill Ave, Valdosta, GA 31601, USA*****30.839111,-83.257814
+500 E Mcpherson Ave, Nashville, GA 31639, USA*****31.205376,-83.243366
+2609 Sylvester Rd, Albany, GA 31705, USA*****31.575036,-84.082679
+2201 Liberty Expy, Albany, GA 31705, USA*****31.475717,-84.117765
+700 Cordele Rd, Albany, GA 31705, USA*****31.590819,-84.072877
+104 1st St N, Rockwell, IA 50469, USA*****42.985561,-93.191735
+201 Bradford St, Marble Rock, IA 50653, USA*****42.964838,-92.869031
+228 W 3rd St, Davenport, IA 52801, USA*****41.522524,-90.576447
+2920 Locust St, Davenport, IA 52804, USA*****41.538329,-90.619917
+2599 Western Ave, Park Forest, IL 60466, USA*****41.491579,-87.674153
+333 W North Ave, Chicago, IL 60610, USA*****41.910756,-87.638183
+8324 N 2nd St, Machesney Park, IL 61115, USA*****42.343927,-89.052012
+1901 E 21st Ave, Gary, IN 46407, USA*****41.579928,-87.313844
+3030 W Park Dr, Huntington, IN 46750, USA*****40.878878,-85.533904
+6433 State Ave, Kansas City, KS 66102, USA*****39.116335,-94.727313
+134 E Lincoln Ave, Lincoln, KS 67455, USA*****39.040460,-98.146765
+Barclay Ave, WaKeeney, KS 67672, USA*****39.021362,-99.880827
+905 Richmond Rd, Irvine, KY 40336, USA*****37.697175,-83.988397
+401 W Legend Dr, Mt Sterling, KY 40353, USA*****38.077475,-83.900906
+1577 W Shelbiana Rd, Pikeville, KY 41501, USA*****37.430133,-82.504281
+1400 Hollywood Ave, Shreveport, LA 71108, USA*****32.456828,-93.759336
+1005 US-80, Calhoun, LA 71225, USA*****32.521803,-92.325085
+1010 Rwe Jones St, Grambling, LA 71245, USA*****32.538618,-92.713991
+1282 Springfield St, Feeding Hills, MA 01030, USA*****42.067911,-72.674868
+1282 Springfield St, Feeding Hills, MA 01030, USA*****42.067911,-72.674868
+40 George Hannum St, Belchertown, MA 01007, USA*****42.289836,-72.411944
+40 Federal St, Belchertown, MA 01007, USA*****42.291767,-72.408974
+672 Memorial Dr, Chicopee, MA 01020, USA*****42.176301,-72.577785
+470 N Main St, East Longmeadow, MA 01028, USA*****42.077327,-72.526963
+1282 Springfield St, Feeding Hills, MA 01030, USA*****42.067911,-72.674868
+456 Russell St, Hadley, MA 01035, USA*****42.365510,-72.536427
+445 Russell St, Hadley, MA 01035, USA*****42.363518,-72.538783
+28 Lincoln St, Holyoke, MA 01040, USA*****42.214273,-72.617704
+2265 Northampton St, Holyoke, MA 01040, USA*****42.183624,-72.633411
+228 King St, Northampton, MA 01060, USA*****42.329134,-72.635998
+57 Main St, Westfield, MA 01085, USA*****42.119331,-72.747604
+935 Riverdale St, West Springfield, MA 01089, USA*****42.129576,-72.623459
+1277 Liberty St, Springfield, MA 01104, USA*****42.137260,-72.582051
+415 Cooley St, Springfield, MA 01128, USA*****42.091494,-72.498483
+1600 Boston Rd, Springfield, MA 01129, USA*****42.143703,-72.490173
+1530 Boston Rd, Springfield, MA 01129, USA*****42.142734,-72.492014
+1 Dan Fox Dr, Pittsfield, MA 01201, USA*****42.409903,-73.264629
+Pittsfield, MA 01201, USA*****42.450085,-73.245382
+658 Merrill Rd, Pittsfield, MA 01201, USA*****42.466522,-73.204417
+876 State Rd, North Adams, MA 01247, USA*****42.699134,-73.166122
+89 French King Hwy, Greenfield, MA 01301, USA*****42.607018,-72.573363
+100 Worcester St, North Grafton, MA 01536, USA*****42.220322,-71.697925
+539-571 Boston Turnpike, Shrewsbury, MA 01545, USA*****42.277910,-71.715984
+539 Boston Turnpike, Shrewsbury, MA 01545, USA*****42.277976,-71.715960
+100 Charlton Rd, Sturbridge, MA 01566, USA*****42.128160,-72.059964
+290 Turnpike Rd #9a, Westborough, MA 01581, USA*****42.280816,-71.646384
+MA-9, Westborough, MA 01581, USA*****42.285067,-71.609185
+949 Grafton St, Worcester, MA 01604, USA*****42.248484,-71.759839
+975 Grafton St, Worcester, MA 01604, USA*****42.245365,-71.759080
+541 Lincoln St, Worcester, MA 01605, USA*****42.293965,-71.771208
+940 W Boylston St, Worcester, MA 01606, USA*****42.326277,-71.790592
+235 Old Connecticut Path, Framingham, MA 01701, USA*****42.306083,-71.400807
+19 Temple St, Framingham, MA 01702, USA*****42.297655,-71.447840
+100 Powder Mill Rd, Acton, MA 01720, USA*****42.441996,-71.428812
+337 Great Rd, Bedford, MA 01730, USA*****42.485869,-71.261197
+MA-85 & Technology Dr, Hudson, MA 01749, USA*****42.376280,-71.564576
+196 E Main St, Milford, MA 01757, USA*****42.152715,-71.500490
+829 Worcester St, Natick, MA 01760, USA*****42.301244,-71.357758
+3 Elm Ave, Woburn, MA 01801, USA*****42.486334,-71.127920
+90 Pleasant Valley St, Methuen, MA 01844, USA*****42.743522,-71.158920
+757 Turnpike St, North Andover, MA 01845, USA*****42.660058,-71.109758
+97 Main St, North Reading, MA 01864, USA*****42.575187,-71.108778
+25 Walkers Brook Dr, Reading, MA 01867, USA*****42.518833,-71.096110
+695 Main St, Winchester, MA 01890, USA*****42.455936,-71.137332
+35 Washington St, Lynn, MA 01904, USA*****42.469805,-70.958952
+164 Main St, Saugus, MA 01906, USA*****42.463820,-71.027995
+450 Paradise Rd, Swampscott, MA 01907, USA*****42.482765,-70.904394
+100 Macy St, Amesbury, MA 01913, USA*****42.847068,-70.911306
+224 Elliott St, Beverly, MA 01915, USA*****42.554886,-70.886409
+37 Enon St, Beverly, MA 01915, USA*****42.586446,-70.883901
+50 Independence Way, Danvers, MA 01923, USA*****42.550737,-70.941021
+301 Newbury St, Danvers, MA 01923, USA*****42.585131,-70.964731
+6 Thatcher Rd, Gloucester, MA 01930, USA*****42.618578,-70.641786
+19 Howley St, Peabody, MA 01960, USA*****42.523437,-70.917842
+70 Pulaski Blvd, Bellingham, MA 02019, USA*****42.019038,-71.497759
+400 Chief Justice Cushing Hwy, Cohasset, MA 02025, USA*****42.233405,-70.820357
+790 Chief Justice Cushing Hwy, Cohasset, MA 02025, USA*****42.220916,-70.800466
+MA-1A, Massachusetts, USA*****42.120479,-71.275044
+141 Main St, Foxborough, MA 02035, USA*****42.075329,-71.260415
+30 Commercial St, Foxborough, MA 02035, USA*****42.053155,-71.240897
+40 Franklin Village Drive, Franklin, MA 02038, USA*****42.089395,-71.421820
+400 Lincoln St, Hingham, MA 02043, USA*****42.247667,-70.923657
+377 Chauncy St, Mansfield, MA 02048, USA*****42.032528,-71.236562
+468 Washington St, Norwell, MA 02061, USA*****42.157948,-70.853802
+278 Washington St, Stoughton, MA 02072, USA*****42.138211,-71.100102
+1449 Main St, Walpole, MA 02081, USA*****42.133514,-71.262302
+565 Main St, Walpole, MA 02081, USA*****42.156845,-71.241574
+1620 Tremont St, Boston, MA 02120, USA*****42.333454,-71.104105
+460 Blue Hill Avenue, Boston, MA 02121, USA*****42.309204,-71.081069
+545 Freeport St, Dorchester, MA 02122, USA*****42.292629,-71.048848
+713 E Broadway, Boston, MA 02127, USA*****42.335346,-71.036684
+301 Centre St, Jamaica Plain, MA 02130, USA*****42.324118,-71.103166
+950 American Legion Hwy, Boston, MA 02131, USA*****42.275417,-71.114951
+1230 VFW Pkwy, Boston, MA 02132, USA*****42.278095,-71.169545
+60 Everett St, Boston, MA 02135, USA*****42.356580,-71.139838
+200 Guest St, Boston, MA 02135, USA*****42.356886,-71.141672
+1025 Truman Hwy, Hyde Park, MA 02136, USA*****42.242284,-71.127366
+779 McGrath Hwy, Somerville, MA 02145, USA*****42.391492,-71.085525
+99 Charles St, Malden, MA 02148, USA*****42.424181,-71.071505
+60 Broadway, Malden, MA 02148, USA*****42.425516,-71.042743
+1690 Revere Beach Pkwy, Everett, MA 02149, USA*****42.400600,-71.042441
+40 Furlong Dr, Revere, MA 02151, USA*****42.399329,-70.999073
+540 Squire Rd, Revere, MA 02151, USA*****42.429415,-71.020618
+151 Veterans Of Foreign Wars Pkwy, Revere, MA 02151, USA*****42.410840,-70.995002
+30 Commercial St, Medford, MA 02155, USA*****42.409469,-71.087846
+650 Fellsway, Medford, MA 02155, USA*****42.407217,-71.084088
+495 Southern Artery, Quincy, MA 02169, USA*****42.252781,-70.994987
+65 Newport Ave, Quincy, MA 02171, USA*****42.271068,-71.026655
+1776 Heritage Dr, Quincy, MA 02171, USA*****42.276558,-71.033759
+259 Main St, Melrose, MA 02176, USA*****42.449621,-71.067835
+1 Bradley Rd Ext, Braintree, MA 02184, USA*****42.213058,-70.993857
+316 Grove St, Braintree, MA 02184, USA*****42.190603,-70.986443
+700 Middle St, Weymouth, MA 02188, USA*****42.200303,-70.944092
+700 Middle St, Weymouth, MA 02188, USA*****42.200303,-70.944092
+701 Belmont St, Brockton, MA 02301, USA*****42.070073,-71.046803
+133 Main St, Avon, MA 02322, USA*****42.132720,-71.040259
+125 Church St # 190, Pembroke, MA 02359, USA*****42.105802,-70.771851
+341 Plymouth St, Halifax, MA 02338, USA*****41.995568,-70.848561
+800 S Franklin St, Holbrook, MA 02343, USA*****42.128889,-71.010589
+800 South St, Holbrook, MA 02343, USA*****42.148430,-71.028860
+438 Taunton St, Lakeville, MA 02347, USA*****41.889476,-70.981713
+438 W Grove St, Middleborough, MA 02346, USA*****41.896125,-70.951151
+422 W Grove St, Middleborough, MA 02346, USA*****41.896473,-70.949066
+375 Centre Ave, Abington, MA 02351, USA*****42.109978,-70.929451
+125 Church St, Pembroke, MA 02359, USA*****42.105726,-70.771789
+125 Church St Ste C, Pembroke, MA 02359, USA*****42.105726,-70.771789
+129 Samoset Ave, Plymouth, MA 02360, USA*****41.912471,-70.548523
+164 Summer St, Kingston, MA 02364, USA*****42.008608,-70.732389
+160 Summer St, Kingston, MA 02364, USA*****42.007552,-70.732644
+475 Bedford St, Whitman, MA 02382, USA*****42.074438,-70.946135
+36 Bedford St, Lexington, MA 02420, USA*****42.452000,-71.233407
+155 Harvard St, Brookline, MA 02446, USA*****42.338202,-71.120435
+171 Watertown St, Watertown, MA 02472, USA*****42.364038,-71.193915
+905 Massachusetts Ave, Arlington, MA 02476, USA*****42.418132,-71.164439
+1043 Massachusetts Ave, Arlington, MA 02476, USA*****42.420544,-71.169800
+1 Trowbridge Rd, Bourne, MA 02532, USA*****41.740747,-70.598024
+20 Teaticket Hwy, East Falmouth, MA 02536, USA*****41.562452,-70.599558
+20 MA-28, West Yarmouth, MA 02673, USA*****41.658198,-70.270148
+2991 Cranberry Hwy, East Wareham, MA 02538, USA*****41.757906,-70.665116
+245 Edgartown-Vineyard Haven Rd, Edgartown, MA 02539, USA*****41.395495,-70.530059
+6 Flamingo Dr, Edgartown, MA 02539, USA*****41.410689,-70.577877
+2 Celtic Dr, Nantucket, MA 02554, USA*****41.264505,-70.101802
+2 Salros Rd, Nantucket, MA 02554, USA*****41.265373,-70.107322
+5 Cynthia Ln, Nantucket, MA 02554, USA*****41.265469,-70.106810
+45 Boynton Ln, Nantucket, MA 02554, USA*****41.267152,-70.101940
+3 Boynton Ln, Nantucket, MA 02554, USA*****41.267714,-70.100620
+61 Quaker Meeting House Rd, Sandwich, MA 02563, USA*****41.698397,-70.489449
+65 MA-6A, Sandwich, MA 02563, USA*****41.766204,-70.509532
+MA-6A, Sandwich, MA 02563, USA*****41.748941,-70.474798
+331 Cotuit Rd, Sandwich, MA 02563, USA*****41.709329,-70.487656
+71 Quaker Meeting House Rd, Sandwich, MA 02563, USA*****41.701356,-70.485895
+18 Water St, Vineyard Haven, MA 02568, USA*****41.454441,-70.601757
+50 Water St, Vineyard Haven, MA 02568, USA*****41.454453,-70.601556
+2991 Cranberry Hwy, East Wareham, MA 02538, USA*****41.757906,-70.665116
+65 Independence Dr, Hyannis, MA 02601, USA*****41.675271,-70.301361
+3900 Falmouth Rd, Marstons Mills, MA 02648, USA*****41.648300,-70.427663
+111 Chatham Rd, Harwich, MA 02645, USA*****41.684620,-70.057800
+MA-137 & MA-39, Harwich, MA 02645, USA*****41.707736,-70.022435
+3900 Falmouth Rd, Marstons Mills, MA 02648, USA*****41.648300,-70.427663
+24 MA-6A, Orleans, MA 02653, USA*****41.796122,-69.985104
+2110 Cranberry Hwy, Orleans, MA 02653, USA*****41.796159,-69.984861
+516 MA-134, South Dennis, MA 02660, USA*****41.695157,-70.150191
+500 MA-134, South Dennis, MA 02660, USA*****41.694894,-70.150306
+474 Station Ave, South Yarmouth, MA 02664, USA*****41.687355,-70.209021
+55 Long Pond Dr, South Yarmouth, MA 02664, USA*****41.657926,-70.207728
+251 Washington St, Attleboro, MA 02703, USA*****41.924214,-71.358004
+208 Main St, Fairhaven, MA 02719, USA*****41.647796,-70.909227
+221 Huttleston Ave, Fairhaven, MA 02719, USA*****41.641054,-70.887855
+Mariano Bishop Blvd, Fall River, MA, USA*****41.671507,-71.168436
+501 Rodman St, Fall River, MA 02721, USA*****41.693968,-71.152781
+815 Grand Army of the Republic Hwy, Somerset, MA 02725, USA*****41.729652,-71.171030
+887 Grand Army of the Republic Hwy, Somerset, MA 02725, USA*****41.730220,-71.171345
+438 Dartmouth St, New Bedford, MA 02740, USA*****41.616016,-70.934919
+1001 Kings Hwy, New Bedford, MA 02745, USA*****41.679105,-70.942490
+25 Faunce Corner Rd, Dartmouth, MA 02747, USA*****41.642557,-70.985456
+206 E Washington St, North Attleborough, MA 02760, USA*****41.972077,-71.333288
+109 Taunton St, Plainville, MA 02762, USA*****42.035422,-71.311363
+206 E Washington St, North Attleborough, MA 02760, USA*****41.972018,-71.331643
+36 New State Hwy, Raynham, MA 02767, USA*****41.906039,-71.063318
+125 Highland Ave, Seekonk, MA 02771, USA*****41.797807,-71.332522
+11795 Somerset Ave, Princess Anne, MD 21853, USA*****38.205287,-75.693328
+65 Portland Rd, Kennebunk, ME 04043, USA*****43.397799,-70.528994
+265 S Outer Dr, Saginaw, MI 48601, USA*****43.429722,-83.896867
+1227 Janes Ave, Saginaw, MI 48607, USA*****43.429596,-83.926836
+8545 Holton Rd, Holton, MI 49425, USA*****43.410978,-86.079469
+3050 1st Ave S, Minneapolis, MN 55408, USA*****44.947012,-93.276934
+11th St, International Falls, MN 56649, USA*****48.594735,-93.414633
+11747 St Charles Rock Rd, Bridgeton, MO 63044, USA*****38.745700,-90.416831
+State Hwy 86 & W Main St, Wheaton, MO 64874, USA*****36.762959,-94.059107
+21682 MS-310, Como, MS 38619, USA*****34.509510,-89.826808
+103 N Main St, Leland, MS 38756, USA*****33.404532,-90.899625
+406 E Harden St, Graham, NC 27253, USA*****36.070832,-79.392613
+300 S Madison Blvd, Roxboro, NC 27573, USA*****36.391387,-78.987899
+214 E Main St, Rocky Mount, NC 27803, USA*****35.864838,-77.825432
+610 N Haughton St, Williamston, NC 27892, USA*****35.859157,-77.061888
+5245 Fallston Rd, Lawndale, NC 28090, USA*****35.450014,-81.501998
+303 Enola Rd, Morganton, NC 28655, USA*****35.715855,-81.672117
+25 1st St S, New Rockford, ND 58356, USA*****47.679060,-99.125103
+529 W Burdick Expy, Minot, ND 58701, USA*****48.232051,-101.300746
+9 Wason Rd, Hudson, NH 03051, USA*****42.730792,-71.423443
+NH-101A & Nashua St, Amherst, NH 03031, USA*****42.820471,-71.604314
+777 S Willow St, Manchester, NH 03103, USA*****42.963593,-71.445892
+365 Lincoln St, Manchester, NH 03103, USA*****42.983494,-71.449788
+7 Kilton Rd, Bedford, NH 03110, USA*****42.958080,-71.481046
+137 Portsmouth Ave, Exeter, NH 03833, USA*****42.989238,-70.930717
+126 W 1st St, Bayonne, NJ 07002, USA*****40.646043,-74.135256
+1 Lefante Way, Bayonne, NJ 07002, USA*****40.667771,-74.104183
+8 Franklin St, Bloomfield, NJ 07003, USA*****40.783613,-74.183646
+1189 Broad St, Clifton, NJ 07013, USA*****40.855518,-74.176442
+1187 Broad St, Clifton, NJ 07013, USA*****40.855404,-74.176791
+160 Kingsland Rd, Clifton, NJ 07014, USA*****40.827061,-74.139594
+1511 US-22, North Plainfield, NJ 07060, USA*****40.640372,-74.424172
+425 Lewandowski St, Lyndhurst, NJ 07071, USA*****40.803719,-74.117401
+Lewandowski St & Brisbin Ave., Lyndhurst, NJ 07071, USA*****40.803238,-74.117514
+675 Paterson Ave #7, Carlstadt, NJ 07072, USA*****40.842425,-74.101524
+219 Elm St, Westfield, NJ 07090, USA*****40.653400,-74.352057
+647 Newark Ave, Elizabeth, NJ 07208, USA*****40.677827,-74.210045
+801 Newark Ave, Elizabeth, NJ 07208, USA*****40.681646,-74.206376
+1506 NJ-23, Butler, NJ 07405, USA*****41.003450,-74.356273
+825 Franklin Ave, Franklin Lakes, NJ 07417, USA*****41.023009,-74.208412
+4 Union Ave, Haskell, NJ 07420, USA*****41.018686,-74.298713
+175 Franklin Ave, Ridgewood, NJ 07450, USA*****40.980922,-74.115829
+130 Skyline Dr, Ringwood, NJ 07456, USA*****41.085773,-74.260573
+19 Wyckoff Ave, Waldwick, NJ 07463, USA*****41.009561,-74.121518
+1220 Hamburg Turnpike, Wayne, NJ 07470, USA*****40.963637,-74.244790
+1506 NJ-23, Wayne, NJ 07470, USA*****40.935353,-74.269145
+87 Berdan Ave, Wayne, NJ 07470, USA*****40.962446,-74.242739
+327 Franklin Ave, Wyckoff, NJ 07481, USA*****41.012023,-74.167237
+380 W Pleasantview Ave, Lodi, NJ 07644, USA*****40.877204,-74.066547
+33 Vervalen St, Closter, NJ 07624, USA*****40.970834,-73.957246
+20 Washington Ave, Dumont, NJ 07628, USA*****40.937440,-73.996042
+600 Kinderkamack Rd, Emerson, NJ 07630, USA*****40.981724,-74.026175
+859 NJ-17, Paramus, NJ 07652, USA*****40.978525,-74.084457
+665 American Legion Dr, Teaneck, NJ 07666, USA*****40.887619,-74.020923
+34 W Railroad Ave, Tenafly, NJ 07670, USA*****40.926899,-73.965188
+5101 NJ-42, Turnersville, NJ 08012, USA*****39.751124,-75.046540
+179 Newman Springs Rd E, Shrewsbury, NJ 07702, USA*****40.337504,-74.071491
+1933 NJ-35, Wall Township, NJ 07719, USA*****40.154948,-74.056064
+4861 U.S. 9, Howell Township, NJ 07731, USA*****40.131363,-74.222468
+2102 NJ-35, Holmdel, NJ 07733, USA*****40.410750,-74.137418
+100 NJ-36, Keyport, NJ 07735, USA*****40.425572,-74.197571
+1137 NJ-34, Aberdeen Township, NJ 07747, USA*****40.396355,-74.223974
+1137 Lloyd Rd, Aberdeen Township, NJ 07747, USA*****40.397493,-74.222537
+1 NJ-35, Red Bank, NJ 07701, USA*****40.354963,-74.076088
+850 NJ-35, Middletown, NJ 07748, USA*****40.389812,-74.100410
+35 Twin Brooks Ave, Middletown, NJ 07748, USA*****40.389561,-74.102689
+60 Sparta Ave N, Sparta, NJ 07871, USA*****41.038961,-74.641793
+553 S Finley Ave, Basking Ridge, NJ 07920, USA*****40.684362,-74.550167
+404 Springfield Ave, Berkeley Heights, NJ 07922, USA*****40.685576,-74.435984
+119 Main St, Madison, NJ 07940, USA*****40.756799,-74.412174
+245 Littleton Rd, Morris Plains, NJ 07950, USA*****40.842144,-74.463370
+1200 Chews Landing Rd, Clementon, NJ 08021, USA*****39.818102,-75.037568
+127 Ark Rd, Mt Laurel Township, NJ 08054, USA*****39.972132,-74.871044
+2120 Voorhees Town Center, Voorhees Township, NJ 08043, USA*****39.851008,-75.002472
+2275 W County Line Rd, Jackson Township, NJ 08527, USA*****40.126809,-74.273501
+800 Denow Rd, Pennington, NJ 08534, USA*****40.300875,-74.782070
+199 E Kennedy Blvd, Lakewood Township, NJ 08701, USA*****40.107069,-74.215151
+1000 NJ-70, Lakewood, NJ 08701, USA*****40.052295,-74.175924
+400 Atlantic City Blvd, Beachwood, NJ 08722, USA*****39.938694,-74.188605
+55 Brick Blvd, Brick Township, NJ 08723, USA*****40.024962,-74.141429
+Toms River, NJ 08753, USA*****39.974106,-74.159228
+1214 NJ-37, Toms River, NJ 08753, USA*****39.954672,-74.161530
+NJ-37, Toms River, NJ 08753, USA*****39.951834,-74.149525
+2360 U.S. 9, Toms River, NJ 08755, USA*****40.044804,-74.224117
+765 Jamaica Blvd, Toms River, NJ 08757, USA*****39.974136,-74.247805
+400 Lacey Rd, Manchester Township, NJ 08759, USA*****39.957293,-74.388027
+108 Lacey Rd, Whiting, NJ 08759, USA*****39.953085,-74.380583
+485 Georges Rd, Dayton, NJ 08810, USA*****40.381076,-74.518588
+24 Summerfield Blvd, Dayton, NJ 08810, USA*****40.380841,-74.507797
+1083 Inman Ave, Edison, NJ 08820, USA*****40.595560,-74.362778
+334 NJ-31, Flemington, NJ 08822, USA*****40.541580,-74.855945
+3333 NJ-27, Kendall Park, NJ 08824, USA*****40.429449,-74.558959
+Franklin Park, NJ 08823, USA*****40.444271,-74.563904
+34 Concord Ln, Monroe Township, NJ 08831, USA*****40.341123,-74.465701
+1049 US-1, Edison, NJ 08837, USA*****40.524310,-74.363421
+649 US Hwy 206, Hillsborough Township, NJ 08844, USA*****40.498813,-74.645747
+4095 US-1, Monmouth Junction, NJ 08852, USA*****40.394405,-74.566650
+581 Stelton Rd, Piscataway, NJ 08854, USA*****40.560950,-74.439556
+1278 US-22, Phillipsburg, NJ 08865, USA*****40.678290,-75.147534
+120 Orlando Dr, Raritan, NJ 08869, USA*****40.567131,-74.627783
+1221 Easton Ave, Somerset, NJ 08873, USA*****40.520090,-74.491768
+940 Easton Ave, Somerset, NJ 08873, USA*****40.511925,-74.487423
+3391 NJ-27, Franklin Park, NJ 08823, USA*****40.428481,-74.562714
+3025 Las Vegas Blvd N, North Las Vegas, NV 89030, USA*****36.214897,-115.099188
+7600 Westcliff Dr, Las Vegas, NV 89145, USA*****36.174651,-115.260375
+2754 Hylan Blvd, Staten Island, NY 10306, USA*****40.563705,-74.114361
+2795 Richmond Ave, Staten Island, NY 10314, USA*****40.576998,-74.166553
+5716 Broadway, The Bronx, NY 10463, USA*****40.882213,-73.901719
+3548 Bronx Blvd, The Bronx, NY 10467, USA*****40.879180,-73.868255
+691 Co Op City Blvd, The Bronx, NY 10475, USA*****40.880724,-73.825181
+753 Co Op City Blvd, The Bronx, NY 10475, USA*****40.879064,-73.826591
+80 US-6, Baldwin Place, NY 10505, USA*****41.343411,-73.756953
+390 Broadway, Dobbs Ferry, NY 10522, USA*****41.014251,-73.869932
+1326 W Boston Post Rd, Larchmont, NY 10538, USA*****40.936954,-73.747602
+240 E Sandford Blvd, Mt Vernon, NY 10550, USA*****40.900578,-73.824078
+64 Gramatan Ave, Mt Vernon, NY 10550, USA*****40.913350,-73.837610
+246 S Highland Ave, Ossining, NY 10562, USA*****41.142378,-73.861929
+1831 Main St, Peekskill, NY 10566, USA*****41.295703,-73.892441
+25 Waterfront Pl, Port Chester, NY 10573, USA*****40.999437,-73.663844
+142 Pearl St, Port Chester, NY 10573, USA*****40.997295,-73.669050
+350 S Broadway, Tarrytown, NY 10591, USA*****41.064582,-73.861111
+154 Westchester Ave, White Plains, NY 10601, USA*****41.033286,-73.757163
+670 N Broadway, White Plains, NY 10603, USA*****41.054301,-73.764517
+1300 Midland Ave, Yonkers, NY 10704, USA*****40.928259,-73.847984
+111 Vredenburgh Ave, Yonkers, NY 10704, USA*****40.926383,-73.851647
+420 White Plains Rd, Eastchester, NY 10709, USA*****40.955413,-73.813326
+2425 Palmer Ave, New Rochelle, NY 10801, USA*****40.921830,-73.773708
+28 Harrison St, New Rochelle, NY 10801, USA*****40.911710,-73.778858
+330 NY-211, Middletown, NY 10940, USA*****41.461424,-74.443277
+475 Stage Rd, Monroe, NY 10950, USA*****41.321064,-74.188751
+32 S Middletown Rd, Nanuet, NY 10954, USA*****41.094890,-74.011191
+57 E Rte 59, Nanuet, NY 10954, USA*****41.096127,-74.009232
+1581 US-202, Pomona, NY 10970, USA*****41.182808,-74.046870
+1581 US-202, Pomona, NY 10970, USA*****41.182787,-74.046802
+60 Brotherhood Plaza Dr, Washingtonville, NY 10992, USA*****41.430868,-74.162347
+7 Rte 9W, West Haverstraw, NY 10993, USA*****41.206713,-73.985666
+320 NY-59, West Nyack, NY 10994, USA*****41.094451,-73.956697
+653 Hillside Avenue, New Hyde Park, NY 11040, USA*****40.741366,-73.698686
+65 Shore Rd, Port Washington, NY 11050, USA*****40.837922,-73.701261
+34-51 48th St, Long Island City, NY 11101, USA*****40.751768,-73.914580
+34-51 48th St, Long Island City, NY 11101, USA*****40.751768,-73.914580
+675 Dekalb Ave, Brooklyn, NY 11216, USA*****40.691849,-73.949224
+5424 7th Ave, Brooklyn, NY 11220, USA*****40.639871,-74.008960
+1009 Flatbush Ave, Brooklyn, NY 11226, USA*****40.646868,-73.957584
+1009 Flatbush Ave #3, Brooklyn, NY 11226, USA*****40.646868,-73.957584
+1710 Ave. Y, Brooklyn, NY 11235, USA*****40.589391,-73.952055
+249-26 Northern Blvd, Little Neck, NY 11362, USA*****40.767394,-73.737397
+74-17 Grand Ave, Queens, NY 11373, USA*****40.731133,-73.887295
+7417 Grand Ave, Elmhurst, NY 11373, USA*****40.730616,-73.887094
+7417 Grand Ave, Elmhurst, NY 11373, USA*****40.730616,-73.887094
+60-65 Myrtle Ave #64, Flushing, NY 11385, USA*****40.700869,-73.895965
+8989 Union Tpke, Glendale, NY 11385, USA*****40.707150,-73.855690
+252-12 82nd Dr, Jamaica, NY 11426, USA*****40.738139,-73.716011
+95 Old Country Rd, Carle Place, NY 11514, USA*****40.744759,-73.619954
+594 Atlantic Ave, East Rockaway, NY 11518, USA*****40.641169,-73.663730
+177 Forest Ave, Glen Cove, NY 11542, USA*****40.874630,-73.620844
+132 Fulton Ave, Hempstead, NY 11550, USA*****40.704761,-73.631361
+605 Woodfield Rd, West Hempstead, NY 11552, USA*****40.688387,-73.650953
+50 Cherry Valley Ave, West Hempstead, NY 11552, USA*****40.706581,-73.654541
+2525 Hempstead Turnpike, East Meadow, NY 11554, USA*****40.727034,-73.544873
+2425 Hempstead Turnpike, East Meadow, NY 11554, USA*****40.724766,-73.545440
+2160 S Merrick Ave, Merrick, NY 11566, USA*****40.666108,-73.551483
+3577 Long Beach Rd, Oceanside, NY 11572, USA*****40.622823,-73.639362
+351 Merrick Rd, Amityville, NY 11701, USA*****40.666988,-73.406326
+555 W Montauk Hwy, Lindenhurst, NY 11757, USA*****40.672601,-73.376601
+575 W Montauk Hwy, Lindenhurst, NY 11757, USA*****40.672103,-73.377808
+88 Golding Ave, West Babylon, NY 11704, USA*****40.710740,-73.362357
+533 Montauk Hwy, Bay Shore, NY 11706, USA*****40.728537,-73.230891
+250 Pond Path, South Setauket, NY 11720, USA*****40.883149,-73.104025
+275 Middle Country Rd, Coram, NY 11727, USA*****40.868810,-72.995852
+421 Commack Rd, Deer Park, NY 11729, USA*****40.763151,-73.310626
+2650 Sunrise Hwy, East Islip, NY 11730, USA*****40.741411,-73.199728
+3126 Jericho Turnpike, East Northport, NY 11731, USA*****40.838432,-73.317996
+158 NY-25A, Setauket- East Setauket, NY 11733, USA*****40.939357,-73.108497
+1100 E Jericho Turnpike, Huntington, NY 11743, USA*****40.833324,-73.366633
+1730 Veterans Memorial Hwy, Central Islip, NY 11722, USA*****40.803193,-73.180503
+3750 Hempstead Turnpike, Levittown, NY 11756, USA*****40.724785,-73.496730
+Islandia, NY 11760, USA*****40.800000,-73.170000
+4938 Merrick Rd, Massapequa Park, NY 11762, USA*****40.665103,-73.452365
+700-60 E Patchogue Yaphank Rd, Medford, NY 11763, USA*****40.806302,-72.953731
+NY-25A, New York, USA*****40.882478,-73.386326
+385 NY-25A, Miller Place, NY 11764, USA*****40.943028,-72.986754
+NY-25A, Miller Place, NY 11764, USA*****40.941481,-72.989678
+454 Fort Salonga Rd, Northport, NY 11768, USA*****40.892372,-73.337526
+295 Pine Hollow Rd, Oyster Bay, NY 11771, USA*****40.857414,-73.534330
+275 Pine Hollow Rd, Oyster Bay, NY 11771, USA*****40.857524,-73.534380
+1108 NY-112, Port Jefferson Station, NY 11776, USA*****40.918733,-73.041053
+Port Jefferson, NY 11777, USA*****40.946488,-73.069273
+425 Portion Rd, Lake Ronkonkoma, NY 11779, USA*****40.830458,-73.095680
+5705 Sunrise Hwy, Holbrook, NY 11741, USA*****40.769521,-73.069397
+191 N Main St, Sayville, NY 11782, USA*****40.738766,-73.080832
+291 W Main St, Smithtown, NY 11787, USA*****40.858068,-73.206292
+400 Union Blvd, West Islip, NY 11795, USA*****40.706706,-73.301303
+8101 Jericho Turnpike, Woodbury, NY 11797, USA*****40.816176,-73.472251
+16 W Village Green, Hicksville, NY 11801, USA*****40.744689,-73.534393
+530 W Old Country Rd, Hicksville, NY 11801, USA*****40.758904,-73.545609
+1615 Old Country Rd, Riverhead, NY 11901, USA*****40.923721,-72.696537
+999 Montauk Hwy, Shirley, NY 11967, USA*****40.803628,-72.860279
+21 Lark St, Troy, NY 12180, USA*****42.712924,-73.673178
+1328 Beekman Rd, Poughquag, NY 12570, USA*****41.627281,-73.696267
+1429 NY-300, Newburgh, NY 12550, USA*****41.523189,-74.073155
+10 New Paltz Plaza, New Paltz, NY 12561, USA*****41.743589,-74.068864
+271 Main St, New Paltz, NY 12561, USA*****41.744130,-74.068796
+73 U.S. 9, Fishkill, NY 12524, USA*****41.495590,-73.899749
+6734 U.S. 9, Rhinebeck, NY 12572, USA*****41.947281,-73.899432
+U.S. 9, Rhinebeck, NY 12572, USA*****41.919417,-73.908668
+1357 U.S. 9, Wappingers Falls, NY 12590, USA*****41.583464,-73.906405
+1357 U.S. 9, Wappingers Falls, NY 12590, USA*****41.583464,-73.906405
+2540 South Rd, Poughkeepsie, NY 12601, USA*****41.663675,-73.927348
+483 South Rd, Poughkeepsie, NY 12601, USA*****41.630776,-73.916084
+59 Burnett Blvd, Poughkeepsie, NY 12603, USA*****41.700646,-73.886561
+925 Onondaga Ave, Syracuse, NY 13207, USA*****43.025042,-76.159516
+927 Onondaga Ave, Syracuse, NY 13207, USA*****43.025043,-76.159512
+391 Chili Ave, Rochester, NY 14611, USA*****43.146414,-77.647166
+2000 Washington St, Jamestown, NY 14701, USA*****42.109672,-79.244410
+118 Loder St, Hornell, NY 14843, USA*****42.321489,-77.658385
+1858 Lockbourne Rd, Columbus, OH 43207, USA*****39.927505,-82.964627
+905 South Ave, Toledo, OH 43609, USA*****41.630564,-83.562205
+950 W Alexis Rd, Toledo, OH 43612, USA*****41.721987,-83.566033
+4460 Lewis Ave, Toledo, OH 43612, USA*****41.699660,-83.565440
+7210 Lyrewood Ln, Oklahoma City, OK 73132, USA*****35.545283,-97.630675
+3824 W University Blvd, Durant, OK 74701, USA*****34.005224,-96.416367
+87764 US-101, Florence, OR 97439, USA*****44.018404,-124.102960
+2585 Nonpareil Rd, Sutherlin, OR 97479, USA*****43.398331,-123.272580
+4345 Chippendale St, Philadelphia, PA 19136, USA*****40.036286,-75.031737
+605 Metacom Ave, Bristol, RI 02809, USA*****41.695781,-71.266066
+900 Tiogue Ave, Coventry, RI 02816, USA*****41.679449,-71.570164
+446 Putnam Pike, Greenville, RI 02828, USA*****41.868840,-71.532706
+199 JT Connell Hwy, Newport, RI 02840, USA*****41.510357,-71.316733
+250 Bellevue Ave, Newport, RI 02840, USA*****41.481326,-71.306816
+1360 W Main Rd, Middletown, RI 02842, USA*****41.537075,-71.293760
+1300 Ten Rod Rd, North Kingstown, RI 02852, USA*****41.580719,-71.500246
+90 Frenchtown Rd, North Kingstown, RI 02852, USA*****41.629457,-71.468116
+640 Broadway, Pawtucket, RI 02860, USA*****41.890107,-71.373948
+368-398 Cottage St, Pawtucket, RI 02861, USA*****41.888313,-71.367798
+380 Cottage St, Pawtucket, RI 02861, USA*****41.889081,-71.367825
+675 Beverage Hill Ave, Pawtucket, RI 02861, USA*****41.860183,-71.352742
+749 Central Ave, Pawtucket, RI 02861, USA*****41.887720,-71.354384
+70 Mendon Rd, Cumberland, RI 02864, USA*****41.913275,-71.406002
+622 George Washington Hwy, Lincoln, RI 02865, USA*****41.937631,-71.477406
+Saunderstown, North Kingstown, RI 02874, USA*****41.509371,-71.422515
+575 Greenwich Ave, Warwick, RI 02886, USA*****41.718948,-71.466067
+300 Quaker Ln, Warwick, RI 02886, USA*****41.687555,-71.499124
+2430 Warwick Ave, Warwick, RI 02889, USA*****41.711194,-71.397734
+110 Tom Harvey Rd, Westerly, RI 02891, USA*****41.342745,-71.816457
+3 Stilson Rd, Richmond, RI 02898, USA*****41.512238,-71.686246
+1128 Mineral Spring Ave, North Providence, RI 02904, USA*****41.866965,-71.428607
+333 W River St, Providence, RI 02904, USA*****41.845274,-71.411939
+850 Manton Ave, Providence, RI 02909, USA*****41.832861,-71.466595
+11 Commerce Way, Johnston, RI 02919, USA*****41.820567,-71.500153
+204 Garfield Ave, Cranston, RI 02920, USA*****41.794919,-71.443109
+200 Atwood Ave, Cranston, RI 02910, USA*****41.781781,-71.474275
+1104 N Lake Dr, Lexington, SC 29072, USA*****34.001826,-81.226548
+2147 State Rd S-29-158, Lancaster, SC 29720, USA*****34.649141,-80.742582
+145 Yemassee Hwy, Yemassee, SC 29945, USA*****32.693688,-80.857109
+2955 S Rutherford Blvd, Murfreesboro, TN 37130, USA*****35.833221,-86.352171
+1610 Indian Creek Rd, Grand Junction, TN 38039, USA*****35.004033,-89.160749
+148 Watkins St, Ripley, TN 38063, USA*****35.736385,-89.530393
+2639 Elvis Presley Blvd, Memphis, TN 38106, USA*****35.073182,-90.021025
+401 E Pioneer Dr, Irving, TX 75061, USA*****32.818036,-96.942007
+4401 N Galloway Ave, Mesquite, TX 75150, USA*****32.823490,-96.622073
+1313 N Jim Miller Rd, Dallas, TX 75217, USA*****32.734924,-96.700456
+5031 Estes Pkwy, Longview, TX 75603, USA*****32.413901,-94.706516
+5003 Estes Pkwy, Longview, TX 75603, USA*****32.414355,-94.707365
+19360 US-69, Flint, TX 75762, USA*****32.197924,-95.320564
+Clinton Dr @ SSgt Macario Garcia Dr, Houston, TX 77020, USA*****29.757709,-95.299260
+5301 Antoine Dr, Houston, TX 77091, USA*****29.841262,-95.473777
+10805 Fostoria Rd, Cleveland, TX 77328, USA*****30.286969,-95.145365
+1301 Avenue I, Rosenberg, TX 77471, USA*****29.557332,-95.814062
+903 W 2nd St, Freeport, TX 77541, USA*****28.953156,-95.357484
+102 Plantation Dr, Lake Jackson, TX 77566, USA*****29.021230,-95.427299
+5266 Gulfway Dr, Port Arthur, TX 77642, USA*****29.924575,-93.906388
+671 Washington Blvd, Beaumont, TX 77705, USA*****30.057653,-94.089452
+3303 Clark Ave, San Antonio, TX 78223, USA*****29.384360,-98.448713
+389 W Austin St, Giddings, TX 78942, USA*****30.183894,-96.940182
+612 Eastern Ave, Groom, TX 79039, USA*****35.207231,-101.099035
+1130 Washington Blvd, Ogden, UT 84404, USA*****41.245378,-111.969919
+810 St George Blvd, St. George, UT 84770, USA*****37.109633,-113.565945
+315 S Main St, Rutland, VT 05701, USA*****43.590231,-72.969890
+41604 264th Ave SE, Enumclaw, WA 98022, USA*****47.228119,-121.989238
+502 N Freya St, Spokane, WA 99202, USA*****47.662177,-117.357335
+501 State St, Madison, WI 53703, USA*****43.074724,-89.393821

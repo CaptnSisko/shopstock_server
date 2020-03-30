@@ -1,0 +1,40 @@
+2660 Hylan Blvd, Staten Island, NY 10306, USA*****40.566591,-74.109879
+244 Arden Ave, Staten Island, NY 10312, USA*****40.552864,-74.193994
+4343 Amboy Rd, Staten Island, NY 10312, USA*****40.546200,-74.160787
+3251 Richmond Ave, Staten Island, NY 10312, USA*****40.559619,-74.167645
+778 Manor Rd, Staten Island, NY 10314, USA*****40.608066,-74.121672
+1441 Richmond Ave, Staten Island, NY 10314, USA*****40.611349,-74.156934
+206 New Hyde Park Rd, Franklin Square, NY 11010, USA*****40.712723,-73.676155
+1430 Northern Blvd, Manhasset, NY 11030, USA*****40.791502,-73.695099
+48 Jericho Turnpike, Mineola, NY 11501, USA*****40.750868,-73.636809
+77 Forest Ave, Glen Cove, NY 11542, USA*****40.873347,-73.623358
+1765 Peninsula Blvd, Hewlett, NY 11557, USA*****40.648834,-73.690317
+127 Sunrise Hwy, Rockville Centre, NY 11570, USA*****40.657837,-73.651137
+834 Sunrise Hwy, Bay Shore, NY 11706, USA*****40.725986,-73.278195
+2730 Sunrise Hwy, Bellmore, NY 11710, USA*****40.668524,-73.526191
+598 Stewart Ave, Bethpage, NY 11714, USA*****40.744164,-73.481169
+29 Montauk Hwy, Blue Point, NY 11715, USA*****40.752874,-73.040620
+120 Veterans Memorial Hwy, Commack, NY 11725, USA*****40.838014,-73.284092
+1375 NY-25A, Setauket- East Setauket, NY 11733, USA*****40.936169,-73.108221
+50 New York Ave, Halesite, NY 11743, USA*****40.880825,-73.420139
+275 W Jericho Turnpike, Huntington Station, NY 11746, USA*****40.829710,-73.419310
+3284 Hempstead Turnpike, Levittown, NY 11756, USA*****40.724643,-73.515330
+455 Park Ave, Lindenhurst, NY 11757, USA*****40.686558,-73.353369
+600 Wellwood Ave Ste F, Lindenhurst, NY 11757, USA*****40.700821,-73.381839
+5214 Sunrise Hwy, Massapequa Park, NY 11762, USA*****40.676037,-73.443711
+Massapequa Park, NY 11762, USA*****40.680489,-73.455312
+Snake Hollow Rd, Bridgehampton, NY 11932, USA*****40.937240,-72.315122
+5507 NY-347, Mt Sinai, NY 11766, USA*****40.930599,-73.033031
+385 Fort Salonga Rd, Northport, NY 11768, USA*****40.891777,-73.342201
+575 Smithtown Bypass, Hauppauge, NY 11788, USA*****40.834539,-73.186231
+271 Jericho Turnpike, Syosset, NY 11791, USA*****40.811562,-73.505277
+5972 NY-25A, Wading River, NY 11792, USA*****40.945867,-72.825552
+N Wading River Rd, Wading River, NY 11792, USA*****40.962518,-72.827593
+478 Union Blvd, West Islip, NY 11795, USA*****40.708351,-73.298004
+795 Old Country Rd, Riverhead, NY 11901, USA*****40.933708,-72.666948
+538 Main St, Center Moriches, NY 11934, USA*****40.799527,-72.798738
+Montauk Hwy, Center Moriches, NY 11934, USA*****40.800525,-72.796127
+25 Eastport Manor Rd, Eastport, NY 11941, USA*****40.828181,-72.733637
+52 E Montauk Hwy, Hampton Bays, NY 11946, USA*****40.878797,-72.519752
+460 County Rd 111, Manorville, NY 11949, USA*****40.867470,-72.794585
+1235 Middle Country Rd, Middle Island, NY 11953, USA*****40.888190,-72.923211

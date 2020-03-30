@@ -1,0 +1,100 @@
+1164 US-62, Pocahontas, AR 72455, USA*****36.256659,-90.980954
+Hardy, AR 72542, USA*****36.315899,-91.482639
+121 Farmington Ave, Bristol, CT 06010, USA*****41.686000,-72.940389
+35 Talcottville Rd, Vernon, CT 06066, USA*****41.827027,-72.498523
+675 Poquonock Ave, Windsor, CT 06095, USA*****41.870679,-72.661497
+251 Kennedy Dr, Putnam, CT 06260, USA*****41.919276,-71.906603
+410 Queen St, Southington, CT 06489, USA*****41.627528,-72.875732
+943 Wolcott St, Waterbury, CT 06705, USA*****41.567840,-73.009342
+990 Torringford St, Torrington, CT 06790, USA*****41.819518,-73.077973
+Overland Park, KS 66204, USA*****38.992793,-94.664768
+W 75th St & Metcalf Ave, Overland Park, KS 66204, USA*****38.993129,-94.667676
+555 Hubbard Ave #8, Pittsfield, MA 01201, USA*****42.464468,-73.199502
+88 W Park St, Lee, MA 01238, USA*****42.304713,-73.250274
+121 Pittsfield Rd, Lenox, MA 01240, USA*****42.381808,-73.276248
+State Rd, North Adams, MA 01247, USA*****42.699869,-73.155373
+380 Maple Ave, Shrewsbury, MA 01545, USA*****42.277151,-71.737417
+133 Main St #5, Spencer, MA 01562, USA*****42.244838,-71.993387
+24 Southbridge St, Worcester, MA 01608, USA*****42.260317,-71.803277
+50 Cambridge St #1, Worcester, MA 01603, USA*****42.242963,-71.829895
+29 Sunderland Rd, Worcester, MA 01604, USA*****42.246999,-71.772444
+221 Park Ave, Worcester, MA 01609, USA*****42.271026,-71.815031
+50 S Cambridge St, Worcester, MA 01610, USA*****42.243059,-71.807951
+50 Cambridge St, Worcester, MA 01603, USA*****42.242963,-71.829895
+Marlborough, MA 01752, USA*****42.347372,-71.536786
+3734 Pear St, St Joseph, MO 64503, USA*****39.732317,-94.802014
+2300 Mitchell Ave, St Joseph, MO 64507, USA*****39.754096,-94.832864
+701 E Broadway Blvd, Sedalia, MO 65301, USA*****38.705263,-93.218933
+101 Dunning Rd, Middletown, NY 10940, USA*****41.445052,-74.380800
+511 Schutt Rd, Middletown, NY 10940, USA*****41.450450,-74.382853
+Floral Park, NY 11001, USA*****40.723713,-73.704853
+141 Sanford Ave, Amsterdam, NY 12010, USA*****42.945077,-74.176785
+141 Sanford farms shopping Center, Amsterdam, NY 12010, USA*****42.962642,-74.183632
+4943 NY-30, Amsterdam, NY 12010, USA*****42.962882,-74.183939
+1 Kendall Way, Malta, NY 12020, USA*****42.973188,-73.795378
+NY-66, Chatham, NY, USA*****42.364000,-73.595004
+Cobleskill, NY 12043, USA*****42.677853,-74.485417
+Barnerville Rd, Cobleskill, NY, USA*****42.687467,-74.462626
+East Greenbush, NY, USA*****42.590913,-73.701786
+NY-146, Clifton Park, NY 12065, USA*****42.866262,-73.794864
+Rte 9W & Glenmont Rd, Glenmont, NY 12077, USA*****42.601941,-73.791885
+358 N Main St, Gloversville, NY 12078, USA*****43.062911,-74.338048
+12 N Comrie Ave, Johnstown, NY 12095, USA*****43.008537,-74.359927
+1355 New Scotland Rd, Slingerlands, NY 12159, USA*****42.639102,-73.856772
+79 Vandenburgh Ave, Troy, NY 12180, USA*****42.697245,-73.690961
+716 Hoosick Rd, Troy, NY 12180, USA*****42.742110,-73.643541
+865 2nd Ave, Troy, NY 12182, USA*****42.786440,-73.672815
+1804 2nd Ave, Watervliet, NY 12189, USA*****42.729318,-73.701169
+NY-155, Albany, NY, USA*****42.705663,-73.880351
+444 Broadway, Albany, NY 12204, USA*****42.701162,-73.718051
+911 Central Ave, Albany, NY 12206, USA*****42.682437,-73.790013
+40 Delaware Ave, Albany, NY 12210, USA*****42.650492,-73.767353
+475 Albany Shaker Rd, Albany, NY 12211, USA*****42.708245,-73.776316
+501 Duanesburg Rd, Schenectady, NY 12306, USA*****42.784884,-73.995685
+138 Ulster Ave, Saugerties, NY 12477, USA*****42.079740,-73.960780
+39 N Plank Rd, Newburgh, NY 12550, USA*****41.520843,-74.028956
+432 South Rd #21, Poughkeepsie, NY 12601, USA*****41.630776,-73.916084
+84 Cooper St, Glens Falls, NY 12801, USA*****43.317095,-73.638996
+8648 NY-22, Granville, NY 12832, USA*****43.396658,-73.263083
+Lake George, NY 12845, USA*****43.426181,-73.712341
+19 Railroad Pl, Saratoga Springs, NY 12866, USA*****43.083369,-73.787362
+19 Centre Dr, Plattsburgh, NY 12901, USA*****44.695347,-73.492284
+860 US-11, Champlain, NY 12919, USA*****44.979474,-73.443192
+53 Finney Blvd, Malone, NY 12953, USA*****44.846048,-74.301285
+12 W 1st St S, Fulton, NY 13069, USA*****43.323552,-76.424710
+3863 NY-31, Liverpool, NY 13090, USA*****43.188660,-76.245468
+293 NY-104, Oswego, NY 13126, USA*****43.463377,-76.481793
+4713 Onondaga Blvd, Syracuse, NY 13219, USA*****43.034657,-76.191555
+2515 Erie Blvd E, Syracuse, NY 13224, USA*****43.054816,-76.102115
+142 Genesee St #5, Oneida, NY 13421, USA*****43.079795,-75.643993
+1 W Main St, Richfield Springs, NY 13439, USA*****42.858094,-74.995120
+1790 Black River Blvd N, Rome, NY 13440, USA*****43.231605,-75.437347
+North Utica Shopping Center, Utica, NY 13502, USA*****43.115118,-75.208008
+1283 Arsenal St, Watertown, NY 13601, USA*****43.974754,-75.945899
+81 Arsenal St, Watertown, NY 13601, USA*****43.975006,-75.911384
+981 Ford St, Ogdensburg, NY 13669, USA*****44.705390,-75.461402
+3 Main St, Delhi, NY 13753, USA*****42.266762,-74.922157
+911 North St, Endicott, NY 13760, USA*****42.104450,-76.052427
+12 State St, Norwich, NY 13815, USA*****42.535268,-75.520166
+5631 NY-12, Norwich, NY 13815, USA*****42.514800,-75.524437
+1 State St, Norwich, NY 13815, USA*****42.534617,-75.520437
+NY-12, Norwich, NY, USA*****42.531157,-75.523771
+1000 Main St, Oneonta, NY 13820, USA*****42.460589,-75.013908
+42 W Main St, Owego, NY 13827, USA*****42.098756,-76.270288
+10 Glenwood Ave #5, Binghamton, NY 13905, USA*****42.107799,-75.935903
+1017 Pennsylvania Ave, Matamoras, PA 18336, USA*****41.362459,-74.707009
+1510 S Main Ave, Scranton, PA 18504, USA*****41.394352,-75.691896
+1400 Monroe Ave, Dunmore, PA 18509, USA*****41.420913,-75.643084
+1026 Wyoming Ave, Wyoming, PA 18644, USA*****41.299804,-75.851852
+3rd Ave, Wilkes-Barre, PA 18704, USA*****41.259851,-75.881674
+249 Church St, Montrose, PA 18801, USA*****41.831865,-75.876241
+2725 U.S. Rte 5 N, Windsor, VT 05089, USA*****43.486262,-72.384525
+Manchester, VT 05254, USA*****43.163532,-73.073002
+241 Canal St, Brattleboro, VT 05301, USA*****42.845337,-72.563309
+595 Shelburne Rd, Burlington, VT 05401, USA*****44.449388,-73.210980
+90 Center Rd, Essex Junction, VT 05452, USA*****44.511860,-73.065811
+170 Swanton Rd, St Albans City, VT 05478, USA*****44.835498,-73.083852
+168 Ames Dr, Barre, VT 05641, USA*****44.224633,-72.547670
+Waterford, VT 05819, USA*****44.419337,-72.015542
+US-5, Waterford, VT 05819, USA*****44.419983,-72.015403
+56 Commons Dr, Newport, VT 05855, USA*****44.953581,-72.160491

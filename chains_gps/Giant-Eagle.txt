@@ -1,0 +1,238 @@
+34310 Aurora Rd, Solon, OH 44139, USA*****41.381921,-81.436654
+1000 W Patrick St, Frederick, MD 21703, USA*****39.415833,-77.438943
+7131 Cedar Bridge Ln, Blacklick, OH 43004, USA*****39.988929,-82.815996
+Shireton Dr, Dublin, OH 43016, USA*****40.076358,-83.124709
+1760 Hilliard Rome Rd, Hilliard, OH 43026, USA*****39.987252,-83.148316
+5 Meadow Park Ave, Lewis Center, OH 43035, USA*****40.161704,-83.019167
+5461 New Albany Rd W, New Albany, OH 43054, USA*****40.093049,-82.825520
+553 Hebron Rd, Heath, OH 43056, USA*****40.037164,-82.432364
+650 N State St, Westerville, OH 43082, USA*****40.143119,-82.923516
+1760 Hilliard Rome Rd, Hilliard, OH 43026, USA*****39.987252,-83.148316
+Columbus Pike & E Powell Rd, Orange Township, OH 43035, USA*****40.156854,-83.018485
+873 Refugee Rd, Pickerington, OH 43147, USA*****39.908383,-82.775668
+2801 N High St, Columbus, OH 43202, USA*****40.019075,-83.013142
+280 E Whittier St, Columbus, OH 43206, USA*****39.945476,-82.989298
+1451 W 5th Ave, Columbus, OH 43212, USA*****39.988140,-83.045367
+2900 Stelzer Rd, Columbus, OH 43219, USA*****40.032075,-82.908094
+4747 Sawmill Rd, Columbus, OH 43220, USA*****40.064221,-83.095688
+1775 Kingsdale Center, Upper Arlington, OH 43221, USA*****40.020144,-83.059976
+1640 Fishinger Rd, Columbus, OH 43221, USA*****40.025753,-83.057511
+1798 Kingsdale Center, Upper Arlington, OH 43221, USA*****40.019901,-83.060356
+3472 Stonevista Ln, Columbus, OH 43221, USA*****40.030891,-83.101766
+4780 W Broad St, Columbus, OH 43228, USA*****39.953746,-83.128627
+1000 E Dublin Granville Rd, Columbus, OH 43229, USA*****40.089468,-82.990642
+1250 N Hamilton Rd, Columbus, OH 43230, USA*****40.051822,-82.862380
+9886 Old, US-20, Rossford, OH 43460, USA*****41.543352,-83.585015
+US-20, Perrysburg, OH, USA*****41.557292,-83.627365
+150 E Broadway St, Toledo, OH 43605, USA*****41.650320,-83.516745
+15937 OH-170 #1, East Liverpool, OH 43920, USA*****40.671886,-80.585417
+2223 Kresge Dr, Amherst, OH 44001, USA*****41.416331,-82.205836
+1144 W Prospect Rd, Ashtabula, OH 44004, USA*****41.861371,-80.797115
+31900 Walker Rd, Avon Lake, OH 44012, USA*****41.493773,-81.981632
+31990 Walker Rd, Avon Lake, OH 44012, USA*****41.493700,-81.985695
+50 W Bridge St, Berea, OH 44017, USA*****41.367287,-81.856065
+20 Plaza Dr, Chagrin Falls, OH 44022, USA*****41.431299,-81.389516
+540 Water St, Chardon, OH 44024, USA*****41.582502,-81.215574
+351 Center St, Chardon, OH 44024, USA*****41.583299,-81.218233
+12692 Chillicothe Rd, Chesterland, OH 44026, USA*****41.524118,-81.339314
+320 Market Dr, Elyria, OH 44035, USA*****41.389770,-82.109981
+821 Cleveland St, Elyria, OH 44035, USA*****41.375854,-82.075199
+5298 Detroit Rd, Elyria, OH 44035, USA*****41.426273,-82.076977
+33799 Center Ridge Rd, North Ridgeville, OH 44039, USA*****41.399562,-81.990807
+34085 Center Ridge Rd, North Ridgeville, OH 44039, USA*****41.398333,-81.994938
+755 S Broadway, Geneva, OH 44041, USA*****41.795321,-80.946174
+1945 Cooper Foster Park Rd, Amherst, OH 44001, USA*****41.418270,-82.200457
+4660 N Abbe Rd, Sheffield, OH 44054, USA*****41.427095,-82.077696
+5231 Detroit Rd, Sheffield Lake, OH 44054, USA*****41.427792,-82.079355
+4100 Ivanhoe Ave, Sheffield Lake, OH 44054, USA*****41.487427,-82.112521
+550 E Aurora Rd, Macedonia, OH 44056, USA*****41.313946,-81.518952
+6556 N Ridge Rd, Madison, OH 44057, USA*****41.801494,-81.055973
+15400 W High St, Middlefield, OH 44062, USA*****41.464630,-81.091504
+27264 Lorain Rd, North Olmsted, OH 44070, USA*****41.417053,-81.925452
+1201 Mentor Ave, Painesville, OH 44077, USA*****41.706006,-81.266514
+8960 Darrow Rd, Twinsburg, OH 44087, USA*****41.309474,-81.442068
+8901 Hadden Rd, Twinsburg, OH 44087, USA*****41.310950,-81.454699
+27505 Chardon Rd, Willoughby Hills, OH 44092, USA*****41.584033,-81.487452
+36475 Euclid Ave, Willoughby, OH 44094, USA*****41.630377,-81.427748
+30320 Lakeshore Blvd, Willowick, OH 44095, USA*****41.637645,-81.475996
+11604 Clifton Blvd, Cleveland, OH 44102, USA*****41.487766,-81.767757
+12438 Cedar Rd, Cleveland Heights, OH 44106, USA*****41.500752,-81.593065
+14100 Detroit Ave, Lakewood, OH 44107, USA*****41.486464,-81.791206
+2210 Eldred Ave, Lakewood, OH 44107, USA*****41.472337,-81.813235
+11811 Lake Ave APT 302, Lakewood, OH 44107, USA*****41.488948,-81.770863
+15325 Edgecliff Ave, Cleveland, OH 44111, USA*****41.463452,-81.803818
+3050 W 117th St, Cleveland, OH 44111, USA*****41.468918,-81.771695
+3628 Mayfield Rd, Cleveland Heights, OH 44118, USA*****41.517576,-81.552958
+24601 Chagrin Blvd, Beachwood, OH 44122, USA*****41.465973,-81.505635
+5275 Mayfield Rd, Lyndhurst, OH 44124, USA*****41.520123,-81.489382
+5744 Transportation Blvd, Garfield Heights, OH 44125, USA*****41.404227,-81.612241
+Transportation Blvd, Cleveland, OH 44125, USA*****41.411959,-81.615761
+8201 Day Dr, Parma, OH 44129, USA*****41.378393,-81.739767
+6925 Southland Dr, Middleburg Heights, OH 44130, USA*****41.377488,-81.790306
+6000 Royalton Rd, North Royalton, OH 44133, USA*****41.314828,-81.726347
+1825 Snow Rd, Parma, OH 44134, USA*****41.405235,-81.691264
+5739 Broadview Rd, Parma, OH 44134, USA*****41.407477,-81.690271
+17887 Southpark Center, Strongsville, OH 44136, USA*****41.312517,-81.826274
+5321 Warrensville Center Rd, Maple Heights, OH 44137, USA*****41.415653,-81.535478
+14650 Snow Rd, Brook Park, OH 44142, USA*****41.405847,-81.798010
+5612 Wilson Mills Rd, Highland Heights, OH 44143, USA*****41.537742,-81.477772
+6300 Biddulph Ave, Brooklyn, OH 44144, USA*****41.431740,-81.729983
+6600 Biddulph Ave, Brooklyn, OH 44144, USA*****41.431624,-81.730692
+30275 Detroit Rd, Westlake, OH 44145, USA*****41.461777,-81.955698
+5300 Richmond Rd, Bedford Heights, OH 44146, USA*****41.417009,-81.500903
+900 Northfield Rd, Bedford, OH 44146, USA*****41.389428,-81.526133
+41 5th St NW, Barberton, OH 44203, USA*****41.011825,-81.611559
+3440 Center Rd, Brunswick, OH 44212, USA*****41.236962,-81.809968
+3446 Center Rd, Brunswick, OH 44212, USA*****41.237784,-81.810010
+1423 Jefferson Ave, Brunswick, OH 44212, USA*****41.236577,-81.845920
+75 Graham Rd, Cuyahoga Falls, OH 44223, USA*****41.153872,-81.505227
+1700 Norton Rd, Stow, OH 44224, USA*****41.202058,-81.433924
+1464 Russell Dr, Streetsboro, OH 44241, USA*****41.241476,-81.341213
+4260 OH-44, Rootstown, OH 44272, USA*****41.105680,-81.241061
+205 West Ave, Tallmadge, OH 44278, USA*****41.099886,-81.450043
+160 Great Oaks Trail, Wadsworth, OH 44281, USA*****41.049475,-81.731009
+3750 W Market St Unit Q, Fairlawn, OH 44333, USA*****41.135370,-81.632149
+5555 Youngstown Warren Rd, Niles, OH 44446, USA*****41.215193,-80.749613
+2401 E State St, Salem, OH 44460, USA*****40.899721,-80.826879
+2061 Elm Rd NE, Warren, OH 44483, USA*****41.255323,-80.793387
+2700 Mahoning Ave, Warren, OH 44483, USA*****41.260310,-80.832808
+8202 E Market St, Warren, OH 44484, USA*****41.237108,-80.743527
+2587 Parkman Rd NW, Warren, OH 44485, USA*****41.252131,-80.857455
+4700 Belmont Ave, Girard, OH 44420, USA*****41.166480,-80.666851
+3130 Center Rd, Youngstown, OH 44514, USA*****41.024349,-80.592618
+1800 W State St, Alliance, OH 44601, USA*****40.900756,-81.131330
+11031 OH-212, Bolivar, OH 44612, USA*****40.640834,-81.442233
+907 W Maple St, Hartville, OH 44632, USA*****40.970386,-81.346958
+2032 Lincoln Way E, Massillon, OH 44646, USA*****40.801199,-81.495343
+2873 Carie Hill Cir NW, Massillon, OH 44646, USA*****40.826540,-81.498472
+3113 Green Garden Rd, Aliquippa, PA 15001, USA*****40.598010,-80.304155
+1600 W State St, Baden, PA 15005, USA*****40.657985,-80.236401
+1600 W State St, Baden, PA 15005, USA*****40.657993,-80.236375
+2650 Constitution Blvd, Beaver Falls, PA 15010, USA*****40.776155,-80.378218
+PA-201 & Finley Rd, Lynnwood-Pricedale, PA 15012, USA*****40.136302,-79.843004
+Tri-County Plaza, Rostraver Township, PA 15012, USA*****40.137879,-79.839838
+820 Rostraver Rd, Belle Vernon, PA 15012, USA*****40.137428,-79.840528
+1025 Washington Pike #12, Bridgeville, PA 15017, USA*****40.366553,-80.109376
+100 Chamber Plaza, Charleroi, PA 15022, USA*****40.139102,-79.895897
+800 McKeesport Rd, Elizabeth, PA 15037, USA*****40.279946,-79.875637
+1000 Hayden Blvd, Elizabeth, PA 15037, USA*****40.264757,-79.879427
+1207 Ferry St, Elizabeth, PA 15037, USA*****40.266338,-79.885486
+5600 William Flinn Hwy, Gibsonia, PA 15044, USA*****40.635303,-79.939884
+Quaker Village Shopping Center, Leetsdale, PA 15056, USA*****40.561430,-80.205213
+1274 Laurel Hill Rd, McDonald, PA 15057, USA*****40.366420,-80.221881
+200 Station St, McDonald, PA 15057, USA*****40.367200,-80.236052
+1300 Country Club Rd, Monongahela, PA 15063, USA*****40.172446,-79.916652
+200 Tarentum Bridge Rd, New Kensington, PA 15068, USA*****40.592676,-79.749626
+111 W Madison St, Rochester, PA 15074, USA*****40.701723,-80.288074
+111 Adams St, Rochester, PA 15074, USA*****40.700660,-80.287494
+7000 Oxford Dr, Bethel Park, PA 15102, USA*****40.346922,-80.046650
+5990 University Blvd, Moon, PA 15108, USA*****40.521267,-80.219777
+Old Narrows Run Rd, Moon, PA 15108, USA*****40.526688,-80.207418
+Waterfront Dr E, Munhall, PA 15120, USA*****40.405160,-79.890886
+1356 Hoffman Blvd, West Mifflin, PA 15122, USA*****40.384397,-79.868370
+9971 Mountain View Dr, West Mifflin, PA 15122, USA*****40.340422,-79.951248
+PA-88, Pennsylvania, USA*****40.038783,-79.920791
+PA-48 & Walnut St, McKeesport, PA 15132, USA*****40.323606,-79.838917
+2001 Lincoln Way, White Oak, PA 15131, USA*****40.336015,-79.805011
+3812 Oneil Blvd, McKeesport, PA 15132, USA*****40.347246,-79.831162
+1700 Lincoln Hwy, North Versailles, PA 15137, USA*****40.369833,-79.786068
+1701 Lincoln Hwy, North Versailles, PA 15137, USA*****40.372022,-79.785680
+2611 Freeport Rd, Pittsburgh, PA 15238, USA*****40.536936,-79.839664
+666 Allegheny River Blvd, Oakmont, PA 15139, USA*****40.520883,-79.841491
+Sewickley, PA 15143, USA*****40.536485,-80.184424
+4010 Monroeville Blvd, Monroeville, PA 15146, USA*****40.432029,-79.772755
+200 Allegheny River Blvd, Verona, PA 15147, USA*****40.499198,-79.844555
+4701 Plummer St, Pittsburgh, PA 15201, USA*****40.474747,-79.959098
+2021 Wharton St, Pittsburgh, PA 15203, USA*****40.431118,-79.976684
+6511 Steubenville Pike, Pittsburgh, PA 15205, USA*****40.446050,-80.163071
+35 Sterrett St, Crafton, PA 15205, USA*****40.430184,-80.061495
+6320 Shakespeare St #1, Pittsburgh, PA 15206, USA*****40.458611,-79.920760
+318 Cedar Ave, Pittsburgh, PA 15212, USA*****40.451602,-79.999575
+4110 Brighton Rd, Pittsburgh, PA 15212, USA*****40.489229,-80.044201
+1908 Murray Ave, Pittsburgh, PA 15217, USA*****40.435648,-79.923093
+1901 Murray Ave, Pittsburgh, PA 15217, USA*****40.435734,-79.922526
+1705 S Braddock Ave, Pittsburgh, PA 15218, USA*****40.425717,-79.886557
+1717 Cochran Rd, Pittsburgh, PA 15220, USA*****40.392758,-80.065786
+Parkway Center Mall, 1165 McKinney Ln, Pittsburgh, PA 15220, USA*****40.422820,-80.035425
+254 Yost Blvd, Pittsburgh, PA 15221, USA*****40.414559,-79.855670
+600 Towne Square Way, Brentwood, PA 15227, USA*****40.365724,-79.983271
+330 Greenlee Rd, Pittsburgh, PA 15227, USA*****40.376069,-79.982857
+1540 Washington Rd, Pittsburgh, PA 15228, USA*****40.355671,-80.050720
+1029 Park Plaza Dr, Pittsburgh, PA 15229, USA*****40.513858,-80.031264
+5237 Fifth Ave, Pittsburgh, PA 15232, USA*****40.448187,-79.935578
+5550 Centre Ave, Pittsburgh, PA 15232, USA*****40.456493,-79.934605
+862 Sleepy Hollow Rd, Pittsburgh, PA 15234, USA*****40.372951,-80.018108
+230 Rodi Rd, Pittsburgh, PA 15235, USA*****40.462359,-79.826919
+9001 Frankstown Rd, Pittsburgh, PA 15235, USA*****40.462284,-79.865209
+1 Parkridge Dr, Pittsburgh, PA 15235, USA*****40.470135,-79.820559
+7505 Saltsburg Rd, Pittsburgh, PA 15235, USA*****40.476901,-79.782384
+132 Ben Avon Heights Rd, Pittsburgh, PA 15237, USA*****40.521666,-80.069033
+8050 McKnight Rd #7, Pittsburgh, PA 15237, USA*****40.554940,-80.018994
+9805 McKnight Rd #6, Pittsburgh, PA 15237, USA*****40.584639,-80.040394
+Pittsburgh, PA, USA*****40.440625,-79.995886
+910 Freeport Rd, Pittsburgh, PA 15238, USA*****40.488520,-79.893768
+2611 Freeport Rd, Pittsburgh, PA 15238, USA*****40.537914,-79.838822
+1700 William Pitt Way, Pittsburgh, PA 15238, USA*****40.543311,-79.827716
+575 Epsilon Dr #3, Pittsburgh, PA 15238, USA*****40.496399,-79.877138
+Pittsburgh, PA 15253, USA*****40.440000,-79.960000
+Washington, PA 15301, USA*****40.173960,-80.246171
+155 Wilson Rd, Bentleyville, PA 15314, USA*****40.129842,-80.002921
+4007 Washington Rd, Canonsburg, PA 15317, USA*****40.269135,-80.126633
+3701 PA-88, Finleyville, PA 15332, USA*****40.248855,-80.005107
+2556 PA-88, Finleyville, PA 15332, USA*****40.244515,-80.000671
+999 N Eighty Eight Rd, Rices Landing, PA 15357, USA*****39.942825,-80.014977
+137 Main St, Rices Landing, PA 15357, USA*****39.950468,-80.001451
+100 Sugar Run Rd, Waynesburg, PA 15370, USA*****39.894597,-80.168063
+581 Pittsburgh Rd, Uniontown, PA 15401, USA*****39.923335,-79.726683
+1606 N Center Ave #110, Somerset, PA 15501, USA*****40.036784,-79.073156
+4192 Glades Pike, Somerset, PA 15501, USA*****40.011549,-79.107749
+510 E Pitt St, Bedford, PA 15522, USA*****40.018978,-78.495261
+66 US-30, Berlin, NJ 08009, USA*****39.800404,-74.937731
+30 PA-66, Apollo, PA 15613, USA*****40.571999,-79.570519
+1120 E Pittsburgh St, Greensburg, PA 15601, USA*****40.300918,-79.497627
+5142 US-30, Greensburg, PA 15601, USA*****40.300663,-79.497766
+4810 Old William Penn Hwy #5, Murrysville, PA 15632, USA*****40.424641,-79.661971
+4840 Old William Penn Hwy, Murrysville, PA 15632, USA*****40.424505,-79.662051
+Harrison City Export Rd, Harrison City, PA, USA*****40.356063,-79.648392
+8931 US-30, North Huntingdon, PA 15642, USA*****40.321263,-79.688171
+US-30, Irwin, PA, USA*****40.324162,-79.701380
+8931 US-30, Irwin, PA 15642, USA*****40.321331,-79.688271
+2000 Penny Ln Dr, Jeannette, PA 15644, USA*****40.365413,-79.641631
+1050 Mountain Laurel Plaza, Latrobe, PA 15650, USA*****40.282932,-79.391429
+41 Towne Center Dr, Leechburg, PA 15656, USA*****40.607015,-79.608590
+117 S Walnut St, Ligonier, PA 15658, USA*****40.246569,-79.245185
+435 S 7th St, Indiana, PA 15701, USA*****40.616988,-79.153001
+3100 Oakland Ave, Indiana, PA 15701, USA*****40.602243,-79.194943
+7 Cottonwood St, Northern Cambria, PA 15714, USA*****40.661157,-78.783304
+500 Galleria Dr, Johnstown, PA 15904, USA*****40.295737,-78.833432
+1233 Broad St, Johnstown, PA 15906, USA*****40.345402,-78.939873
+1521 N Main St Ext, Butler, PA 16001, USA*****40.899562,-79.904752
+206 Seven Fields Blvd, Seven Fields, PA 16046, USA*****40.688239,-80.056577
+550 S Pike Rd, Sarver, PA 16055, USA*****40.706760,-79.725414
+100 Buffalo Plaza, Sarver, PA 16055, USA*****40.707283,-79.726053
+223 Grove City Rd #4, Slippery Rock, PA 16057, USA*****41.070759,-80.053129
+20111 Rte 19 #19, Cranberry Twp, PA 16066, USA*****40.684462,-80.106746
+Cranberry Twp, PA 16066, USA*****40.682708,-80.102437
+1700 New Butler Rd Ste A, New Castle, PA 16101, USA*****40.985470,-80.312935
+289 PA-288, Ellwood City, PA 16117, USA*****40.847826,-80.258094
+50 Hadley Rd, Greenville, PA 16125, USA*****41.412979,-80.361080
+602 E 2nd St, Oil City, PA 16301, USA*****41.426333,-79.703789
+6945 US-322, Cranberry, PA 16319, USA*****41.353211,-79.716519
+18511 Smock Hwy, Meadville, PA 16335, USA*****41.618652,-80.167453
+18499 Smock Hwy, Meadville, PA 16335, USA*****41.619857,-80.167104
+606 Erie St, Edinboro, PA 16412, USA*****41.888947,-80.126371
+606 Erie St #4, Edinboro, PA 16412, USA*****41.888947,-80.126371
+9125 W Ridge Rd, Girard, PA 16417, USA*****42.008264,-80.301287
+2501 W 12th St, Erie, PA 16505, USA*****42.103097,-80.135246
+7200 Peach St #170, Erie, PA 16509, USA*****42.051957,-80.090564
+4400 Buffalo Rd, Erie, PA 16510, USA*****42.146061,-80.003364
+5800 Peach St, Erie, PA 16509, USA*****42.067591,-80.096222
+516 W Plank Rd #520, Altoona, PA 16602, USA*****40.473448,-78.408040
+510 PA-36, Roaring Spring, PA 16673, USA*****40.329330,-78.391931
+Tyrone, PA 16686, USA*****40.670618,-78.238624
+Glenside, PA, USA*****40.099908,-75.152793
+201 S Barstow St, Eau Claire, WI 54701, USA*****44.811535,-91.499820
+600 7th St, Moundsville, WV 26041, USA*****39.918459,-80.746048
+Moundsville, WV 26041, USA*****39.920353,-80.743141
+130 Green Bag Road, Morgantown, WV 26501, USA*****39.607923,-79.962111
+4500 University Town Centre Dr, Morgantown, WV 26501, USA*****39.649725,-80.004642

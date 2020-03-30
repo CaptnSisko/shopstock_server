@@ -1,0 +1,93 @@
+1 National Data Plaza NE, Atlanta, GA 30329, USA*****33.835221,-84.329811
+122 Shawan Rd, Cockeysville, MD 21030, USA*****39.497941,-76.656613
+122 Shawan Rd, Cockeysville, MD 21030, USA*****39.497941,-76.656613
+15 Woodbridge Center Dr, Woodbridge, NJ 07095, USA*****40.549492,-74.294954
+1104 NJ-35, Ocean Township, NJ 07712, USA*****40.239517,-74.039051
+55 U.S. 9, Englishtown, NJ 07726, USA*****40.290919,-74.299916
+2100 NJ-70, Cherry Hill, NJ 08002, USA*****39.922881,-75.034749
+Cherry Hill, NJ 08034, USA*****39.902194,-74.996854
+2 Centerton Rd, Mt Laurel Township, NJ 08054, USA*****39.967637,-74.915983
+Mt Laurel Township, NJ 08054, USA*****39.935819,-74.909185
+Moorestown, NJ 08057, USA*****39.968882,-74.948886
+240 Nassau Park Blvd, Princeton, NJ 08540, USA*****40.306002,-74.674990
+724 US-202, Bridgewater Township, NJ 08807, USA*****40.573738,-74.670648
+1 Loop Rd, Auburn, NY 13021, USA*****42.931642,-76.564898
+7952 Brewerton Rd, Cicero, NY 13039, USA*****43.155312,-76.118992
+5814 Bridge St, East Syracuse, NY 13057, USA*****43.051733,-76.067682
+4722 Onondaga Blvd, Syracuse, NY 13219, USA*****43.031744,-76.190283
+3955 NY-31, Liverpool, NY 13090, USA*****43.187371,-76.237794
+6789 E Genesee St, Fayetteville, NY 13066, USA*****43.033320,-76.053556
+4979 W Taft Rd, Liverpool, NY 13088, USA*****43.123072,-76.169951
+7519 Oswego Rd, Liverpool, NY 13090, USA*****43.133944,-76.225280
+7518 Oswego Rd, Liverpool, NY 13090, USA*****43.134665,-76.222648
+3955 NY-31, Liverpool, NY 13090, USA*****43.187393,-76.238135
+3953 NY-31, Liverpool, NY 13090, USA*****43.185833,-76.239099
+4722 Onondaga Blvd, Syracuse, NY 13219, USA*****43.031744,-76.190283
+3577 W Genesee St, Syracuse, NY 13219, USA*****43.047985,-76.233830
+651 Dick Rd, Depew, NY 14043, USA*****42.920908,-78.736539
+4960 Transit Rd, Depew, NY 14043, USA*****42.881508,-78.699964
+244 Allen St, Buffalo, NY 14201, USA*****42.899383,-78.879131
+3740 McKinley Pkwy, Buffalo, NY 14219, USA*****42.783054,-78.812248
+5275 Sheridan Dr, Williamsville, NY 14221, USA*****42.976514,-78.736848
+370 Orchard Park Rd, West Seneca, NY 14224, USA*****42.834817,-78.784242
+2001 Walden Ave, Cheektowaga, NY 14225, USA*****42.905682,-78.763725
+675 Alberta Dr, Amherst, NY 14226, USA*****42.989433,-78.815788
+3135 Niagara Falls Blvd, Buffalo, NY 14228, USA*****43.038929,-78.820219
+1577 Military Rd, Niagara Falls, NY 14304, USA*****43.095073,-78.969655
+6660 4th Section Rd, Brockport, NY 14420, USA*****43.200293,-77.946415
+Canandaigua, NY 14424, USA*****42.887535,-77.281698
+345 Eastern Blvd, Canandaigua, NY 14424, USA*****42.875561,-77.255088
+6600 Pittsford Palmyra Rd, Fairport, NY 14450, USA*****43.071309,-77.445994
+Lakeview Dr, Geneseo, NY 14454, USA*****42.764032,-77.730224
+4276 Lakeville Rd, Geneseo, NY 14454, USA*****42.797104,-77.784108
+4283 Genesee Valley Plaza Rd, Geneseo, NY 14454, USA*****42.797910,-77.783372
+300 Hamilton St, Geneva, NY 14456, USA*****42.859801,-76.996527
+800 W Miller St, Newark, NY 14513, USA*****43.045040,-77.112157
+6788 NY-31 E, Newark, NY 14513, USA*****43.051677,-77.057706
+6788 NY-31 E, Newark, NY 14513, USA*****43.051677,-77.057706
+2157 Penfield Rd, Penfield, NY 14526, USA*****43.129659,-77.445652
+213 Cedar Cir, Spencerport, NY 14559, USA*****43.195721,-77.785530
+Webster, NY 14580, USA*****43.212285,-77.429994
+924 Copper Kettle Rd, Webster, NY 14580, USA*****43.223947,-77.467172
+Fairport Rd, New York, USA*****43.104703,-77.488320
+945 Fairmount Ave, Rochester, NY 14626, USA*****43.211996,-77.705673
+3701 Mt Read Blvd, Rochester, NY 14616, USA*****43.226222,-77.660592
+353 Stowell Dr, Rochester, NY 14616, USA*****43.237253,-77.688359
+525 Titus Ave, Irondequoit, NY 14617, USA*****43.208590,-77.602952
+3195 Monroe Ave, Rochester, NY 14618, USA*****43.106588,-77.543491
+94 Alliance Ave, Rochester, NY 14620, USA*****43.137375,-77.582029
+21 Suter Terrace, Rochester, NY 14620, USA*****43.141707,-77.583959
+3131 Winton Rd, Rochester, NY 14623, USA*****43.090364,-77.584248
+2599 E Henrietta Rd, Rochester, NY 14623, USA*****43.069579,-77.609040
+745 Calkins Rd, Rochester, NY 14623, USA*****43.066944,-77.612262
+650 Hylan Dr, Rochester, NY 14623, USA*****43.083104,-77.627480
+1885 Chili Ave, Rochester, NY 14624, USA*****43.131562,-77.684212
+1500 Brooks Ave, Rochester, NY 14624, USA*****43.133040,-77.677234
+3175 Chili Ave, Rochester, NY 14624, USA*****43.105328,-77.744806
+1214 Brooks Ave, Rochester, NY 14624, USA*****43.131630,-77.669092
+2200 W Ridge Rd, Rochester, NY 14626, USA*****43.208780,-77.686256
+2835 W Ridge Rd, Rochester, NY 14626, USA*****43.210107,-77.704158
+2833 W Ridge Rd, Rochester, NY 14626, USA*****43.208898,-77.706754
+945 Fairmount Ave, Jamestown, NY 14701, USA*****42.094635,-79.290742
+1 Bridge St, Corning, NY 14830, USA*****42.148797,-77.061155
+1000 NY-36, Hornell, NY 14843, USA*****42.348267,-77.669875
+500 S Meadow St, Ithaca, NY 14850, USA*****42.435682,-76.510705
+5028 W Ridge Rd, Erie, PA 16506, USA*****42.070098,-80.190819
+104 Valley Vista Dr, State College, PA 16803, USA*****40.812093,-77.926248
+6416 Carlisle Pike, Mechanicsburg, PA 17050, USA*****40.247760,-77.006401
+201 William St, Williamsport, PA 17701, USA*****41.237907,-77.005166
+1009 Washington Blvd, Williamsport, PA 17701, USA*****41.249249,-76.985233
+301 W Main St, Valley View, PA 17983, USA*****40.646993,-76.523646
+5000 Wegmans Dr, Bethlehem, PA 18017, USA*****40.665324,-75.388798
+3791 Nazareth Rd, Easton, PA 18045, USA*****40.711952,-75.282152
+306 Butztown Rd, Bethlehem, PA 18020, USA*****40.696683,-75.331880
+US-6, Olyphant, PA, USA*****41.451309,-75.583073
+220 Highland Park Blvd, Wilkes-Barre Township, PA 18702, USA*****41.236738,-75.861202
+1405 N Main St, Warrington, PA 18976, USA*****40.230393,-75.131957
+7500 Iron Bar Ln, Gainesville, VA 20155, USA*****38.795367,-77.610785
+8297 Stonewall Shops Square, Gainesville, VA 20155, USA*****38.784336,-77.653278
+21376 Potomac View Rd, Sterling, VA 20164, USA*****39.023736,-77.392237
+45131 Columbia Pl, Sterling, VA 20166, USA*****39.007084,-77.440615
+720 Grant St, Herndon, VA 20170, USA*****38.969382,-77.378603
+11620 Monument Dr, Fairfax, VA 22030, USA*****38.851101,-77.347697
+1340 Central Park Blvd, Fredericksburg, VA 22401, USA*****38.303458,-77.512764

@@ -1,0 +1,255 @@
+One Wilshire Building, 624 S Grand Ave, Los Angeles, CA 90017, USA*****34.047948,-118.255358
+1430 S Fairfax Ave, Los Angeles, CA 90019, USA*****34.050539,-118.366192
+3461 W 3rd St, Los Angeles, CA 90020, USA*****34.070001,-118.290940
+11750 Wilshire Blvd, Los Angeles, CA 90025, USA*****34.048550,-118.461928
+11674 Santa Monica Blvd, Los Angeles, CA 90025, USA*****34.043144,-118.454790
+1342 N Alvarado St, Los Angeles, CA 90026, USA*****34.079470,-118.261342
+4520 Sunset Blvd, Los Angeles, CA 90027, USA*****34.096973,-118.288017
+2511 Daly St, Los Angeles, CA 90031, USA*****34.075423,-118.216569
+3118 S Sepulveda Blvd, Los Angeles, CA 90034, USA*****34.026586,-118.426950
+9860 National Blvd, Los Angeles, CA 90034, USA*****34.030187,-118.401431
+727 Vine St, Los Angeles, CA 90038, USA*****34.084480,-118.327109
+6921 La Tijera Blvd, Los Angeles, CA 90045, USA*****33.976031,-118.374231
+6571 W 80th St, Los Angeles, CA 90045, USA*****33.969326,-118.405448
+4030 S Centinela Ave, Los Angeles, CA 90066, USA*****33.999271,-118.429055
+8969 Santa Monica Blvd, West Hollywood, CA 90069, USA*****34.083723,-118.387350
+10001 Paramount Blvd, Downey, CA 90240, USA*****33.954743,-118.129549
+1260 W Redondo Beach Blvd, Gardena, CA 90247, USA*****33.890918,-118.297818
+14617 Estrella Ave, Gardena, CA 90248, USA*****33.899046,-118.285972
+715 Pier Ave, Hermosa Beach, CA 90254, USA*****33.865877,-118.394415
+410 Manhattan Ave, Hermosa Beach, CA 90254, USA*****33.856756,-118.397353
+410 Manhattan Beach Blvd, Manhattan Beach, CA 90266, USA*****33.885076,-118.407872
+17380 Sunset Blvd, Pacific Palisades, CA 90272, USA*****34.039295,-118.553990
+7 Peninsula Center, Rolling Hills Estates, CA 90274, USA*****33.775584,-118.377881
+1212 Beryl St, Redondo Beach, CA 90277, USA*****33.853941,-118.380259
+245 Palos Verdes Blvd, Redondo Beach, CA 90277, USA*****33.816395,-118.385912
+4001 Inglewood Ave, Redondo Beach, CA 90278, USA*****33.893034,-118.362448
+4365 Glencoe Ave, Marina Del Rey, CA 90292, USA*****33.985047,-118.439767
+500 E Manchester Blvd, Inglewood, CA 90301, USA*****33.960403,-118.349300
+710 Broadway, Santa Monica, CA 90401, USA*****34.017257,-118.490081
+1311 Wilshire Blvd, Santa Monica, CA 90403, USA*****34.026422,-118.489740
+24325 Crenshaw Blvd, Torrance, CA 90505, USA*****33.805135,-118.330449
+10642 Scott Ave, Whittier, CA 90603, USA*****33.937181,-118.000150
+2101 W Imperial Hwy, La Habra, CA 90631, USA*****33.918690,-117.969015
+12721 Valley View Ave, La Mirada, CA 90638, USA*****33.916134,-118.030593
+804 W Beverly Blvd, Montebello, CA 90640, USA*****34.020261,-118.106004
+123 Metropole Ave, Avalon, CA 90704, USA*****33.344156,-118.327222
+4226 Woodruff Ave, Lakewood, CA 90713, USA*****33.835018,-118.115285
+12565 E Carson St, Hawaiian Gardens, CA 90716, USA*****33.832780,-118.064152
+11322 Los Alamitos Blvd, Los Alamitos, CA 90720, USA*****33.797895,-118.070747
+1221 S Gaffey St, San Pedro, CA 90731, USA*****33.732988,-118.293680
+1440 W 25th St, San Pedro, CA 90732, USA*****33.723080,-118.310973
+600 E Broadway, Long Beach, CA 90803, USA*****33.768935,-118.184415
+4550 Atlantic Ave, Long Beach, CA 90807, USA*****33.840902,-118.182662
+3242 N Studebaker Rd, Long Beach, CA 90808, USA*****33.815773,-118.098666
+1820 Ximeno Ave, Long Beach, CA 90815, USA*****33.790461,-118.137321
+635 Foothill Blvd, La Cañada Flintridge, CA 91011, USA*****34.202740,-118.192231
+Coast Village Rd, Santa Barbara, CA 93108, USA*****34.421249,-119.646588
+2039 Verdugo Blvd, Montrose, CA 91020, USA*****34.205699,-118.221504
+1129 Fair Oaks Ave, South Pasadena, CA 91030, USA*****34.112904,-118.151491
+7789 Foothill Blvd, Tujunga, CA 91042, USA*****34.259065,-118.301079
+655 N Fair Oaks Ave, Pasadena, CA 91103, USA*****34.156737,-118.152222
+1390 Allen Ave, Pasadena, CA 91104, USA*****34.169971,-118.111890
+155 W California Blvd, Pasadena, CA 91105, USA*****34.136640,-118.153575
+2355 E Colorado Blvd, Pasadena, CA 91107, USA*****34.147471,-118.102209
+561 N Glendale Ave, Glendale, CA 91206, USA*****34.154975,-118.244713
+3233 Foothill Blvd, Glendale, CA 91214, USA*****34.231140,-118.250195
+5671 Kanan Rd, Agoura Hills, CA 91301, USA*****34.153664,-118.759181
+8201 Topanga Canyon Blvd, Canoga Park, CA 91304, USA*****34.218271,-118.607332
+20440 Devonshire St, Chatsworth, CA 91311, USA*****34.256707,-118.578613
+2100 Newbury Rd, Thousand Oaks, CA 91320, USA*****34.182738,-118.923827
+9119 Reseda Blvd, Northridge, CA 91324, USA*****34.235955,-118.537756
+19333 Victory Blvd, Reseda, CA 91335, USA*****34.187677,-118.554537
+13730 Foothill Blvd, Sylmar, CA 91342, USA*****34.308293,-118.433196
+16130 Nordhoff St, North Hills, CA 91343, USA*****34.234877,-118.483921
+16830 San Fernando Mission Blvd, Granada Hills, CA 91344, USA*****34.270979,-118.498896
+10321 Sepulveda Blvd, Mission Hills, CA 91345, USA*****34.258305,-118.468252
+26518 Bouquet Canyon Rd, Santa Clarita, CA 91350, USA*****34.427021,-118.535202
+18439 Ventura Blvd, Tarzana, CA 91356, USA*****34.169015,-118.534290
+Thousand Oaks, CA 91360, USA*****34.202470,-118.874143
+2725 Agoura Rd, Westlake Village, CA 91361, USA*****34.152948,-118.825837
+2048 E Avenida De Los Arboles, Thousand Oaks, CA 91362, USA*****34.209986,-118.840837
+23381 Mulholland Dr, Woodland Hills, CA 91364, USA*****34.159128,-118.634535
+25850 The Old Rd, Valencia, CA 91381, USA*****34.391174,-118.572045
+16550 Soledad Canyon Rd, Canyon Country, CA 91387, USA*****34.425572,-118.425219
+14845 Ventura Blvd, Sherman Oaks, CA 91403, USA*****34.153333,-118.456559
+1011 N San Fernando Blvd, Burbank, CA 91504, USA*****34.187061,-118.319072
+301 N Pass Ave, Burbank, CA 91505, USA*****34.154772,-118.346728
+1111 W Alameda Ave, Burbank, CA 91506, USA*****34.163637,-118.314323
+6140 Lankershim Blvd, North Hollywood, CA 91606, USA*****34.182682,-118.383995
+932 E Badillo St, Covina, CA 91724, USA*****34.085090,-117.871527
+6351 Haven Ave, Rancho Cucamonga, CA 91737, USA*****34.138731,-117.574073
+2122 S Hacienda Blvd, Hacienda Heights, CA 91745, USA*****33.994971,-117.967276
+2340 Foothill Blvd, La Verne, CA 91750, USA*****34.110335,-117.761251
+6170 Hamner Ave, Eastvale, CA 91752, USA*****33.976525,-117.557839
+5580 Moreno St, Montclair, CA 91763, USA*****34.090018,-117.684168
+240 S Diamond Bar Blvd, Diamond Bar, CA 91765, USA*****34.021866,-117.809253
+1160 Via Verde, San Dimas, CA 91773, USA*****34.072565,-117.829036
+375 W Arrow Hwy, Upland, CA 91786, USA*****34.099949,-117.655792
+81 W Foothill Blvd, Upland, CA 91786, USA*****34.108345,-117.652801
+350 N Lemon Ave, Walnut, CA 91789, USA*****34.019636,-117.863927
+777 S Glendora Ave, West Covina, CA 91790, USA*****34.062571,-117.932431
+4404 Bonita Rd, Bonita, CA 91902, USA*****32.659911,-117.031399
+505 Telegraph Canyon Rd, Chula Vista, CA 91910, USA*****32.629458,-117.040515
+360 E H St, Chula Vista, CA 91910, USA*****32.639000,-117.050924
+870 3rd Ave, Chula Vista, CA 91911, USA*****32.621839,-117.072884
+3681 Avocado Blvd, La Mesa, CA 91941, USA*****32.747989,-116.960475
+5630 Lake Murray Blvd, La Mesa, CA 91942, USA*****32.782343,-117.032422
+2560 El Camino Real, Carlsbad, CA 92010, USA*****33.178714,-117.324736
+905 Tamarack Ave, Carlsbad, CA 92008, USA*****33.152153,-117.336419
+985 Tamarack Ave, Carlsbad, CA 92008, USA*****33.152278,-117.333960
+at La Costa Shopping Center, 7710 El Camino Real, La Costa, CA 92009, USA*****33.084558,-117.267520
+501 Stratford Ct, Del Mar, CA 92014, USA*****32.948836,-117.262520
+2606 Del Mar Heights Rd, Del Mar, CA 92014, USA*****32.951488,-117.246576
+2505 Fletcher Pkwy, El Cajon, CA 92020, USA*****32.802021,-116.998924
+2800 Fletcher Pkwy, El Cajon, CA 92020, USA*****32.800926,-117.003729
+950 N 2nd St, El Cajon, CA 92021, USA*****32.808440,-116.936763
+453 Santa Fe Dr, Cardiff, CA 92007, USA*****33.034768,-117.282787
+262 N El Camino Real, Encinitas, CA 92024, USA*****33.051139,-117.262251
+351 W Felicita Ave, Escondido, CA 92025, USA*****33.103163,-117.073248
+330 W El Norte Pkwy, Escondido, CA 92026, USA*****33.143552,-117.094147
+1000 W El Norte Pkwy, Escondido, CA 92026, USA*****33.148425,-117.107471
+2345 E Valley Pkwy, Escondido, CA 92027, USA*****33.139717,-117.044740
+7544 Girard Ave, La Jolla, CA 92037, USA*****32.841687,-117.273582
+12419 Woodside Ave, Lakeside, CA 92040, USA*****32.855927,-116.924251
+845 College Blvd, Oceanside, CA 92057, USA*****33.240727,-117.294615
+13438 Poway Rd, Poway, CA 92064, USA*****32.957884,-117.039595
+9643 Mission Gorge Rd, Santee, CA 92071, USA*****32.837407,-116.987194
+931 Lomas Santa Fe Dr, Solana Beach, CA 92075, USA*****32.994054,-117.254502
+940 S Santa Fe Ave, Vista, CA 92084, USA*****33.194221,-117.232612
+450 W University Ave, San Diego, CA 92103, USA*****32.749281,-117.168247
+1702 Garnet Ave, San Diego, CA 92109, USA*****32.802008,-117.238855
+3645 Midway Dr, San Diego, CA 92110, USA*****32.751159,-117.217448
+5555 Balboa Ave, San Diego, CA 92111, USA*****32.818513,-117.179108
+6155 El Cajon Blvd, San Diego, CA 92115, USA*****32.760896,-117.064973
+3610 Adams Ave, San Diego, CA 92116, USA*****32.764143,-117.114662
+4725 Clairemont Dr, San Diego, CA 92117, USA*****32.830337,-117.205051
+868 Orange Ave, Coronado, CA 92118, USA*****32.687877,-117.179321
+6555 Mission Gorge Rd, San Diego, CA 92120, USA*****32.792439,-117.096416
+3993 Governor Dr, San Diego, CA 92122, USA*****32.853467,-117.203212
+7788 Regents Rd, San Diego, CA 92122, USA*****32.862587,-117.223425
+3550 Murphy Canyon Rd, San Diego, CA 92123, USA*****32.807311,-117.116640
+10460 Clairemont Mesa Blvd, San Diego, CA 92124, USA*****32.830452,-117.104228
+8310 Mira Mesa Blvd, San Diego, CA 92126, USA*****32.915301,-117.144886
+11906 Bernardo Plaza Dr, San Diego, CA 92128, USA*****33.020278,-117.074526
+13255 Black Mountain Rd, San Diego, CA 92129, USA*****32.957486,-117.124907
+4627 Carmel Mountain Rd, San Diego, CA 92130, USA*****32.920305,-117.214973
+3850 Valley Centre Dr, San Diego, CA 92130, USA*****32.939389,-117.231783
+10016 Scripps Ranch Blvd, San Diego, CA 92131, USA*****32.903091,-117.100461
+10675 Scripps Poway Pkwy, San Diego, CA 92131, USA*****32.935459,-117.098347
+620 Dennery Rd, San Diego, CA 92173, USA*****32.583117,-117.034721
+665 Saturn Blvd, San Diego, CA 92154, USA*****32.584912,-117.090102
+475 W Main St, Brawley, CA 92227, USA*****32.979197,-115.550437
+14200 Palm Dr, Desert Hot Springs, CA 92240, USA*****33.945398,-116.499970
+66455 5th St #1, Desert Hot Springs, CA 92240, USA*****33.965699,-116.502218
+750 N Imperial Ave, El Centro, CA 92243, USA*****32.798849,-115.571716
+78-271 CA-111, La Quinta, CA 92253, USA*****33.714770,-116.297950
+72675 CA-111, Palm Desert, CA 92260, USA*****33.720254,-116.396541
+73443 Highland Springs Dr, Palm Desert, CA 92260, USA*****33.767147,-116.383123
+2315 E Tahquitz Canyon Way, Palm Springs, CA 92262, USA*****33.822076,-116.521040
+4733 E Palm Canyon Dr, Palm Springs, CA 92264, USA*****33.792238,-116.494410
+42424 Bob Hope Dr, Rancho Mirage, CA 92270, USA*****33.738869,-116.408015
+57590 Twentynine Palms Highway, Yucca Valley, CA 92284, USA*****34.126864,-116.408231
+1270 E Main St, Barstow, CA 92311, USA*****34.895796,-117.008504
+Grand Terrace, CA 92313, USA*****34.034378,-117.308758
+42170 Big Bear Blvd, Big Bear Lake, CA 92315, USA*****34.252403,-116.885077
+7390 Cherry Ave, Fontana, CA 92336, USA*****34.119892,-117.490461
+17390 Main St, Hesperia, CA 92345, USA*****34.420647,-117.284053
+522 Orange St, Redlands, CA 92374, USA*****34.059888,-117.181084
+12199 Hesperia Rd, Victorville, CA 92395, USA*****34.472577,-117.289683
+33644 Yucaipa Blvd, Yucaipa, CA 92399, USA*****34.035368,-117.070076
+12941 2nd St, Yucaipa, CA 92399, USA*****34.018682,-117.041665
+3520 Riverside Plaza Dr, Riverside, CA 92506, USA*****33.954647,-117.389480
+31564 Grape St, Lake Elsinore, CA 92532, USA*****33.660825,-117.293605
+3125 W Florida Ave, Hemet, CA 92545, USA*****33.746565,-117.004632
+38995 Sky Canyon Dr Ste B, Murrieta, CA 92563, USA*****33.554046,-117.138768
+27220 Sun City Blvd, Menifee, CA 92586, USA*****33.712898,-117.193196
+53 Diamante, Irvine, CA 92620, USA*****33.715619,-117.754265
+185 E 17th St, Costa Mesa, CA 92627, USA*****33.634549,-117.920415
+24270 El Toro Rd, Laguna Woods, CA 92637, USA*****33.609929,-117.723325
+8891 Atlanta Ave, Huntington Beach, CA 92646, USA*****33.658475,-117.973042
+5922 Edinger Ave, Huntington Beach, CA 92649, USA*****33.729061,-118.025540
+600 N Coast Hwy, Laguna Beach, CA 92651, USA*****33.546094,-117.793778
+14882 Wilson St, Midway City, CA 92655, USA*****33.746092,-117.982793
+32401 Camino Capistrano, San Juan Capistrano, CA 92675, USA*****33.492644,-117.663560
+28751 Los Alisos Blvd, Mission Viejo, CA 92692, USA*****33.655667,-117.630090
+3650 S Bristol St, Santa Ana, CA 92704, USA*****33.698199,-117.887013
+2701 S Harbor Blvd, Santa Ana, CA 92704, USA*****33.711411,-117.917943
+17662 17th St, Tustin, CA 92780, USA*****33.758697,-117.823541
+550 E 1st St, Tustin, CA 92780, USA*****33.743633,-117.817560
+130 W Lincoln Ave, Anaheim, CA 92805, USA*****33.835019,-117.914592
+5600 E Santa Ana Canyon Rd, Anaheim, CA 92807, USA*****33.849837,-117.791666
+780 N Brea Blvd, Brea, CA 92821, USA*****33.930601,-117.893137
+12961 Chapman Ave, Garden Grove, CA 92840, USA*****33.789650,-117.907229
+11861 Valley View St, Garden Grove, CA 92845, USA*****33.790168,-118.029038
+2684 N Tustin St, Orange, CA 92865, USA*****33.833338,-117.837548
+369 Magnolia Ave, Corona, CA 92879, USA*****33.854331,-117.563159
+4848 Valley View Ave, Yorba Linda, CA 92886, USA*****33.889638,-117.826888
+2433 E Harbor Blvd, Ventura, CA 93001, USA*****34.262974,-119.270121
+115 W Main St, Ventura, CA 93001, USA*****34.282336,-119.302467
+6040 Telegraph Rd, Ventura, CA 93003, USA*****34.276860,-119.212554
+820 Arneill Rd, Camarillo, CA 93010, USA*****34.224801,-119.036992
+5275 Mission Oaks Blvd, Camarillo, CA 93012, USA*****34.229742,-118.998572
+850 Linden Ave, Carpinteria, CA 93013, USA*****34.397256,-119.518833
+636 W Ventura St, Fillmore, CA 93015, USA*****34.395076,-118.916560
+4241 Tierra Rejada Rd, Moorpark, CA 93021, USA*****34.267583,-118.899272
+1125 Maricopa Hwy, Ojai, CA 93023, USA*****34.441201,-119.262314
+1291 S Victoria Ave, Oxnard, CA 93035, USA*****34.188369,-119.222089
+201 W Vineyard Ave #38, Oxnard, CA 93036, USA*****34.226913,-119.179603
+715 Halyard St, Port Hueneme, CA 93041, USA*****34.180695,-119.217689
+727 W Channel Islands Blvd, Port Hueneme, CA 93041, USA*****34.176343,-119.218298
+576 W Main St, Santa Paula, CA 93060, USA*****34.344521,-119.081210
+5805 E Los Angeles Ave, Simi Valley, CA 93063, USA*****34.273264,-118.677777
+1855 Cochran St, Simi Valley, CA 93065, USA*****34.280295,-118.762980
+34 W Victoria St, Santa Barbara, CA 93101, USA*****34.423818,-119.706769
+3855 State St, Santa Barbara, CA 93105, USA*****34.438487,-119.749528
+1040 Coast Village Rd, Montecito, CA 93108, USA*****34.422607,-119.651501
+4715 Andrita St, Santa Barbara, CA 93110, USA*****34.436205,-119.787003
+163 S Turnpike Rd, Goleta, CA 93111, USA*****34.437739,-119.790531
+175 N Fairview Ave, Goleta, CA 93117, USA*****34.442283,-119.832427
+5610 Lake Isabella Blvd, Lake Isabella, CA 93240, USA*****35.617837,-118.476086
+5360 Olive Dr, Bakersfield, CA 93308, USA*****35.413389,-119.060993
+5700 Stockdale Hwy, Bakersfield, CA 93309, USA*****35.355416,-119.065084
+3400 Stine Rd, Bakersfield, CA 93309, USA*****35.323854,-119.055178
+9000 Ming Ave, Bakersfield, CA 93311, USA*****35.341431,-119.103473
+676 Islay St, San Luis Obispo, CA 93401, USA*****35.275027,-120.661714
+3900 Broad St, San Luis Obispo, CA 93401, USA*****35.250405,-120.641967
+1130 Los Osos Valley Rd, Los Osos, CA 93402, USA*****35.311831,-120.830064
+7135 El Camino Real, Atascadero, CA 93422, USA*****35.485825,-120.662141
+1124 W Ocean Ave, Lompoc, CA 93436, USA*****34.638172,-120.471676
+729 N H St, Lompoc, CA 93436, USA*****34.649628,-120.459152
+520 W Tefft St, Nipomo, CA 93444, USA*****35.037473,-120.486720
+1191 Creston Rd, Paso Robles, CA 93446, USA*****35.623955,-120.660523
+817 E Main St, Santa Maria, CA 93454, USA*****34.953578,-120.423943
+1190 N Main St, Bishop, CA 93514, USA*****37.373633,-118.393398
+2058 W Ave J, Lancaster, CA 93536, USA*****34.688749,-118.167671
+Mammoth Lakes, CA 93546, USA*****37.648546,-118.972079
+481 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA*****37.638691,-118.965460
+2616 E Palmdale Blvd, Palmdale, CA 93550, USA*****34.578996,-118.082182
+3027 Rancho Vista Blvd, Palmdale, CA 93551, USA*****34.603413,-118.184278
+930 N Norma St, Ridgecrest, CA 93555, USA*****35.637425,-117.678369
+3100 Fowler Ave, Clovis, CA 93611, USA*****36.795442,-119.684227
+1650 Herndon Ave, Clovis, CA 93611, USA*****36.835799,-119.685224
+40044 CA-49 Ste D, Oakhurst, CA 93644, USA*****37.330561,-119.659242
+3170 W Shaw Ave, Fresno, CA 93711, USA*****36.811057,-119.847640
+8949 N Cedar Ave, Fresno, CA 93720, USA*****36.865042,-119.758619
+7733 N First St, Fresno, CA 93720, USA*****36.850634,-119.776321
+4343 N Blackstone Ave, Fresno, CA 93726, USA*****36.797064,-119.791742
+5638 E Kings Canyon Rd, Fresno, CA 93727, USA*****36.734504,-119.698259
+804 Ingleside Ave, Catonsville, MD 21228, USA*****39.287318,-76.730969
+14918 Greenfield Rd, Detroit, MI 48227, USA*****42.398353,-83.198181
+603 Cameo Cir, Henderson, NV 89002, USA*****36.012129,-114.974166
+2511 Anthem Village Dr, Henderson, NV 89052, USA*****35.978367,-115.099790
+2667 Windmill Pkwy, Henderson, NV 89014, USA*****36.041461,-115.102755
+4610 W Sahara Ave, Las Vegas, NV 89102, USA*****36.145518,-115.205214
+320 S Decatur Blvd, Las Vegas, NV 89107, USA*****36.169646,-115.208067
+7405 S Durango Dr, Las Vegas, NV 89148, USA*****36.053840,-115.281305
+4854 W Lone Mountain Rd, Las Vegas, NV 89130, USA*****36.247497,-115.207939
+321 Tobler Dr, Las Vegas, NV 89145, USA*****36.169249,-115.269289
+820 S Rampart Blvd, Las Vegas, NV 89145, USA*****36.162107,-115.288759
+340 S Valley View Blvd, Las Vegas, NV 89152, USA*****36.168506,-115.192655
+1155 E Twain Ave, Las Vegas, NV 89169, USA*****36.120902,-115.138783
+1185 E Twain Ave, Las Vegas, NV 89169, USA*****36.121935,-115.137719
+106-11 Northern Blvd, Flushing, NY 11368, USA*****40.757997,-73.862343
+56 Chaplin Park Ln, Newberry, SC 29108, USA*****34.336335,-81.524712
+853 E Wolf Valley Rd, Heiskell, TN 37754, USA*****36.116059,-84.046080

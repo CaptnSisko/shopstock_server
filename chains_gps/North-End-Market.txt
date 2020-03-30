@@ -1,0 +1,4 @@
+267 Lincoln St, Worcester, MA 01605, USA*****42.284547,-71.791208
+27 Depot St, Lancaster, NH 03584, USA*****44.495447,-71.570523
+661 N Sandusky St, Mt Vernon, OH 43050, USA*****40.405158,-82.493232
+987 Putney Rd, Brattleboro, VT 05301, USA*****42.881226,-72.558239

@@ -1,0 +1,3 @@
+Portland, OR 97086, USA*****45.443307,-122.513435
+11821 NE Sumner St, Portland, OR 97220, USA*****45.561613,-122.541348
+17711 NE Riverside Pkwy, Portland, OR 97230, USA*****45.554185,-122.481915

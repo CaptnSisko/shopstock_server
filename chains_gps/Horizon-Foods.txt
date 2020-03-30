@@ -1,0 +1,11 @@
+1215 S Park Ln, Tempe, AZ 85281, USA*****33.414981,-111.974140
+973 E San Carlos Ave, San Carlos, CA 94070, USA*****37.509365,-122.257103
+16305 S Golden Rd, Golden, CO 80401, USA*****39.735428,-105.182963
+607 US-218, St Ansgar, IA 50472, USA*****43.378461,-92.910225
+118 Long Pond Rd Ste D, Plymouth, MA 02360, USA*****41.923035,-70.655975
+2049 E North Ave, Baltimore, MD 21213, USA*****39.312185,-76.588837
+12259 Nations Ford Rd, Pineville, NC 28134, USA*****35.096905,-80.916416
+569 Acorn St #8, Deer Park, NY 11729, USA*****40.759101,-73.342040
+79 Express St Unit C, Plainview, NY 11803, USA*****40.785682,-73.464886
+9345 Ravenna Rd Unit J, Twinsburg, OH 44087, USA*****41.308039,-81.427182
+257 Jewett St, Providence, RI 02908, USA*****41.832756,-71.426641

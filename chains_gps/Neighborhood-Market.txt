@@ -1,0 +1,95 @@
+8801 AR-107, Sherwood, AR 72120, USA*****34.835281,-92.233045
+2690 E Citizens Dr, Fayetteville, AR 72703, USA*****36.089523,-94.122993
+3510 SE 14th St, Bentonville, AR 72712, USA*****36.354311,-94.170974
+1819 S 8th St, Rogers, AR 72756, USA*****36.313244,-94.124352
+1375 Market Square Dr, Springdale, AR 72762, USA*****36.173409,-94.162494
+4900 Rogers Ave, Fort Smith, AR 72903, USA*****35.364495,-94.378123
+8921 W Thomas Rd, Phoenix, AZ 85037, USA*****33.478488,-112.253584
+2435 E Baseline Rd, Phoenix, AZ 85042, USA*****33.376012,-112.029304
+1916 S Lindsay Rd, Mesa, AZ 85204, USA*****33.380321,-111.772831
+5122 E University Dr, Mesa, AZ 85205, USA*****33.424027,-111.720570
+2725 E McKellips Rd, Mesa, AZ 85213, USA*****33.449259,-111.772179
+6645 W Peoria Ave, Glendale, AZ 85302, USA*****33.580188,-112.201796
+7450 W Glendale Ave, Glendale, AZ 85303, USA*****33.539261,-112.218749
+15431 W Greenway Rd, Surprise, AZ 85374, USA*****33.622702,-112.392545
+14200 W Indian School Rd, Goodyear, AZ 85395, USA*****33.487199,-112.364232
+7951 N Oracle Rd, Oro Valley, AZ 85704, USA*****32.350828,-110.977208
+5500 E 22nd St, Tucson, AZ 85711, USA*****32.205770,-110.874012
+1905 N Nova Rd, Holly Hill, FL 32117, USA*****29.248898,-81.067352
+5216 Red Bug Lake Rd, Winter Springs, FL 32708, USA*****28.648575,-81.278122
+4255 Alafaya Trail, Oviedo, FL 32765, USA*****28.613264,-81.209022
+5559 Clarcona Ocoee Rd, Orlando, FL 32810, USA*****28.612429,-81.454248
+7818 W Colonial Dr, Orlando, FL 32818, USA*****28.549940,-81.490797
+201 S Chickasaw Trail, Orlando, FL 32825, USA*****28.540444,-81.276058
+600 S Alafaya Trail, Orlando, FL 32828, USA*****28.536200,-81.209022
+3550 S Babcock St, Melbourne, FL 32901, USA*****28.055325,-80.623239
+3950 N Wickham Rd, Melbourne, FL 32935, USA*****28.171312,-80.673872
+4650 N University Dr, Coral Springs, FL 33067, USA*****26.288212,-80.252518
+10635 W Atlantic Blvd, Coral Springs, FL 33071, USA*****26.242102,-80.267501
+1885 N Pine Island Rd, Plantation, FL 33322, USA*****26.149367,-80.270201
+6901 Okeechobee Blvd, West Palm Beach, FL 33411, USA*****26.710074,-80.150272
+8885 N Florida Ave, Tampa, FL 33604, USA*****28.032021,-82.457759
+6216 Elliot Dr, Tampa, FL 33615, USA*****28.006361,-82.598605
+3920 Skyline Blvd, Cape Coral, FL 33914, USA*****26.578993,-81.991819
+9131 College Pkwy, Fort Myers, FL 33919, USA*****26.554785,-81.908156
+505 SW Pine Island Rd, Cape Coral, FL 33991, USA*****26.649606,-81.984672
+5010 Airport-Pulling Rd, Naples, FL 34105, USA*****26.207231,-81.766568
+3805 S Keystone Ave, Indianapolis, IN 46227, USA*****39.711052,-86.119037
+10303 Metcalf Ave, Overland Park, KS 66212, USA*****38.940790,-94.665541
+143 Thierman Ln, Louisville, KY 40207, USA*****38.253669,-85.644210
+3101 Poplar Level Rd, Louisville, KY 40213, USA*****38.212893,-85.719374
+5360 Dixie Hwy, Louisville, KY 40216, USA*****38.157527,-85.835746
+201 Blankenbaker Pkwy, Louisville, KY 40243, USA*****38.241959,-85.544643
+3800 Ruckriegel Pkwy, Jeffersontown, KY 40299, USA*****38.189693,-85.564246
+3735 Palomar Centre Dr, Lexington, KY 40513, USA*****38.004622,-84.571432
+4230 Saron Dr, Lexington, KY 40515, USA*****37.966739,-84.500769
+3265 Manhattan Blvd, Harvey, LA 70058, USA*****29.861715,-90.044985
+3520 Williams Blvd, Kenner, LA 70065, USA*****30.020715,-90.237586
+14241 Coursey Blvd, Baton Rouge, LA 70816, USA*****30.408998,-91.020126
+2401 Goodman Rd W, Horn Lake, MS 38637, USA*****34.962658,-90.016493
+8511 Golf Course Rd NW, Albuquerque, NM 87114, USA*****35.180606,-106.689742
+9600 Sage Rd SW, Albuquerque, NM 87121, USA*****35.054596,-106.739497
+5545 Simmons St, North Las Vegas, NV 89031, USA*****36.260455,-115.181598
+1401 American Pacific Dr, Henderson, NV 89074, USA*****36.040465,-115.048175
+6151 W Lake Mead Blvd, Las Vegas, NV 89108, USA*****36.194716,-115.226060
+5850 W Craig Rd, Las Vegas, NV 89130, USA*****36.240451,-115.224022
+6570 E Lake Mead Blvd, Las Vegas, NV 89156, USA*****36.196393,-115.028991
+2217 NW 23rd St, Oklahoma City, OK 73107, USA*****35.494673,-97.550536
+1500 SW 59th St, Oklahoma City, OK 73159, USA*****35.405438,-97.545457
+6000 NW 23rd St, Oklahoma City, OK 73127, USA*****35.492007,-97.621075
+911 SW 104th St, Oklahoma City, OK 73139, USA*****35.364489,-97.531324
+9320 S Pennsylvania Ave, Oklahoma City, OK 73159, USA*****35.373893,-97.547154
+640 SE 4th St, Moore, OK 73160, USA*****35.333105,-97.478118
+11101 N Rockwell Ave, Oklahoma City, OK 73162, USA*****35.582394,-97.639954
+4404 S Peoria Ave, Tulsa, OK 74105, USA*****36.099188,-95.977160
+4720 E 21st St, Tulsa, OK 74114, USA*****36.131866,-95.923739
+6606 E 81st St, Tulsa, OK 74133, USA*****36.044955,-95.903166
+3116 S Garnett Rd, Tulsa, OK 74146, USA*****36.118136,-95.853683
+109 Gallatin Pike N, Madison, TN 37115, USA*****36.263940,-86.714049
+5531 Edmondson Pike, Nashville, TN 37211, USA*****36.042193,-86.745645
+2856 Hickory Hill Rd, Memphis, TN 38115, USA*****35.069972,-89.862703
+6990 E Shelby Dr, Memphis, TN 38141, USA*****35.022090,-89.830383
+6520 Memphis Arlington Rd, Bartlett, TN 38135, USA*****35.227972,-89.847137
+430 N Coit Rd, Richardson, TX 75080, USA*****32.957137,-96.767300
+1501 Buckingham Rd, Richardson, TX 75081, USA*****32.932510,-96.697398
+915 N Town E Blvd, Mesquite, TX 75150, USA*****32.813062,-96.609960
+2305 N Central Expy, Dallas, TX 75204, USA*****32.800571,-96.794166
+9661 Audelia Rd, Dallas, TX 75238, USA*****32.878370,-96.718754
+2610 W Pioneer Pkwy, Arlington, TX 76013, USA*****32.708591,-97.150662
+5401 Park Springs Blvd, Arlington, TX 76017, USA*****32.659464,-97.165305
+735 W Sublett Rd, Arlington, TX 76017, USA*****32.645755,-97.117600
+2108 Bedford Rd, Bedford, TX 76021, USA*****32.843516,-97.132152
+6513 Meadowbrook Dr, Fort Worth, TX 76112, USA*****32.747050,-97.217678
+6756 W Vickery Blvd, Fort Worth, TX 76116, USA*****32.703339,-97.428081
+7401 Park Vista Blvd, Fort Worth, TX 76137, USA*****32.875246,-97.270539
+2130 Rufe Snow Dr, Keller, TX 76248, USA*****32.893347,-97.239945
+7960 Long Point Rd, Houston, TX 77055, USA*****29.804255,-95.486465
+11755 Beechnut St, Houston, TX 77072, USA*****29.687451,-95.586121
+4810 Hwy 6 N, Houston, TX 77084, USA*****29.844197,-95.644891
+2165 Northpark Dr, Humble, TX 77339, USA*****30.069324,-95.214434
+13742 N Eldridge Pkwy, Cypress, TX 77429, USA*****29.981394,-95.610807
+951 N Resler Dr, El Paso, TX 79912, USA*****31.860983,-106.559328
+3000 Saul Kleinfeld Dr, El Paso, TX 79936, USA*****31.783270,-106.282923
+1551 N Zaragoza Rd, El Paso, TX 79936, USA*****31.742514,-106.289268
+1360 Draper Pkwy, Draper, UT 84020, USA*****40.526675,-111.852573
+1710e Skyline Dr, South Ogden, UT 84405, USA*****41.151961,-111.938230

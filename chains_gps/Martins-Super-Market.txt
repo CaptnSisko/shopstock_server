@@ -1,0 +1,29 @@
+23333 Co Rd 10, Elkhart, IN 46514, USA*****41.710672,-86.024422
+3900 E Bristol St, Elkhart, IN 46514, USA*****41.704906,-85.915955
+1200 N Nappanee St, Elkhart, IN 46514, USA*****41.699487,-86.000836
+3267 Northview Dr, Elkhart, IN 46514, USA*****41.733771,-85.978060
+760 Cedar St, Elkhart, IN 46514, USA*****41.689611,-85.986123
+23664 Springriver Dr, Elkhart, IN 46516, USA*****41.640787,-85.919714
+555 E Jackson Blvd, Elkhart, IN 46516, USA*****41.687350,-85.964460
+201 Concord Mall Dr, Elkhart, IN 46517, USA*****41.641646,-85.929397
+Bashor Rd, Foraker, IN 46526, USA*****41.595146,-85.870620
+109 S 8th St, Goshen, IN 46528, USA*****41.585956,-85.828620
+1527 Bashor Rd, Goshen, IN 46528, USA*****41.595753,-85.856141
+12850 Adams Rd, Granger, IN 46530, USA*****41.751419,-86.118633
+7355 Heritage Square Dr, Granger, IN 46530, USA*****41.727174,-86.175017
+306 N Bittersweet Rd, Mishawaka, IN 46544, USA*****41.670971,-86.109443
+314 N Ironwood Dr, Mishawaka, IN 46544, USA*****41.660368,-86.214103
+1202 E McKinley Ave, Mishawaka, IN 46545, USA*****41.681419,-86.166354
+1530 E Market St, Nappanee, IN 46550, USA*****41.444475,-85.985443
+242 N Oakland Ave, Nappanee, IN 46550, USA*****41.444634,-85.983289
+865 E Jefferson St, Plymouth, IN 46563, USA*****41.345421,-86.297575
+926 Erskine Plaza, South Bend, IN 46614, USA*****41.627035,-86.237330
+4401 W Western Ave, South Bend, IN 46619, USA*****41.672843,-86.307287
+1302 Elwood Ave, South Bend, IN 46628, USA*****41.692995,-86.270295
+2081 S Bend Ave, South Bend, IN 46637, USA*****41.700742,-86.218249
+12850 IN-23, Granger, IN 46530, USA*****41.751465,-86.119290
+3420 E Market St, Logansport, IN 46947, USA*****40.759146,-86.320087
+205 Main St, St Joseph, MI 49085, USA*****42.109351,-86.479824
+720 S 11th St, Niles, MI 49120, USA*****41.820573,-86.248714
+321 E Main St, Niles, MI 49120, USA*****41.830224,-86.255122
+5637 Cleveland Ave, Stevensville, MI 49127, USA*****42.016260,-86.492863

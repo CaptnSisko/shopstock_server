@@ -1,0 +1,44 @@
+6154 340th St, Primghar, IA 51245, USA*****43.157745,-95.573532
+1850 290th St, Spencer, IA 51301, USA*****43.227447,-95.222712
+743 Buck Branch Rd, Aulander, NC 27805, USA*****36.240785,-77.173274
+364 Garibaldi Rd, Jackson, NC 27845, USA*****36.342684,-77.425029
+659 Bethel Church Rd, Pleasant Hill, NC 27866, USA*****36.488608,-77.495586
+1207 High Bridge Rd, Seaboard, NC 27876, USA*****36.491797,-77.399012
+1148 Hayne Stretch Rd, Roseboro, NC 28382, USA*****34.967711,-78.577450
+881 Gardenia Ln, Clinton, NC 28328, USA*****35.050313,-78.238219
+3352 Taylors Bridge Hwy, Clinton, NC 28328, USA*****34.922456,-78.258274
+Elizabethtown, NC 28337, USA*****34.629337,-78.605290
+478 Junious Lucas Rd, Faison, NC 28341, USA*****35.072127,-78.215635
+362 Sarecta Rd, Kenansville, NC 28349, USA*****34.987572,-77.909227
+1183 Thomson Ave, Turkey, NC 28393, USA*****35.037222,-78.181698
+Turkey, NC 28393, USA*****34.992389,-78.183049
+3521 Pine Ridge Rd, Turkey, NC 28393, USA*****35.051473,-78.211640
+Turkey, NC 28393, USA*****34.992389,-78.183049
+650 Old Lucas Dairy Ln, Turkey, NC 28393, USA*****34.954870,-78.211967
+4161 Cornwallis Rd, Turkey, NC 28393, USA*****34.929835,-78.152736
+779 Old Goodson Farm Ln, Turkey, NC 28393, USA*****35.001016,-78.216754
+2185 Thomson Ave, Turkey, NC 28393, USA*****35.048026,-78.173705
+2184 M J Johnson Rd, Turkey, NC 28393, USA*****34.909278,-78.160621
+1350 M J Johnson Rd, Turkey, NC 28393, USA*****34.905268,-78.173675
+4545 Cornwallis Rd, Turkey, NC 28393, USA*****34.927764,-78.153118
+551 Old Goodson Farm Ln, Turkey, NC 28393, USA*****35.000875,-78.216608
+4271 Cornwallis Rd, Turkey, NC 28393, USA*****34.926142,-78.150096
+Turkey, NC 28393, USA*****34.992389,-78.183049
+723 Carrolls Rd, Warsaw, NC 28398, USA*****34.963891,-78.141250
+329 Old Courthouse Rd, Warsaw, NC 28398, USA*****35.006694,-78.150112
+222 Carrolls Farm Ln, Warsaw, NC 28398, USA*****34.963177,-78.127959
+911 Carrolls Rd, Warsaw, NC 28398, USA*****34.953334,-78.141035
+1575 Veachs Mill Rd, Warsaw, NC 28398, USA*****35.043558,-78.036597
+116 W Hill St, Warsaw, NC 28398, USA*****35.001290,-78.093460
+946 Lundy Rd, Rose Hill, NC 28458, USA*****34.781808,-78.283209
+919 Bull St, Garland, NC 28441, USA*****34.735678,-78.444376
+358 Balkcum Rd, Rose Hill, NC 28458, USA*****34.807900,-78.303230
+Traphill, NC 28685, USA*****36.338773,-81.053385
+15259 Mt Holly Creek Ln, Smithfield, VA 23430, USA*****36.984399,-76.660109
+434 E Main St, Waverly, VA 23890, USA*****37.038791,-77.080684
+State Rte 625, Waverly, VA 23890, USA*****37.013134,-77.177026
+4319 Martin Luther King Hwy, Waverly, VA 23890, USA*****37.112575,-77.024510
+VA-40, Waverly, VA, USA*****37.035903,-77.095205
+1611 Huntington Rd, Waverly, VA 23890, USA*****37.119683,-77.064590
+1617 Huntington Rd, Waverly, VA 23890, USA*****37.119751,-77.064517
+State Rte 625, Waverly, VA 23890, USA*****37.013134,-77.177026

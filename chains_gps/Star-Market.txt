@@ -1,0 +1,27 @@
+46-023 Kamehameha Hwy, Kaneohe, HI 96744, USA*****21.419577,-157.801950
+2039 Kaku St, Lihue, HI 96766, USA*****21.962538,-159.390141
+1310 N Kihei Rd, Kihei, HI 96753, USA*****20.799504,-156.494716
+4211 Waialae Ave, Honolulu, HI 96816, USA*****21.277092,-157.786374
+Wellesley, MA, USA*****42.296797,-71.292388
+699 Mt Auburn St, Cambridge, MA 02138, USA*****42.375353,-71.149063
+155 Great Rd, Stow, MA 01775, USA*****42.434760,-71.487046
+275 Beacon St, Boston, MA 02116, USA*****42.353173,-71.080070
+90 River St, Mattapan, MA 02126, USA*****42.270669,-71.074650
+370 Western Ave, Boston, MA 02134, USA*****42.361011,-71.137518
+699 Mt Auburn St, Watertown, MA 02472, USA*****42.372849,-71.154880
+20 Sidney St, Cambridge, MA 02139, USA*****42.361973,-71.099958
+49 White St, Cambridge, MA 02140, USA*****42.389955,-71.118006
+14 McGrath Hwy, East Cambridge, MA 02141, USA*****42.373837,-71.084829
+130 Granite St, Quincy, MA 02169, USA*****42.244774,-71.005110
+33 Kilmarnock St, Boston, MA 02215, USA*****42.343555,-71.100451
+1717 Beacon St, Brookline, MA 02445, USA*****42.337530,-71.139189
+1070 Lexington St, Waltham, MA 02451, USA*****42.412487,-71.234428
+33 Austin St, Newton, MA 02460, USA*****42.350741,-71.209153
+2040 Commonwealth Avenue, Auburndale, MA 02466, USA*****42.346972,-71.244823
+448 Washington St, Wellesley, MA 02482, USA*****42.302069,-71.286204
+625 W Main St, Hyannis, MA 02601, USA*****41.651920,-70.318492
+9 West Rd, Orleans, MA 02653, USA*****41.780252,-70.001827
+9 West Rd #11, Orleans, MA 02653, USA*****41.780252,-70.001827
+17 Kelleys Pond Rd, West Dennis, MA 02670, USA*****41.658086,-70.178488
+199 Kahle Dr, Stateline, NV 89449, USA*****38.970566,-119.935806
+2300 15th St, Troy, NY 12180, USA*****42.736483,-73.675390

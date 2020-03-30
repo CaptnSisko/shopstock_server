@@ -1,0 +1,133 @@
+1884 S Kings Rd, Callahan, FL 32011, USA*****30.565589,-81.831917
+479 N 17th St, Fernandina Beach, FL 32034, USA*****30.673973,-81.446183
+1982 S 8th St, Fernandina Beach, FL 32034, USA*****30.639826,-81.457960
+212 E State Rd 200, Yulee, FL 32097, USA*****30.621807,-81.641866
+925 S 14th St, Fernandina Beach, FL 32034, USA*****30.657996,-81.453862
+2809 Atlantic Ave, Fernandina Beach, FL 32034, USA*****30.668141,-81.432255
+2020 Sadler Rd, Fernandina Beach, FL 32034, USA*****30.639335,-81.449485
+4014 E State Rd 200, Fernandina Beach, FL 32034, USA*****30.617148,-81.515421
+Yulee, FL 32041, USA*****30.630000,-81.610000
+I-95, United States*****36.878013,-77.403714
+4000 Everett Ave, Middleburg, FL 32068, USA*****30.069017,-81.866763
+744 US-17, Yulee, FL 32097, USA*****30.630604,-81.600381
+4409 Timuquana Rd, Jacksonville, FL 32210, USA*****30.247968,-81.697466
+1145 Airport Rd, Jacksonville, FL 32218, USA*****30.482799,-81.647644
+12155 GA-92, Woodstock, GA 30188, USA*****34.088085,-84.483908
+Barnesville, GA 30204, USA*****33.054571,-84.155750
+701 Thomaston St, Barnesville, GA 30204, USA*****33.048954,-84.159197
+9875 Tara Blvd, Jonesboro, GA 30236, USA*****33.485799,-84.340853
+3096 GA-34, Newnan, GA 30265, USA*****33.408487,-84.681866
+8899 GA-16, Senoia, GA 30276, USA*****33.275954,-84.533884
+1501 US-19, Thomaston, GA 30286, USA*****32.935508,-84.334689
+100 Lakeview Dr, Alamo, GA 30411, USA*****32.151384,-82.769227
+649 W Barnard St, Glennville, GA 30427, USA*****31.939554,-81.937767
+201 US-1, Cheraw, SC 29520, USA*****34.688805,-79.896559
+Mt Vernon, GA 30445, USA*****32.178514,-82.594578
+110 Spring Ln, Mt Vernon, GA 30445, USA*****32.181507,-82.587762
+443 Second St, Soperton, GA 30457, USA*****32.374984,-82.595227
+7905 Metter Rd, Soperton, GA 30457, USA*****32.379775,-82.593821
+12440 US-301, Statesboro, GA 30458, USA*****32.416604,-81.798809
+12399 US-301, Statesboro, GA 30458, USA*****32.416354,-81.800665
+905 E 1st St, Vidalia, GA 30474, USA*****32.212560,-82.402915
+1061 Barclay Dr, Madison, GA 30650, USA*****33.584611,-83.482733
+2030 Eatonton Rd, Madison, GA 30650, USA*****33.552756,-83.473232
+498 GA-247, Bonaire, GA 31005, USA*****32.548672,-83.596611
+3211 GA-247, Kathleen, GA 31047, USA*****32.399382,-83.564419
+236 GA-49, Byron, GA 31008, USA*****32.656867,-83.747657
+113 N Second St, Cochran, GA 31014, USA*****32.387014,-83.355942
+303 SE 2nd St, Cochran, GA 31014, USA*****32.379632,-83.346676
+148 E Dykes St, Cochran, GA 31014, USA*****32.389032,-83.351409
+258 E Main St, Dexter, GA 31019, USA*****32.433610,-83.059519
+2100 Veterans Blvd, Dublin, GA 31021, USA*****32.541193,-82.954966
+107 Griffin Ave, Eastman, GA 31023, USA*****32.192236,-83.175612
+5910 5th Ave, Eastman, GA 31023, USA*****32.200797,-83.169318
+401 Soperton Ave, East Dublin, GA 31027, USA*****32.544414,-82.866939
+740 Bluebird Blvd, Fort Valley, GA 31030, USA*****32.568360,-83.874097
+101 McCormick Ave, Hawkinsville, GA 31036, USA*****32.275084,-83.477387
+512 Progress Ave, Hawkinsville, GA 31036, USA*****32.292251,-83.480510
+107 Railroad St, McIntyre, GA 31054, USA*****32.845973,-83.194582
+805 W Oak St, McRae-Helena, GA 31037, USA*****32.070186,-82.909552
+US-280 & S Main St, Milan, GA 31060, USA*****32.017388,-83.063949
+600 N Jefferson St NE, Milledgeville, GA 31061, USA*****33.088642,-83.227764
+1200 Vinson Hwy SE, Milledgeville, GA 31061, USA*****33.065575,-83.219234
+125 Felton Dr, Milledgeville, GA 31061, USA*****33.052200,-83.282053
+3056 N Columbia St, Milledgeville, GA 31061, USA*****33.184117,-83.291027
+166 GA-49, Milledgeville, GA 31061, USA*****33.070580,-83.258807
+201 Marshallville Rd, Perry, GA 31069, USA*****32.447268,-83.752241
+1417 Sam Nunn Blvd, Perry, GA 31069, USA*****32.469129,-83.742263
+107 Iffie Rd, Perry, GA 31069, USA*****32.446248,-83.752988
+1242 Russell Pkwy, Warner Robins, GA 31088, USA*****32.594665,-83.650058
+1045 Pine St, Unadilla, GA 31091, USA*****32.249715,-83.742458
+10136 Hawkinsville Rd, Warner Robins, GA 31093, USA*****32.659518,-83.618297
+1941 Watson Blvd, Warner Robins, GA 31093, USA*****32.617792,-83.645421
+2699 Watson Blvd, Warner Robins, GA 31093, USA*****32.617665,-83.668627
+213 N Marcus St, Wrightsville, GA 31096, USA*****32.731022,-82.720097
+1194 Forsyth St, Macon, GA 31201, USA*****32.835801,-83.640120
+997 Gray Hwy, Macon, GA 31211, USA*****32.854154,-83.618006
+5602 Thomaston Rd, Macon, GA 31220, USA*****32.834074,-83.745885
+Hinesville, GA 31310, USA*****31.850000,-81.600000
+Hinesville, GA 31310, USA*****31.850000,-81.600000
+Hinesville, GA 31310, USA*****31.850000,-81.600000
+463 W Oglethorpe Hwy, Hinesville, GA 31313, USA*****31.839142,-81.595349
+5 Martin Ct, Hinesville, GA 31313, USA*****31.781531,-81.639929
+MAIN St Ext SW, Ludowici, GA 31316, USA*****31.704065,-81.740556
+Pembroke, GA 31321, USA*****32.136033,-81.622056
+1031 US-80, Pooler, GA 31322, USA*****32.120005,-81.265632
+Richmond Hill, GA 31324, USA*****31.938265,-81.303443
+Valdosta Hwy, Waycross, GA, USA*****31.181838,-82.398686
+Airport Rd, Georgia 31503, USA*****31.259078,-82.390779
+Central Ave, Waycross, GA 31501, USA*****31.213968,-82.326510
+505 S Georgia Pkwy E, Waycross, GA 31501, USA*****31.206798,-82.354447
+1913 State St, Waycross, GA 31501, USA*****31.235045,-82.370997
+1401 Tebeau St, Waycross, GA 31501, USA*****31.222825,-82.354238
+2307 Plant Ave, Waycross, GA 31501, USA*****31.230184,-82.333765
+1712 Memorial Dr, Waycross, GA 31501, USA*****31.206850,-82.337674
+1710 Boulevard Square, Waycross, GA 31501, USA*****31.210619,-82.334041
+Waycross, GA 31502, USA*****31.213109,-82.360984
+201 N Nicholls St, Waycross, GA 31503, USA*****31.209237,-82.366254
+2000 Albany Ave, Waycross, GA 31503, USA*****31.223728,-82.387413
+402 S Pierce St, Alma, GA 31510, USA*****31.538686,-82.462033
+938 S Pierce St, Alma, GA 31510, USA*****31.532691,-82.463476
+1494 US-84, Blackshear, GA 31516, USA*****31.247254,-82.312990
+3359 US-84, Blackshear, GA 31516, USA*****31.299437,-82.247253
+114 Gordon St, Blackshear, GA 31516, USA*****31.306791,-82.241884
+121 Highway Ave, Blackshear, GA 31516, USA*****31.323028,-82.243623
+163 Flash Foods Dr, Brunswick, GA 31523, USA*****31.135770,-81.572646
+160 Millennium Blvd, Brunswick, GA 31525, USA*****31.245781,-81.504083
+42 S Beachview Dr, Jekyll Island, GA 31527, USA*****31.045191,-81.411621
+1716 N Peterson Ave, Douglas, GA 31533, USA*****31.525344,-82.850158
+101 E Baker Hwy, Douglas, GA 31533, USA*****31.501712,-82.850137
+GA-40, Folkston, GA, USA*****30.831619,-82.006097
+600 Bowery Ln, Folkston, GA 31537, USA*****30.854747,-82.013841
+W Main St, Folkston, GA 31537, USA*****30.830741,-82.010092
+Hazlehurst, GA 31539, USA*****31.869631,-82.594303
+100 E Jarman St, Hazlehurst, GA 31539, USA*****31.865143,-82.588992
+450 W Coffee St, Hazlehurst, GA 31539, USA*****31.873295,-82.594584
+310 N 1st St, Jesup, GA 31545, USA*****31.609016,-81.882144
+111 Sunset Blvd, Jesup, GA 31545, USA*****31.620134,-81.902085
+1321 GA-40, Kingsland, GA 31548, USA*****30.790024,-81.654419
+490 S Lee St, Kingsland, GA 31548, USA*****30.794842,-81.689766
+1211 E King Ave, Kingsland, GA 31548, USA*****30.792504,-81.662792
+316 US-341, Lumber City, GA 31549, USA*****31.928107,-82.679341
+Nahunta, GA 31553, USA*****31.204390,-81.981226
+113 N Main St, Nahunta, GA 31553, USA*****31.202440,-81.983011
+500 Van Streat Hwy, Nicholls, GA 31554, USA*****31.517054,-82.640951
+6497 US-84, Patterson, GA 31557, USA*****31.387551,-82.139510
+2500 Osborne Rd, St Marys, GA 31558, USA*****30.750834,-81.572418
+1877 Harrietts Bluff Rd, Woodbine, GA 31569, USA*****30.849433,-81.668911
+511 St Augustine Rd, Valdosta, GA 31601, USA*****30.834768,-83.312337
+1720 Gornto Rd, Valdosta, GA 31601, USA*****30.846656,-83.324619
+425 Northside Dr, Valdosta, GA 31602, USA*****30.871953,-83.278049
+3480 Bemiss Rd, Valdosta, GA 31605, USA*****30.889642,-83.271402
+1266 Lakes Blvd, Lake Park, GA 31636, USA*****30.680265,-83.220924
+519 S Davis St, Nashville, GA 31639, USA*****31.201011,-83.251374
+356 E Screven St, Quitman, GA 31643, USA*****30.784695,-83.562500
+1584 Liberty Expy, Albany, GA 31705, USA*****31.503301,-84.115399
+1101 Crawford St, Americus, GA 31709, USA*****32.073499,-84.217185
+1331b E Lamar St Apt C, Americus, GA 31709, USA*****32.071067,-84.214187
+816 N Grant St, Fitzgerald, GA 31750, USA*****31.723597,-83.253264
+227 E Central Ave, Fitzgerald, GA 31750, USA*****31.714572,-83.251834
+274 US-19, Leesburg, GA 31763, USA*****31.719095,-84.173144
+2667 E Pinetree Blvd, Thomasville, GA 31792, USA*****30.851159,-83.950093
+802 7th St W, Tifton, GA 31794, USA*****31.450314,-83.525740
+1002 W 8th St, Tifton, GA 31794, USA*****31.463129,-83.526947

@@ -1,0 +1,5 @@
+7200 NW 2nd Ave, Miami, FL 33150, USA*****25.840989,-80.200975
+1340 W State Rd 2, La Porte, IN 46350, USA*****41.599071,-86.734565
+702 E Lincolnway, La Porte, IN 46350, USA*****41.617950,-86.705557
+2600 Franklin St, Michigan City, IN 46360, USA*****41.700645,-86.892351
+100 Commerce Square, Michigan City, IN 46360, USA*****41.720845,-86.901562

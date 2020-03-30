@@ -1,0 +1,6 @@
+US-6, Butler, IN, USA*****41.429708,-84.871348
+1350 Lincolnway S, Ligonier, IN 46767, USA*****41.451766,-85.586298
+210 N Michigan Ave, Edgerton, OH 43517, USA*****41.449984,-84.747675
+101 E Indiana St, Edon, OH 43518, USA*****41.556719,-84.768136
+105 N Fayette St, Fayette, OH 43521, USA*****41.674056,-84.327786
+1001 W Jackson St, West Unity, OH 43570, USA*****41.585626,-84.446229

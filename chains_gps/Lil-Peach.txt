@@ -1,0 +1,25 @@
+403 Parker St, Gardner, MA 01440, USA*****42.574911,-72.006998
+766 Central St, Leominster, MA 01453, USA*****42.501867,-71.745334
+782 N Main St, Leominster, MA 01453, USA*****42.556589,-71.771376
+Jennifer St, Littleton, MA 01460, USA*****42.543688,-71.473612
+28 Cox St, Hudson, MA 01749, USA*****42.398985,-71.567991
+54 E Central St, Natick, MA 01760, USA*****42.285159,-71.342286
+1 Bridle Rd, Billerica, MA 01821, USA*****42.557841,-71.284776
+Mill Rd, Chelmsford, MA 01824, USA*****42.579207,-71.328955
+603 Andover St, Lawrence, MA 01843, USA*****42.690077,-71.173658
+377 Lowell St, Wakefield, MA 01880, USA*****42.517404,-71.064657
+103 Main St, Westford, MA 01886, USA*****42.585644,-71.426164
+210 Lewis St, Lynn, MA 01902, USA*****42.464674,-70.933642
+625 Boston St, Lynn, MA 01905, USA*****42.463856,-70.976158
+544 Summer St, Lynn, MA 01905, USA*****42.458558,-70.969437
+127 Exchange St, Millis, MA 02054, USA*****42.169697,-71.359405
+7 Spring St, West Roxbury, MA 02132, USA*****42.278406,-71.160749
+1239 River St, Hyde Park, MA 02136, USA*****42.256118,-71.123174
+96 Highland Ave, Somerville, MA 02143, USA*****42.386768,-71.098942
+511 Broadway, Everett, MA 02149, USA*****42.408933,-71.053329
+178 Washington Ave, Chelsea, MA 02150, USA*****42.398480,-71.031460
+140 Beach St, Revere, MA 02151, USA*****42.407567,-71.010473
+11 Columbus Ave, North Easton, MA 02356, USA*****42.060243,-71.103236
+264 Washington St, Pembroke, MA 02359, USA*****42.094880,-70.793843
+474 Market St, Rockland, MA 02370, USA*****42.124418,-70.903176
+4 Elm St, North Attleborough, MA 02760, USA*****41.982243,-71.332377

@@ -1,0 +1,14 @@
+5829 Compton Ave, Los Angeles, CA 90001, USA*****33.988961,-118.248003
+5859 Compton Ave, Los Angeles, CA 90001, USA*****33.988367,-118.248224
+3000 N Broadway, Los Angeles, CA 90031, USA*****34.073443,-118.210218
+5168 Huntington Dr S, Los Angeles, CA 90032, USA*****34.088983,-118.169902
+2619 N Figueroa St, Los Angeles, CA 90065, USA*****34.084898,-118.222235
+14310 Hawthorne Blvd, Lawndale, CA 90260, USA*****33.901402,-118.350761
+9406 Washington Blvd, Pico Rivera, CA 90660, USA*****33.978973,-118.090068
+16000 Woodruff Ave, Bellflower, CA 90706, USA*****33.888718,-118.116422
+1500 W Willow St, Long Beach, CA 90810, USA*****33.803553,-118.212548
+2344 W Wardlow Rd, Long Beach, CA 90810, USA*****33.824047,-118.223262
+9920 Valley Blvd, El Monte, CA 91731, USA*****34.079296,-118.055109
+7619 Garvey Ave, Rosemead, CA 91770, USA*****34.063420,-118.102895
+3981 Chicago Ave, Riverside, CA 92507, USA*****33.973912,-117.349375
+420 W 17th St, Santa Ana, CA 92706, USA*****33.759183,-117.871733

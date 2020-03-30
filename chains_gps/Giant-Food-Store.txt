@@ -1,0 +1,27 @@
+255 S Spring Garden St, Carlisle, PA 17013, USA*****40.196378,-77.180372
+1250 Cocoa Ave, Hershey, PA 17033, USA*****40.269402,-76.649393
+3175 Cape Horn Rd, Red Lion, PA 17356, USA*****39.918970,-76.628214
+275 Pauline Dr, York, PA 17402, USA*****39.934386,-76.682237
+10 Newport Rd, Leola, PA 17540, USA*****40.086101,-76.191234
+1008 Lititz Pike, Lititz, PA 17543, USA*****40.131268,-76.307823
+550 Centerville Rd, Lancaster, PA 17601, USA*****40.054379,-76.400352
+2918 Easton Ave, Bethlehem, PA 18017, USA*****40.647760,-75.337301
+2100 W Union Blvd, Bethlehem, PA 18018, USA*****40.629417,-75.418222
+202 Chestnut St, Coplay, PA 18037, USA*****40.674507,-75.494035
+2641 MacArthur Rd, Whitehall, PA 18052, USA*****40.647692,-75.491363
+3015 W Emaus Ave, Allentown, PA 18103, USA*****40.558660,-75.482717
+6542 Lower York Rd, New Hope, PA 18938, USA*****40.356959,-74.976585
+6542 Logan Square, New Hope, PA 18938, USA*****40.359335,-74.976528
+4801 Edgmont Ave, Brookhaven, PA 19015, USA*****39.876866,-75.394275
+2721 Street Rd, Bensalem, PA 19020, USA*****40.111292,-74.951391
+300 E Baltimore Ave, Lansdowne, PA 19050, USA*****39.939162,-75.264130
+700 Stony Hill Rd, Morrisville, PA 19067, USA*****40.222199,-74.873618
+350 Scarlet Rd, Kennett Square, PA 19348, USA*****39.840081,-75.731879
+1502 West Chester Pike, West Chester, PA 19382, USA*****39.965234,-75.525577
+849 W Baltimore Pike, West Grove, PA 19390, USA*****39.822195,-75.873819
+2670 Egypt Rd, Norristown, PA 19403, USA*****40.129266,-75.405428
+2450 Chemical Rd, Plymouth Meeting, PA 19462, USA*****40.105846,-75.291744
+967 S Township Line Rd, Royersford, PA 19468, USA*****40.194783,-75.529581
+3935 Perkiomen Ave, Reading, PA 19606, USA*****40.314879,-75.870835
+600 E Lancaster Ave, Shillington, PA 19607, USA*****40.307320,-75.954217
+2641 Shillington Rd, Reading, PA 19609, USA*****40.316619,-75.999204

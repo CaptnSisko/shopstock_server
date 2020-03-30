@@ -1,0 +1,32 @@
+2122 S Hardy Dr, Tempe, AZ 85282, USA*****33.404979,-111.952410
+2392 Deer Trail Creek Dr, Brighton, CO 80601, USA*****39.974408,-104.792730
+3558 Woodshire Trail, Marietta, GA 30066, USA*****34.040093,-84.473189
+217 King Arthur Dr, Woodstock, GA 30189, USA*****34.096957,-84.539440
+2255 White Sulphur Rd, Gainesville, GA 30501, USA*****34.327712,-83.791408
+1269 Thistleridge Dr, Hebron, KY 41048, USA*****39.106467,-84.739787
+2642 Twin Hills Ct, Union, KY 41091, USA*****38.924043,-84.690587
+16406 Green Pines Dr, Ballwin, MO 63011, USA*****38.591773,-90.622614
+18604 Babler Meadows Dr, Glencoe, MO 63038, USA*****38.585364,-90.695873
+935 Nussbaum St, Clinton, MO 64735, USA*****38.386318,-93.758956
+1801 Gerhart Dr, Clinton, MO 64735, USA*****38.392568,-93.791589
+116 E Oak St, Clinton, MO 64735, USA*****38.374509,-93.775115
+912 Nussbaum St, Clinton, MO 64735, USA*****38.384344,-93.760679
+127 Limestone St, Carthage, MO 64836, USA*****37.183990,-94.311993
+1220 E Fairview Ave, Carthage, MO 64836, USA*****37.153961,-94.295610
+Monett, MO, USA*****36.928950,-93.927707
+13937 Dannemara Dr, Pineville, NC 28134, USA*****35.050923,-80.879698
+6979 Folger Dr, Charlotte, NC 28270, USA*****35.142874,-80.778982
+300 Corporate Dr, Mahwah, NJ 07430, USA*****41.087242,-74.157576
+301 Dykeman Rd, Shippensburg, PA 17257, USA*****40.047611,-77.509029
+39 Liberty St, Central Falls, RI 02863, USA*****41.890842,-71.400433
+4350 Hurricane Creek Blvd, Antioch, TN 37013, USA*****36.024425,-86.597449
+425 Pine Dr, Southlake, TX 76092, USA*****32.935215,-97.150220
+923 Co Rd 176, Stephenville, TX 76401, USA*****32.263031,-98.188312
+885 N 600 W, Logan, UT 84321, USA*****41.746410,-111.850587
+2180 W 6550 N, Amalga, UT 84335, USA*****41.851281,-111.889910
+2180 W 6550 N, Amalga, UT 84335, USA*****41.851281,-111.889910
+1010 231st Pl NE, Sammamish, WA 98074, USA*****47.618806,-122.030389
+20505 Dexter Ct, Brookfield, WI 53045, USA*****43.060689,-88.167500
+807 Pleasant Valley Rd, West Bend, WI 53095, USA*****43.351223,-88.077724
+425 Pine St, Green Bay, WI 54301, USA*****44.515158,-88.010815
+2321 Jefferson St, Wisconsin Rapids, WI 54495, USA*****44.404655,-89.852695

@@ -1,0 +1,3 @@
+249 Columbus Ave, New York, NY 10023, USA*****40.776983,-73.978807
+149 Columbia Heights, Brooklyn, NY 11201, USA*****40.697933,-73.996297
+249 Columbia Heights, Brooklyn, NY 11201, USA*****40.696439,-73.997218

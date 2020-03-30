@@ -1,0 +1,5 @@
+110 Pleasant St, Worcester, MA 01609, USA*****42.263604,-71.806039
+170 Main St, Tewksbury, MA 01876, USA*****42.626445,-71.267816
+250 Belmont Ave, Brockton, MA 02301, USA*****42.079418,-71.032110
+4510 Cleveland Rd, Wooster, OH 44691, USA*****40.854345,-81.925987
+W2082 County Rd S, Freedom, WI 54130, USA*****44.387059,-88.290741

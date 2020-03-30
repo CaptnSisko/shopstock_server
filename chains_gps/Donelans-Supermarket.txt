@@ -1,0 +1,7 @@
+Main St, Groton, MA 01450, USA*****42.614106,-71.578601
+Littleton, MA 01460, USA*****42.529534,-71.489301
+236 Great Rd, Littleton, MA 01460, USA*****42.543179,-71.467025
+75 Main St, Pepperell, MA 01463, USA*****42.665404,-71.583976
+248 Great Rd, Acton, MA 01720, USA*****42.494053,-71.417598
+Lincoln, MA 01773, USA*****42.421736,-71.299299
+177 Commonwealth Rd, Wayland, MA 01778, USA*****42.317165,-71.362358

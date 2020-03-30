@@ -1,0 +1,535 @@
+5000 Bessemer Super Hwy, Brighton, AL 35020, USA*****33.441696,-86.933106
+2400 J Terrell Wooten Dr, Bessemer, AL 35020, USA*****33.435708,-86.958093
+2245 Main St, Brent, AL 35034, USA*****32.937077,-87.164625
+1070 1st St NW, Childersburg, AL 35044, USA*****33.278385,-86.358823
+6730 Deerfoot Pkwy, Trussville, AL 35173, USA*****33.698733,-86.606290
+35 Campbell Rd, Locust Fork, AL 35097, USA*****33.912470,-86.656078
+211 W College St, Columbiana, AL 35051, USA*****33.179112,-86.613310
+25 County Rd 940, Cullman, AL 35057, USA*****34.209725,-87.051419
+4933 AL-157, Cullman, AL 35055, USA*****34.204994,-86.856696
+470 S Main St, Goodwater, AL 35072, USA*****33.059204,-86.055589
+7245 AL-160, Hayden, AL 35079, USA*****33.909861,-86.728149
+24716 US-31, Jemison, AL 35085, USA*****32.959271,-86.742030
+4563 AL-25, Montevallo, AL 35115, USA*****33.095210,-86.855520
+100 Council St, Odenville, AL 35120, USA*****33.675582,-86.405944
+147 Cedar Dr, Oneonta, AL 35121, USA*****33.904631,-86.511468
+1224 Old Talladega Hwy, Sylacauga, AL 35150, USA*****33.184205,-86.243299
+308 East St N, Talladega, AL 35160, USA*****33.440866,-86.104476
+213 Park Dr, Warrior, AL 35180, USA*****33.814537,-86.808402
+415 Caldwell Dr, Warrior, AL 35180, USA*****33.807190,-86.809952
+2500 29th Ave N, Birmingham, AL 35207, USA*****33.550439,-86.820130
+2612 30th Ave N, Birmingham, AL 35207, USA*****33.552278,-86.817415
+3000 Montgomery Hwy, Homewood, AL 35209, USA*****33.466372,-86.777505
+1697 Tuscaloosa Ave, Birmingham, AL 35211, USA*****33.487107,-86.861477
+93 Euclid Ave, Birmingham, AL 35213, USA*****33.502691,-86.757177
+1619 Forestdale Blvd, Forestdale, AL 35214, USA*****33.570036,-86.898304
+3314 Clairmont Ave, Birmingham, AL 35222, USA*****33.513218,-86.780515
+770 Shades Mountain Plaza, Hoover, AL 35226, USA*****33.414420,-86.845014
+32 Phillips Drive, Midfield, AL 35228, USA*****33.463507,-86.908792
+3800 River Run Dr, Birmingham, AL 35243, USA*****33.481530,-86.712091
+1721 Greensboro Ave, Tuscaloosa, AL 35401, USA*****33.196809,-87.562108
+2731 University Blvd E, Tuscaloosa, AL 35404, USA*****33.205480,-87.502324
+101 Memorial Pkwy, Aliceville, AL 35442, USA*****33.127900,-88.150410
+841 Industrial Park Blvd, Gordo, AL 35466, USA*****33.321429,-87.910380
+17884 AL-18, Berry, AL 35546, USA*****33.658990,-87.601280
+7270 US-43, Guin, AL 35563, USA*****33.966718,-87.910286
+1009 19th St, Haleyville, AL 35565, USA*****34.224929,-87.621877
+Haleyville, AL 35565, USA*****34.226488,-87.621413
+1500 Military St N, Hamilton, AL 35570, USA*****34.159187,-87.974613
+12205 AL-96, Millport, AL 35576, USA*****33.560471,-88.073209
+518 4th Ave SE, Red Bay, AL 35582, USA*****34.438681,-88.138491
+5635 AL-74, Cullman, AL 35058, USA*****34.174582,-86.704108
+1090 Virginia St, Cherokee, AL 35616, USA*****34.768889,-87.953793
+25460 AL-127, Elkmont, AL 35620, USA*****34.925313,-86.987371
+3413 Woodward Ave, Muscle Shoals, AL 35661, USA*****34.728068,-87.665742
+5276 AL-67, Somerville, AL 35670, USA*****34.447765,-86.757429
+22747 AL-24, Trinity, AL 35673, USA*****34.538262,-87.160715
+6022 Hwy 72 E, Gurley, AL 35748, USA*****34.695470,-86.371000
+6024 AL-53, Harvest, AL 35749, USA*****34.849902,-86.714632
+101 County Park Rd, Scottsboro, AL 35768, USA*****34.651547,-86.034874
+5700 US-278, Hokes Bluff, AL 35903, USA*****33.987068,-85.865927
+250 AL-75, Albertville, AL 35951, USA*****34.277789,-86.201355
+87354 US-278, Altoona, AL 35952, USA*****34.116471,-86.392070
+35771 US-231, Ashville, AL 35953, USA*****33.846875,-86.273708
+3800 AL-9, Cedar Bluff, AL 35959, USA*****34.217382,-85.601039
+1455 Sunset Dr, Guntersville, AL 35976, USA*****34.352374,-86.314803
+Guntersville, AL 35976, USA*****34.342451,-86.317392
+134 Eufaula Ave, Clayton, AL 36016, USA*****31.878116,-85.439310
+1451 S Eufaula Ave, Eufaula, AL 36027, USA*****31.862312,-85.163983
+1451 S Eufaula Ave, Eufaula, AL 36027, USA*****31.862312,-85.163983
+120 E Broad St, Eufaula, AL 36027, USA*****31.893424,-85.144879
+1631 S Eufaula Ave, Eufaula, AL 36027, USA*****31.871646,-85.153589
+205 Cedar St, Greenville, AL 36037, USA*****31.830918,-86.622763
+720 E Main St, Prattville, AL 36067, USA*****32.458856,-86.455850
+710 N 3 Notch St, Troy, AL 36081, USA*****31.814347,-85.971561
+205 Conecuh Ave W, Union Springs, AL 36089, USA*****32.146128,-85.713084
+15 W Fairview Ave, Montgomery, AL 36105, USA*****32.350335,-86.309313
+88985 AL-9, Lineville, AL 36266, USA*****33.311309,-85.751800
+1140 Montgomery Hwy, Dothan, AL 36303, USA*****31.239267,-85.397971
+108 Mill Ridge Rd, Dothan, AL 36303, USA*****31.267006,-85.451076
+100 W Washington St, Abbeville, AL 36310, USA*****31.572379,-85.250780
+AL-134, Daleville, AL, USA*****31.307065,-85.712948
+304 W Main St, Hartford, AL 36344, USA*****31.100704,-85.700821
+121 Mc Kinnon St, New Brockton, AL 36351, USA*****31.386263,-85.930177
+107 Mc Gehee St, Evergreen, AL 36401, USA*****31.431683,-86.958585
+320 W Front St, Evergreen, AL 36401, USA*****31.431556,-86.959201
+2135 Douglas Ave, Brewton, AL 36426, USA*****31.140284,-87.069311
+918 S Alabama Ave #5, Monroeville, AL 36460, USA*****31.513633,-87.321707
+Thames St & S Alabama Ave, Monroeville, AL 36460, USA*****31.512656,-87.320657
+91 S Alabama Ave, Monroeville, AL 36460, USA*****31.524904,-87.323696
+US-31, Bay Minette, AL, USA*****30.882969,-87.773472
+16 AL-10, Camden, AL 36726, USA*****31.993073,-87.276612
+Conecuh County, AL, USA*****31.501571,-86.982429
+1602 US-80, Demopolis, AL 36732, USA*****32.491272,-87.858348
+115 Main St, Greensboro, AL 36744, USA*****32.700474,-87.581213
+1401 State St, Greensboro, AL 36744, USA*****32.699056,-87.595820
+1515 2nd Ave, Opelika, AL 36801, USA*****32.642372,-85.390429
+132 E Lafayette St, Dadeville, AL 36853, USA*****32.832546,-85.763085
+337 9th Ave SW, La Fayette, AL 36862, USA*****32.882811,-85.409884
+632 Cherry Valley Shopping Ctr, Lanett, AL 36863, USA*****32.875366,-85.187949
+512 13th St, Phenix City, AL 36867, USA*****32.470999,-85.011240
+1130 US-280, Americus, GA 31709, USA*****32.013949,-84.132734
+1837 Stadium Dr, Phenix City, AL 36867, USA*****32.496028,-85.016984
+420 S Seale Rd, Phenix City, AL 36869, USA*****32.438800,-85.012000
+3745 US-80, Phenix City, AL 36869, USA*****32.468456,-85.064693
+300 W Pushmataha St, Butler, AL 36904, USA*****32.088928,-88.224056
+116 Melvin Rd, Gilbertown, AL 36908, USA*****31.880262,-88.323922
+604 2nd Ave, York, AL 36925, USA*****32.486081,-88.296458
+109 S Main St, Dermott, AR 71638, USA*****33.526906,-91.435622
+610 Holly St, McGehee, AR 71654, USA*****33.629527,-91.402800
+345 S Main St, Monticello, AR 71655, USA*****33.624339,-91.790785
+1400 N Lincoln Ave, Star City, AR 71667, USA*****33.957224,-91.842613
+201 Pine, Warren, AR 71671, USA*****33.617333,-92.063130
+Warren, AR 71671, USA*****33.612609,-92.064583
+1245 E Main St, Batesville, AR 72501, USA*****35.777532,-91.642601
+130 Avenue E, Apalachicola, FL 32320, USA*****29.722672,-84.988986
+11325 FL-20, Bristol, FL 32321, USA*****30.430389,-84.971636
+Bristol, FL 32321, USA*****30.432141,-84.975750
+Historic District, 18680 Blue Star Hwy, Quincy, FL 32351, USA*****30.584143,-84.614388
+20118 Central Ave #1, Blountstown, FL 32424, USA*****30.443198,-85.040146
+911 N Waukesha St, Bonifay, FL 32425, USA*****30.800922,-85.680282
+1264 Church Ave, Chipley, FL 32428, USA*****30.782090,-85.538449
+5355 Cotton St, Graceville, FL 32440, USA*****30.957724,-85.517368
+125 W Hwy 98, Port St Joe, FL 32456, USA*****29.816351,-85.307321
+9511 N Century Blvd, Century, FL 32535, USA*****30.996610,-87.260667
+11204 FL-97, McDavid, FL 32568, USA*****30.994279,-87.488368
+6743 Elva St, Milton, FL 32570, USA*****30.622470,-87.041552
+1191 West Ave, Conyers, GA 30012, USA*****33.669125,-84.022594
+2112 Candler Rd, Decatur, GA 30032, USA*****33.729158,-84.281048
+Bowdon, GA 30108, USA*****33.537889,-85.253282
+1149 Pacific Ave, Bremen, GA 30110, USA*****33.720819,-85.120126
+368 Carrollton St, Buchanan, GA 30113, USA*****33.801836,-85.187805
+301 Calhoun Ave NE, Rome, GA 30161, USA*****34.265549,-85.152717
+3880 Martha Berry Hwy, Rome, GA 30165, USA*****34.332395,-85.170537
+610 Shorter Ave NW, Rome, GA 30165, USA*****34.265426,-85.199578
+2310 US-78, Tallapoosa, GA 30176, USA*****33.743982,-85.282553
+664 W Bankhead Hwy, Villa Rica, GA 30180, USA*****33.729385,-84.938089
+567 S Talbotton St, Greenville, GA 30222, USA*****33.025427,-84.712371
+816 S Hill St, Griffin, GA 30224, USA*****33.230690,-84.263594
+1010 E 3rd St, Jackson, GA 30233, USA*****33.293775,-83.954663
+505 S Greenwood St, LaGrange, GA 30240, USA*****33.033431,-85.034916
+2201 Hamilton Rd, LaGrange, GA 30241, USA*****32.994826,-85.008265
+249 Temple Ave, Newnan, GA 30263, USA*****33.388355,-84.819394
+301 N Center St #3, Thomaston, GA 30286, USA*****32.891295,-84.326676
+4769 Jonesboro Rd, Forest Park, GA 30297, USA*****33.624035,-84.355602
+230 Cleveland Ave SW, Atlanta, GA 30315, USA*****33.679693,-84.395679
+3100 Washington Rd, East Point, GA 30344, USA*****33.670272,-84.461156
+Glennville, GA 30427, USA*****31.936592,-81.928450
+300 Hardwood Dr, Cleveland, GA 30528, USA*****34.583619,-83.753236
+868 S Main St #1, Cleveland, GA 30528, USA*****34.584795,-83.762322
+323 Habersham Village Cir, Cornelia, GA 30531, USA*****34.540374,-83.544245
+7110 US-441, Dillard, GA 30537, USA*****34.977412,-83.382570
+200 Industrial Blvd, Ellijay, GA 30540, USA*****34.683195,-84.489687
+484 North Ave, Athens, GA 30601, USA*****33.975335,-83.362159
+4025 Lexington Rd, Athens, GA 30605, USA*****33.939261,-83.321283
+100 Peters St, Calhoun, GA 30701, USA*****34.490901,-84.946068
+53 S Broad St, Butler, GA 31006, USA*****32.553092,-84.238632
+Butler, GA 31006, USA*****32.557090,-84.238248
+201 5th Ave, Eastman, GA 31023, USA*****32.197117,-83.179382
+215 5th Ave, Eastman, GA 31023, USA*****32.196131,-83.179052
+121 College St, Gordon, GA 31031, USA*****32.885528,-83.334329
+Magnolia St, Jeffersonville, GA 31044, USA*****32.688831,-83.345129
+309 E Oak St, Georgia 31055, USA*****32.058567,-82.871779
+1310 N Columbia St, Milledgeville, GA 31061, USA*****33.094259,-83.240982
+731 S Wayne St, Milledgeville, GA 31061, USA*****33.071548,-83.225589
+PO Box 515, Oglethorpe, GA 31068, USA*****32.293769,-84.061019
+490 E Crusselle St, Roberta, GA 31078, USA*****32.724909,-84.005753
+207 3rd St, Vienna, GA 31092, USA*****32.089917,-83.796266
+823 N Houston Rd, Warner Robins, GA 31093, USA*****32.633226,-83.643239
+214 West Trilby St, Wrightsville, GA 31096, USA*****32.732572,-82.727470
+1425 Rocky Creek Rd, Macon, GA 31206, USA*****32.790772,-83.669304
+1605 Shurling Dr, Macon, GA 31211, USA*****32.859470,-83.594600
+1042 US-80, Pooler, GA 31322, USA*****32.123362,-81.266391
+2142 E Victory Dr, Savannah, GA 31404, USA*****32.041290,-81.062443
+7360 Skidaway Rd, Savannah, GA 31406, USA*****31.987084,-81.073311
+231 W Montgomery Cross Rd, Savannah, GA 31406, USA*****32.000096,-81.133421
+4415 Augusta Rd, Savannah, GA 31408, USA*****32.105111,-81.153473
+821 King George Blvd, Savannah, GA 31419, USA*****31.986588,-81.214790
+32 S Tallahassee St, Hazlehurst, GA 31539, USA*****31.865394,-82.600938
+2826 Meredyth Dr, Albany, GA 31707, USA*****31.608992,-84.222034
+215 E Monroe Ave, Ashburn, GA 31714, USA*****31.705636,-83.651656
+162 Ocilla Hwy, Fitzgerald, GA 31750, USA*****31.701545,-83.249848
+631 E Franklin St, Sylvester, GA 31791, USA*****31.530717,-83.824490
+1810 Tift Ave N, Tifton, GA 31794, USA*****31.471420,-83.504188
+412 W Main St, Manchester, GA 31816, USA*****32.855176,-84.619123
+390 Washington Ave, Talbotton, GA 31827, USA*****32.683425,-84.538683
+1807 S Lumpkin Rd, Columbus, GA 31903, USA*****32.420363,-84.951637
+4916 River Rd, Columbus, GA 31904, USA*****32.511943,-84.981673
+910 Brown Ave, Columbus, GA 31906, USA*****32.464191,-84.960289
+5600 Milgen Rd, Columbus, GA 31907, USA*****32.521361,-84.892415
+5850 Moon Rd, Columbus, GA 31909, USA*****32.529729,-84.924489
+106 Blakely St, Cuthbert, GA 39840, USA*****31.752262,-84.791869
+433 Roundtree Dr SW, Dawson, GA 39842, USA*****31.769476,-84.449182
+311 S Wiley Ave, Donalsonville, GA 39845, USA*****31.039608,-84.882117
+460 Orchard St, Antioch, IL 60002, USA*****42.478312,-88.099616
+219 Center St #202, Grayslake, IL 60030, USA*****42.344040,-88.039932
+815 Center St Ste A, Grayslake, IL 60030, USA*****42.343501,-88.023315
+712 State Ave, Kansas City, KS 66101, USA*****39.116798,-94.627522
+Calvert City, KY 42029, USA*****37.018448,-88.391903
+Fairview Ave, Eddyville, KY 42038, USA*****37.094373,-88.081056
+402 N Main St, Franklin, KY 42134, USA*****36.726081,-86.576900
+1897 Main St, Cadiz, KY 42211, USA*****36.867873,-87.808375
+1684 Main St, Cadiz, KY 42211, USA*****36.867105,-87.811730
+10300 Dixie Beeline Hwy, Guthrie, KY 42234, USA*****36.647074,-87.193654
+128 N Main St, Hopkinsville, KY 42240, USA*****36.870898,-87.484771
+407 Bethel Shopping Center, Russellville, KY 42276, USA*****36.842906,-86.892704
+410 E Legion Dr, Princeton, KY 42445, USA*****37.101091,-87.883898
+120 Cs-1010, Princeton, KY 42445, USA*****37.107272,-87.922287
+1900 Lafayette St, Gretna, LA 70053, USA*****29.904316,-90.053051
+2695 Jean Lafitte Blvd, Jean Lafitte, LA 70067, USA*****29.733970,-90.124887
+909 Westbank Expy, Westwego, LA 70094, USA*****29.898979,-90.142917
+5308 LA-56, Chauvin, LA 70344, USA*****29.453302,-90.592114
+1917 S Bayou Dr, Golden Meadow, LA 70357, USA*****29.378601,-90.259352
+606 Broadmoor Ave, Houma, LA 70364, USA*****29.631195,-90.747414
+Hammond, LA 70404, USA*****30.504092,-90.461362
+100 Cumberland St, Bogalusa, LA 70427, USA*****30.786462,-89.863225
+345 W Railroad Ave, Independence, LA 70443, USA*****30.630402,-90.500277
+54033 LA-1062, Loranger, LA 70446, USA*****30.636593,-90.398861
+207 Covington St, Madisonville, LA 70447, USA*****30.410235,-90.159844
+819 E Simcoe St, Lafayette, LA 70501, USA*****30.231015,-92.007196
+2017 W University Ave, Lafayette, LA 70506, USA*****30.231474,-92.033097
+3826 Moss St, Lafayette, LA 70507, USA*****30.277330,-92.007196
+3540 W Pinhook Rd, Lafayette, LA 70508, USA*****30.160583,-91.993203
+2300 Cecilia Sr High School Hwy, Breaux Bridge, LA 70517, USA*****30.334740,-91.851869
+118 E Plaquemine St, Church Point, LA 70525, USA*****30.408830,-92.218742
+123 E Plaquemine St, Church Point, LA 70525, USA*****30.408425,-92.218484
+122 E Plaquemine St, Church Point, LA 70525, USA*****30.409167,-92.218745
+1326 N Cutting Ave, Jennings, LA 70546, USA*****30.234513,-92.654372
+1705 Poinciana Ave, Mamou, LA 70554, USA*****30.642317,-92.405820
+1305 Heather Dr, Opelousas, LA 70570, USA*****30.509614,-92.072878
+8410 LA-182, Opelousas, LA 70570, USA*****30.556549,-92.072725
+702 S Adams Ave, Rayne, LA 70578, USA*****30.229464,-92.269117
+1714 S Main St, St Martinville, LA 70582, USA*****30.108723,-91.836529
+5525 Cameron St, Scott, LA 70583, USA*****30.232594,-92.088318
+510 Olinde St, New Roads, LA 70760, USA*****30.696442,-91.441783
+5932 Airline Hwy, Baton Rouge, LA 70805, USA*****30.500610,-91.132978
+5963 Plank Rd, Baton Rouge, LA 70805, USA*****30.504297,-91.153746
+5151 Plank Rd #60, Baton Rouge, LA 70805, USA*****30.495271,-91.157046
+9702 Greenwell Springs Rd, Baton Rouge, LA 70814, USA*****30.486726,-91.079073
+1728 Main St, Haynesville, LA 71038, USA*****32.960484,-93.141501
+402 N 2nd, Homer, LA 71040, USA*****32.792715,-93.055542
+302 W Mary Lee St, Plain Dealing, LA 71064, USA*****32.906997,-93.702979
+501 S Main St, Springhill, LA 71075, USA*****32.997737,-93.461019
+105 Chevy Ln, Bunkie, LA 71322, USA*****30.960090,-92.196603
+361 Tunica Dr W, Marksville, LA 71351, USA*****31.125618,-92.075152
+16229 LA-1, Simmesport, LA 71369, USA*****30.988582,-91.822967
+4020 Woodland Ave, Duluth, MN 55803, USA*****46.850569,-92.080675
+2415 E Malone Ave, Miner, MO 63801, USA*****36.888972,-89.542908
+117 E Main St, Steele, MO 63877, USA*****36.083571,-89.828809
+509 Fairground Ave, Higginsville, MO 64037, USA*****39.069491,-93.723756
+10514 Independence Ave, Kansas City, MO 64054, USA*****39.104833,-94.508654
+506 Washington St, Chillicothe, MO 64601, USA*****39.792844,-93.554033
+401 S Locust St, Sweet Springs, MO 65351, USA*****38.962933,-93.414941
+19 S Fuller St, Byhalia, MS 38611, USA*****34.871232,-89.683751
+10027 US-51, Coldwater, MS 38618, USA*****34.696578,-89.980798
+120 S Spring St, Holly Springs, MS 38635, USA*****34.768035,-89.445962
+602 W Bankhead St, New Albany, MS 38652, USA*****34.498539,-89.024427
+Olive Branch, MS 38654, USA*****34.961760,-89.829532
+1084 US-61, Tunica, MS 38676, USA*****34.749061,-90.355950
+500 Hwy 8, Rosedale, MS 38769, USA*****33.837152,-90.984023
+326 2nd St, Belmont, MS 38827, USA*****34.505717,-88.206475
+627 Battleground Dr, Iuka, MS 38852, USA*****34.807238,-88.199394
+US-45, United States*****38.805636,-88.508145
+63436 MS-25, Smithville, MS 38870, USA*****34.068142,-88.399349
+111 N Madison St, Calhoun City, MS 38916, USA*****33.855947,-89.309029
+17284 Okahoma St, Coffeeville, MS 38922, USA*****33.971750,-89.677250
+325 S Main St, Water Valley, MS 38965, USA*****34.144830,-89.634443
+110 E Academy St, Canton, MS 39046, USA*****32.609459,-90.034184
+301 N Van Buren St, Carthage, MS 39051, USA*****32.739537,-89.533764
+509 W Marion Ave, Crystal Springs, MS 39059, USA*****31.987755,-90.364906
+15560 N Jackson St, Durant, MS 39063, USA*****33.077920,-89.852728
+339 Simpson Hwy 149, Magee, MS 39111, USA*****31.868690,-89.727505
+31 Sgt Prentiss Dr, Natchez, MS 39120, USA*****31.523945,-91.388431
+31 Sgt Prentiss Dr #1, Natchez, MS 39120, USA*****31.523945,-91.388431
+740 US-51, Pickens, MS 39146, USA*****32.893173,-89.970883
+1002 Market St, Port Gibson, MS 39150, USA*****31.957806,-90.986473
+221 Welcome St, Taylorsville, MS 39168, USA*****31.830892,-89.432325
+4306 Halls Ferry Rd, Vicksburg, MS 39180, USA*****32.291402,-90.866694
+2875 McDowell Rd Ext, Jackson, MS 39204, USA*****32.268038,-90.260322
+225 Meadowbrook Rd, Jackson, MS 39206, USA*****32.349066,-90.176570
+2934 N Hills St, Meridian, MS 39305, USA*****32.409303,-88.709342
+110 Northside Plaza, Newton, MS 39345, USA*****32.333514,-89.152218
+100 Industrial Dr, Choctaw, MS 39350, USA*****32.770658,-89.190683
+16851 MS-21, Sebastopol, MS 39359, USA*****32.565876,-89.342482
+9 Bay Ave, Bay Springs, MS 39422, USA*****31.965088,-89.290734
+Bay Springs, MS, USA*****31.979042,-89.287284
+321 N 16th Ave, Laurel, MS 39440, USA*****31.692560,-89.145666
+Leakesville, MS 39451, USA*****31.155737,-88.557799
+1720 Columbia Ave, Prentiss, MS 39474, USA*****31.596096,-89.867963
+102 E Main St, Seminary, MS 39479, USA*****31.562371,-89.496623
+7831 MS-613, Moss Point, MS 39563, USA*****30.455659,-88.542861
+215 US-51, Brookhaven, MS 39601, USA*****31.584253,-90.458419
+364 W Monticello St, Brookhaven, MS 39601, USA*****31.581457,-90.446479
+605 S Laurel St, Summit, MS 39666, USA*****31.282933,-90.468041
+202 S Maple St, Aberdeen, MS 39730, USA*****33.823902,-88.542330
+301 E Roane Ave, Eupora, MS 39744, USA*****33.541016,-89.262278
+3135 E Roane Ave, Eupora, MS 39744, USA*****33.541496,-89.261333
+62 Church St, Mathiston, MS 39752, USA*****33.537317,-89.130874
+118 MS-12, Starkville, MS 39759, USA*****33.454278,-88.813132
+386 East St, Pittsboro, NC 27312, USA*****35.719234,-79.170584
+2412 S Horner Blvd, Sanford, NC 27330, USA*****35.459715,-79.147666
+600 W Raleigh St, Siler City, NC 27344, USA*****35.719519,-79.469911
+300 N Main St, Broadway, NC 27505, USA*****35.461573,-79.058370
+100 N Lionel St, Goldsboro, NC 27530, USA*****35.380024,-77.985151
+607 W 2nd St, Kenly, NC 27542, USA*****35.600080,-78.128426
+202 Dr Donnie H Jones Jr Blvd E, Princeton, NC 27569, USA*****35.465513,-78.156138
+940 W Raleigh Blvd, Rocky Mount, NC 27802, USA*****35.931934,-77.813230
+418 W Thomas St, Rocky Mount, NC 27804, USA*****35.946113,-77.799468
+230 N 5th St, Aurora, NC 27806, USA*****35.301617,-76.788141
+12536 Sanford St, Bailey, NC 27807, USA*****35.778995,-78.120362
+509 S Parker St, Elm City, NC 27822, USA*****35.800733,-77.862712
+5900 US-117, Fremont, NC 27830, USA*****35.558670,-77.975623
+136 Roanoke Rapids Rd, Gaston, NC 27832, USA*****36.498755,-77.643636
+2105 Dickinson Ave, Greenville, NC 27834, USA*****35.599664,-77.391923
+312 W Jefferson St, Jackson, NC 27845, USA*****36.389292,-77.425109
+234 US Hwy 158 E, Littleton, NC 27850, USA*****36.432283,-77.916992
+106 Beniford Dr, Pikeville, NC 27863, USA*****35.515313,-78.087029
+102 Moyton Ave, Stantonsburg, NC 27883, USA*****35.609012,-77.817832
+851 Washington Square Mall, Washington, NC 27889, USA*****35.559450,-77.057258
+626 River Rd, Washington, NC 27889, USA*****35.534336,-77.021820
+712 Washington St, Williamston, NC 27892, USA*****35.844271,-77.059735
+1220 Churchill Ave SW, Wilson, NC 27893, USA*****35.718596,-77.934345
+309 Nash St N, Wilson, NC 27893, USA*****35.728872,-77.914692
+1339 E Memorial Dr, Ahoskie, NC 27910, USA*****36.275882,-76.973397
+444 US-64, Plymouth, NC 27962, USA*****35.858923,-76.737350
+1111 Sunset Ave, Clinton, NC 28328, USA*****34.992015,-78.341241
+815 College St, Clinton, NC 28328, USA*****35.004791,-78.315852
+206 SW Center St, Faison, NC 28341, USA*****35.114794,-78.137002
+872 Conway Rd, Fair Bluff, NC 28439, USA*****34.315283,-79.031177
+229 E Church St, Laurinburg, NC 28352, USA*****34.772724,-79.460984
+615 N Breazeale Ave, Mt Olive, NC 28365, USA*****35.203500,-78.065995
+406 E 3rd St, Pembroke, NC 28372, USA*****34.675752,-79.190210
+210 E 4th Ave, Red Springs, NC 28377, USA*****34.813552,-79.181174
+326 S 5th St, St Pauls, NC 28384, USA*****34.804209,-78.978402
+107 S Pine St, Warsaw, NC 28398, USA*****34.999304,-78.090419
+121 E Strawberry Blvd, Chadbourn, NC 28431, USA*****34.331992,-78.824756
+2407 N Herritage St Ste D, Kinston, NC 28501, USA*****35.286921,-77.588500
+604 N McLewean St, Kinston, NC 28501, USA*****35.267050,-77.579942
+600 N McLewean St, Kinston, NC 28501, USA*****35.266559,-77.580213
+2586 US-258, Kinston, NC 28504, USA*****35.222277,-77.615855
+2715 NC-11, Kinston, NC 28504, USA*****35.223704,-77.642644
+249 W 3rd St, Ayden, NC 28513, USA*****35.474310,-77.428489
+1500 Live Oak St, Beaufort, NC 28516, USA*****34.724280,-76.645874
+Grantsboro, NC, USA*****35.140442,-76.842436
+302 S Highland Blvd, Grifton, NC 28530, USA*****35.373742,-77.440594
+1040 Henderson Dr, Jacksonville, NC 28540, USA*****34.781312,-77.423490
+2960 Richlands Hwy, Jacksonville, NC 28540, USA*****34.756462,-77.469883
+707 Main St, Maysville, NC 28555, USA*****34.901969,-77.230367
+4930 Arendell St, Morehead City, NC 28557, USA*****34.735041,-76.789282
+1208 Simmons St, New Bern, NC 28560, USA*****35.114710,-77.073445
+715 W Corbett Ave, Swansboro, NC 28584, USA*****34.693083,-77.132068
+112 N 17th St, Collinsville, OK 74021, USA*****36.365237,-95.846341
+200 OK-33, Perkins, OK 74059, USA*****35.984519,-97.031782
+3720 E Admiral Pl, Tulsa, OK 74115, USA*****36.160141,-95.935192
+659 S Park Dr, Broken Bow, OK 74728, USA*****34.020245,-94.739032
+Broken Bow, OK 74728, USA*****34.029276,-94.739104
+3386 E Railroad Ave, Bamberg, SC 29003, USA*****33.298807,-81.037598
+438 W Railroad Ave, Batesburg-Leesville, SC 29006, USA*****33.905763,-81.545330
+105 Main St S, Bethune, SC 29009, USA*****34.414222,-80.348464
+110 S Main St, Bishopville, SC 29010, USA*****34.218202,-80.249469
+50 E Dekalb St, Camden, SC 29020, USA*****34.248227,-80.592532
+326 Dearborn St, Great Falls, SC 29055, USA*****34.571175,-80.898564
+8508 Old State Rd, Holly Hill, SC 29059, USA*****33.322733,-80.414830
+4 Crescent Moon Ct, Lexington, SC 29072, USA*****33.959154,-81.297921
+26 US-1, York, ME 03909, USA*****43.134850,-70.701188
+36 Sunset Dr, Manning, SC 29102, USA*****33.690746,-80.212698
+6611 Savannah Hwy, Neeses, SC 29107, USA*****33.526553,-81.119671
+Partridge Ln, North, SC 29112, USA*****33.622897,-81.098671
+2526 Old Edisto Dr, Orangeburg, SC 29115, USA*****33.481247,-80.898564
+Orangeburg, SC, USA*****33.491820,-80.855648
+305 Harry C Raysor Dr, St Matthews, SC 29135, USA*****33.665233,-80.776320
+202 Harry C Raysor Dr, St Matthews, SC 29135, USA*****33.667284,-80.775558
+103 Travis Ave, Saluda, SC 29138, USA*****34.005378,-81.769745
+9092 Old Number Six Hwy, Santee, SC 29142, USA*****33.481712,-80.467031
+343 Pinewood Rd, Sumter, SC 29150, USA*****33.906218,-80.377503
+1011 Broad St, Sumter, SC 29150, USA*****33.946675,-80.372041
+114 E Calhoun St, Sumter, SC 29150, USA*****33.922845,-80.335759
+123 Earle St N, Wagener, SC 29164, USA*****33.649835,-81.361005
+6325 N Main St, Columbia, SC 29203, USA*****34.063277,-81.009266
+Forest Dr, Columbia, SC 29206, USA*****34.018616,-80.964621
+7451 Garners Ferry Rd, Columbia, SC 29209, USA*****33.966766,-80.946087
+6960 S Pine St, Pacolet, SC 29372, USA*****34.896764,-81.763876
+400 E Main St, Union, SC 29379, USA*****34.715145,-81.618964
+445 Meeting St, Charleston, SC 29403, USA*****32.794094,-79.940343
+4401 Piggly Wiggly Dr, North Charleston, SC 29405, USA*****32.871431,-80.001043
+8780 Rivers Ave #101, North Charleston, SC 29406, USA*****32.968536,-80.043640
+Charleston, SC 29407, USA*****32.801760,-79.997592
+176 Croghan Spur, Charleston, SC 29407, USA*****32.776385,-79.967448
+1521 Birthright St, Charleston, SC 29407, USA*****32.810547,-80.006787
+630 Skylark Dr Ste E, Charleston, SC 29407, USA*****32.791390,-80.029313
+1005 Harbor View Rd, Charleston, SC 29412, USA*****32.741751,-79.936322
+1985 Folly Rd, Charleston, SC 29412, USA*****32.685783,-79.961350
+5101 Ashley Phosphate Rd, Charleston, SC 29418, USA*****32.914645,-80.102550
+102 Jungle Rd, Edisto Island, SC 29438, USA*****32.504174,-80.297304
+1620 Highmarket St, Georgetown, SC 29440, USA*****33.376253,-79.291138
+6251 SC-162, Hollywood, SC 29449, USA*****32.734075,-80.237446
+SC-162, Meggett, SC 29449, USA*****32.734426,-80.241797
+3575 Maybank Hwy, Johns Island, SC 29455, USA*****32.721648,-80.078653
+9616 Hwy 78, Ladson, SC 29456, USA*****32.984052,-80.091731
+720 Chatter Rd, Mt Pleasant, SC 29464, USA*****32.825546,-79.857295
+1981 Riviera Dr, Mt Pleasant, SC 29464, USA*****32.820407,-79.815401
+1260 Ben Sawyer Blvd, Mt Pleasant, SC 29464, USA*****32.794513,-79.858125
+1605 Central Ave, Summerville, SC 29483, USA*****33.010210,-80.238698
+404 N Cedar St, Summerville, SC 29483, USA*****33.025868,-80.174334
+4488 Ladson Rd, Summerville, SC 29485, USA*****32.958452,-80.159999
+680 Bacons Bridge Rd, Summerville, SC 29485, USA*****32.999807,-80.186087
+297 Bells Hwy, Walterboro, SC 29488, USA*****32.914162,-80.674479
+1945 W Palmetto St, Florence, SC 29501, USA*****34.188195,-79.810665
+221 Cherokee Rd, Florence, SC 29501, USA*****34.184312,-79.768462
+500 2nd Loop Rd, Florence, SC 29505, USA*****34.167001,-79.771804
+12 W Ashland St, Andrews, SC 29510, USA*****33.454691,-79.560993
+15 W Ashland St, Andrews, SC 29510, USA*****33.454887,-79.560959
+235 Hwy 15-401, Bennettsville, SC 29512, USA*****34.568141,-79.775051
+842 S 5th St, Hartsville, SC 29550, USA*****34.363692,-80.068268
+206 E Main St, Kingstree, SC 29556, USA*****33.663849,-79.828186
+212 W Main St, Lake City, SC 29560, USA*****33.875055,-79.756106
+1404 N Main St, Marion, SC 29571, USA*****34.229000,-79.387866
+208 E McIntyre St, Mullins, SC 29574, USA*****34.199665,-79.249750
+122 US-17 BUS, Myrtle Beach, SC 29575, USA*****33.613657,-78.981936
+502 N Waccamaw Dr, Murrells Inlet, SC 29576, USA*****33.580257,-78.995231
+1700 S Kings Hwy, Myrtle Beach, SC 29577, USA*****33.674921,-78.905529
+1220 Moser Dr, Myrtle Beach, SC 29577, USA*****33.670814,-78.941104
+Oakheart Rd, Myrtle Beach, SC 29579, USA*****33.758301,-78.962411
+2100 Oakheart Rd, Myrtle Beach, SC 29579, USA*****33.757399,-78.961871
+115 Willbrook Blvd Suite Y, Pawleys Island, SC 29585, USA*****33.484338,-79.098028
+1160 Main St S, Greenwood, SC 29646, USA*****34.179711,-82.155810
+3353 Highway 72/221 East, Greenwood, SC 29649, USA*****34.258140,-82.091224
+204 S Cambridge St, Ninety Six, SC 29666, USA*****34.171168,-82.025253
+Ware Shoals, SC 29692, USA*****34.398451,-82.246785
+310 W Cherokee St, Blacksburg, SC 29702, USA*****35.119914,-81.520469
+1305 West Blvd, Chesterfield, SC 29709, USA*****34.737219,-80.111143
+1303 W Main St, Chesterfield, SC 29709, USA*****34.736507,-80.112055
+136 S Main St, Clover, SC 29710, USA*****35.110038,-81.229078
+1831 Great Falls Rd, Lancaster, SC 29720, USA*****34.692325,-80.786296
+5387 Allendale-Fairfax Hwy, Allendale, SC 29810, USA*****33.005255,-81.304610
+4 W Main St, Williston, SC 29853, USA*****33.401679,-81.421065
+1900 Boundary St, Beaufort, SC 29902, USA*****32.439104,-80.684965
+SC-46, Bluffton, SC 29909, USA*****32.237781,-80.963588
+810 Elm St E, Hampton, SC 29924, USA*****32.858408,-81.097971
+7 Main St, Hardeeville, SC 29927, USA*****32.287160,-81.080079
+1347 Ribaut Rd, Port Royal, SC 29935, USA*****32.399020,-80.683752
+10847 N Jacob Smart Blvd, Ridgeland, SC 29936, USA*****32.481570,-80.980459
+1 Dairy Farm Rd, Seabrook, SC 29940, USA*****32.603428,-80.755131
+3441 Fort Campbell Blvd, Clarksville, TN 37042, USA*****36.640092,-87.434202
+1536 Donelson Pkwy, Dover, TN 37058, USA*****36.480337,-87.891408
+3611 W Main St, Erin, TN 37061, USA*****36.316595,-87.713182
+130 McMurry Blvd, Hartsville, TN 37074, USA*****36.398017,-86.160948
+1101 Scottsville Rd, Lafayette, TN 37083, USA*****36.531965,-86.029773
+Nolensville, TN 37135, USA*****35.952285,-86.669441
+1439 Robinson Rd, Old Hickory, TN 37138, USA*****36.256346,-86.653617
+112 W Knight St, Portland, TN 37148, USA*****36.574444,-86.515164
+1022 Unionville Deason Rd, Shelbyville, TN 37160, USA*****35.609749,-86.578008
+2317 Dickerson Pike, Nashville, TN 37207, USA*****36.207748,-86.766815
+740 Tennessee Ave, Etowah, TN 37331, USA*****35.339798,-84.521367
+Gruetli-Laager, TN, USA*****35.372295,-85.618028
+141 Clinton Ave, Spring City, TN 37381, USA*****35.691028,-84.864530
+785 New Hwy 68, Sweetwater, TN 37874, USA*****35.591495,-84.477322
+378 S Bells St, Alamo, TN 38001, USA*****35.779559,-89.117394
+11900 US-70, Arlington, TN 38002, USA*****35.297921,-89.667336
+1620 Madison Ave, Memphis, TN 38104, USA*****35.139426,-90.007140
+1620 Madison Ave #1, Memphis, TN 38104, USA*****35.139426,-90.007140
+5150 American Way, Memphis, TN 38115, USA*****35.077853,-89.892467
+4049 Elvis Presley Blvd, Memphis, TN 38116, USA*****35.038103,-90.026127
+6150 American Way, Memphis, TN 38115, USA*****35.080571,-89.888503
+3071 S Perkins Rd, Memphis, TN 38118, USA*****35.064848,-89.907143
+3666 N Watkins St, Memphis, TN 38127, USA*****35.225777,-90.002261
+3327 N Watkins St, Memphis, TN 38127, USA*****35.216478,-90.004736
+539 W Main St, Henderson, TN 38340, USA*****35.432909,-88.649809
+223 E Main St, Savannah, TN 38372, USA*****35.223252,-88.238669
+314 TN-13, Collinwood, TN 38450, USA*****35.171245,-87.741153
+727 Old Hwy 64 E, Waynesboro, TN 38485, USA*****35.325138,-87.743542
+1706 E Lamar St, Sherman, TX 75090, USA*****33.639139,-96.588975
+707 W Main St, Clarksville, TX 75426, USA*****33.610319,-95.055254
+College St, Paris, TX 75460, USA*****33.649009,-95.532664
+445 Main St, Sulphur Springs, TX 75482, USA*****33.137038,-95.606456
+1204 W University Dr, Denton, TX 76201, USA*****33.229816,-97.145235
+619 E Sherman Dr, Denton, TX 76209, USA*****33.235503,-97.125917
+3601 E McKinney St, Denton, TX 76209, USA*****33.213695,-97.091952
+1110 E Hwy 82, Sherman, TX 75090, USA*****33.668675,-96.605187
+1835 W Lingleville Rd, Stephenville, TX 76401, USA*****32.226900,-98.230612
+1304 South Boston Rd, Danville, VA 24540, USA*****36.580245,-79.344003
+285 Nor-Dan Dr, Danville, VA 24540, USA*****36.628400,-79.398480
+400 Pine St #308, Seattle, WA 98101, USA*****47.611930,-122.337397
+11321 Bald Hill Rd SE, Yelm, WA 98597, USA*****46.922148,-122.573551
+240 N Commerce St, Cedar Grove, WI 53013, USA*****43.575443,-87.817745
+505 Cottonwood Ave, Hartland, WI 53029, USA*****43.097677,-88.349333
+100 South Western Ave, Juneau, WI 53039, USA*****43.406905,-88.712163
+940 Fond Du Lac Ave, Kewaskum, WI 53040, USA*****43.512876,-88.221241
+450 County H, Fredonia, WI 53021, USA*****43.498652,-88.058027
+80 E Park Ave, Kiel, WI 53042, USA*****43.921663,-88.024309
+325 East Ave, Lomira, WI 53048, USA*****43.584450,-88.434060
+2243 Calumet Dr, New Holstein, WI 53061, USA*****43.954493,-88.106941
+1300 Brown St, Oconomowoc, WI 53066, USA*****43.127333,-88.462946
+1411 Eastern Ave, Plymouth, WI 53073, USA*****43.746383,-87.964185
+2905 N 15th St, Sheboygan, WI 53083, USA*****43.776381,-87.722880
+1166 Fond Du Lac Ave, Sheboygan Falls, WI 53085, USA*****43.734471,-87.824732
+1100 E Commerce Blvd, Slinger, WI 53086, USA*****43.325552,-88.264824
+6111 W Mequon Rd, Mequon, WI 53092, USA*****43.220471,-87.984236
+2575 WI-33, West Bend, WI 53095, USA*****43.407025,-87.992793
+2575 E Washington St, West Bend, WI 53095, USA*****43.425566,-88.145760
+2801 14th Pl, Kenosha, WI 53140, USA*****42.630388,-87.844078
+2215 80th St, Kenosha, WI 53143, USA*****42.557174,-87.836172
+2201 E Rawson Ave, Oak Creek, WI 53154, USA*****42.914397,-87.883229
+4011 Durand Ave, Racine, WI 53405, USA*****42.694579,-87.828418
+5201 Washington Ave, Mt Pleasant, WI 53406, USA*****42.717149,-87.843157
+5600 Spring St, Mt Pleasant, WI 53406, USA*****42.737935,-87.848305
+100 State Farm Rd, Cambridge, WI 53523, USA*****43.023491,-89.022198
+421 W Cottage Grove Rd, Cottage Grove, WI 53527, USA*****43.088125,-89.211123
+316 W Spring St #7, Dodgeville, WI 53533, USA*****42.965347,-90.134980
+1211 N Main St, Edgerton, WI 53534, USA*****42.846808,-89.057617
+8 N County Rd M, Evansville, WI 53536, USA*****42.779877,-89.273372
+Janesville, WI 53545, USA*****42.732816,-89.027491
+805 N Main St, Lodi, WI 53555, USA*****43.322422,-89.537305
+724 Phillips Blvd, Sauk City, WI 53583, USA*****43.270496,-89.730880
+810 N Monroe St, Waterloo, WI 53594, USA*****43.191908,-88.989394
+205 N Holiday Dr, Waunakee, WI 53597, USA*****43.193300,-89.466079
+30 Riverside Square, Prairie du Chien, WI 53821, USA*****43.026027,-91.127132
+810 Park Ave, Beaver Dam, WI 53916, USA*****43.457121,-88.818722
+450 N Margaret St, Markesan, WI 53946, USA*****43.711970,-88.989768
+514 S Main St, Pardeeville, WI 53954, USA*****43.525000,-89.303196
+621 US-51, Poynette, WI 53955, USA*****43.397918,-89.396383
+164 Kienow Dr, Randolph, WI 53956, USA*****43.530688,-89.004637
+WI-73, Randolph, WI, USA*****43.539139,-89.006986
+250 Business 141 N, Coleman, WI 54112, USA*****45.068588,-88.034920
+216 Business 141 N, Coleman, WI 54112, USA*****45.067670,-88.035973
+250 N U.S. Hwy 141, Crivitz, WI 54114, USA*****45.226740,-87.996751
+1525 Fremont St, Algoma, WI 54201, USA*****44.607066,-87.453837
+931 Marquette Dr, Kewaunee, WI 54216, USA*****44.454988,-87.528071
+Country Walk Ln, Sister Bay, WI 54234, USA*****45.183701,-87.125354
+Country Walk Dr, Sister Bay, WI 54234, USA*****45.182998,-87.125017
+2300 Forest Ave, Two Rivers, WI 54241, USA*****44.154724,-87.573802
+441 Calumet Dr, Valders, WI 54245, USA*****44.062653,-87.886348
+3404 E Main St, Merrill, WI 54452, USA*****45.179450,-89.650970
+530 W State Hwy 153, Mosinee, WI 54455, USA*****44.789304,-89.729413
+1025 Market St, Nekoosa, WI 54457, USA*****44.314967,-89.905390
+1607 George St, La Crosse, WI 54603, USA*****43.846661,-91.240003
+550 Dettloff Dr, Arcadia, WI 54612, USA*****44.245318,-91.473767
+525 E Murdock Ave, Oshkosh, WI 54901, USA*****44.038009,-88.530094
+520 E Northland Ave, Appleton, WI 54911, USA*****44.288074,-88.399027
+131 University Dr, Fond du Lac, WI 54935, USA*****43.782047,-88.414107
+1151 Midway Rd, Menasha, WI 54952, USA*****44.228056,-88.425697
+1700 Appleton Rd, Menasha, WI 54952, USA*****44.232400,-88.426756
+1919 N Shawano St, New London, WI 54961, USA*****44.412836,-88.743568
+142 Alder Ave, Omro, WI 54963, USA*****44.039459,-88.718914
+275 Laing St, Redgranite, WI 54970, USA*****44.039648,-89.093592
+810 W Fulton St, Waupaca, WI 54981, USA*****44.358654,-89.100288

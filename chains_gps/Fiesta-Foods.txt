@@ -1,0 +1,15 @@
+3190 E Tulare Ave, Fresno, CA 93702, USA*****36.742262,-119.770899
+4985 E Kings Canyon Rd, Fresno, CA 93727, USA*****36.736862,-119.728197
+307 Regency Cir #101, Salinas, CA 93906, USA*****36.713464,-121.649312
+640 E Boronda Rd, Salinas, CA 93906, USA*****36.714610,-121.625627
+2426 N Main St Unit A, Salinas, CA 93906, USA*****36.732861,-121.654040
+5 N Homestead Blvd, Homestead, FL 33030, USA*****25.470163,-80.470652
+800 Avenue E, Hawarden, IA 51023, USA*****42.994944,-96.487720
+405 Heisler St, Mapleton, IA 51034, USA*****42.167807,-95.792129
+1002 11th St, Onawa, IA 51040, USA*****42.026265,-96.099118
+130 3rd St NE, Hartley, IA 51346, USA*****43.185072,-95.474750
+1205 21st St, Gothenburg, NE 69138, USA*****40.938933,-100.148925
+309 NW 13th St, Beresford, SD 57004, USA*****43.083190,-96.787130
+217 S Main Ave, Sioux Falls, SD 57104, USA*****43.545446,-96.728300
+2010 Yakima Valley Hwy, Sunnyside, WA 98944, USA*****46.325839,-119.992239
+115 S 10th Ave, Pasco, WA 99301, USA*****46.228167,-119.099817

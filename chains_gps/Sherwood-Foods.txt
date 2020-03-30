@@ -1,0 +1,6 @@
+12759 Homan Ave, Blue Island, IL 60406, USA*****41.661031,-87.704524
+11750 S Austin Ave, Alsip, IL 60803, USA*****41.677805,-87.769376
+14910 Westwood St, Detroit, MI 48223, USA*****42.397454,-83.232073
+12499 Evergreen Rd, Detroit, MI 48228, USA*****42.378138,-83.239832
+16625 Granite Rd, Maple Heights, OH 44137, USA*****41.395600,-81.565084
+807 S Main St, Chase City, VA 23924, USA*****36.789227,-78.458983

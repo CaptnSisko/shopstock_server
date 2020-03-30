@@ -1,0 +1,129 @@
+5800 Bancroft Ave, Oakland, CA 94605, USA*****37.771424,-122.192608
+1200 Farmington Ave, Bristol, CT 06010, USA*****41.695524,-72.902727
+214 Spencer St, Manchester, CT 06040, USA*****41.765661,-72.570484
+634 W Main St, Norwich, CT 06360, USA*****41.513594,-72.101219
+1131 Campbell Ave, West Haven, CT 06516, USA*****41.290080,-72.956589
+650 Wolcott St, Waterbury, CT 06705, USA*****41.552217,-73.024154
+143 Federal Rd, Brookfield, CT 06804, USA*****41.437532,-73.406130
+1990 W Main St, Stamford, CT 06902, USA*****41.047396,-73.564952
+501 N Walnut St, Wilmington, DE 19801, USA*****39.740064,-75.548103
+8550 International Dr, Orlando, FL 32819, USA*****28.440816,-81.471348
+2518 N Albany Ave, Tampa, FL 33607, USA*****27.963488,-82.480987
+Chatsworth, GA 30705, USA*****34.765915,-84.769938
+200 Thomas Ave, Chickamauga, GA 30707, USA*****34.873215,-85.289916
+202 Thomas Ave, Chickamauga, GA 30707, USA*****34.873215,-85.289948
+321 W Patton St, LaFayette, GA 30728, USA*****34.704475,-85.286069
+875 Lafayette St, Ringgold, GA 30736, USA*****34.915488,-85.111180
+3507 Chattanooga Rd, Tunnel Hill, GA 30755, USA*****34.841976,-85.047661
+7701 S Halsted St, Chicago, IL 60620, USA*****41.754063,-87.643853
+5200 W Washington Blvd, Chicago, IL 60644, USA*****41.882609,-87.755342
+1823 W Lincoln Ave, Peoria, IL 61605, USA*****40.681565,-89.622001
+186 Chaplin Rd, Bloomfield, KY 40008, USA*****37.911898,-85.310981
+900 Madison St, Hoboken, NJ 07030, USA*****40.749546,-74.036438
+637 W Edgar Rd, Linden, NJ 07036, USA*****40.618458,-74.245994
+3115 John F. Kennedy Blvd, North Bergen, NJ 07047, USA*****40.774851,-74.035796
+808 US-46, Parsippany, NJ 07054, USA*****40.864973,-74.376662
+76 Central Ave, Clark, NJ 07066, USA*****40.629202,-74.305405
+70 Central Ave, Clark, NJ 07066, USA*****40.628846,-74.304373
+733 Mountain Ave, Springfield Township, NJ 07081, USA*****40.690145,-74.331574
+727 Morris Turnpike, Springfield Township, NJ 07081, USA*****40.718896,-74.331161
+600 York St, Elizabeth, NJ 07201, USA*****40.664179,-74.191002
+370 US-22, Hillside, NJ 07205, USA*****40.700238,-74.234324
+500 S River St, Hackensack, NJ 07601, USA*****40.863202,-74.035156
+459 NJ-17, Hasbrouck Heights, NJ 07604, USA*****40.864630,-74.065353
+372 Broadway, Hillsdale, NJ 07642, USA*****41.012684,-74.041304
+175 Main St, Lodi, NJ 07644, USA*****40.879488,-74.084903
+814 River Rd, New Milford, NJ 07646, USA*****40.928156,-74.027717
+246 Livingston St Ste H, Northvale, NJ 07647, USA*****41.012296,-73.944983
+NJ-35, Belmar, NJ, USA*****40.181353,-74.028040
+1801 NJ-35, Wall Township, NJ 07719, USA*****40.167572,-74.048831
+922 NJ-33, Monroe Township, NJ 08831, USA*****40.265819,-74.461757
+36 NJ-33, Manalapan Township, NJ 07726, USA*****40.254267,-74.335374
+36 State St, Union Beach, NJ 07735, USA*****40.445140,-74.182230
+318 Lloyd Rd, Aberdeen Township, NJ 07747, USA*****40.395215,-74.221621
+1361 NJ-35, Middletown, NJ 07748, USA*****40.401677,-74.120142
+2200 NJ-66, Neptune City, NJ 07753, USA*****40.225217,-74.043319
+York, PA, USA*****39.962598,-76.727745
+NJ-36, West Long Branch, NJ 07764, USA*****40.299046,-74.022297
+314 NJ-15, Wharton, NJ 07885, USA*****40.904949,-74.570311
+Shunpike Rd & Southern Blvd, Chatham Township, NJ 07928, USA*****40.746002,-74.430022
+US-130 & Browning Ln, Brooklawn, NJ 08031, USA*****39.878202,-75.114976
+Haddonfield, NJ 08033, USA*****39.896756,-75.031909
+1445 Brace Rd, Cherry Hill, NJ 08034, USA*****39.889609,-75.017897
+1520 NJ-38, Hainesport, NJ 08036, USA*****39.980682,-74.807409
+NJ-45, New Jersey, USA*****39.699561,-75.271846
+307 W Rte 70, Marlton, NJ 08053, USA*****39.894620,-74.932766
+1000 Nixon Dr, Mt Laurel Township, NJ 08054, USA*****39.938287,-74.966007
+141 Bridgeton Pike, Mullica Hill, NJ 08062, USA*****39.724245,-75.218552
+1310 Fairview Blvd, Delran, NJ 08075, USA*****40.018310,-74.945099
+740 US-130, Cinnaminson, NJ 08077, USA*****39.995348,-74.994793
+Gordon Ave & S Black Horse Pike, Monroe Township, NJ 08094, USA*****39.688610,-74.992014
+616 White Horse Pike, Absecon, NJ 08201, USA*****39.432994,-74.511355
+Absecon, NJ 08201, USA*****39.428450,-74.495708
+McKee City, NJ 08232, USA*****39.398346,-74.511172
+3003 English Creek Ave, Egg Harbor Township, NJ 08234, USA*****39.434244,-74.614515
+1700 NJ-47, Rio Grande, NJ 08242, USA*****39.011985,-74.868817
+9 Bethel Rd, Somers Point, NJ 08244, USA*****39.333516,-74.596212
+Bethel Rd, Somers Point, NJ 08244, USA*****39.325777,-74.594259
+1000 N Pearl St, Bridgeton, NJ 08302, USA*****39.457480,-75.213082
+3600 E Landis Ave #1, Vineland, NJ 08361, USA*****39.484026,-74.958279
+622 US-206, Bordentown Township, NJ 08505, USA*****40.173452,-74.704248
+2555 Pennington Rd, Pennington, NJ 08534, USA*****40.306196,-74.787010
+3373 Brunswick Pike, Lawrence Township, NJ 08648, USA*****40.296656,-74.680208
+1750 N Olden Ave, Ewing Township, NJ 08638, USA*****40.249177,-74.769698
+1750 N Olden Ave, Ewing Township, NJ 08638, USA*****40.249190,-74.769796
+3373 US-1, Lawrence Township, NJ 08648, USA*****40.299047,-74.682732
+1235 NJ-33, Trenton, NJ 08638, USA*****40.235535,-74.587773
+130 Marketplace Blvd, Hamilton Township, NJ 08691, USA*****40.191946,-74.642410
+Atlantic City Blvd, Berkeley Township, NJ, USA*****39.909857,-74.154848
+U.S. 9, Lacey Township, NJ, USA*****39.864448,-74.171376
+611 W Union Ave, Bound Brook, NJ 08805, USA*****40.570326,-74.553096
+14-22 W Prospect St, East Brunswick, NJ 08816, USA*****40.456919,-74.396517
+Flemington, NJ 08822, USA*****40.512326,-74.859332
+1306 Centennial Ave, Piscataway, NJ 08854, USA*****40.551482,-74.442842
+2909 Washington Rd, Parlin, NJ 08859, USA*****40.467436,-74.313104
+365 Convery Blvd, Perth Amboy, NJ 08861, USA*****40.516988,-74.286520
+1207 US-22, Phillipsburg, NJ 08865, USA*****40.680114,-75.143430
+435 Elizabeth Ave, Somerset, NJ 08873, USA*****40.530732,-74.537790
+3166 US-22, Somerville, NJ 08876, USA*****40.604668,-74.691821
+400 Renaissance Blvd, North Brunswick Township, NJ 08902, USA*****40.433960,-74.489848
+2424 Hylan Blvd, Staten Island, NY 10306, USA*****40.572085,-74.107295
+985 Richmond Ave, Staten Island, NY 10314, USA*****40.623051,-74.148565
+747 Bedford Rd, Bedford Hills, NY 10507, USA*****41.224614,-73.715238
+178 NY-52, Carmel Hamlet, NY 10512, USA*****41.436125,-73.680229
+176 Gleneida Ave, Carmel Hamlet, NY 10512, USA*****41.429446,-73.679522
+490 S Riverside Ave, Croton-On-Hudson, NY 10520, USA*****41.192333,-73.879006
+Main St, Peekskill, NY 10566, USA*****41.292855,-73.910150
+960 Broadway, Thornwood, NY 10594, USA*****41.125133,-73.779225
+278 Tuckahoe Rd, Yonkers, NY 10710, USA*****40.953583,-73.858846
+250 NY-59, Suffern, NY 10901, USA*****41.116254,-74.153259
+38 W Ramapo Rd, Garnerville, NY 10923, USA*****41.199746,-74.007178
+56 W Ramapo Rd, Garnerville, NY 10923, USA*****41.200352,-74.008804
+20 Lloyds Ln, Middletown, NY 10940, USA*****41.453718,-74.396881
+125 Dolson Ave, Middletown, NY 10940, USA*****41.429029,-74.424442
+66 N Main St, New City, NY 10956, USA*****41.149138,-73.987596
+26 N Middletown Rd, Pearl River, NY 10965, USA*****41.060860,-74.011559
+153 NY-94, Warwick, NY 10990, USA*****41.236421,-74.381106
+243 E Rte 59, West Nyack, NY 10994, USA*****41.093688,-74.002876
+253 NY-59, West Nyack, NY 10994, USA*****41.094362,-73.960020
+1080 McDonald Ave, Brooklyn, NY 11204, USA*****40.626740,-73.976942
+NY-109, West Babylon, NY 11704, USA*****40.710058,-73.365288
+1905 Sunrise Hwy, Bay Shore, NY 11706, USA*****40.740866,-73.233225
+335 Smithtown Bypass, Hauppauge, NY 11788, USA*****40.826711,-73.202533
+444 Woodbury Rd, Plainview, NY 11803, USA*****40.785764,-73.501155
+1054 Old Country Rd, Plainview, NY 11803, USA*****40.776850,-73.471883
+801 Miron Ln, Kingston, NY 12401, USA*****41.960209,-73.986125
+US-209, Ellenville, NY, USA*****41.716951,-74.395536
+17-19 Fairview Ave, Hudson, NY 12534, USA*****42.247994,-73.772924
+88 N Plank Rd #1, Newburgh, NY 12550, USA*****41.527924,-74.032871
+52 NY-17K, Newburgh, NY 12550, USA*****41.505155,-74.060397
+263 Main St, New Paltz, NY 12561, USA*****41.742563,-74.068888
+1895 South Rd, Poughkeepsie, NY 12601, USA*****41.617260,-73.917566
+131 NY-52, Carmel Hamlet, NY 10512, USA*****41.433252,-73.681432
+23 Prospect St, Greenwich, NY 12834, USA*****43.093464,-73.490589
+1350 Fillmore Ave, Buffalo, NY 14211, USA*****42.910382,-78.839370
+4606 W 130th St, Cleveland, OH 44135, USA*****41.428758,-81.780456
+7911 Reading Rd, Cincinnati, OH 45237, USA*****39.206602,-84.452205
+2200 Pasqualone Blvd, Bensalem, PA 19020, USA*****40.132048,-74.924122
+1575 N 52nd St, Philadelphia, PA 19131, USA*****39.979582,-75.224888
+3745 Aramingo Ave, Philadelphia, PA 19137, USA*****39.994562,-75.091593

@@ -1,0 +1,9 @@
+10 Sharon Rd, Lakeville, CT 06039, USA*****41.964140,-73.439959
+220 Main St, New Hartford, CT 06057, USA*****41.865559,-72.958109
+229 West St, Litchfield, CT 06759, USA*****41.745968,-73.199400
+31 Main St, Thomaston, CT 06787, USA*****41.674258,-73.072483
+1036 E Main St, Torrington, CT 06790, USA*****41.813449,-73.098437
+857 Main St, Torrington, CT 06790, USA*****41.817902,-73.122167
+392 Church St, Torrington, CT 06790, USA*****41.804516,-73.131342
+610 Winsted Rd, Torrington, CT 06790, USA*****41.828039,-73.109765
+1009 Main St, Watertown, CT 06795, USA*****41.596423,-73.112555

@@ -1,0 +1,183 @@
+829 N Center Ave, Somerset, PA 15501, USA*****40.015823,-79.078841
+181 PA-36, Roaring Spring, PA 16673, USA*****40.336641,-78.391310
+257 Cemetery Ave, Roaring Spring, PA 16673, USA*****40.339713,-78.400539
+2 E Main St, Annville, PA 17003, USA*****40.329202,-76.514966
+1 Cranes Gap Rd, Carlisle, PA 17013, USA*****40.242645,-77.179408
+1099 Harrisburg Pike, Carlisle, PA 17013, USA*****40.220763,-77.162132
+998 N Hanover St, Elizabethtown, PA 17022, USA*****40.165410,-76.608349
+2395 S Market St, Elizabethtown, PA 17022, USA*****40.131724,-76.563769
+245 S Market St, Elizabethtown, PA 17022, USA*****40.148297,-76.603896
+10 Hersheypark Dr, Hershey, PA 17033, USA*****40.294317,-76.652629
+17 Briarcrest Square, Hershey, PA 17033, USA*****40.269349,-76.671590
+686 2nd St, Highspire, PA 17034, USA*****40.202830,-76.771771
+1025 Middletown Rd, Hummelstown, PA 17036, USA*****40.238116,-76.711719
+240 Hershey Rd, Hummelstown, PA 17036, USA*****40.310756,-76.697719
+152 N King St, Jonestown, PA 17038, USA*****40.416112,-76.476918
+815 Quentin Rd, Lebanon, PA 17042, USA*****40.327866,-76.426706
+812 E Penn Ave, Cleona, PA 17042, USA*****40.339016,-76.462341
+102 S 8th St, Lebanon, PA 17042, USA*****40.337869,-76.423904
+524 S Lincoln Ave, Lebanon, PA 17042, USA*****40.333613,-76.411360
+716 E Lehman St, Lebanon, PA 17046, USA*****40.346378,-76.399335
+1201 W Maple St, Lebanon, PA 17046, USA*****40.350824,-76.432763
+5150 Simpson Ferry Rd, Mechanicsburg, PA 17050, USA*****40.218347,-76.976952
+2130 S Market St, Mechanicsburg, PA 17055, USA*****40.175413,-76.985053
+2138 S Market St, Mechanicsburg, PA 17055, USA*****40.175573,-76.984117
+158 E Main St, Middletown, PA 17057, USA*****40.200596,-76.728604
+298 W Lincoln Ave, Myerstown, PA 17067, USA*****40.376859,-76.311737
+100 W Main St, Palmyra, PA 17078, USA*****40.306473,-76.597132
+5009 Locust Ln, Harrisburg, PA 17109, USA*****40.293049,-76.803750
+390 N Houcks Rd, Harrisburg, PA 17109, USA*****40.305667,-76.812461
+2015 Dodson Ct, Harrisburg, PA 17110, USA*****40.307102,-76.851189
+4850 Union Deposit Rd, Harrisburg, PA 17111, USA*****40.281802,-76.799423
+6300 Derry St, Harrisburg, PA 17111, USA*****40.264489,-76.777969
+2885 Paxton St, Harrisburg, PA 17111, USA*****40.255617,-76.839763
+209 W King St, Shippensburg, PA 17257, USA*****40.048436,-77.526269
+2 W Main St, Dallastown, PA 17313, USA*****39.900668,-76.644619
+4001 Carlisle Rd, Dover, PA 17315, USA*****39.993599,-76.842393
+300 Frederick St, Hanover, PA 17331, USA*****39.795461,-76.988383
+5 Fuhrman Mill Rd, Hanover, PA 17331, USA*****39.753471,-76.952177
+536 Baltimore St, Hanover, PA 17331, USA*****39.793371,-76.975040
+703 Carlisle St, Hanover, PA 17331, USA*****39.810664,-76.990070
+6115 York Rd, New Oxford, PA 17350, USA*****39.870829,-77.026704
+246 W Broadway, Red Lion, PA 17356, USA*****39.898606,-76.609003
+594 W Market St, York, PA 17401, USA*****39.957523,-76.742693
+3690 E Market St, York, PA 17402, USA*****39.982872,-76.649439
+2701 S Queen St, York, PA 17403, USA*****39.909867,-76.678814
+1338 Mt Rose Ave, York, PA 17403, USA*****39.958856,-76.698341
+734 Roosevelt Ave, York, PA 17404, USA*****39.965845,-76.747867
+246 S Richland Ave, York, PA 17404, USA*****39.951924,-76.748093
+1500 W Market St, West York, PA 17404, USA*****39.953084,-76.761380
+209 Carlisle Ave, York, PA 17404, USA*****39.958346,-76.749741
+2820 Carlisle Rd, York, PA 17408, USA*****39.981489,-76.812834
+342 Chestnut St, Columbia, PA 17512, USA*****40.034220,-76.503599
+104 Prospect Rd, Columbia, PA 17512, USA*****40.036772,-76.455251
+300 Main St, Denver, PA 17517, USA*****40.231357,-76.135936
+5959 Main St, East Petersburg, PA 17520, USA*****40.098841,-76.353078
+1010 Sharp Ave, Ephrata, PA 17522, USA*****40.204177,-76.212998
+903 S State St, Ephrata, PA 17522, USA*****40.173541,-76.194381
+4 Hahnstown Rd, Ephrata, PA 17522, USA*****40.163943,-76.149706
+Gap, PA, USA*****39.987325,-76.020507
+3400 Compass Rd, Gap, PA 17527, USA*****40.022605,-75.942604
+Church St & Main St, Salunga-Landisville, PA 17538, USA*****40.095289,-76.410341
+284 E Main St, Leola, PA 17540, USA*****40.091775,-76.155413
+600 N Oak St, Lititz, PA 17543, USA*****40.165765,-76.288776
+5 W 28th Division Hwy, Lititz, PA 17543, USA*****40.226439,-76.302773
+101 S Main St, Manheim, PA 17545, USA*****40.162004,-76.392554
+26 Manor Ave, Millersville, PA 17551, USA*****40.008650,-76.357239
+703 E Main St, Mount Joy, PA 17552, USA*****40.109537,-76.488132
+325 W Main St, Mount Joy, PA 17552, USA*****40.112410,-76.512647
+1001 Lancaster Pike, Quarryville, PA 17566, USA*****39.872377,-76.228041
+265 W State St, Quarryville, PA 17566, USA*****39.894785,-76.170800
+2787 Lincoln Hwy E, Ronks, PA 17572, USA*****40.017574,-76.165696
+257 N Decatur St, Strasburg, PA 17579, USA*****39.988294,-76.180208
+2921 Willow Street Pike N, Willow Street, PA 17584, USA*****39.986444,-76.281126
+1490 Stony Battery Rd, Lancaster, PA 17601, USA*****40.062928,-76.409552
+3570 Marietta Ave, Lancaster, PA 17601, USA*****40.062887,-76.432189
+1904 Fruitville Pike, Lancaster, PA 17601, USA*****40.074251,-76.321689
+1501 Manheim Pike, Lancaster, PA 17601, USA*****40.078382,-76.337792
+901 Nissley Rd, Lancaster, PA 17601, USA*****40.066613,-76.396419
+2000 Lincoln Hwy E, Lancaster, PA 17602, USA*****40.032903,-76.244203
+806 New Holland Ave, Lancaster, PA 17602, USA*****40.051560,-76.289108
+1612 Lincoln Hwy E, Lancaster, PA 17602, USA*****40.037141,-76.271015
+2453 Old Philadelphia Pike, Lancaster, PA 17602, USA*****40.039774,-76.204598
+102 Duncan St, Lancaster, PA 17602, USA*****40.023205,-76.265765
+460 S Duke St, Lancaster, PA 17602, USA*****40.033532,-76.301037
+4 W Clay St, Lancaster, PA 17603, USA*****40.049887,-76.308054
+870 Manor St, Lancaster, PA 17603, USA*****40.030441,-76.321010
+1349 Millersville Pike, Lancaster, PA 17603, USA*****40.026013,-76.329695
+1004 Harrisburg Ave, Lancaster, PA 17603, USA*****40.051777,-76.321932
+520 Hershey Ave, Lancaster, PA 17603, USA*****40.023455,-76.315740
+2207 Marietta Ave, Lancaster, PA 17603, USA*****40.053250,-76.360246
+S Duke St, Lancaster, PA 17603, USA*****40.031382,-76.297194
+1503 Columbia Ave, Lancaster, PA 17603, USA*****40.038311,-76.344189
+935 Columbia Ave, Lancaster, PA 17603, USA*****40.038748,-76.324516
+PA-23 & Centerville Rd, East Hempfield Township, PA 17601, USA*****40.057538,-76.398323
+2101 New Danville Pike, Lancaster, PA 17603, USA*****39.985420,-76.315177
+1350 New Danville Pike, Lancaster, PA 17603, USA*****40.012820,-76.305632
+700 Washington Blvd, Williamsport, PA 17701, USA*****41.247362,-76.990303
+2688 Euclid Ave, Duboistown, PA 17702, USA*****41.222997,-77.036861
+300 Broad St, Montoursville, PA 17754, USA*****41.249448,-76.927484
+276 PA-87, Montoursville, PA 17754, USA*****41.265869,-76.912561
+501 S Front St, Sunbury, PA 17801, USA*****40.851411,-76.802611
+900 N 4th St, Sunbury, PA 17801, USA*****40.871212,-76.785609
+2 E Valley Ave, Elysburg, PA 17824, USA*****40.861495,-76.548642
+862 Chestnut St, Kulpmont, PA 17834, USA*****40.794002,-76.472347
+130 S Arch St, Milton, PA 17847, USA*****41.018106,-76.854454
+140 W Lincoln St, Shamokin, PA 17872, USA*****40.789004,-76.558104
+501 N 2nd St, Shamokin, PA 17872, USA*****40.789236,-76.563770
+1638 Centre St, Ashland, PA 17921, USA*****40.780850,-76.350591
+101 S Lehigh Ave, Frackville, PA 17931, USA*****40.783724,-76.229784
+US-209 & PA-901, Branch Township, PA 17951, USA*****40.678636,-76.247922
+134 S Tulpehocken St, Pine Grove, PA 17963, USA*****40.549368,-76.385003
+216 Pike St, Port Carbon, PA 17965, USA*****40.695937,-76.168615
+120 S Main St, Shenandoah, PA 17976, USA*****40.818809,-76.201090
+55 Morgan Hill Rd, Easton, PA 18042, USA*****40.672751,-75.214408
+602 Chestnut St, Emmaus, PA 18049, USA*****40.532940,-75.496032
+PA-100 & PA-29, Hereford, PA 18056, USA*****40.448521,-75.552606
+141 W Main St, Macungie, PA 18062, USA*****40.518295,-75.559988
+1060 Main St, Northampton, PA 18067, USA*****40.679326,-75.489818
+434 E Main St, Pen Argyl, PA 18072, USA*****40.870547,-75.249767
+515 Main St, Red Hill, PA 18076, USA*****40.377037,-75.483596
+610 Main St, Slatington, PA 18080, USA*****40.751229,-75.613205
+73 N Broadway, Wind Gap, PA 18091, USA*****40.849636,-75.291129
+2900 W Emaus Ave, Allentown, PA 18103, USA*****40.558259,-75.480016
+Hazleton, PA, USA*****40.958418,-75.974647
+800 Alter St, Hazleton, PA 18201, USA*****40.967371,-75.980544
+101 Susquehanna St, Jim Thorpe, PA 18229, USA*****40.861489,-75.738444
+22 W Patterson St, Lansford, PA 18232, USA*****40.831116,-75.885193
+200 W Catawissa St, Nesquehoning, PA 18240, USA*****40.863578,-75.814854
+912 Pennsylvania Ave, Matamoras, PA 18336, USA*****41.363677,-74.705442
+220 N 9th St, Stroudsburg, PA 18360, USA*****40.986990,-75.202300
+32 Belmont St, Carbondale, PA 18407, USA*****41.577272,-75.496755
+8 River St, Carbondale, PA 18407, USA*****41.574024,-75.504015
+1050 Main St, Honesdale, PA 18431, USA*****41.575584,-75.257659
+560 N Main Ave, Scranton, PA 18504, USA*****41.417839,-75.674764
+399 Meridian Ave, Scranton, PA 18504, USA*****41.405400,-75.677673
+1429 Mulberry St, Scranton, PA 18510, USA*****41.403626,-75.649766
+401 S Blakely St Apt S, Dunmore, PA 18512, USA*****41.417506,-75.634515
+670 Sanderson St, Throop, PA 18512, USA*****41.443709,-75.616331
+400 S Keyser Ave, Taylor, PA 18517, USA*****41.401389,-75.717147
+193 N Main St, Old Forge, PA 18518, USA*****41.373123,-75.731891
+925 Main St, Dickson City, PA 18519, USA*****41.462430,-75.621650
+Ring Rd, Dallas, PA 18612, USA*****41.326911,-75.953216
+460 W Main St, Nanticoke, PA 18634, USA*****41.196752,-76.013500
+5 W Main St, Plymouth, PA 18651, USA*****41.240679,-75.945734
+257 Center Ave, Plymouth, PA 18651, USA*****41.244690,-75.949543
+Carey Ave & Division St, Hanover Township, PA 18706, USA*****41.234947,-75.917518
+754 S Main St, Wilkes-Barre, PA 18702, USA*****41.233023,-75.904110
+340 Wilkes Barre Township Blvd, Wilkes-Barre, PA 18702, USA*****41.236209,-75.864073
+776 Rutter Ave, Kingston, PA 18704, USA*****41.270578,-75.879925
+1370 Wyoming Ave, Forty Fort, PA 18704, USA*****41.287557,-75.871698
+Hazle St & S Wilkes-Barre Blvd, Wilkes-Barre, PA 18702, USA*****41.236536,-75.890622
+335 E Main St, Wilkes-Barre, PA 18705, USA*****41.267067,-75.833286
+2 N Mountain Blvd, Mountain Top, PA 18707, USA*****41.162525,-75.886050
+1014 Lincoln Hwy E, Coatesville, PA 19320, USA*****39.986093,-75.804746
+1000 W Kings Hwy, Coatesville, PA 19320, USA*****40.016577,-75.896070
+82 Gap Newport Pike, Avondale, PA 19311, USA*****39.823012,-75.782003
+132 W Lancaster Ave, Downingtown, PA 19335, USA*****40.002637,-75.709481
+3026 Horseshoe Pike, Honey Brook, PA 19344, USA*****40.077903,-75.856719
+257 Chesterville Rd, Landenberg, PA 19350, USA*****39.779086,-75.787201
+10 E 1st Ave, Parkesburg, PA 19365, USA*****39.959942,-75.912731
+798 N Charlotte St, Pottstown, PA 19464, USA*****40.257505,-75.636834
+2 E Bridge St, Spring City, PA 19475, USA*****40.181290,-75.548167
+3321 Main St, Birdsboro, PA 19508, USA*****40.283728,-75.869190
+323 N Furnace St, Birdsboro, PA 19508, USA*****40.266663,-75.808103
+200 W Main St, Fleetwood, PA 19522, USA*****40.452201,-75.823194
+1434 E Philadelphia Ave, Gilbertsville, PA 19525, USA*****40.318601,-75.609556
+50 W Main St, Kutztown, PA 19530, USA*****40.518980,-75.775711
+Center St, Leesport, PA 19533, USA*****40.445328,-75.969916
+4443 New Holland Rd, Mohnton, PA 19540, USA*****40.244904,-75.999125
+3248 Morgantown Rd, Mohnton, PA 19540, USA*****40.253033,-75.911710
+2848 W Main St, Morgantown, PA 19543, USA*****40.153171,-75.898202
+4801 N 5th Street Hwy, Temple, PA 19560, USA*****40.406212,-75.927408
+501 Spring St, Reading, PA 19601, USA*****40.350668,-75.926863
+800 N 10th St, Reading, PA 19604, USA*****40.347558,-75.918152
+425 N 13th St, Reading, PA 19604, USA*****40.341958,-75.911914
+2000 Kutztown Rd, Reading, PA 19605, USA*****40.365218,-75.919536
+2610 Kutztown Rd, Reading, PA 19605, USA*****40.374757,-75.919423
+3701 Kutztown Rd, Reading, PA 19605, USA*****40.392950,-75.919332
+4899 Perkiomen Ave, Reading, PA 19606, USA*****40.304149,-75.856141
+2450 Perkiomen Ave, Mt Penn, PA 19606, USA*****40.327451,-75.888387
+1660 New Holland Rd, Reading, PA 19607, USA*****40.304211,-75.946460
+44 E Lancaster Ave, Shillington, PA 19607, USA*****40.303930,-75.965896
+2901 Papermill Rd, Wyomissing, PA 19610, USA*****40.363221,-75.990755

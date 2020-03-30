@@ -1,0 +1,10 @@
+E Jones St, Fort Deposit, AL 36032, USA*****31.984242,-86.576776
+Hartford, AL 36344, USA*****31.076849,-85.705112
+629 Hwy 65 S, Clinton, AR 72031, USA*****35.586814,-92.450840
+460 S Alabama St, Marianna, AR 72360, USA*****34.761912,-90.768360
+5065 Logan Ave, San Diego, CA 92113, USA*****32.696227,-117.086671
+708 71st St, Miami Beach, FL 33141, USA*****25.855860,-80.125296
+1600 79th Street Causeway, North Bay Village, FL 33141, USA*****25.848236,-80.152060
+8100 N Miami Ave, Miami, FL 33150, USA*****25.849308,-80.197532
+940 S 12th St, Murray, KY 42071, USA*****36.596792,-88.316414
+120 Industrial Dr, Sikeston, MO 63801, USA*****36.888196,-89.563591

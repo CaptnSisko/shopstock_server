@@ -1,0 +1,175 @@
+4110 US-231, Laceys Spring, AL 35754, USA*****34.477841,-86.573155
+19180 US-43, Mt Vernon, AL 36560, USA*****31.091234,-88.014594
+2655 Dauphin Island Pkwy, Mobile, AL 36605, USA*****30.619739,-88.074732
+3445 St Stephens Rd, Whistler, AL 36612, USA*****30.751796,-88.118299
+4720 Moffett Rd, Mobile, AL 36618, USA*****30.721332,-88.149724
+1651 E 103rd St, Los Angeles, CA 90002, USA*****33.944772,-118.244141
+1091 S Hoover St, Los Angeles, CA 90006, USA*****34.051111,-118.284546
+1717 S Western Ave, Los Angeles, CA 90006, USA*****34.042127,-118.310115
+1700 W 6th St, Los Angeles, CA 90017, USA*****34.056966,-118.270386
+1748 W Jefferson Blvd, Los Angeles, CA 90018, USA*****34.025069,-118.307606
+3654 E Olympic Blvd, Los Angeles, CA 90023, USA*****34.017898,-118.198397
+5420 Sunset Blvd, Los Angeles, CA 90027, USA*****34.096944,-118.307655
+4910 Huntington Dr S, Los Angeles, CA 90032, USA*****34.086636,-118.176021
+2750 E 1st St, Los Angeles, CA 90033, USA*****34.040742,-118.205710
+5318 S Main St, Los Angeles, CA 90037, USA*****33.994006,-118.273401
+5100 N Figueroa St, Los Angeles, CA 90042, USA*****34.105292,-118.200119
+1820 W Slauson Ave, Los Angeles, CA 90047, USA*****33.987942,-118.310776
+11407 S Western Ave, Los Angeles, CA 90047, USA*****33.929771,-118.310601
+11840 Wilmington Ave, Compton, CA 90222, USA*****33.925890,-118.237404
+1963 N Cahuenga Blvd, Los Angeles, CA 90068, USA*****34.107076,-118.330941
+6901 Eastern Ave, Bell Gardens, CA 90201, USA*****33.970693,-118.166117
+1900 W Rosecrans Ave, Compton, CA 90220, USA*****33.901600,-118.252147
+1100 W Artesia Blvd, Compton, CA 90220, USA*****33.872599,-118.241150
+13525 Lakewood Blvd, Downey, CA 90242, USA*****33.905196,-118.144360
+14500 Ocean Gate Ave, Hawthorne, CA 90250, USA*****33.899401,-118.366466
+6920 Santa Fe Ave, Huntington Park, CA 90255, USA*****33.976631,-118.229613
+4400 Slauson Ave, Maywood, CA 90270, USA*****33.986862,-118.187506
+3200 W Century Blvd, Inglewood, CA 90303, USA*****33.944233,-118.328113
+7810 Norwalk Blvd, Whittier, CA 90606, USA*****33.974435,-118.074154
+8620 Whittier Blvd, Pico Rivera, CA 90660, USA*****34.001813,-118.088401
+7910 Katella Ave, Stanton, CA 90680, USA*****33.801521,-117.994637
+12222 E Carson St, Hawaiian Gardens, CA 90716, USA*****33.830775,-118.070414
+336 W Anaheim St, Wilmington, CA 90744, USA*****33.778710,-118.265547
+6700 Cherry Ave, Long Beach, CA 90805, USA*****33.877037,-118.167671
+1329 N Lake Ave, Pasadena, CA 91104, USA*****34.168254,-118.133572
+20155 Saticoy St, Winnetka, CA 91306, USA*****34.209067,-118.572777
+12765 Van Nuys Blvd, Pacoima, CA 91331, USA*****34.275409,-118.412385
+9635 Laurel Canyon Blvd, Arleta, CA 91331, USA*****34.243857,-118.417588
+2040 Glenoaks Blvd, San Fernando, CA 91340, USA*****34.298567,-118.438717
+16208 Parthenia St, North Hills, CA 91343, USA*****34.227587,-118.486187
+19200 Soledad Canyon Rd, Santa Clarita, CA 91351, USA*****34.414088,-118.470885
+16530 Sherman Way, Van Nuys, CA 91406, USA*****34.200707,-118.494186
+8035 Webb Ave, North Hollywood, CA 91605, USA*****34.216295,-118.389747
+3000 Baldwin Park Blvd, Baldwin Park, CA 91706, USA*****34.068714,-117.979173
+4024 Grand Ave, Chino, CA 91710, USA*****33.999376,-117.715939
+11950 Garvey Ave, El Monte, CA 91732, USA*****34.061852,-118.019981
+12879 Foothill Blvd, Rancho Cucamonga, CA 91739, USA*****34.104883,-117.524451
+1801 N Hacienda Blvd, La Puente, CA 91744, USA*****34.052159,-117.944488
+2246 S Euclid Ave, Ontario, CA 91762, USA*****34.032721,-117.652742
+2090 S Garey Ave, Pomona, CA 91766, USA*****34.034206,-117.747713
+615 N Azusa Ave, West Covina, CA 91791, USA*****34.081656,-117.909338
+660 Palomar St, Chula Vista, CA 91911, USA*****32.602476,-117.082810
+7420 Broadway, Lemon Grove, CA 91945, USA*****32.743622,-117.037537
+1320 E 30th St, Chula Vista, CA 91910, USA*****32.660320,-117.085504
+444 Broadway, El Cajon, CA 92021, USA*****32.808957,-116.957463
+644 N Broadway, Escondido, CA 92025, USA*****33.128655,-117.082902
+9430 Cuyamaca St, Santee, CA 92071, USA*****32.848199,-116.985426
+500 Hacienda Dr, Vista, CA 92081, USA*****33.192915,-117.250894
+7730 Hazard Center Dr, San Diego, CA 92108, USA*****32.772329,-117.155703
+4995 Shawline St, San Diego, CA 92111, USA*****32.830982,-117.163055
+312 Euclid Ave, San Diego, CA 92114, USA*****32.708162,-117.085936
+5975 University Ave, San Diego, CA 92115, USA*****32.751055,-117.067997
+CA-111, Chiriaco Summit, CA 92201, USA*****33.701506,-116.192795
+1691 E 6th St, Beaumont, CA 92223, USA*****33.927877,-116.948263
+109 W Birch St, Calexico, CA 92231, USA*****32.680358,-115.501673
+34251 Date Palm Dr, Cathedral City, CA 92234, USA*****33.799666,-116.460470
+2420 Cottonwood Dr, El Centro, CA 92243, USA*****32.815832,-115.572734
+49241 Grapefruit Blvd, Coachella, CA 92236, USA*****33.689984,-116.185371
+57200 Twentynine Palms Highway, Yucca Valley, CA 92284, USA*****34.123937,-116.416715
+20801 Bear Valley Rd, Apple Valley, CA 92308, USA*****34.470133,-117.208909
+580 E Virginia Way, Barstow, CA 92311, USA*****34.887025,-117.018168
+1150 N Pepper Ave, Colton, CA 92324, USA*****34.079801,-117.351273
+16991 Valley Blvd, Fontana, CA 92335, USA*****34.068461,-117.433889
+26529 Highland Ave, Highland, CA 92346, USA*****34.134386,-117.225195
+2070 W Redlands Blvd, Redlands, CA 92373, USA*****34.065154,-117.225171
+1410 W Foothill Blvd, Rialto, CA 92376, USA*****34.108047,-117.399240
+16266 Bear Valley Rd, Victorville, CA 92395, USA*****34.471254,-117.308368
+14738 La Paz Dr, Victorville, CA 92395, USA*****34.519420,-117.314543
+555 W 2nd St Ste A, San Bernardino, CA 92401, USA*****34.101346,-117.295166
+4250 Van Buren Boulevard, Riverside, CA 92503, USA*****33.927700,-117.453253
+3900 Chicago Ave, Riverside, CA 92507, USA*****33.974186,-117.347651
+24440 Alessandro Blvd, Moreno Valley, CA 92553, USA*****33.919600,-117.236012
+12200 Perris Blvd, Moreno Valley, CA 92557, USA*****33.943946,-117.224696
+1688 N Perris Blvd, Perris, CA 92571, USA*****33.802116,-117.228509
+26419 Ynez Rd, Temecula, CA 92591, USA*****33.522769,-117.160849
+315 E First St, Santa Ana, CA 92701, USA*****33.746709,-117.864751
+2140 S Bristol St, Santa Ana, CA 92704, USA*****33.718124,-117.886562
+1900 N Grand Ave, Santa Ana, CA 92705, USA*****33.762243,-117.853010
+121 N Beach Blvd, Anaheim, CA 92801, USA*****33.833227,-117.994862
+1616 W Katella Ave, Anaheim, CA 92802, USA*****33.801877,-117.937791
+914 W Orangethorpe Ave, Fullerton, CA 92832, USA*****33.857815,-117.940827
+109 N McKinley St, Corona, CA 92879, USA*****33.883384,-117.513653
+150 W Esplanade Dr, Oxnard, CA 93036, USA*****34.230150,-119.175945
+1290 W Henderson Ave, Porterville, CA 93257, USA*****36.081535,-119.046430
+2025 N Dinuba Blvd, Visalia, CA 93291, USA*****36.348245,-119.298624
+712 El Sereno Dr, Bakersfield, CA 93304, USA*****35.347308,-119.017249
+2505 Haley St, Bakersfield, CA 93305, USA*****35.394531,-118.974551
+1115 Union Ave, Bakersfield, CA 93304, USA*****35.366800,-119.003618
+4400 Ming Ave, Bakersfield, CA 93309, USA*****35.341417,-119.050906
+3985 S Higuera St, San Luis Obispo, CA 93401, USA*****35.244432,-120.673291
+8360 El Camino Real, Atascadero, CA 93422, USA*****35.473571,-120.656030
+1465 Creston Rd, Paso Robles, CA 93446, USA*****35.616964,-120.657558
+44455 Valley Central Way, Lancaster, CA 93536, USA*****34.690560,-118.173933
+2341 E Ave S, Palmdale, CA 93550, USA*****34.559676,-118.086480
+2000 E Pacheco Blvd, Los Banos, CA 93635, USA*****37.058491,-120.823872
+2360 W Cleveland Ave, Madera, CA 93637, USA*****36.974327,-120.086191
+2819 Highland Ave, Selma, CA 93662, USA*****36.574737,-119.630265
+8921 N Chestnut Ave, Fresno, CA 93720, USA*****36.865454,-119.740613
+1576 N Sanborn Rd, Salinas, CA 93905, USA*****36.693070,-121.595400
+5184 Sonoma Blvd, Vallejo, CA 94589, USA*****38.148436,-122.252893
+678 N Wilson Way, Stockton, CA 95205, USA*****37.962404,-121.271094
+3434 Manthey Rd, Stockton, CA 95206, USA*****37.911791,-121.292746
+255 E March Ln, Stockton, CA 95207, USA*****37.999049,-121.302867
+789 W Hammer Ln, Stockton, CA 95210, USA*****38.022824,-121.321368
+8014 N Lower Sacramento Rd, Stockton, CA 95210, USA*****38.022557,-121.322396
+2430 W Kettleman Ln, Lodi, CA 95242, USA*****38.113774,-121.305340
+2840 Shaffer Rd, Atwater, CA 95301, USA*****37.362284,-120.594800
+1561 Mitchell Rd, Ceres, CA 95307, USA*****37.608068,-120.940293
+131 Spreckels Ave, Manteca, CA 95336, USA*****37.796135,-121.199883
+1115 W Olive Ave, Merced, CA 95348, USA*****37.320467,-120.488972
+544 Brighton Ave, Modesto, CA 95355, USA*****37.651793,-120.970759
+3225 N Tracy Blvd, Tracy, CA 95376, USA*****37.760577,-121.436869
+6982 Sunrise Blvd, Citrus Heights, CA 95610, USA*****38.693175,-121.269815
+3333 Coach Ln, Cameron Park, CA 95682, USA*****38.658552,-120.971703
+451 Pioneer Ave, Woodland, CA 95776, USA*****38.675154,-121.744926
+3860 Florin Rd, Sacramento, CA 95823, USA*****38.494876,-121.461575
+7120 Gloria Dr #58, Sacramento, CA 95831, USA*****38.497210,-121.544086
+8065 Watt Ave, Antelope, CA 95843, USA*****38.715742,-121.394362
+6000 Lindhurst Ave, Marysville, CA 95901, USA*****39.122666,-121.571482
+2051 Dr Martin Luther King Jr Pkwy, Chico, CA 95928, USA*****39.723741,-121.809017
+1330 Churn Creek Rd, Redding, CA 96003, USA*****40.587804,-122.352796
+94 Belle Mill Rd, Red Bluff, CA 96080, USA*****40.181186,-122.228429
+633 E Noble Ave, Williston, FL 32696, USA*****29.388213,-82.438396
+901 Meacham Rd, Elk Grove Village, IL 60007, USA*****42.000241,-88.044017
+2525 W North Ave, Melrose Park, IL 60160, USA*****41.909673,-87.865852
+2400 Main St, Evanston, IL 60202, USA*****42.031589,-87.707316
+1701 N Larkin Ave, Joliet, IL 60435, USA*****41.554252,-88.127995
+271 S Bolingbrook Dr, Bolingbrook, IL 60440, USA*****41.692144,-88.070290
+5556 159th St, Oak Forest, IL 60452, USA*****41.604541,-87.754822
+7770 S Cicero Ave, Burbank, IL 60459, USA*****41.751820,-87.745423
+4620 S Damen Ave, Chicago, IL 60609, USA*****41.809600,-87.677914
+7030 S Ashland Ave, Chicago, IL 60636, USA*****41.765439,-87.664432
+12150 S Pulaski Rd, Alsip, IL 60803, USA*****41.671840,-87.720648
+3039 S Cicero Ave, Cicero, IL 60804, USA*****41.837780,-87.741115
+1125 Madison Ave, Madison, IL 62060, USA*****38.688347,-90.156223
+1724 E 165th St, Hammond, IN 46320, USA*****41.595387,-87.486934
+14020 Grand River Ave, Detroit, MI 48227, USA*****42.387126,-83.182401
+1200 Sugar Creek Square, Fenton, MO 63026, USA*****38.490363,-90.490197
+8020 Olive Blvd, University City, MO 63130, USA*****38.671651,-90.343204
+8985 Jennings Station Rd, Jennings, MO 63136, USA*****38.725820,-90.247685
+2800 E 32nd St, Joplin, MO 64804, USA*****37.053433,-94.481505
+313 Battlefield Rd, Springfield, MO 65807, USA*****37.162244,-93.292398
+1531 N Bell St, Fremont, NE 68025, USA*****41.443415,-96.485150
+1738 Atlantic Ave, Atlantic City, NJ 08401, USA*****39.359917,-74.432833
+2271 N Green Valley Pkwy, Henderson, NV 89014, USA*****36.055333,-115.084949
+260 E Lake Mead Pkwy, Henderson, NV 89015, USA*****36.041299,-114.977253
+1301 S Boulder Hwy, Henderson, NV 89015, USA*****36.015810,-114.958083
+3013 W Craig Rd, North Las Vegas, NV 89032, USA*****36.238075,-115.181153
+3864 W Sahara Ave, Las Vegas, NV 89102, USA*****36.145902,-115.192338
+4965 E Sahara Ave, Las Vegas, NV 89104, USA*****36.142963,-115.067080
+1941 N Decatur Blvd, Las Vegas, NV 89108, USA*****36.194324,-115.207627
+3602 E Bonanza Rd, Las Vegas, NV 89110, USA*****36.174526,-115.095713
+1955 N Nellis Blvd, Las Vegas, NV 89115, USA*****36.195069,-115.063791
+8180 S Las Vegas Blvd, Las Vegas, NV 89123, USA*****36.040340,-115.170574
+120 S Rainbow Blvd, Las Vegas, NV 89145, USA*****36.173059,-115.246066
+2545 S Eastern Ave, Las Vegas, NV 89169, USA*****36.143332,-115.120581
+352 Central Ave, Toledo, OH 43610, USA*****41.678769,-83.552570
+2366 Lincoln Way E, Massillon, OH 44646, USA*****40.799248,-81.490197
+3129 E 3rd St, Dayton, OH 45403, USA*****39.766599,-84.150054
+110 S 7th St, Marietta, OH 45750, USA*****39.413386,-81.443435
+2444 E Powell Blvd, Gresham, OR 97080, USA*****45.493193,-122.407609
+7979 SE Powell Blvd, Portland, OR 97206, USA*****45.498963,-122.580938
+3695 Devonshire Ave NE, Salem, OR 97305, USA*****44.966197,-122.987783
+2230 Biddle Rd, Medford, OR 97504, USA*****42.348903,-122.871587
+63455 N Hwy 97, Bend, OR 97701, USA*****44.101149,-121.302246

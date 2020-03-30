@@ -1,0 +1,89 @@
+2436 Tamarindo Dr, The Villages, FL 32162, USA*****28.949656,-81.989060
+789 Winifred Way, The Villages, FL 32162, USA*****28.914392,-81.994449
+350 Lakewood Dr, Brandon, FL 33510, USA*****27.942910,-82.312961
+1247 Kingsway Rd, Brandon, FL 33510, USA*****27.958186,-82.276151
+38949 North Ave, Zephyrhills, FL 33542, USA*****28.244990,-82.172011
+27301 FL-54, Wesley Chapel, FL 33545, USA*****28.240420,-82.333655
+27300 FL-54, Wesley Chapel, FL 33545, USA*****28.240420,-82.333655
+16751 Fishhawk Blvd, Lithia, FL 33547, USA*****27.861051,-82.200648
+21605 Village Lakes Shopping Center Dr, Land O Lakes, FL 34639, USA*****28.191225,-82.459026
+17649 Gunn Hwy, Odessa, FL 33556, USA*****28.127464,-82.574448
+11306 Castleberry Rd, Odessa, FL 33556, USA*****28.132443,-82.614872
+597 N Wheeler St, Plant City, FL 33563, USA*****28.019032,-82.125602
+1405 Plantation Cir #206, Plant City, FL 33566, USA*****28.000999,-82.142762
+Riverview, FL 33568, USA*****27.853980,-82.314440
+US-301, United States*****34.064895,-79.761799
+2206 Chaney Dr, Ruskin, FL 33570, USA*****27.688447,-82.457327
+252 Harbor Village Lane, Ruskin, FL 33572, USA*****27.751956,-82.412212
+6927 US-301, Riverview, FL 33578, USA*****27.880759,-82.328262
+750 W Dr Martin Luther King Jr Blvd, Seffner, FL 33584, USA*****27.979589,-82.288041
+2328 Towering Oaks Cir, Seffner, FL 33584, USA*****27.975786,-82.276449
+2100 W Swann Ave, Tampa, FL 33606, USA*****27.936091,-82.481319
+1861 N Highland Ave, Tampa, FL 33602, USA*****27.960230,-82.462028
+805 E Dr Martin Luther King Jr Blvd, Tampa, FL 33603, USA*****27.980816,-82.452456
+2100 W Swann Ave, Tampa, FL 33606, USA*****27.936091,-82.481319
+215 W Hyde Park Pl, Tampa, FL 33606, USA*****27.941330,-82.462181
+2527 N Dale Mabry Hwy, Tampa, FL 33607, USA*****27.963987,-82.504292
+4056 Fiesta Plaza, Tampa, FL 33607, USA*****27.975509,-82.486060
+2770 E Fowler Ave, Tampa, FL 33612, USA*****28.056518,-82.428723
+5050 E 10th Ave, Tampa, FL 33619, USA*****27.964047,-82.399460
+5010 E 10th Ave, Tampa, FL 33619, USA*****27.963145,-82.400420
+7110 Princeton Pl, Tampa, FL 33619, USA*****27.933947,-82.374384
+4517 Gunn Hwy, Tampa, FL 33624, USA*****28.051929,-82.523283
+5320 Ehrlich Rd, Tampa, FL 33624, USA*****28.082093,-82.540380
+10617 Sheldon Rd, Tampa, FL 33626, USA*****28.045389,-82.582675
+11909 Cypress Vista, Tampa, FL 33626, USA*****28.057753,-82.588936
+17605 Bruce B Downs Blvd, Tampa, FL 33647, USA*****28.129496,-82.364401
+Tampa, FL, USA*****27.950575,-82.457178
+242 10th Ave NE, St. Petersburg, FL 33701, USA*****27.781957,-82.631863
+3327 Dr M.L.K. Jr St N, St. Petersburg, FL 33704, USA*****27.802428,-82.646006
+102 15th Ave #3, St Pete Beach, FL 33706, USA*****27.692558,-82.736632
+9950 62nd Ave N, St. Petersburg, FL 33708, USA*****27.829729,-82.777959
+6095 9th Ave N, St. Petersburg, FL 33710, USA*****27.781003,-82.718386
+2139 34th St N, St. Petersburg, FL 33713, USA*****27.790526,-82.677969
+2460 E Bay Dr, Largo, FL 33771, USA*****27.918241,-82.761598
+13817 Walsingham Rd, Largo, FL 33774, USA*****27.881784,-82.830040
+4665 66th Pl, Pinellas Park, FL 33781, USA*****27.832545,-82.697162
+Fort Myers, FL 33902, USA*****26.644323,-81.872438
+6800 Shoppes at Plantation Dr, Fort Myers, FL 33912, USA*****26.545235,-81.844426
+3737 Winkler Ave #1123, Fort Myers, FL 33916, USA*****26.607018,-81.837102
+5690 Bayshore Rd, North Fort Myers, FL 33917, USA*****26.687795,-81.863480
+61 Bell Blvd N, Lehigh Acres, FL 33936, USA*****26.602543,-81.612834
+61 Alexander Graham Bell Blvd, Lehigh Acres, FL 33936, USA*****26.602896,-81.611436
+PT CHARLOTTE, FL 33949, USA*****26.980000,-82.090000
+79 Emerald Woods Dr, Naples, FL 34108, USA*****26.245078,-81.798211
+586 100th Ave N, Naples, FL 34108, USA*****26.262234,-81.813960
+5350 Grand Cypress Cir, Naples, FL 34109, USA*****26.214977,-81.763043
+2482 Immokalee Rd, Naples, FL 34109, USA*****26.271993,-81.771589
+4897 Golden Gate Pkwy, Naples, FL 34116, USA*****26.181048,-81.707294
+2811 Jude Island Way, Naples, FL 34119, USA*****26.244695,-81.711149
+2230 Del Mar Ct #513, Naples, FL 34119, USA*****26.268941,-81.737950
+2160 20th Ave NE, Naples, FL 34120, USA*****26.266251,-81.563510
+4897 Golden Gate Blvd E, Naples, FL 34120, USA*****26.230948,-81.515003
+8951 Bonita Beach Rd SE, Bonita Springs, FL 34135, USA*****26.328551,-81.803914
+5201 33rd St E, Bradenton, FL 34203, USA*****27.448954,-82.520580
+3014 14th Ave W, Bradenton, FL 34205, USA*****27.487643,-82.592364
+5802 14th St W, Bradenton, FL 34207, USA*****27.438018,-82.576989
+5805 Manatee Ave W, Bradenton, FL 34209, USA*****27.494558,-82.619474
+519 7th St W, Palmetto, FL 34220, USA*****27.516495,-82.570508
+355 W Cowles St, Englewood, FL 34223, USA*****26.958326,-82.360425
+1951 S McCall Rd, Englewood, FL 34223, USA*****26.936510,-82.336203
+501 N Beneva Rd #800, Sarasota, FL 34237, USA*****27.340487,-82.499276
+6100 N Lockwood Ridge Rd, Sarasota, FL 34243, USA*****27.386584,-82.504207
+458 E Venice Ave, Venice, FL 34285, USA*****27.099746,-82.437092
+458 U.S. 41 Bypass N, Venice, FL 34285, USA*****27.106323,-82.436351
+480 U.S. 41 Bypass N, Venice, FL 34285, USA*****27.107638,-82.438548
+11310 US-301, Belleview, FL 34420, USA*****29.056810,-82.050844
+4221 Mariner Blvd, Spring Hill, FL 34609, USA*****28.493292,-82.542172
+11160 Spring Hill Dr, Spring Hill, FL 34609, USA*****28.460441,-82.538621
+3015 Aernal Ct, Land O Lakes, FL 34639, USA*****28.200430,-82.400995
+27301 FL-54, Lutz, FL 33559, USA*****28.189981,-82.398260
+6400 Massachusetts Ave, New Port Richey, FL 34653, USA*****28.257482,-82.708917
+8833 Mitchell Blvd, New Port Richey, FL 34655, USA*****28.186837,-82.676145
+1360 Tampa Rd, Palm Harbor, FL 34683, USA*****28.067016,-82.762684
+1943 N Pinellas Ave, Tarpon Springs, FL 34689, USA*****28.172241,-82.752194
+709 Dodecanese Blvd, Tarpon Springs, FL 34689, USA*****28.155496,-82.760372
+2519 McMullen Booth Rd, Clearwater, FL 33761, USA*****28.013923,-82.707763
+Dunedin, FL 34697, USA*****28.025013,-82.763437
+2700 Bayshore Blvd, Dunedin, FL 34698, USA*****28.055650,-82.779753
+1700 FL-50, Clermont, FL 34711, USA*****28.548902,-81.724936

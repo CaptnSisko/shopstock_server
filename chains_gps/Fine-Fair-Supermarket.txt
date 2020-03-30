@@ -1,0 +1,36 @@
+160 Passaic Ave, Passaic, NJ 07055, USA*****40.855349,-74.130460
+601 4th St, Union City, NJ 07087, USA*****40.755107,-74.042408
+6210 Bergenline Ave, West New York, NJ 07093, USA*****40.791392,-74.014061
+64 Pacific St, Newark, NJ 07105, USA*****40.726026,-74.166437
+New York, NY 10001, USA*****40.753685,-73.999164
+New York, NY 10001, USA*****40.753685,-73.999164
+175 Clinton St, New York, NY 10002, USA*****40.715556,-73.987272
+545 Grand St, New York, NY 10002, USA*****40.713985,-73.980619
+1617 St Nicholas Ave, New York, NY 10040, USA*****40.855576,-73.929598
+W 42nd St, New York, NY 10036, USA*****40.757877,-73.991328
+2463 Frederick Douglass Blvd, New York, NY 10027, USA*****40.814777,-73.948335
+1239 St Nicholas Ave, New York, NY 10032, USA*****40.843490,-73.938424
+107 Featherbed Ln, The Bronx, NY 10452, USA*****40.846431,-73.918553
+1065 E 163rd St, The Bronx, NY 10459, USA*****40.821211,-73.890741
+1511 Metropolitan Ave, The Bronx, NY 10462, USA*****40.839451,-73.858929
+3680 E Tremont Ave, The Bronx, NY 10465, USA*****40.827049,-73.823067
+3550 White Plains Rd # B, The Bronx, NY 10467, USA*****40.878293,-73.865481
+320 E Gun Hill Rd, The Bronx, NY 10467, USA*****40.878683,-73.873791
+2556 Boston Rd, The Bronx, NY 10467, USA*****40.864624,-73.862995
+3131 Grand Concourse, The Bronx, NY 10468, USA*****40.875100,-73.886699
+125 W Kingsbridge Rd, The Bronx, NY 10468, USA*****40.869132,-73.902564
+3449 Boston Rd, The Bronx, NY 10469, USA*****40.876435,-73.848821
+1221 Fteley Ave, The Bronx, NY 10472, USA*****40.829430,-73.871953
+256-09 Hillside Avenue, Glen Oaks, NY 11004, USA*****40.736821,-73.711554
+1781 Broadway, Brooklyn, NY 11207, USA*****40.682567,-73.909302
+675 Lincoln Ave, Brooklyn, NY 11208, USA*****40.672717,-73.866073
+3008 Fulton St, Brooklyn, NY 11208, USA*****40.680035,-73.883483
+261 Kingston Ave, Brooklyn, NY 11213, USA*****40.670747,-73.941876
+212 Hoyt St, Brooklyn, NY 11201, USA*****40.683767,-73.989913
+406 Avenue P, Brooklyn, NY 11223, USA*****40.608657,-73.972275
+2915 Surf Ave, Brooklyn, NY 11224, USA*****40.573004,-73.995582
+498 Columbia St, Brooklyn, NY 11231, USA*****40.674522,-74.008529
+108-02 Otis Ave, Flushing, NY 11368, USA*****40.741130,-73.853609
+89-26 Sutphin Blvd, Jamaica, NY 11435, USA*****40.703031,-73.808691
+13-36 Beach Channel Dr, Far Rockaway, NY 11691, USA*****40.606139,-73.754520
+625 W Girard Ave, Philadelphia, PA 19123, USA*****39.970703,-75.147652

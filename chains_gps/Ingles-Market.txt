@@ -1,0 +1,65 @@
+1090 Buford Rd, Cumming, GA 30041, USA*****34.174650,-84.129224
+Orchard Mill Ct, Lawrenceville, GA 30043, USA*****33.974537,-84.034991
+1150 Powder Springs St #52, Marietta, GA 30064, USA*****33.926050,-84.574440
+1449 W Church St, Jasper, GA 30143, USA*****34.463854,-84.455754
+Gainesville, GA 30503, USA*****34.304049,-83.825724
+100 Old Orchard Square, East Ellijay, GA 30540, USA*****34.675830,-84.478252
+3190 Atlanta Hwy, Athens, GA 30606, USA*****33.942191,-83.447681
+1480 E Broad St, Greensboro, GA 30642, USA*****33.580605,-83.168669
+300 Maine Ave, Trenton, GA 30752, USA*****34.906705,-85.480019
+Walnut Cove, NC 27052, USA*****36.295415,-80.141712
+Bessemer City, NC 28016, USA*****35.284858,-81.283970
+756 S Church St, Forest City, NC 28043, USA*****35.320324,-81.880227
+1305 Fallston Rd, Shelby, NC 28150, USA*****35.320109,-81.518926
+1251 Burkemont Ave, Morganton, NC 28655, USA*****35.715733,-81.696237
+NC-194, Newland, NC 28657, USA*****36.101334,-81.931308
+1560 Old US Hwy 70 W, Black Mountain, NC 28711, USA*****35.618668,-82.292461
+550 NC-9, Black Mountain, NC 28711, USA*****35.608728,-82.321280
+Burnsville, NC 28714, USA*****35.917336,-82.300961
+Cashiers, NC, USA*****35.111906,-83.099635
+220 N Highland Lake Rd, Flat Rock, NC 28731, USA*****35.289578,-82.429570
+2901 Hendersonville Rd, Fletcher, NC 28732, USA*****35.441648,-82.506744
+260 W Palmer St, Franklin, NC 28734, USA*****35.178641,-83.388509
+276 NC-9, Lake Lure, NC 28746, USA*****35.410714,-82.197929
+Rosman, NC, USA*****35.143721,-82.821243
+US-70, Swannanoa, NC, USA*****35.600607,-82.401245
+19 Webster Rd, Sylva, NC 28779, USA*****35.352503,-83.202324
+1705 Brevard Rd, Hendersonville, NC 28791, USA*****35.321790,-82.491530
+625 Spartanburg Hwy, Hendersonville, NC 28792, USA*****35.305638,-82.455897
+85 Tunnel Rd #40, Asheville, NC 28805, USA*****35.593956,-82.533484
+Erwin Hills Rd, Asheville, NC 28806, USA*****35.621804,-82.618238
+1865 Hendersonville Rd, Asheville, NC 28803, USA*****35.500575,-82.523657
+29 Tunnel Rd, Asheville, NC 28805, USA*****35.596200,-82.534293
+186 New Haw Creek Rd #33, Asheville, NC 28805, USA*****35.588065,-82.516345
+1141 Tunnel Rd, Asheville, NC 28805, USA*****35.586148,-82.488088
+7 New Leicester Hwy, Asheville, NC 28806, USA*****35.587947,-82.597179
+83 Bear Creek Ln, Asheville, NC 28806, USA*****35.570250,-82.609154
+23 Bear Creek Dr, Asheville, NC 28806, USA*****35.576950,-82.613658
+669 Haywood Rd, Asheville, NC 28806, USA*****35.578754,-82.590927
+153 Smokey Park Hwy, Asheville, NC 28806, USA*****35.564851,-82.629129
+129 US-19, Camilla, GA 31730, USA*****31.233577,-84.198694
+8004 Warren H Abernathy Hwy, Spartanburg, SC 29301, USA*****34.936348,-82.004508
+2000 S Pine St, Spartanburg, SC 29302, USA*****34.932996,-81.894472
+2240 Chesnee Hwy, Spartanburg, SC 29303, USA*****35.022172,-81.893678
+8650 Asheville Hwy, Boiling Springs, SC 29316, USA*****35.002049,-82.004096
+2120 Boiling Springs Rd, Boiling Springs, SC 29316, USA*****35.022745,-81.962307
+2120 E Main St, Duncan, SC 29334, USA*****34.886768,-82.071473
+410 E 3rd St, Gaffney, SC 29340, USA*****35.086072,-81.640471
+1627 W Floyd Baker Blvd, Gaffney, SC 29341, USA*****35.092774,-81.665402
+911 E Main St, Laurens, SC 29360, USA*****34.494474,-81.981605
+1500 Poinsett Hwy, Greenville, SC 29609, USA*****34.887813,-82.403830
+1500 Poinsett Hwy, Greenville, SC 29609, USA*****34.887764,-82.403939
+1335 Stallings Rd, Greenville, SC 29609, USA*****34.903973,-82.349278
+5251 Calhoun Memorial Hwy, Easley, SC 29640, USA*****34.824366,-82.561215
+502 Ann St, Pickens, SC 29671, USA*****34.893358,-82.708916
+50 Keoway Dr, Seneca, SC 29672, USA*****34.708383,-82.882618
+1335 Stallings Rd, Greenville, SC 29609, USA*****34.903973,-82.349278
+703 E Main St, Westminster, SC 29693, USA*****34.661598,-83.091140
+1049 E Main St, Westminster, SC 29693, USA*****34.659878,-83.086969
+180 Scenic Plaza Dr, West Union, SC 29696, USA*****34.754745,-83.045619
+Kingsport, TN 37663, USA*****36.471387,-82.507759
+190 Clinch Ave, Clinton, TN 37716, USA*****36.091434,-84.131622
+904 S Main St, Sweetwater, TN 37874, USA*****35.587450,-84.474932
+7220 Norris Fwy, Knoxville, TN 37918, USA*****36.083724,-83.929019
+7466 Oak Ridge Hwy, Knoxville, TN 37931, USA*****35.983353,-84.095015
+11817 Kingston Pike, Farragut, TN 37934, USA*****35.874969,-84.178164

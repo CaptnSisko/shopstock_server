@@ -1,0 +1,5 @@
+573 Chestnut St, Lynn, MA 01904, USA*****42.478466,-70.951081
+229 Broadway, Lynn, MA 01904, USA*****42.488502,-70.959533
+570 Western Ave, Lynn, MA 01904, USA*****42.466682,-70.960258
+2 Elm St, Salisbury, MA 01952, USA*****42.841828,-70.860965
+90 Bridge St, Manchester, NH 03101, USA*****42.995298,-71.460524

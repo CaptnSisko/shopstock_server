@@ -1,0 +1,29 @@
+46 Kane St, West Hartford, CT 06119, USA*****41.753577,-72.715844
+Milford, MA 01757, USA*****42.141566,-71.519236
+71 Dodge St, Beverly, MA 01915, USA*****42.575878,-70.889010
+146 High St, Ipswich, MA 01938, USA*****42.689819,-70.853152
+114-128 Essex Center Dr, Peabody, MA 01960, USA*****42.539867,-70.949027
+11 Traders Way, Salem, MA 01970, USA*****42.501790,-70.921547
+255 E Central St, Franklin, MA 02038, USA*****42.081250,-71.386705
+65 Main St, Medway, MA 02053, USA*****42.152138,-71.403404
+2260 State Rd, Plymouth, MA 02360, USA*****41.820900,-70.550477
+127 Marion Rd, Wareham, MA 02571, USA*****41.759690,-70.728834
+1270 Newport Ave, Pawtucket, RI 02861, USA*****41.888740,-71.354329
+1331 Cove Rd, New Bedford, MA 02744, USA*****41.615966,-70.929091
+1068 Kings Hwy, New Bedford, MA 02745, USA*****41.677196,-70.940469
+15 State Rd, Dartmouth, MA 02747, USA*****41.636057,-70.961573
+125 Robert F Toner Blvd, North Attleborough, MA 02763, USA*****41.970846,-71.300970
+46 Springer Dr, Bangor, ME 04401, USA*****44.837306,-68.739986
+353 Main St, Bangor, ME 04401, USA*****44.794247,-68.776272
+163 High St, Ellsworth, ME 04605, USA*****44.535913,-68.412465
+161 High St, Ellsworth, ME 04605, USA*****44.537561,-68.414128
+7 Continental Blvd, Merrimack, NH 03054, USA*****42.836891,-71.498762
+Merrimack, NH 03054, USA*****42.855038,-71.513044
+356 Daniel Webster Hwy, Merrimack, NH 03054, USA*****42.849868,-71.494305
+213 Daniel Webster Hwy #9, Nashua, NH 03060, USA*****42.713349,-71.445692
+186 County Rd, Barrington, RI 02806, USA*****41.736647,-71.306881
+1500 Bald Hill Rd, Warwick, RI 02886, USA*****41.698057,-71.494495
+15 Smithfield Rd, North Providence, RI 02904, USA*****41.856235,-71.447355
+1050 Willett Ave, Riverside, RI 02915, USA*****41.760193,-71.343747
+Bishop Hill Rd, Johnston, RI 02919, USA*****41.823737,-71.554671
+151 Sockanosset Cross Rd, Cranston, RI 02920, USA*****41.755907,-71.456100

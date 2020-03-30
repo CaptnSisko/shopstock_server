@@ -1,0 +1,7 @@
+32 Westford St, Lowell, MA 01851, USA*****42.637505,-71.317371
+3572 Broadway, New York, NY 10031, USA*****40.827391,-73.949416
+224 Albany Ave, Brooklyn, NY 11213, USA*****40.672975,-73.939343
+87 Ralph Ave, Brooklyn, NY 11221, USA*****40.687248,-73.923310
+1612 Newkirk Ave, Brooklyn, NY 11226, USA*****40.635898,-73.962009
+1520 Avenue U, Brooklyn, NY 11229, USA*****40.598700,-73.955614
+188-19 Jamaica Ave, Jamaica, NY 11423, USA*****40.711366,-73.770412

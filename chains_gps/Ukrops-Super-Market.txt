@@ -1,0 +1,36 @@
+1515 Blodgett St, Houston, TX 77004, USA*****29.729556,-95.379433
+4250 Plank Rd, Fredericksburg, VA 22407, USA*****38.286819,-77.535250
+253 N Washington Hwy, Ashland, VA 23005, USA*****37.761229,-77.470575
+235 N Washington Hwy, Ashland, VA 23005, USA*****37.760606,-77.471542
+10150 Brook Rd, Glen Allen, VA 23059, USA*****37.675203,-77.463206
+7324 Bell Creek Rd, Mechanicsville, VA 23111, USA*****37.604318,-77.353349
+13700 Hull Street Rd, Midlothian, VA 23112, USA*****37.410389,-77.655939
+Midlothian, VA 23113, USA*****37.533477,-77.687970
+1220 Sycamore Square, Midlothian, VA 23113, USA*****37.505251,-77.652189
+29 Westhampton Way, Richmond, VA 23173, USA*****37.575793,-77.543720
+410 Westhampton Way, Richmond, VA 23173, USA*****37.575167,-77.540715
+50 Westhampton Way, Richmond, VA 23173, USA*****37.575716,-77.543756
+45 Westhampton Way, Richmond, VA 23173, USA*****37.575735,-77.543747
+6610 Mooretown Rd, Williamsburg, VA 23188, USA*****37.337564,-76.734825
+3522 W Cary St, Richmond, VA 23221, USA*****37.556319,-77.487136
+7045 Forest Hill Ave, Richmond, VA 23225, USA*****37.534365,-77.524658
+7035 Three Chopt Rd, Richmond, VA 23226, USA*****37.590849,-77.532573
+5700 Brook Rd, Richmond, VA 23227, USA*****37.609547,-77.459750
+7129 Staples Mill Rd, Richmond, VA 23228, USA*****37.615291,-77.496097
+3304 Slaughter Rd, Richmond, VA 23228, USA*****37.617798,-77.517400
+9600 Patterson Ave, Richmond, VA 23229, USA*****37.596669,-77.591761
+9602 Patterson Ave, Richmond, VA 23229, USA*****37.596753,-77.592164
+2001 Maywill St #100, Richmond, VA 23230, USA*****37.581144,-77.487977
+3460 Pump Rd, Henrico, VA 23233, USA*****37.650475,-77.614769
+2250 John Rolfe Pkwy, Richmond, VA 23233, USA*****37.622533,-77.623844
+7803 Midlothian Turnpike, Richmond, VA 23235, USA*****37.497117,-77.540760
+3000 Stony Point Rd, Richmond, VA 23235, USA*****37.538902,-77.564270
+11361 Midlothian Turnpike, North Chesterfield, VA 23235, USA*****37.503568,-77.607432
+600 Southlake Blvd, Richmond, VA 23236, USA*****37.501022,-77.597983
+10001 Hull Street Rd, Chesterfield, VA 23832, USA*****37.442199,-77.579515
+9782 Gayton Rd, Henrico, VA 23238, USA*****37.604903,-77.592522
+3330 S Crater Rd, Petersburg, VA 23805, USA*****37.182408,-77.367645
+12601 Jefferson Davis Hwy, Chester, VA 23831, USA*****37.353566,-77.410577
+6401 Centralia Rd, Chesterfield, VA 23832, USA*****37.372840,-77.499393
+Chesterfield, VA 23832, USA*****37.377094,-77.504986
+2331 Franklin Rd SW, Roanoke, VA 24014, USA*****37.250952,-79.955901

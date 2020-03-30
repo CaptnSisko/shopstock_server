@@ -1,0 +1,183 @@
+17121 Friml Ln, Huntington Beach, CA 92649, USA*****33.713401,-118.031485
+325 Oakland St, Bristol, CT 06010, USA*****41.687478,-72.937623
+110 Albany Turnpike, Canton, CT 06019, USA*****41.822361,-72.883484
+55 Welles St, Glastonbury, CT 06033, USA*****41.714850,-72.607817
+425 Broad St, Manchester, CT 06040, USA*****41.773514,-72.531390
+1045 W Main St, New Britain, CT 06053, USA*****41.668371,-72.818503
+50 Windsorville Rd, Vernon, CT 06066, USA*****41.864461,-72.482603
+40 Hazard Ave, Enfield, CT 06082, USA*****41.987771,-72.578339
+60 Cantor Dr, Willimantic, CT 06226, USA*****41.725609,-72.239155
+126 River Rd, Colchester, CT 06415, USA*****41.585655,-72.414187
+33 W High St, East Hampton, CT 06424, USA*****41.579438,-72.509229
+11 Hawthorne Rd, East Hampton, CT 06424, USA*****41.594407,-72.493172
+11 E High St, East Hampton, CT 06424, USA*****41.584419,-72.505138
+7 Markham Rd, East Hampton, CT 06424, USA*****41.556330,-72.468019
+47 Park Rd, Haddam, CT 06438, USA*****41.472035,-72.501914
+875 Bridgeport Ave, Shelton, CT 06484, USA*****41.264865,-73.134760
+Southbury Plaza, Southbury, CT 06488, USA*****41.478587,-73.212361
+750 Queen St, Southington, CT 06489, USA*****41.636805,-72.874994
+150 Whalley Ave, New Haven, CT 06511, USA*****41.314346,-72.937752
+2100 Dixwell Ave, Hamden, CT 06514, USA*****41.369950,-72.920717
+500 Sylvan Ave, Bridgeport, CT 06606, USA*****41.207732,-73.191565
+250 Barnum Avenue Cutoff, Stratford, CT 06615, USA*****41.200738,-73.120088
+25 CT-39, New Fairfield, CT 06812, USA*****41.468350,-73.484494
+25 Old Kings Hwy S, Darien, CT 06820, USA*****41.074949,-73.469286
+1975 Black Rock Turnpike, Fairfield, CT 06825, USA*****41.179991,-73.249845
+605 Post Rd E, Westport, CT 06880, USA*****41.139303,-73.344435
+760 Boston Rd, Groton, MA 01450, USA*****42.579915,-71.523992
+289 N Main St, Leominster, MA 01453, USA*****42.541104,-71.758179
+367 Southbridge St, Auburn, MA 01501, USA*****42.204549,-71.835438
+1175 Main St, Clinton, MA 01510, USA*****42.434217,-71.684339
+MA-131, Massachusetts, USA*****42.069928,-72.021187
+450 Whitney St, Northborough, MA 01532, USA*****42.352575,-71.628712
+82 Worcester Rd, Webster, MA 01570, USA*****42.070406,-71.866315
+14 W Boylston St, West Boylston, MA 01583, USA*****42.362116,-71.782450
+1161 Providence Rd, Whitinsville, MA 01588, USA*****42.124077,-71.647867
+68 Stafford St, Worcester, MA 01603, USA*****42.241455,-71.842850
+201 Grafton St, Worcester, MA 01604, USA*****42.258184,-71.790054
+112 Gold Star Blvd, Worcester, MA 01606, USA*****42.291713,-71.802897
+301 Pond St, Ashland, MA 01721, USA*****42.240907,-71.433090
+509 Boston Post Rd, Sudbury, MA 01776, USA*****42.358998,-71.429473
+180 Cambridge St, Burlington, MA 01803, USA*****42.511532,-71.198136
+821 Arboretum Way, Burlington, MA 01803, USA*****42.503321,-71.172828
+265 Main St, North Reading, MA 01864, USA*****42.592349,-71.116443
+43 State St, Lynn, MA 01901, USA*****42.462116,-70.950407
+400 Lynn Fells Pkwy, Saugus, MA 01906, USA*****42.482144,-71.023962
+127 Eastern Ave, Gloucester, MA 01930, USA*****42.622970,-70.640712
+7 Railroad Ave, Gloucester, MA 01930, USA*****42.616471,-70.665455
+45 Storey Ave, Newburyport, MA 01950, USA*****42.819889,-70.906117
+210 Andover St, Danvers, MA 01923, USA*****42.539634,-70.943273
+95 Washington St, Canton, MA 02021, USA*****42.139598,-71.146034
+739 Chief Justice Cushing Hwy, Cohasset, MA 02025, USA*****42.222128,-70.805004
+795 Providence Hwy, Dedham, MA 02026, USA*****42.238330,-71.179311
+221 E Central St, Franklin, MA 02038, USA*****42.080820,-71.387601
+390 West St, Mansfield, MA 02048, USA*****42.023637,-71.232625
+20 Snow Rd, Marshfield, MA 02050, USA*****42.091134,-70.706031
+230 Main St, Medfield, MA 02052, USA*****42.194384,-71.287672
+134 Nahatan St, Norwood, MA 02062, USA*****42.191645,-71.196330
+700 S Main St, Sharon, MA 02067, USA*****42.094733,-71.219390
+4 River St, Boston, MA 02108, USA*****42.356324,-71.070081
+45 William T Morrissey Blvd, Dorchester, MA 02125, USA*****42.318417,-71.050612
+246 Border St, Boston, MA 02128, USA*****42.376594,-71.040365
+75 Spring St, West Roxbury, MA 02132, USA*****42.278133,-71.163346
+1377 Hyde Park Ave, Hyde Park, MA 02136, USA*****42.251876,-71.126005
+209 Revere Beach Pkwy, Revere, MA 02151, USA*****42.400034,-70.994916
+34 Essex St, Melrose, MA 02176, USA*****42.456229,-71.066026
+109 Main St, Stoneham, MA 02180, USA*****42.493913,-71.101289
+105 Pearl St, Braintree, MA 02184, USA*****42.201404,-71.001832
+610 Middle St, Weymouth, MA 02189, USA*****42.202585,-70.943273
+65 Huntington Ave, Boston, MA 02199, USA*****42.346559,-71.080389
+1065 Commonwealth Avenue, Boston, MA 02215, USA*****42.352611,-71.123499
+641 Belmont St, Brockton, MA 02301, USA*****42.072184,-71.045784
+2077 Main St, Brockton, MA 02301, USA*****42.043742,-71.009688
+715 Crescent St, Brockton, MA 02302, USA*****42.079786,-70.990920
+3 N Main St, Carver, MA 02330, USA*****41.903733,-70.791439
+100 N Main St, Carver, MA 02330, USA*****41.923357,-70.805729
+35 Columbia Rd, Hanover, MA 02339, USA*****42.117351,-70.823609
+430 Liberty St, Hanson, MA 02341, USA*****42.066366,-70.872382
+Liberty St, Hanson, MA 02341, USA*****42.067411,-70.871142
+690 Depot St, North Easton, MA 02356, USA*****42.024270,-71.116443
+10 Pilgrim Hill Rd, Plymouth, MA 02360, USA*****41.951296,-70.683949
+121 Memorial Pkwy, Randolph, MA 02368, USA*****42.163820,-71.045552
+750 W Center St, West Bridgewater, MA 02379, USA*****42.010600,-71.052896
+130 River St, Waltham, MA 02453, USA*****42.369252,-71.221526
+535 Trapelo Rd, Belmont, MA 02478, USA*****42.388536,-71.191174
+137 Teaticket Hwy, Teaticket, MA 02536, USA*****41.561778,-70.593981
+1070 Iyannough Rd, Hyannis, MA 02601, USA*****41.675351,-70.304663
+1108 State St, Brewster, MA 02631, USA*****41.754445,-70.066293
+18 Sisson Rd, Harwich Port, MA 02646, USA*****41.672899,-70.093297
+403 S Orleans Rd, South Orleans, MA 02662, USA*****41.752642,-69.990572
+1120 MA-28, South Yarmouth, MA 02664, USA*****41.663167,-70.200271
+11 Berdon Way, Fairhaven, MA 02719, USA*****41.639491,-70.884414
+4171 N Main St, Fall River, MA 02720, USA*****41.750891,-71.120899
+465 William S Canning Blvd, Fall River, MA 02721, USA*****41.671346,-71.161522
+US-6 & Fairhaven Bridge, Fairhaven, MA 02719, USA*****41.641766,-70.909124
+1154 New State Hwy, Raynham, MA 02767, USA*****41.905679,-71.023046
+510 Alfred St, Biddeford, ME 04005, USA*****43.479658,-70.493718
+147 Bath Rd, Brunswick, ME 04011, USA*****43.908191,-69.923898
+200 Lower Main St, Freeport, ME 04032, USA*****43.844262,-70.118313
+770 Roosevelt Trail, Windham, ME 04062, USA*****43.835573,-70.443186
+1365 Main St, Sanford, ME 04073, USA*****43.415158,-70.748838
+417 Payne Rd, Scarborough, ME 04074, USA*****43.620035,-70.350567
+205 Spencer Dr, Wells, ME 04090, USA*****43.328519,-70.599669
+ME-109, Wells, ME 04090, USA*****43.322330,-70.580895
+47 Main St, Westbrook, ME 04092, USA*****43.679310,-70.330972
+31 Main St, Westbrook, ME 04092, USA*****43.679480,-70.330939
+1364 Congress St, Portland, ME 04102, USA*****43.657815,-70.297176
+91 Auburn St, Portland, ME 04103, USA*****43.702899,-70.288177
+180 Waterman Dr, South Portland, ME 04106, USA*****43.636973,-70.255013
+27 East Ave, Lewiston, ME 04240, USA*****44.086194,-70.199918
+150 Western Ave, Augusta, ME 04330, USA*****44.311577,-69.794799
+1073 W Main St Ste A, Dover-Foxcroft, ME 04426, USA*****45.183304,-69.256531
+1 Chandler Dr #1, Bath, ME 04530, USA*****43.909226,-69.829382
+Shopping Center Dr, Bath, ME 04530, USA*****43.908936,-69.826811
+670 Bath Rd, Wiscasset, ME 04578, USA*****43.973018,-69.709440
+235 Camden St #6, Rockland, ME 04841, USA*****44.122656,-69.095687
+251 Kennedy Memorial Dr, Waterville, ME 04901, USA*****44.544623,-69.666454
+55 Crystal Ave, Derry, NH 03038, USA*****42.892174,-71.324379
+55 Crystal Ave, Derry, NH 03038, USA*****42.892790,-71.324516
+553 Mast Rd #14, Goffstown, NH 03045, USA*****43.001344,-71.516345
+4 Orchard View Dr, Londonderry, NH 03053, USA*****42.863480,-71.353304
+570 Daniel Webster Hwy, Merrimack, NH 03054, USA*****42.881935,-71.480954
+586 Nashua St #1, Milford, NH 03055, USA*****42.825129,-71.624875
+300 Main St, Nashua, NH 03060, USA*****42.752840,-71.459926
+92 Cluff Crossing Rd #12, Salem, NH 03079, USA*****42.766366,-71.220708
+43 Indian Rock Rd, Windham, NH 03087, USA*****42.808014,-71.289834
+425 S Willow St, Manchester, NH 03103, USA*****42.967727,-71.451317
+375 S Willow St, Manchester, NH 03103, USA*****42.966770,-71.453517
+1328 Hooksett Rd, Hooksett, NH 03106, USA*****43.054965,-71.442481
+276 W Main St, Hillsboro, NH 03244, USA*****43.110040,-71.915495
+US-3, Laconia, NH 03246, USA*****43.571012,-71.450645
+1400 Lake Shore Rd, Laconia, NH 03246, USA*****43.563883,-71.447084
+491 Daniel Webster Hwy, Laconia, NH 03246, USA*****43.610089,-71.472800
+75 Laconia Rd, Tilton, NH 03276, USA*****43.456486,-71.563039
+20 Fort Eddy Rd, Concord, NH 03301, USA*****43.211010,-71.530169
+246 Loudon Rd, Concord, NH 03301, USA*****43.223734,-71.490323
+20 D'Amante Dr, Concord, NH 03301, USA*****43.222144,-71.489765
+360 Winchester St, Keene, NH 03431, USA*****42.923843,-72.287597
+625 Meadow St, Littleton, NH 03561, USA*****44.302804,-71.801481
+453 Main St, Gorham, NH 03581, USA*****44.407673,-71.198129
+201 N Main St, Lancaster, NH 03584, USA*****44.499052,-71.574119
+32 Ames Plaza Ln, Walpole, NH 03608, USA*****43.108261,-72.424340
+48 John Stark Hwy, Newport, NH 03773, USA*****43.357872,-72.175810
+10 Benning St #8, West Lebanon, NH 03784, USA*****43.631924,-72.315576
+NH-12A, West Lebanon, NH 03784, USA*****43.620368,-72.326966
+15 Forest St, Woodsville, NH 03785, USA*****44.144477,-72.029198
+1150 Eastman Rd, North Conway, NH 03860, USA*****44.015053,-71.111619
+851 Central Ave, Dover, NH 03820, USA*****43.218283,-70.879813
+4 Plaistow Rd #15, Plaistow, NH 03865, USA*****42.815939,-71.104902
+9 Plaistow Rd, Plaistow, NH 03865, USA*****42.817532,-71.101499
+81 Washington Rd, Rye, NH 03870, USA*****43.013185,-70.745261
+270 Lafayette Rd #14, Seabrook, NH 03874, USA*****42.883730,-70.864493
+Portsmouth Ave, Stratham, NH 03885, USA*****43.013746,-70.917367
+100 Shaw's Ln, Stratham, NH 03885, USA*****42.996921,-70.926816
+E Main Rd, Middletown, RI 02842, USA*****41.544867,-71.261244
+435 Power Rd, Pawtucket, RI 02860, USA*****41.873513,-71.419007
+160 Old Tower Hill Rd, Wakefield, RI 02879, USA*****41.443921,-71.482697
+100 Franklin St, Westerly, RI 02891, USA*****41.362529,-71.810250
+1500 Diamond Hill Rd Unit M, Woonsocket, RI 02895, USA*****42.016069,-71.480153
+57 Hawkins St, Providence, RI 02908, USA*****41.847169,-71.426991
+575 Taunton Ave, East Providence, RI 02914, USA*****41.820412,-71.358144
+1493 Hartford Ave, Johnston, RI 02919, USA*****41.825715,-71.501718
+8 Chapel View Blvd, Cranston, RI 02920, USA*****41.754602,-71.460919
+109 VT-12, Randolph, VT 05060, USA*****43.912422,-72.663528
+215 S Main St, Chester, VT 05143, USA*****43.256142,-72.581932
+213 Main St, Ludlow, VT 05149, USA*****43.396945,-72.703528
+64 Equinox Terrace, Manchester Center, VT 05255, USA*****43.171928,-73.061649
+570 Shelburne Rd, Burlington, VT 05401, USA*****44.449641,-73.207754
+7 Prince Ln, Bristol, VT 05443, USA*****44.133730,-73.076988
+66 Mountain View Dr #2, Colchester, VT 05446, USA*****44.509114,-73.181054
+Monkton Rd, Vergennes, VT, USA*****44.171598,-73.241552
+71 Boxwood St, Williston, VT 05495, USA*****44.446858,-73.108295
+Paine Turnpike N, Montpelier, VT 05602, USA*****44.235639,-72.564716
+2 Main St, Montpelier, VT 05602, USA*****44.258921,-72.577507
+10 Main St, Montpelier, VT 05602, USA*****44.259216,-72.577270
+13 Harrington Ave, Barre, VT 05641, USA*****44.205537,-72.505754
+751 Maple St, Stowe, VT 05672, USA*****44.471542,-72.674270
+Mad River Green, Waitsfield, VT 05673, USA*****44.184070,-72.838860
+820 Waterbury Stowe Rd, Waterbury, VT 05676, USA*****44.347727,-72.743830
+195 Old Rte 22A, Fair Haven, VT 05743, USA*****43.601664,-73.276075
+8 Washington St, Middlebury, VT 05753, USA*****44.014371,-73.163483
+55 Depot St, Poultney, VT 05764, USA*****43.517945,-73.237372
+4340 US-5, Newport, VT 05855, USA*****44.953866,-72.154800
+38 Orchard St, Newport, VT 05855, USA*****44.935899,-72.219547

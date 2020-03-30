@@ -1,0 +1,3 @@
+220 Appleton St, Lowell, MA 01852, USA*****42.639662,-71.312523
+245 Maple St, Manchester, NH 03103, USA*****42.981943,-71.452153
+201 S Main St, Concord, NH 03301, USA*****43.196753,-71.530507

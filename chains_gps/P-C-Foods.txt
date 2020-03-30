@@ -1,0 +1,58 @@
+One Medical Center Dr, Lebanon, NH 03756, USA*****43.676046,-72.272984
+2 Maple St, West Lebanon, NH 03784, USA*****43.645169,-72.308688
+Churchill St & Cornelia St, Plattsburgh, NY 12901, USA*****44.697177,-73.481460
+315 Genesee St, Auburn, NY 13021, USA*****42.922564,-76.587517
+2265 Downer St, Baldwinsville, NY 13027, USA*****43.152943,-76.351229
+Crego Rd & Downer St, Van Buren, NY 13027, USA*****43.151499,-76.352506
+8417 Oswego Rd, Baldwinsville, NY 13027, USA*****43.178209,-76.352043
+Brewerton, NY, USA*****43.238124,-76.140757
+5301 W Genesee St, Camillus, NY 13031, USA*****43.040282,-76.270178
+Oxbow Rd, Canastota, NY, USA*****43.068505,-75.751864
+PO Box 178, Chittenango, NY 13037, USA*****43.001366,-75.845993
+164 Clinton Ave, Cortland, NY 13045, USA*****42.608275,-76.170585
+184 Homer Ave, Cortland, NY 13045, USA*****42.612516,-76.186633
+2078 NY-481, Fulton, NY 13069, USA*****43.308664,-76.392124
+119 W Seneca St, Manlius, NY 13104, USA*****43.000901,-75.980639
+17 Arabel St, Oswego, NY 13126, USA*****43.465792,-76.496153
+NY-104, Oswego, NY, USA*****43.456595,-76.511163
+3830 NY-13, Pulaski, NY 13142, USA*****43.558925,-76.116955
+40 Fennell St, Skaneateles, NY 13152, USA*****42.948734,-76.432537
+1963 Kingdom Plaza, Waterloo, NY 13165, USA*****42.903853,-76.834190
+4141 S Salina St, Syracuse, NY 13205, USA*****43.007825,-76.142051
+181 Shop City Plaza, Syracuse, NY 13206, USA*****43.074101,-76.118405
+4410 E Genesee St, Syracuse, NY 13214, USA*****43.034551,-76.066461
+2120 W Genesee St, Syracuse, NY 13219, USA*****43.048504,-76.198478
+Syracuse, NY 13221, USA*****43.123302,-76.127872
+NY-13, Camden, NY, USA*****43.334527,-75.748080
+5 Commons Dr, Cooperstown, NY 13326, USA*****42.648878,-74.958981
+5 Commons Dr, Cooperstown, NY 13326, USA*****42.648878,-74.958981
+Lowville Heights Rd, Lowville, NY 13367, USA*****43.781961,-75.483365
+217 Erie Blvd W, Rome, NY 13440, USA*****43.210124,-75.462329
+49 Grove St, Massena, NY 13662, USA*****44.920736,-74.885101
+1222 Arsenal St, Watertown, NY 13601, USA*****43.979671,-75.943660
+6790 US-11, Watertown, NY 13601, USA*****43.994648,-75.901039
+111 E Main St, Canton, NY 13617, USA*****44.598386,-75.149606
+62 High St, Carthage, NY 13619, USA*****43.969654,-75.623309
+50 High St, Carthage, NY 13619, USA*****43.971230,-75.622650
+389 E Main St, Gouverneur, NY 13642, USA*****44.341102,-75.454838
+Ogdensburg, NY 13669, USA*****44.689604,-75.479884
+152 Harte Haven Plaza, Massena, NY 13662, USA*****44.920008,-74.886172
+Ogdensburg, NY 13669, USA*****44.694229,-75.486336
+179 Market St, Potsdam, NY 13676, USA*****44.684548,-74.986992
+S Franklin St, Watkins Glen, NY 14891, USA*****42.371555,-76.868635
+1145 NY-17C, Owego, NY 13827, USA*****42.098072,-76.232313
+Keuka Park, NY, USA*****42.615136,-77.091906
+NY-415, Bath, NY, USA*****42.337014,-77.317985
+18 Park Dr, Hornell, NY 14843, USA*****42.319650,-77.658176
+N Triphammer Rd, Ithaca, NY 14850, USA*****42.502580,-76.490666
+E Hill Plaza, Ithaca, NY 14850, USA*****42.437567,-76.463903
+S Franklin St, Watkins Glen, NY 14891, USA*****42.371555,-76.868635
+1600 Cedar St, Elmira, NY 14904, USA*****42.057916,-76.793481
+NY-415, New York, USA*****42.151528,-77.053443
+1600 Cedar St, Elmira, NY 14904, USA*****42.057551,-76.793728
+448 N Keystone Ave, Sayre, PA 18840, USA*****41.993022,-76.528411
+Towne Center, Center St, Towanda, PA 18848, USA*****41.767447,-76.423034
+209 Maple St, White River Junction, VT 05001, USA*****43.652386,-72.318321
+Grand Union Dr, Bradford, VT 05033, USA*****43.983808,-72.121598
+VT-127, Colchester, VT 05446, USA*****44.528920,-73.171984
+1184 Prim Rd, Colchester, VT 05446, USA*****44.537885,-73.247553

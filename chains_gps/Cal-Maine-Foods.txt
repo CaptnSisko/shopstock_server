@@ -1,0 +1,19 @@
+199 Joy Dr, Searcy, AR 72143, USA*****35.249033,-91.771589
+197 Cal-Maine Ln, Searcy, AR 72143, USA*****35.105544,-91.736871
+Huntsville, AR 72740, USA*****36.086187,-93.741303
+Shady Dale, GA 31085, USA*****33.400682,-83.590171
+550 Port Royal Rd, Clarksville, TN 37040, USA*****36.632135,-87.188352
+1150 KY-181, Central City, KY 42330, USA*****37.302596,-87.212143
+263 Calmaine Rd, Pine Grove, LA 70453, USA*****30.754522,-90.748471
+611 Gordon St, Mendenhall, MS 39114, USA*****31.960200,-89.859759
+3320 W Woodrow Wilson Ave, Jackson, MS 39209, USA*****32.326586,-90.223807
+102 T Kemp Rd, Louisburg, NC 27549, USA*****36.091092,-78.320147
+9615 Broadway Blvd SE, Albuquerque, NM 87105, USA*****34.954316,-106.668684
+11127 Coletown-Lightsville Rd, Ansonia, OH 45303, USA*****40.239999,-84.706635
+62 Billman Rd, New Paris, OH 45347, USA*****39.918774,-84.737745
+3078 Washington Rd, Rossburg, OH 45362, USA*****40.250438,-84.690677
+1063 Zumbrum Rd, Union City, OH 45390, USA*****40.241103,-84.770536
+3987 Porter Rd, Bethune, SC 29009, USA*****34.491577,-80.426014
+Edinburg, TX 78540, USA*****26.299442,-98.187213
+403 S Colorado St, Flatonia, TX 78941, USA*****29.684360,-97.114129
+2012 53rd St, Lubbock, TX 79412, USA*****33.546336,-101.860650

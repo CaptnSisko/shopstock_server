@@ -1,0 +1,45 @@
+504 N Main St, Warren, AR 71671, USA*****33.617990,-92.064758
+628 Carey St, Warren, AR 71671, USA*****33.626901,-92.075567
+500 E Collin Raye Dr, De Queen, AR 71832, USA*****34.044140,-94.332673
+518 W Glazypeau Rd, Hot Springs, AR 71909, USA*****34.621969,-93.064331
+1739 Airport Rd, Hot Springs National Park, AR 71913, USA*****34.462639,-93.146362
+403 N Main St, Benton, AR 72015, USA*****34.567108,-92.586076
+1212 Salem Rd, Benton, AR 72019, USA*****34.628725,-92.568792
+5914 AR-5, Bryant, AR 72022, USA*****34.625539,-92.497121
+1440 N Center St, Lonoke, AR 72086, USA*****34.796024,-91.895235
+310 E Ash St, Lonoke, AR 72086, USA*****34.783026,-91.897198
+117 Audubon Dr, Maumelle, AR 72113, USA*****34.851651,-92.405580
+Maumelle, AR, USA*****34.866757,-92.404322
+1903 E 2nd St, North Little Rock, AR 72114, USA*****34.754813,-92.245944
+1108 Graham Ave, North Little Rock, AR 72117, USA*****34.762650,-92.199912
+4155 E Broadway St, North Little Rock, AR 72117, USA*****34.756794,-92.218978
+4109 E Broadway St, North Little Rock, AR 72117, USA*****34.756084,-92.220054
+114 Pineview Ave, North Little Rock, AR 72120, USA*****34.826585,-92.200905
+4101 E Kiehl Ave, Sherwood, AR 72120, USA*****34.833098,-92.186070
+6209 W 12th St, Little Rock, AR 72204, USA*****34.741042,-92.344311
+2510 Cantrell Rd, Little Rock, AR 72202, USA*****34.758932,-92.303986
+6800 Colonel Glenn Rd, Little Rock, AR 72204, USA*****34.719460,-92.351640
+4110 W 12th St, Little Rock, AR 72204, USA*****34.741321,-92.319459
+3802 Kavanaugh Blvd, Little Rock, AR 72205, USA*****34.763606,-92.329879
+1613 Main St, Little Rock, AR 72206, USA*****34.732799,-92.272874
+1701 Main St, Little Rock, AR 72206, USA*****34.731385,-92.272734
+20383 Arch St, Little Rock, AR 72206, USA*****34.563899,-92.337233
+7509 Cantrell Rd, Little Rock, AR 72207, USA*****34.770527,-92.357127
+8010 Mabelvale Pike #10, Little Rock, AR 72209, USA*****34.681111,-92.368656
+6 Colonel Glenn Plaza Dr, Little Rock, AR 72210, USA*****34.710224,-92.405137
+10901 N Rodney Parham Rd, Little Rock, AR 72212, USA*****34.769613,-92.394631
+1812 Reservoir Rd, Little Rock, AR 72227, USA*****34.768693,-92.377868
+2451 Fernwood St #11, Forrest City, AR 72335, USA*****34.982976,-90.780713
+412 N Washington St, Forrest City, AR 72335, USA*****35.012618,-90.785897
+17 Merrill Cir A3, Forrest City, AR 72335, USA*****35.031084,-90.794761
+412 N St, Wynne, AR 72396, USA*****35.227567,-90.801830
+5040 Franklin Blvd, Sacramento, CA 95820, USA*****38.529482,-121.473853
+150 6th St, Potlatch, ID 83855, USA*****46.922459,-116.900886
+1125 W Lake St, Chicago, IL 60607, USA*****41.885291,-87.655454
+241 Tunica Village Ln, Marksville, LA 71351, USA*****31.116394,-92.063845
+11257 U.S. Hwy 93 S, Missoula, MT 59804, USA*****46.812159,-114.095623
+11300 US-93, Lolo, MT 59847, USA*****46.763634,-114.078937
+1124 US-93, Ronan, MT 59864, USA*****47.518597,-114.097493
+63802 US-93, Ronan, MT 59864, USA*****47.519987,-114.096484
+2006 Main St, Thompson Falls, MT 59873, USA*****47.585608,-115.314445
+510 Meyers St, Kettle Falls, WA 99141, USA*****48.608628,-118.056573

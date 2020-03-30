@@ -1,0 +1,1236 @@
+250 Gateway S Blvd, Dover, DE 19901, USA*****39.125016,-75.497907
+1030 Forest St #106, Dover, DE 19904, USA*****39.158866,-75.542504
+9537 Bridgeville Center Rd, Bridgeville, DE 19933, USA*****38.719145,-75.585070
+MD-54 & W State St, Delmar, MD 21875, USA*****38.456070,-75.578420
+2004 Midway Dr, Harrington, DE 19952, USA*****38.925761,-75.564650
+28544 Dupont Blvd #8, Millsboro, DE 19966, USA*****38.581459,-75.293567
+215 Atlantic Ave, Millville, DE 19967, USA*****38.548114,-75.107159
+110 Broadkill Rd, Milton, DE 19968, USA*****38.788136,-75.316900
+Rehoboth Beach, DE, USA*****38.720945,-75.076014
+603 S Dual Hwy, Seaford, DE 19973, USA*****38.631531,-75.592557
+32 N Dupont Hwy, Selbyville, DE 19975, USA*****38.458848,-75.231763
+1340 S 6th St, Macclenny, FL 32063, USA*****30.265889,-82.124353
+2570 County Rd 220, Middleburg, FL 32068, USA*****30.101039,-81.774005
+1670 Wells Rd #103, Orange Park, FL 32073, USA*****30.185841,-81.723723
+2469 US-1, St. Augustine, FL 32086, USA*****29.852838,-81.325071
+1463 S Walnut St, Starke, FL 32091, USA*****29.933959,-82.117470
+1603 N Nova Rd, Holly Hill, FL 32117, USA*****29.240028,-81.056922
+3826 S Clyde Morris Blvd, Port Orange, FL 32129, USA*****29.142579,-81.035318
+2500 Moody Blvd, Flagler Beach, FL 32136, USA*****29.475469,-81.148677
+4178 S Atlantic Ave, New Smyrna Beach, FL 32169, USA*****29.002103,-80.874997
+101 E Granada Blvd, Ormond Beach, FL 32176, USA*****29.290787,-81.044953
+6855 Wilson Blvd #23, Jacksonville, FL 32210, USA*****30.271548,-81.757246
+7200 Normandy Blvd, Jacksonville, FL 32205, USA*****30.299083,-81.765286
+5751 N Main St, Jacksonville, FL 32208, USA*****30.374925,-81.650133
+6260 103rd St, Jacksonville, FL 32210, USA*****30.247225,-81.745355
+7900 103rd St, Jacksonville, FL 32210, USA*****30.247133,-81.778392
+8595 Beach Blvd, Jacksonville, FL 32216, USA*****30.288405,-81.565613
+418 Starratt Rd, Jacksonville, FL 32218, USA*****30.469145,-81.616609
+1225 W Beaver St, Jacksonville, FL 32204, USA*****30.336575,-81.674430
+1650 San Pablo Rd S, Jacksonville, FL 32224, USA*****30.318934,-81.450486
+701 Mayport Crossing Blvd, Jacksonville, FL 32233, USA*****30.357321,-81.411667
+9550 Baymeadows Rd, Jacksonville, FL 32256, USA*****30.219837,-81.559597
+10550 Old St Augustine Rd, Jacksonville, FL 32257, USA*****30.185335,-81.609244
+445 State Rd 13, Jacksonville, FL 32259, USA*****30.119828,-81.623973
+8011 Merrill Rd, Jacksonville, FL 32277, USA*****30.353730,-81.562128
+2302 SE Hawthorne Rd, Gainesville, FL 32641, USA*****29.646995,-82.294248
+State Rd 21, Melrose, FL, USA*****29.710207,-82.044140
+1588 N Woodland Blvd, DeLand, FL 32720, USA*****29.055983,-81.305300
+1382 Howland Blvd, Deltona, FL 32738, USA*****28.903628,-81.172083
+7409 GA-140, Adairsville, GA 30103, USA*****34.378522,-84.931451
+3365 Martha Berry Hwy, Rome, GA 30165, USA*****34.318598,-85.174020
+715 Northside Dr E, Statesboro, GA 30458, USA*****32.434740,-81.756552
+601 S Enota Dr NE, Gainesville, GA 30501, USA*****34.311444,-83.815811
+2888 Browns Bridge Rd, Gainesville, GA 30504, USA*****34.280105,-83.875215
+4295 Old Hwy 76, Blue Ridge, GA 30513, USA*****34.873590,-84.308098
+130 Fowler St, Ellijay, GA 30540, USA*****34.684594,-84.476443
+1000 Washington St, Jefferson, GA 30549, USA*****34.128527,-83.583529
+3640 Mundy Mill Rd, Gainesville, GA 30504, USA*****34.228881,-83.866188
+1055 Gaines School Rd, Athens, GA 30605, USA*****33.926438,-83.336773
+1512 Red Bud Rd NE, Calhoun, GA 30701, USA*****34.512779,-84.915484
+505 G I Maddox Pkwy, Chatsworth, GA 30705, USA*****34.786106,-84.773903
+13311 N Hwy 27 #6, Chickamauga, GA 30707, USA*****34.888917,-85.269820
+3925 Cleveland Hwy, Dalton, GA 30721, USA*****34.896741,-84.947775
+1103 N Main St, LaFayette, GA 30728, USA*****34.724617,-85.281368
+95 Poplar Springs Rd, Ringgold, GA 30736, USA*****34.904939,-85.132216
+2709 Chattanooga Rd, Rocky Face, GA 30740, USA*****34.806170,-85.031547
+201 W Gordon Ave, Rossville, GA 30741, USA*****34.984585,-85.288979
+1800 Lafayette Rd, Rossville, GA 30741, USA*****34.963169,-85.259386
+4645 GA-136, Trenton, GA 30752, USA*****34.869200,-85.525898
+806 Lewiston Rd, Grovetown, GA 30813, USA*****33.460306,-82.192911
+4104 Windsor Spring Rd, Hephzibah, GA 30815, USA*****33.375627,-82.070583
+3722 Mike Padgett Hwy #1540, Augusta, GA 30906, USA*****33.367520,-81.993874
+2525 Washington Rd, Augusta, GA 30904, USA*****33.503781,-82.015217
+3722 Mike Padgett Hwy, Augusta, GA 30906, USA*****33.367520,-81.993874
+2115 Windsor Spring Rd, Augusta, GA 30906, USA*****33.409358,-82.032370
+2115 Windsor Spring Rd #26, Augusta, GA 30906, USA*****33.409358,-82.032370
+3618 Old Petersburg Rd, Augusta, GA 30907, USA*****33.518469,-82.079759
+365 S Belair Rd, Augusta, GA 30907, USA*****33.486939,-82.136428
+3246 Wrightsboro Rd, Augusta, GA 30909, USA*****33.467065,-82.064973
+140 W Dykes St, Cochran, GA 31014, USA*****32.385074,-83.358652
+208 W Clinton St, Gray, GA 31032, USA*****33.008122,-83.542955
+2607 Moody Rd, Warner Robins, GA 31088, USA*****32.573914,-83.625246
+2823 Watson Blvd, Warner Robins, GA 31093, USA*****32.616798,-83.680321
+5615 Houston Rd #3, Macon, GA 31216, USA*****32.747956,-83.673322
+5580 Thomaston Rd, Macon, GA 31220, USA*****32.832481,-83.744234
+103 General Screven Way, Hinesville, GA 31313, USA*****31.840524,-81.600359
+2389 GA-196, Hinesville, GA 31313, USA*****31.816437,-81.650682
+1017 E, US-80 #13, Pooler, GA 31322, USA*****32.108495,-81.234119
+13 Pooler Pkwy, Pooler, GA 31322, USA*****32.140831,-81.242608
+Richmond Hill, GA 31324, USA*****31.938265,-81.303443
+591 S Columbia Ave, Rincon, GA 31326, USA*****32.268646,-81.226116
+1100 Eisenhower Dr, Savannah, GA 31406, USA*****32.007381,-81.099381
+8914 White Bluff Rd, Savannah, GA 31406, USA*****31.995514,-81.123949
+7306 GA-21, Savannah, GA 31407, USA*****32.199754,-81.197879
+7306 GA-21 #307, Savannah, GA 31407, USA*****32.199754,-81.197879
+109 Minus Ave, Garden City, GA 31408, USA*****32.103936,-81.146753
+1040 King George Blvd, Savannah, GA 31419, USA*****31.986160,-81.220041
+1030 Shawnee St #224, Savannah, GA 31419, USA*****31.985193,-81.166442
+701 Riverside Ave, Waycross, GA 31501, USA*****31.225215,-82.354428
+5711 Altama Ave, Brunswick, GA 31525, USA*****31.215960,-81.481213
+1511 S Dixie Blvd, Radcliff, KY 40160, USA*****37.821429,-85.928139
+364 Pinecrest Dr, Morehead, KY 40351, USA*****38.190068,-83.479258
+221 Indian Mound Dr, Mt Sterling, KY 40353, USA*****38.074014,-83.954307
+2236 M.L.K. Jr Blvd, Paris, KY 40361, USA*****38.214352,-84.276863
+Paris Bypass Rd, Paris, KY 40361, USA*****38.225497,-84.258553
+1041 Ben Ali Dr, Danville, KY 40422, USA*****37.651288,-84.805329
+Frontier Blvd & Cane Run Rd, Kentucky 40484, USA*****37.549093,-84.673513
+111 Cs-1116, Cynthiana, KY 41031, USA*****38.377830,-84.308078
+Arbors Dr & US-25, Dry Ridge, KY 41035, USA*****38.679806,-84.585834
+1350 Franklin Bypass, Franklin, KY 42134, USA*****36.720313,-86.562204
+730 E Cedar St, Franklin, KY 42134, USA*****36.720211,-86.561624
+214 S L Rogers Wells Blvd, Glasgow, KY 42141, USA*****36.997324,-85.930221
+1224 Old Gallatin Rd, Scottsville, KY 42164, USA*****36.742300,-86.206399
+4305 Canton Pike, Hopkinsville, KY 42240, USA*****36.860348,-87.538813
+280 M.L.K. Jr Blvd, Roxbury, MA 02119, USA*****42.318769,-71.083343
+3220 Old Washington Rd, Waldorf, MD 20602, USA*****38.623061,-76.908444
+3200 Old Washington Rd, Waldorf, MD 20602, USA*****38.623027,-76.908394
+191 St Patricks Dr, St Charles, MD 20603, USA*****38.619993,-76.934958
+15789 Livingston Rd, Accokeek, MD 20607, USA*****38.671273,-77.008855
+2960 Marshall Hall Rd, Bryans Road, MD 20616, USA*****38.630512,-77.071377
+45315 Alton Ln, California, MD 20619, USA*****38.295181,-76.508537
+20995 Point Lookout Rd, Callaway, MD 20620, USA*****38.236544,-76.524797
+Charlotte Hall, MD, USA*****38.480956,-76.778022
+100 Drury Dr, La Plata, MD 20646, USA*****38.547667,-76.982848
+40955 Merchants Ln, Leonardtown, MD 20650, USA*****38.304519,-76.660854
+11760 H G Trueman Rd, Lusby, MD 20657, USA*****38.373507,-76.436695
+750 N Prince Frederick Blvd, Prince Frederick, MD 20678, USA*****38.552757,-76.597041
+12100 Central Ave, Mitchellville, MD 20721, USA*****38.900103,-76.796584
+8300 Ice Crystal Dr, Laurel, MD 20723, USA*****39.144045,-76.899929
+3201 Brinkley Rd, Temple Hills, MD 20748, USA*****38.803555,-76.953414
+5715 Crain Hwy, Upper Marlboro, MD 20772, USA*****38.810968,-76.742400
+9500 Crain Hwy, Upper Marlboro, MD 20772, USA*****38.759315,-76.807001
+845 Rockville Pike, Rockville, MD 20852, USA*****39.074018,-77.137910
+16539 S Frederick Ave, Montgomery Village, MD 20877, USA*****39.127637,-77.183227
+833 Russell Ave, Gaithersburg, MD 20879, USA*****39.155657,-77.210682
+2458 E Churchville Rd, Bel Air, MD 21015, USA*****39.556368,-76.271758
+122 Cranbrook Rd, Cockeysville, MD 21030, USA*****39.465611,-76.634478
+3261 Solomons Island Rd, Edgewater, MD 21037, USA*****38.928126,-76.565530
+2250 Hanson Rd, Edgewood, MD 21040, USA*****39.428412,-76.298323
+5896 Robert Oliver Pl, Columbia, MD 21045, USA*****39.210454,-76.845036
+7069 Baltimore Annapolis Blvd, Glen Burnie, MD 21061, USA*****39.199779,-76.639647
+121 Crain Hwy N, Glen Burnie, MD 21061, USA*****39.164909,-76.623311
+6551 Waterloo Rd, Elkridge, MD 21075, USA*****39.190762,-76.794330
+2655 Annapolis Rd, Hanover, MD 21076, USA*****39.130442,-76.742219
+8741 Piney Orchard Pkwy, Odenton, MD 21113, USA*****39.065156,-76.719673
+9251 Lakeside Blvd, Owings Mills, MD 21117, USA*****39.397296,-76.790710
+350 Mountain Rd, Pasadena, MD 21122, USA*****39.131279,-76.557541
+9910 Liberty Rd, Randallstown, MD 21133, USA*****39.382764,-76.823532
+8508 Liberty Rd, Randallstown, MD 21133, USA*****39.361061,-76.774679
+10 Village Center Rd, Reisterstown, MD 21136, USA*****39.468853,-76.831192
+466 Ritchie Hwy, Severna Park, MD 21146, USA*****39.081986,-76.552165
+140 Englar Rd #28, Westminster, MD 21157, USA*****39.581822,-76.990498
+7514 North Point Rd, Sparrows Point, MD 21219, USA*****39.236435,-76.440894
+1413 Fuselage Ave, Middle River, MD 21220, USA*****39.332541,-76.445734
+1565 Hyde Park Rd, Essex, MD 21221, USA*****39.298712,-76.437057
+8635 Walther Blvd, Nottingham, MD 21236, USA*****39.388845,-76.507543
+15300 McMullen Hwy SW, Cumberland, MD 21502, USA*****39.586254,-78.840652
+17600 Old National Pike SW, Frostburg, MD 21532, USA*****39.651616,-78.908933
+17600 National Pike, Eckhart Mines, MD 21528, USA*****39.653012,-78.907845
+12839 Garrett Hwy, Oakland, MD 21550, USA*****39.423288,-79.396971
+6 Washington St, Cambridge, MD 21613, USA*****38.558382,-76.063939
+2466 Centreville Rd, Centreville, MD 21617, USA*****39.030979,-76.074697
+840 S 5th Ave, Denton, MD 21629, USA*****38.872208,-75.827702
+MD-313 & Bloomingdale Ave, 5, Federalsburg, MD 21632, USA*****38.696048,-75.789259
+31810 River Rd, Millington, MD 21651, USA*****39.264936,-75.861111
+300 Thompson Creek Mall, Stevensville, MD 21666, USA*****38.975862,-76.314501
+2060 Yellow Springs Rd, Frederick, MD 21702, USA*****39.441573,-77.437836
+17718 Virginia Ave, Hagerstown, MD 21740, USA*****39.623349,-77.755118
+18360 College Rd, Hagerstown, MD 21740, USA*****39.588045,-77.733073
+246 Eastern Blvd N, Hagerstown, MD 21740, USA*****39.639369,-77.693605
+761 E Wilson Blvd, Hagerstown, MD 21740, USA*****39.620430,-77.714178
+18717 N Pointe Dr, Hagerstown, MD 21742, USA*****39.682779,-77.719186
+1312 S Main St #4, Mt Airy, MD 21771, USA*****39.366447,-77.166661
+22401 Jefferson Blvd, Smithsburg, MD 21783, USA*****39.641282,-77.590328
+6375 Monroe Ave, Sykesville, MD 21784, USA*****39.398103,-76.924084
+511 E Baltimore St, Taneytown, MD 21787, USA*****39.651522,-77.157821
+233 Tippin Dr, Thurmont, MD 21788, USA*****39.616113,-77.421696
+15 Tippin Dr, Thurmont, MD 21788, USA*****39.621627,-77.421342
+8425 Woodsboro Pike, Walkersville, MD 21793, USA*****39.465188,-77.362680
+705 Lisbon Center Dr, Woodbine, MD 21797, USA*****39.350499,-77.066610
+Snow Hill Rd & Regency Dr, Salisbury, MD 21804, USA*****38.349586,-75.583136
+1216 Nanticoke Rd, Salisbury, MD 21801, USA*****38.367477,-75.621217
+10126 Old Ocean City Blvd, Berlin, MD 21811, USA*****38.333204,-75.212033
+11007 Manklin Creek Rd, Berlin, MD 21811, USA*****38.375990,-75.165984
+206 N Fruitland Blvd, Fruitland, MD 21826, USA*****38.326660,-75.618445
+9936 Stephen Decatur Hwy, Ocean City, MD 21842, USA*****38.335379,-75.111756
+611 US-50, Union, MO 63084, USA*****38.439621,-91.016940
+11801 Coastal Hwy, Ocean City, MD 21842, USA*****38.424498,-75.057803
+12158 Brittingham Ln, Princess Anne, MD 21853, USA*****38.216063,-75.700894
+2500 Pulaski Hwy, North East, MD 21901, USA*****39.605644,-75.950180
+5301 Pulaski Hwy, Perryville, MD 21903, USA*****39.572743,-76.065510
+1001 E Pulaski Hwy, Elkton, MD 21921, USA*****39.603932,-75.798372
+158 NC-801, Bermuda Run, NC 27006, USA*****36.003085,-80.437993
+1430 River Ridge Dr, Clemmons, NC 27012, USA*****36.075625,-80.392482
+4380 Kinnamon Rd, Clemmons, NC 27012, USA*****36.027651,-80.369761
+4380 Kinnamon Village Loop, Winston-Salem, NC 27103, USA*****36.027029,-80.371346
+100 Westwood Village Dr, Clemmons, NC 27012, USA*****36.031091,-80.383970
+600 E Atkins St, Dobson, NC 27017, USA*****36.394067,-80.715811
+6370 NC-66, King, NC 27021, USA*****36.301450,-80.331621
+705 S Main St, King, NC 27021, USA*****36.262368,-80.360819
+6810 Shallowford Rd, Lewisville, NC 27023, USA*****36.094698,-80.429783
+614 Burton St, Madison, NC 27025, USA*****36.402760,-79.973036
+1101 Yadkinville Rd, Mocksville, NC 27028, USA*****35.911676,-80.578544
+796 Valley Rd, Mocksville, NC 27028, USA*****35.903911,-80.580181
+1105 Yadkinville Rd, Mocksville, NC 27028, USA*****35.912156,-80.580044
+1388 Hwy 601 S, Mocksville, NC 27028, USA*****35.869408,-80.550175
+Food Lion, 629 S Andy Griffith Pkwy S112, Mt Airy, NC 27030, USA*****36.487796,-80.616763
+1215 W Lebanon St, Mt Airy, NC 27030, USA*****36.525317,-80.625580
+4615 Yadkinville Rd, Pfafftown, NC 27040, USA*****36.154556,-80.358470
+647 S Key St, Pilot Mountain, NC 27041, USA*****36.380242,-80.479493
+1050 NC-65, Rural Hall, NC 27045, USA*****36.243470,-80.275094
+3008 Old Hollow Rd, Walkertown, NC 27051, USA*****36.167601,-80.152191
+1072 N Main St, Walnut Cove, NC 27052, USA*****36.312296,-80.137712
+616 S State St, Yadkinville, NC 27055, USA*****36.124583,-80.661303
+1499 New Walkertown Rd, Winston-Salem, NC 27101, USA*****36.102759,-80.225335
+1415 S Hawthorne Rd, Winston-Salem, NC 27103, USA*****36.076928,-80.285494
+2530 Somerset Center Dr, Winston-Salem, NC 27103, USA*****36.048914,-80.329243
+4826 Country Club Rd, Winston-Salem, NC 27104, USA*****36.080709,-80.341641
+3505 Patterson Ave, Winston-Salem, NC 27105, USA*****36.134855,-80.240409
+7760 North Point Blvd, Winston-Salem, NC 27106, USA*****36.152615,-80.282777
+5379 Shattalon Dr, Winston-Salem, NC 27106, USA*****36.172388,-80.303726
+3800 Reynolda Rd #80, Winston-Salem, NC 27106, USA*****36.161318,-80.326511
+10478 NC-109, Winston-Salem, NC 27107, USA*****36.025397,-80.163528
+1000 Waughtown St, Winston-Salem, NC 27107, USA*****36.068381,-80.219328
+12201 NC-150, Winston-Salem, NC 27127, USA*****35.993674,-80.270070
+1200 N Fayetteville St, Asheboro, NC 27203, USA*****35.725129,-79.808049
+433 NC-49, Asheboro, NC 27203, USA*****35.688736,-79.810800
+527 E Main St, Biscoe, NC 27209, USA*****35.362786,-79.768462
+2660 Ramada Rd, Burlington, NC 27215, USA*****36.068114,-79.470092
+414 W Harden St, Graham, NC 27253, USA*****36.070498,-79.408431
+3535 S Church St, Burlington, NC 27215, USA*****36.081040,-79.514928
+1780 W Webb Ave, Burlington, NC 27217, USA*****36.107524,-79.462390
+2208 N Church St, Burlington, NC 27217, USA*****36.095272,-79.398202
+921 S Main St, Graham, NC 27253, USA*****36.051834,-79.399764
+E Lexington Ave & N Centennial St, High Point, NC 27262, USA*****35.977408,-80.001583
+2200 Westchester Dr, High Point, NC 27262, USA*****35.939523,-80.035940
+10102 S Main St, Archdale, NC 27263, USA*****35.900719,-79.949834
+3935 Brian Jordan Pl, High Point, NC 27265, USA*****36.033379,-79.961412
+2705 N Main St #103, High Point, NC 27265, USA*****35.993310,-80.032579
+2531 Eastchester Dr, High Point, NC 27265, USA*****36.030162,-79.970255
+101 N Scotswood Blvd, Hillsborough, NC 27278, USA*****36.083531,-79.079668
+106 Rebecca Dr, Hillsborough, NC 27278, USA*****36.061987,-79.101396
+118 W Main St, Jamestown, NC 27282, USA*****35.994683,-79.937633
+8133 Haw River Rd, Kernersville, NC 27284, USA*****36.210475,-79.991455
+1535 Union Cross Rd, Kernersville, NC 27284, USA*****36.076411,-80.106826
+617 N Main St, Kernersville, NC 27284, USA*****36.128828,-80.065803
+980 S Main St, Kernersville, NC 27284, USA*****36.110217,-80.096703
+NC-14, Eden, NC, USA*****36.493564,-79.740587
+824 S Van Buren Rd, Eden, NC 27288, USA*****36.485912,-79.737008
+1104 S Main St, Lexington, NC 27292, USA*****35.813270,-80.265421
+291 N Talbert Blvd, Lexington, NC 27292, USA*****35.821244,-80.240670
+848 Winston Rd, Lexington, NC 27295, USA*****35.837046,-80.255393
+140 Forest Dr, Liberty, NC 27298, USA*****35.860608,-79.568886
+434 W Swannanoa Ave, Liberty, NC 27298, USA*****35.853871,-79.579023
+630 N 1st St, Mebane, NC 27302, USA*****36.106410,-79.267755
+NC-119 & Holmes Rd, Mebane, NC 27302, USA*****36.071295,-79.296087
+630 East St, Pittsboro, NC 27312, USA*****35.718213,-79.166317
+US-64, Pittsboro, NC, USA*****35.736823,-79.151801
+103 Pointe S Dr, Randleman, NC 27317, USA*****35.800908,-79.811902
+1605 Way St, Reidsville, NC 27320, USA*****36.341173,-79.657315
+5200 US-29 BUS, Reidsville, NC 27320, USA*****36.381742,-79.663648
+1130 Freeway Dr, Reidsville, NC 27320, USA*****36.325420,-79.684956
+2581 Hawkins Ave, Sanford, NC 27330, USA*****35.519531,-79.183951
+1931 S Horner Blvd, Sanford, NC 27330, USA*****35.466109,-79.153354
+2244 Jefferson Davis Hwy, Sanford, NC 27330, USA*****35.438586,-79.219649
+2904 S Horner Blvd, Sanford, NC 27332, USA*****35.452020,-79.139772
+6307 Burlington Rd, Whitsett, NC 27377, USA*****36.064960,-79.607921
+1605 E 11th St, Siler City, NC 27344, USA*****35.735143,-79.441116
+13 Cloniger Dr Ste 1, Thomasville, NC 27360, USA*****35.866228,-80.070192
+902 W Cooksey Dr, Thomasville, NC 27360, USA*****35.897543,-80.092536
+8275 NC-109, Thomasville, NC 27360, USA*****35.769730,-80.103046
+1618 National Hwy, Thomasville, NC 27360, USA*****35.929848,-80.049866
+6455 Old U.S. Hwy 52, Lexington, NC 27295, USA*****35.913536,-80.253400
+Seven Lakes Dr, Seven Lakes, NC 27376, USA*****35.271641,-79.570628
+1981 NC-86, Yanceyville, NC 27379, USA*****36.416245,-79.349894
+158 NC-86, Hillsborough, NC 27278, USA*****36.088115,-79.102913
+2316 E Market St, Greensboro, NC 27401, USA*****36.075750,-79.756878
+Greensboro, NC 27401, USA*****36.067604,-79.756811
+1911 Coliseum Blvd, Greensboro, NC 27403, USA*****36.051422,-79.821095
+1911 S Chapman St, Greensboro, NC 27403, USA*****36.060882,-79.823763
+2208 Golden Gate Dr, Greensboro, NC 27405, USA*****36.102656,-79.782302
+1023 Alamance Church Rd, Greensboro, NC 27406, USA*****36.042499,-79.770915
+3228 Randleman Rd, Greensboro, NC 27406, USA*****36.007264,-79.807349
+4620 Woody Mill Rd, Greensboro, NC 27406, USA*****35.966405,-79.700306
+4653 W Market St, Greensboro, NC 27407, USA*****36.068113,-79.866959
+3603 Groometown Rd, Greensboro, NC 27407, USA*****36.016676,-79.863458
+3219 S Holden Rd, Greensboro, NC 27407, USA*****36.021627,-79.845518
+3516 Drawbridge Pkwy, Greensboro, NC 27410, USA*****36.139659,-79.866259
+Inman Rd & Fleming Rd, Friendship, NC 27410, USA*****36.126136,-79.906619
+S Elm-Eugene St & E Meadowview Rd, Greensboro, NC 27406, USA*****36.039370,-79.791512
+4709 Lawndale Dr, Greensboro, NC 27408, USA*****36.139328,-79.833603
+1316 Lees Chapel Rd, Greensboro, NC 27455, USA*****36.133873,-79.786769
+1363 N Raleigh St, Angier, NC 27501, USA*****35.526447,-78.744850
+620 Laura Duncan Rd, Apex, NC 27502, USA*****35.735117,-78.841494
+301 S Walton Dr, Benson, NC 27504, USA*****35.374403,-78.539837
+700 E Parrish Dr, Benson, NC 27504, USA*****35.376541,-78.542039
+12330 NC-210, Benson, NC 27504, USA*****35.518263,-78.560851
+649 Main St, Louisburg, NC 27549, USA*****35.954678,-78.245390
+104 NC-54 Unit A, Carrboro, NC 27510, USA*****35.917421,-79.096206
+602 Jones Ferry Rd, Carrboro, NC 27510, USA*****35.906485,-79.089281
+980 Kildaire Farm Rd, Cary, NC 27511, USA*****35.772421,-78.783481
+973 N Harrison Ave, Cary, NC 27513, USA*****35.801603,-78.785163
+900 NW Maynard Rd, Cary, NC 27513, USA*****35.779738,-78.807055
+2458 SW Cary Pkwy, Cary, NC 27513, USA*****35.763885,-78.821717
+1129 Weaver Dairy Rd, Chapel Hill, NC 27514, USA*****35.962646,-79.053761
+1720 Fordham Blvd, Chapel Hill, NC 27514, USA*****35.936826,-79.021877
+50000 Governors Dr, Chapel Hill, NC 27517, USA*****35.852529,-79.025570
+2978 Kildaire Farm Rd, Cary, NC 27518, USA*****35.718317,-78.788722
+Creedmoor, NC 27522, USA*****36.122368,-78.686115
+6904 Jenks Rd, Apex, NC 27502, USA*****35.759468,-78.877804
+895 White Oak Rd, Four Oaks, NC 27524, USA*****35.355275,-78.394528
+33801 US-1, Franklinton, NC 27525, USA*****36.099271,-78.465204
+1338 N Main St, Fuquay-Varina, NC 27526, USA*****35.590032,-78.776576
+3417 N Main St, Fuquay-Varina, NC 27526, USA*****35.625117,-78.726276
+1508 Broad St, Fuquay-Varina, NC 27526, USA*****35.604773,-78.801937
+50 Neuse River Pkwy, Clayton, NC 27527, USA*****35.649350,-78.394407
+75 Glen Rd, Garner, NC 27529, USA*****35.606674,-78.567591
+1339 5th Ave, Garner, NC 27529, USA*****35.708572,-78.623294
+217 Timber Dr, Garner, NC 27529, USA*****35.684790,-78.605381
+118 Five Points Rd, Goldsboro, NC 27530, USA*****35.332918,-78.036483
+1809 E Ash St, Goldsboro, NC 27530, USA*****35.378445,-77.967351
+1322 W Grantham St, Goldsboro, NC 27530, USA*****35.400721,-78.016373
+219 NC-111, Goldsboro, NC 27534, USA*****35.341919,-77.916906
+553 E New Hope Rd, Goldsboro, NC 27534, USA*****35.386539,-77.903220
+555 E New Hope Rd, Goldsboro, NC 27534, USA*****35.386836,-77.904068
+1005 N Spence Ave, Goldsboro, NC 27534, USA*****35.387701,-77.949415
+1263 Dabney Dr, Henderson, NC 27536, USA*****36.329727,-78.433450
+1419 E Andrews Ave, Henderson, NC 27536, USA*****36.320303,-78.381556
+1650 N Garnett St, Henderson, NC 27536, USA*****36.342173,-78.392488
+560 Coopers Grove Rd, Henderson, NC 27537, USA*****36.384476,-78.380493
+517 N Main St, Holly Springs, NC 27540, USA*****35.659663,-78.837237
+406 US-301, Kenly, NC 27542, USA*****35.564475,-78.200595
+7053 Knightdale Blvd, Knightdale, NC 27545, USA*****35.798364,-78.492471
+8 The Square At, Lillington, NC 27546, USA*****35.387454,-78.820303
+321 S Bickett Blvd, Louisburg, NC 27549, USA*****36.088757,-78.299130
+9567 Chapel Hill Rd, Cary, NC 27513, USA*****35.804366,-78.811821
+2121 TW Alexander Dr, Morrisville, NC 27560, USA*****35.920553,-78.811098
+US Hwy 158 Business W, Gatesville, NC 27938, USA*****36.431810,-76.767916
+109 Hilltop Village, Oxford, NC 27565, USA*****36.317299,-78.570521
+120 Roxboro Rd, Oxford, NC 27565, USA*****36.324185,-78.597753
+610 Dr Donnie H Jones Jr Blvd E, Princeton, NC 27569, USA*****35.461911,-78.150475
+405 S Main St, Rolesville, NC 27571, USA*****35.917407,-78.464405
+2828 Durham Rd, Roxboro, NC 27573, USA*****36.355768,-78.983731
+1005 N Madison Blvd, Roxboro, NC 27573, USA*****36.408898,-78.977165
+1417 S Pollock St, Selma, NC 27576, USA*****35.523639,-78.299931
+901 S Brightleaf Blvd, Smithfield, NC 27577, USA*****35.498346,-78.351278
+910 S Brightleaf Blvd, Smithfield, NC 27577, USA*****35.498987,-78.353577
+US Hwy 70 E, Smithfield, NC 27577, USA*****35.480555,-78.232115
+851 W Market St, Smithfield, NC 27577, USA*****35.520409,-78.361023
+12295 Capital Blvd, Wake Forest, NC 27587, USA*****35.981842,-78.540797
+2837 Wendell Blvd, Wendell, NC 27591, USA*****35.795890,-78.380223
+1160 US-1, Youngsville, NC 27596, USA*****36.039160,-78.496697
+114 Wakelon Street, Zebulon, NC 27597, USA*****35.832132,-78.318229
+Raleigh, NC 27602, USA*****35.775602,-78.640399
+8320-100 Litchford Rd, Raleigh, NC 27615, USA*****35.891760,-78.600035
+2720 Lake Wheeler Rd, Raleigh, NC 27603, USA*****35.744148,-78.680579
+7971 Fayetteville Rd, Raleigh, NC 27603, USA*****35.664868,-78.697217
+3151 Capital Blvd, Raleigh, NC 27604, USA*****35.823698,-78.589593
+4510 Capital Blvd, Raleigh, NC 27604, USA*****35.845274,-78.578683
+5621-113 Louisburg Rd, Raleigh, NC 27616, USA*****35.854649,-78.558216
+5861 Holly Springs Rd, Raleigh, NC 27606, USA*****35.745070,-78.740532
+3926 Western Blvd, Raleigh, NC 27606, USA*****35.786172,-78.692876
+3415 Avent Ferry Rd, Raleigh, NC 27606, USA*****35.766036,-78.697129
+2420 Wycliff Rd, Raleigh, NC 27607, USA*****35.816576,-78.692278
+5426 Six Forks Rd, Raleigh, NC 27609, USA*****35.854747,-78.640361
+4317 Falls of Neuse Rd, Raleigh, NC 27609, USA*****35.840594,-78.613177
+3416-120 Poole Rd, Raleigh, NC 27610, USA*****35.767319,-78.579526
+3685 New Bern Ave, Raleigh, NC 27610, USA*****35.799849,-78.579481
+6209 Rock Quarry Rd, Raleigh, NC 27610, USA*****35.723457,-78.548251
+1030 N Rogers Ln, Raleigh, NC 27610, USA*****35.792083,-78.548131
+1601 Cross Link Rd, Raleigh, NC 27610, USA*****35.754573,-78.615579
+638 Peterson St, Raleigh, NC 27610, USA*****35.760019,-78.630444
+5633 Creedmoor Rd, Raleigh, NC 27612, USA*****35.859205,-78.682177
+4827 Grove Barton Rd, Raleigh, NC 27613, USA*****35.867865,-78.717772
+9111 Leesville Rd, Raleigh, NC 27613, USA*****35.897024,-78.724265
+7713 Lead Mine Rd, Raleigh, NC 27615, USA*****35.885962,-78.660285
+9521 Strickland Rd, Raleigh, NC 27615, USA*****35.898943,-78.655564
+7440-101 Louisburg Rd, Raleigh, NC 27616, USA*****35.874144,-78.539645
+121 Sherron Rd #210, Durham, NC 27703, USA*****35.974617,-78.793001
+2400 Holloway St, Durham, NC 27703, USA*****35.989106,-78.859408
+3500 N Roxboro St, Durham, NC 27704, USA*****36.037397,-78.892779
+2930 W Main St, Durham, NC 27705, USA*****36.014379,-78.934039
+4621 Hillsborough Rd, Durham, NC 27705, USA*****36.031829,-78.979109
+3808 Guess Rd, Durham, NC 27705, USA*****36.058269,-78.928471
+2000 Chapel Hill Rd, Durham, NC 27707, USA*****35.988862,-78.927357
+4711 Hope Valley Rd, Durham, NC 27707, USA*****35.921325,-78.956702
+4215 University Dr A3, Durham, NC 27707, USA*****35.962890,-78.959152
+3022 Fayetteville St, Durham, NC 27707, USA*****35.963626,-78.908579
+5279 N Roxboro St, Durham, NC 27712, USA*****36.076566,-78.911409
+4900 NC-55 #300, Durham, NC 27713, USA*****35.898204,-78.897936
+113 N Fairview Rd, Rocky Mount, NC 27801, USA*****35.930744,-77.772297
+802 Harbour W Dr, Rocky Mount, NC 27803, USA*****35.934870,-77.828777
+10601 NC-97, Rocky Mount, NC 27803, USA*****35.891455,-77.861829
+1441 Hunter Hill Rd, Rocky Mount, NC 27804, USA*****35.971724,-77.821986
+430 Goldrock Rd, Rocky Mount, NC 27804, USA*****35.982817,-77.808648
+3936 Bishop Rd, Battleboro, NC 27809, USA*****36.023614,-77.771045
+998 US-264, Belhaven, NC 27810, USA*****35.552112,-76.623852
+160, Town Ctr, Chocowinity, NC 27817, USA*****35.516208,-77.098815
+3434 Cooperative Way, Farmville, NC 27828, USA*****35.616571,-77.605907
+8482 E Marlboro Rd Ste D, Farmville, NC 27828, USA*****35.582134,-77.590328
+3700 S Memorial Dr, Greenville, NC 27834, USA*****35.561954,-77.405802
+250 Easy St, Greenville, NC 27834, USA*****35.652166,-77.368656
+2460 Stantonsburg Rd, Greenville, NC 27835, USA*****35.606838,-77.413626
+2455 Eaton Ferry Rd, Littleton, NC 27850, USA*****36.533503,-77.937745
+2467 Eaton Ferry Rd, Littleton, NC 27850, USA*****36.533644,-77.938928
+Wises Store Rd, Murfreesboro, NC 27855, USA*****36.442647,-77.120296
+1151 Eastern Ave, Nashville, NC 27856, USA*****35.969962,-77.938199
+1914 Turnbury Dr, Greenville, NC 27858, USA*****35.568417,-77.353439
+620 Red Banks Rd, Greenville, NC 27858, USA*****35.580280,-77.369319
+4330 E 10th St, Greenville, NC 27858, USA*****35.582020,-77.309737
+3136 E 10th St, Greenville, NC 27858, USA*****35.598960,-77.333385
+4700 US-117, Pikeville, NC 27863, USA*****35.489145,-77.980557
+175 Roanoke Ave, Roanoke Rapids, NC 27870, USA*****36.469935,-77.650838
+1201 Julian R Allsbrook Hwy, Roanoke Rapids, NC 27870, USA*****36.433428,-77.642645
+2500 W 10th St, Roanoke Rapids, NC 27870, USA*****36.465079,-77.691995
+22713 NC-903, Robersonville, NC 27871, USA*****35.832126,-77.252280
+93 Food Lion Rd, Scotland Neck, NC 27874, USA*****36.120806,-77.422593
+603 E Nash St, Spring Hope, NC 27882, USA*****35.951742,-78.106283
+2213 St Andrew St, Tarboro, NC 27886, USA*****35.914361,-77.542148
+1110 Western Blvd, Tarboro, NC 27886, USA*****35.898117,-77.559882
+4030 US-264, Washington, NC 27889, USA*****35.592972,-77.100851
+1706 US-264, Scranton, NC 27875, USA*****35.494626,-76.446095
+1345 John Small Ave, Washington, NC 27889, USA*****35.545857,-77.031079
+607 East Blvd, Williamston, NC 27892, USA*****35.845369,-77.049520
+2101 Tarboro St SW, Wilson, NC 27893, USA*****35.718193,-77.951199
+2021 Lipscomb Rd E, Wilson, NC 27893, USA*****35.711557,-77.881656
+2801 Ward Blvd #3h, Wilson, NC 27893, USA*****35.755840,-77.926716
+3711 Peppermill Dr, Wilson, NC 27896, USA*****35.770295,-77.938067
+1805 Weeksville Rd, Elizabeth City, NC 27909, USA*****36.272929,-76.211246
+1313 N Road St, Elizabeth City, NC 27909, USA*****36.327954,-76.227000
+1515 W Ehringhaus St, Elizabeth City, NC 27909, USA*****36.292430,-76.244382
+Elizabeth City, NC 27909, USA*****36.294601,-76.251046
+1498 E Memorial Dr, Ahoskie, NC 27910, USA*****36.272396,-76.975017
+41934 NC-12, Avon, NC 27915, USA*****35.333194,-75.507613
+2110 US-64, Lexington, NC 27292, USA*****35.816145,-80.205921
+US-64 & L A Keiser Dr, Columbia, NC 27925, USA*****35.918928,-76.240778
+805 Ocean Trail, Corolla, NC 27927, USA*****36.327871,-75.815709
+1316 N Broad St, Edenton, NC 27932, USA*****36.073897,-76.594875
+123 Forbes Loop, Grandy, NC 27939, USA*****36.238917,-75.878147
+US-17, Hertford, NC, USA*****36.187244,-76.457094
+1720 N Croatan Hwy, Kill Devil Hills, NC 27948, USA*****36.031426,-75.673446
+5543 N Croatan Hwy, Southern Shores, NC 27949, USA*****36.100150,-75.722741
+NC-168, Moyock, NC, USA*****36.524792,-76.178312
+2110 S Croatan Hwy, Nags Head, NC 27959, USA*****35.992469,-75.648241
+5200 S Croatan Hwy, Nags Head, NC 27959, USA*****35.935786,-75.615808
+824 US-64, Plymouth, NC 27962, USA*****35.862361,-76.731150
+2000 US-52, Albemarle, NC 28001, USA*****35.388451,-80.194219
+1438 Perfection Ave, Belmont, NC 28012, USA*****35.281404,-81.047634
+602 Park St, Belmont, NC 28012, USA*****35.252264,-81.026208
+1209 Shelby Hwy, Cherryville, NC 28021, USA*****35.375036,-81.396429
+China Grove, NC 28023, USA*****35.569306,-80.581732
+116 US-29, China Grove, NC 28023, USA*****35.564997,-80.578497
+860 Union St S, Concord, NC 28025, USA*****35.386825,-80.559903
+80 Branchview Dr NE, Concord, NC 28025, USA*****35.421113,-80.572748
+349 Copperfield Blvd NE, Concord, NC 28025, USA*****35.447586,-80.599618
+3501 US-601, Concord, NC 28025, USA*****35.370339,-80.547480
+3673 Concord Pkwy S, Concord, NC 28027, USA*****35.370121,-80.663644
+5303 Poplar Tent Rd, Concord, NC 28027, USA*****35.410803,-80.666938
+734 Cabarrus Ave W, Concord, NC 28027, USA*****35.397918,-80.608320
+533 Winecoff School Rd, Concord, NC 28027, USA*****35.443205,-80.623665
+20125 N Main St, Cornelius, NC 28031, USA*****35.483020,-80.860006
+3123 Dallas High Shoals Hwy, Dallas, NC 28034, USA*****35.317277,-81.192232
+2100 NC-16, Charlotte, NC 28211, USA*****35.178614,-80.818484
+6113 NC-16 S, Denver, NC 28037, USA*****35.556970,-81.064736
+130 NC-16, Crumpler, NC 28617, USA*****36.437325,-81.439182
+668 S Broadway St, Forest City, NC 28043, USA*****35.318148,-81.858719
+947 Linwood Rd, Gastonia, NC 28052, USA*****35.250804,-81.209709
+111 W Garrison Blvd, Gastonia, NC 28052, USA*****35.252890,-81.182415
+1024 W Hudson Blvd, Gastonia, NC 28052, USA*****35.235909,-81.204114
+3570 W Franklin Blvd, Gastonia, NC 28052, USA*****35.259372,-81.255067
+3870 W Franklin Blvd, Bessemer City, NC 28016, USA*****35.259109,-81.255212
+2211 N New Hope Rd, Gastonia, NC 28054, USA*****35.297846,-81.160451
+2320 S New Hope Rd, Gastonia, NC 28054, USA*****35.243712,-81.124739
+3680 S New Hope Rd, Gastonia, NC 28056, USA*****35.221052,-81.101419
+3011 Union Rd, Gastonia, NC 28056, USA*****35.214590,-81.168807
+4226 NC-49, Harrisburg, NC 28075, USA*****35.323715,-80.647085
+9548 Mt Holly-Huntersville Rd, Huntersville, NC 28078, USA*****35.357355,-80.868110
+706 Gilead Rd, Huntersville, NC 28078, USA*****35.411302,-80.853661
+9129 Sam Furr Rd, Huntersville, NC 28078, USA*****35.444017,-80.871765
+5850 W Hwy 74, Indian Trail, NC 28079, USA*****35.068253,-80.640658
+4423 Old Monroe Rd, Indian Trail, NC 28079, USA*****35.068123,-80.676299
+7868 Idlewild Rd, Indian Trail, NC 28079, USA*****35.107290,-80.632826
+358 Oak Avenue Mall Dr, Kannapolis, NC 28081, USA*****35.497169,-80.628972
+2825 N Cannon Blvd, Kannapolis, NC 28083, USA*****35.532353,-80.609969
+1746 S Cannon Blvd, Kannapolis, NC 28083, USA*****35.470571,-80.610415
+610 E King St, Kings Mountain, NC 28086, USA*****35.239710,-81.331948
+1320 Shelby Rd, Kings Mountain, NC 28086, USA*****35.241047,-81.371992
+200 Stanford Rd, Lincolnton, NC 28092, USA*****35.480320,-81.227185
+7206 E Marshville Blvd, Marshville, NC 28103, USA*****34.985583,-80.353859
+3816 W Hwy 74, Monroe, NC 28110, USA*****35.032400,-80.594173
+801 E Roosevelt Blvd, Monroe, NC 28112, USA*****34.975194,-80.516842
+2118 E Roosevelt Blvd, Monroe, NC 28112, USA*****34.979418,-80.489364
+1678 W Franklin St, Monroe, NC 28112, USA*****34.984116,-80.569797
+100 E Sunset Dr, Monroe, NC 28112, USA*****34.971297,-80.547636
+1339 Shearers Rd, Mooresville, NC 28115, USA*****35.534997,-80.799267
+210 E Plaza Dr, Mooresville, NC 28115, USA*****35.587813,-80.830069
+235 E Plaza Dr, Mooresville, NC 28115, USA*****35.589291,-80.827875
+E Plaza Dr, Mooresville, NC 28115, USA*****35.590929,-80.823479
+N Main St, Mooresville, NC 28115, USA*****35.588191,-80.797545
+Mooresville, NC 28115, USA*****35.584285,-80.787941
+529 E Plaza Dr, Mooresville, NC 28115, USA*****35.599742,-80.813815
+835 Williamson Rd, Mooresville, NC 28117, USA*****35.556936,-80.859314
+617 Highland St, Mt Holly, NC 28120, USA*****35.288336,-81.018009
+7230 NC-49, Mt Pleasant, NC 28124, USA*****35.404956,-80.452991
+542 Fork Rd, Norwood, NC 28128, USA*****35.216412,-80.111713
+552 Fork Rd, Norwood, NC 28128, USA*****35.216426,-80.111339
+410 W Church St, Richfield, NC 28137, USA*****35.473205,-80.267501
+968 Main St. Hwy 52, Rockwell, NC 28138, USA*****35.560811,-80.414127
+968 W Main St, Rockwell, NC 28138, USA*****35.560853,-80.414135
+378 Charlotte Rd, Rutherfordton, NC 28139, USA*****35.363856,-81.948025
+169 Railroad Ave, Rutherfordton, NC 28139, USA*****35.364617,-81.943041
+169 US-64 #74a, Rutherfordton, NC 28139, USA*****35.385227,-81.947066
+123 Mahaley Ave, Salisbury, NC 28144, USA*****35.684086,-80.480796
+251 Faith Rd, Salisbury, NC 28146, USA*****35.652587,-80.461349
+2085 Harrison Rd, Salisbury, NC 28147, USA*****35.677467,-80.530795
+2110 Executive Dr, Salisbury, NC 28147, USA*****35.683590,-80.514196
+525 Jake Alexander Blvd W, Salisbury, NC 28147, USA*****35.661648,-80.501905
+101 Wellington Hills Cir, Salisbury, NC 28147, USA*****35.700080,-80.507253
+102 Wellington Hills Cir, Salisbury, NC 28147, USA*****35.700146,-80.507183
+103 Wellington Hills Cir, Salisbury, NC 28147, USA*****35.700219,-80.507107
+2104 Statesville Blvd, Salisbury, NC 28147, USA*****35.695982,-80.516669
+122 S Post Rd, Shelby, NC 28152, USA*****35.282982,-81.493357
+Jefferson St & Salisbury Ave, Spencer, NC 28159, USA*****35.693147,-80.425152
+515 US-27, Liberty, IN 47353, USA*****39.570873,-84.820501
+520 N Main St, Troutman, NC 28166, USA*****35.711885,-80.894069
+1043 E Caswell St, Wadesboro, NC 28170, USA*****34.967217,-80.059584
+1301 N Broome St, Waxhaw, NC 28173, USA*****34.934267,-80.751148
+221 Old Hwy 74, Wingate, NC 28174, USA*****34.976816,-80.435583
+3009 The Plaza, Charlotte, NC 28205, USA*****35.239100,-80.799624
+3207 Eastway Dr, Charlotte, NC 28205, USA*****35.210602,-80.780328
+4709 Tuckaseegee Rd, Charlotte, NC 28208, USA*****35.245994,-80.903922
+10120 Johnston Rd, Charlotte, NC 28210, USA*****35.091679,-80.858346
+931 N Wendover Rd, Charlotte, NC 28211, USA*****35.192263,-80.797201
+2931 E W.T. Harris Blvd, Charlotte, NC 28213, USA*****35.272875,-80.728544
+2526 Little Rock Rd, Charlotte, NC 28214, USA*****35.245362,-80.938485
+9115 Samlen Ln, Charlotte, NC 28214, USA*****35.272123,-80.961634
+237 Mt Holly-Huntersville Rd, Charlotte, NC 28214, USA*****35.302808,-80.987366
+7920 Cambridge Commons Dr, Charlotte, NC 28215, USA*****35.251068,-80.656600
+7004 E W.T. Harris Blvd, Charlotte, NC 28215, USA*****35.225056,-80.727418
+7400 Plaza Rd Extension, Charlotte, NC 28215, USA*****35.258394,-80.735049
+2123 Beatties Ford Rd, Charlotte, NC 28216, USA*****35.264169,-80.856201
+4001 Sunset Rd, Charlotte, NC 28216, USA*****35.305684,-80.860698
+5831 South Blvd, Charlotte, NC 28210, USA*****35.155928,-80.875051
+7400 Candlewyck Ln, Charlotte, NC 28226, USA*****35.108893,-80.780930
+8100 Idlewild Rd, Charlotte, NC 28227, USA*****35.184510,-80.729324
+6275 Wilson Grove Rd, Mint Hill, NC 28227, USA*****35.189143,-80.689992
+8118 Blair Rd, Mint Hill, NC 28227, USA*****35.181357,-80.644398
+9323 N Tryon St, Charlotte, NC 28262, USA*****35.313822,-80.744599
+1704 Harris Houston Rd, Charlotte, NC 28262, USA*****35.315034,-80.699909
+3024 Prosperity Church Rd, Charlotte, NC 28269, USA*****35.343367,-80.769544
+5624 N Graham St, Charlotte, NC 28269, USA*****35.289348,-80.798066
+Derita Ave, Charlotte, NC 28269, USA*****35.299333,-80.801542
+6430 W Sugar Creek Rd, Charlotte, NC 28269, USA*****35.335433,-80.796243
+9848 Monroe Rd, Charlotte, NC 28270, USA*****35.137780,-80.739717
+9112 S Tryon St, Charlotte, NC 28273, USA*****35.134628,-80.940731
+342 N Eastern Blvd #2, Fayetteville, NC 28301, USA*****35.050940,-78.862504
+102 N Reilly Rd, Fayetteville, NC 28303, USA*****35.083169,-79.008613
+3308 Bragg Blvd, Fayetteville, NC 28303, USA*****35.077979,-78.935198
+4106 Raeford Rd, Fayetteville, NC 28314, USA*****35.045732,-78.947739
+6575 Fisher Rd, Fayetteville, NC 28304, USA*****35.014111,-79.008083
+7071 Raeford Rd, Fayetteville, NC 28304, USA*****35.034085,-79.017357
+9535 Cliffdale Rd, Fayetteville, NC 28304, USA*****35.029377,-79.060241
+3037 Legion Rd, Fayetteville, NC 28306, USA*****35.003538,-78.913378
+5102 NC-87, Hope Mills, NC 28348, USA*****34.929786,-78.856755
+929 McArthur Rd, Fayetteville, NC 28311, USA*****35.129693,-78.899384
+150 Andrews Rd, Fayetteville, NC 28311, USA*****35.158401,-78.871173
+3300 Rosehill Rd, Fayetteville, NC 28311, USA*****35.103884,-78.898131
+8175 Cliffdale Rd S150, Fayetteville, NC 28314, USA*****35.058082,-79.046585
+102 S Reilly Rd, Fayetteville, NC 28314, USA*****35.082498,-79.010799
+151 Westwood Shopping Center, Fayetteville, NC 28314, USA*****35.066101,-78.952129
+1680 NC-5 #90, Aberdeen, NC 28315, USA*****35.163402,-79.472834
+1832 N Sandhills Blvd, Aberdeen, NC 28315, USA*****35.155286,-79.413116
+1005 Monroe St, Carthage, NC 28327, USA*****35.341920,-79.402776
+2202 W Cumberland St, Dunn, NC 28334, USA*****35.322672,-78.635529
+1243 E Cumberland St, Dunn, NC 28334, USA*****35.292048,-78.594738
+1202 W Broad St, Elizabethtown, NC 28337, USA*****34.633447,-78.619215
+NC-41, Fairmont, NC, USA*****34.496823,-79.114271
+803 W Hamlet Ave, Hamlet, NC 28345, USA*****34.896268,-79.704666
+US-74, United States*****34.861014,-79.677136
+3020 Hope Mills Rd, Hope Mills, NC 28348, USA*****34.985993,-78.965044
+NC-50, Kenansville, NC, USA*****34.961921,-77.962426
+501 US-15, Dillsburg, PA 17019, USA*****40.117452,-77.037780
+1301 Scotland Crossing Dr, Laurinburg, NC 28352, USA*****34.758416,-79.484889
+2710 N Roberts Ave, Lumberton, NC 28358, USA*****34.645453,-79.009320
+6685 E Elizabethtown Rd, Lumberton, NC 28358, USA*****34.638404,-78.969390
+2779 W 5th St, Lumberton, NC 28358, USA*****34.622343,-79.044666
+638 N Patterson St, Maxton, NC 28364, USA*****34.745914,-79.345940
+1017 N Breazeale Ave, Mt Olive, NC 28365, USA*****35.210539,-78.065282
+306 Main St, Newton Grove, NC 28366, USA*****35.247845,-78.353623
+913g W 3rd St, Pembroke, NC 28372, USA*****34.685867,-79.209779
+4530 Fayetteville Rd, Raeford, NC 28376, USA*****35.005324,-79.173988
+232 Cole Ave, Raeford, NC 28376, USA*****34.978774,-79.238526
+2124 Fayetteville Rd, Rockingham, NC 28379, USA*****34.949148,-79.743054
+481 E Broad Ave, Rockingham, NC 28379, USA*****34.934272,-79.768637
+NC-24, Roseboro, NC, USA*****34.954929,-78.507131
+1062 W Broad St, St Pauls, NC 28384, USA*****34.813036,-78.988396
+3260 Ray Rd, Spring Lake, NC 28390, USA*****35.254762,-78.966032
+5191 Clinton Rd, Stedman, NC 28391, USA*****35.035200,-78.749338
+2601 Castle Hayne Rd, Wilmington, NC 28401, USA*****34.288765,-77.923262
+2432 S 17th St, Wilmington, NC 28401, USA*****34.197201,-77.923084
+45 S Kerr Ave, Wilmington, NC 28403, USA*****34.240303,-77.888443
+1929 Oleander Dr, Wilmington, NC 28403, USA*****34.225338,-77.922013
+1319 Military Cutoff Rd, Wilmington, NC 28405, USA*****34.228655,-77.827615
+3211 Enterprise Dr, Wilmington, NC 28405, USA*****34.310158,-77.877191
+3600 S College Rd, Wilmington, NC 28412, USA*****34.177376,-77.893354
+64001 Carolina Beach Rd, Wilmington, NC 28412, USA*****34.140149,-77.893520
+3905 Independence Blvd, Wilmington, NC 28412, USA*****34.175979,-77.923116
+1336 Bridge Barrier Rd, Carolina Beach, NC 28428, USA*****34.049539,-77.901357
+1401 N Lake Park Blvd, Carolina Beach, NC 28428, USA*****34.051599,-77.901129
+809 N Brown St, Chadbourn, NC 28431, USA*****34.330256,-78.828266
+14564 US-17, Hampstead, NC 28443, USA*****34.364783,-77.710421
+13601 NC-50, Surf City, NC 28445, USA*****34.446660,-77.562121
+103 Village Rd NE, Leland, NC 28451, USA*****34.232638,-77.997329
+309 Village Rd NE, Leland, NC 28451, USA*****34.235382,-78.002401
+1735 Reed Rd NE, Leland, NC 28451, USA*****34.260664,-78.057615
+8057 US-117 #11, Rocky Point, NC 28457, USA*****34.440290,-77.881933
+4930 Hwy 133 Long Bch Rd, Southport, NC 28461, USA*****33.921563,-78.020268
+1100 Sabbath Home Rd SW, Holden Beach, NC 28462, USA*****33.929976,-78.271285
+108 Tabor Crossing, Tabor City, NC 28463, USA*****34.138733,-78.867765
+5901 E Oak Island Dr, Oak Island, NC 28465, USA*****33.911298,-78.104144
+5680 NC-41, Wallace, NC 28466, USA*****34.741172,-77.974311
+5680 NC-41, Wallace, NC 28466, USA*****34.741172,-77.974311
+9869 Ocean Hwy W, Calabash, NC 28467, USA*****33.906543,-78.584571
+1680 Seaside Rd SW, Ocean Isle Beach, NC 28469, USA*****33.897904,-78.488033
+4600 Main St, Shallotte, NC 28459, USA*****33.979948,-78.378223
+1200 N JK Powell Blvd, Whiteville, NC 28472, USA*****34.344860,-78.708167
+80 Jk Powell Rd, Whiteville, NC 28472, USA*****34.401179,-78.771642
+80 Whiteville Plaza, Whiteville, NC 28472, USA*****34.309408,-78.712548
+2410 N Herritage St, Kinston, NC 28501, USA*****35.286955,-77.591045
+1304 W Vernon Ave, Kinston, NC 28504, USA*****35.269310,-77.599527
+11560 NC-55, Grantsboro, NC 28529, USA*****35.141687,-76.830466
+1010 W Fort Macon Rd, Atlantic Beach, NC 28512, USA*****34.701945,-76.753761
+120 NC-102, Ayden, NC 28513, USA*****35.475765,-77.436017
+1901 Live Oak St, Beaufort, NC 28516, USA*****34.735678,-76.637029
+11560 NC-55, Grantsboro, NC 28529, USA*****35.141687,-76.830466
+516 U.S. Hwy 70 W, Havelock, NC 28532, USA*****34.909491,-76.936429
+2040 Wilmington Hwy #13, Jacksonville, NC 28540, USA*****34.731874,-77.475424
+Unnamed Road, Jacksonville, NC 28544, USA*****34.717714,-77.324776
+2200 Gum Branch Rd, Jacksonville, NC 28540, USA*****34.798230,-77.436670
+175 Freedom Way, Midway Park, NC 28544, USA*****34.718136,-77.324157
+128 College St, Jacksonville, NC 28540, USA*****34.749948,-77.432415
+104 Branchwood Shopping, Center St, Jacksonville, NC 28546, USA*****34.779401,-77.413729
+861 Piney Green Rd, Jacksonville, NC 28546, USA*****34.771544,-77.353798
+114 Branchwood Shopping Ctr, Jacksonville, NC 28546, USA*****34.779672,-77.414214
+301 E Washington St, La Grange, NC 28551, USA*****35.303882,-77.782576
+4917 Arendell St, Morehead City, NC 28557, USA*****34.732093,-76.787930
+121 Bridge Town Blvd, New Bern, NC 28560, USA*****35.118677,-77.007056
+1214 S Glenburnie Rd, New Bern, NC 28562, USA*****35.123818,-77.088913
+3301 Doctor M.L.K. Jr Blvd, New Bern, NC 28562, USA*****35.099183,-77.094069
+7075 US-70, Newport, NC 28570, USA*****34.790601,-76.879122
+5909 NC-11, Pink Hill, NC 28572, USA*****35.075548,-77.732779
+101 Dreadnaught St, Richlands, NC 28574, USA*****34.903592,-77.556881
+108 Greenwood Square, Snow Hill, NC 28580, USA*****35.439557,-77.663813
+1409 W Corbett Ave, Swansboro, NC 28584, USA*****34.703397,-77.157054
+270 NC-43, Vanceboro, NC 28586, USA*****35.311166,-77.158672
+4822 Old Tar Rd, Winterville, NC 28590, USA*****35.531059,-77.386003
+8700 Emerald Dr, Emerald Isle, NC 28594, USA*****34.662717,-77.049738
+3220 Springs Rd NE, Hickory, NC 28601, USA*****35.757137,-81.272617
+S Hwy 127, Hickory, NC 28602, USA*****35.680218,-81.378180
+NC-127, Hickory, NC 28601, USA*****35.754410,-81.336615
+2720 2nd Ave NW, Hickory, NC 28601, USA*****35.737649,-81.383854
+3555 Tynecastle Hwy, Sugar Mountain, NC 28604, USA*****36.129832,-81.847110
+175 US-321, York, SC 29745, USA*****34.985305,-81.251906
+7533 Valley Blvd, Blowing Rock, NC 28605, USA*****36.137320,-81.669681
+350 Watauga Dr, Boone, NC 28607, USA*****36.218964,-81.670718
+1864 Old US 421 S, Boone, NC 28607, USA*****36.226219,-81.611128
+104 Thornburg Dr SE, Conover, NC 28613, USA*****35.701871,-81.201543
+1526 N Bridge St, Elkin, NC 28621, USA*****36.271776,-80.851531
+1534 N Bridge St, Elkin, NC 28621, USA*****36.271899,-80.852273
+2187 Old Mountain Rd, Statesville, NC 28625, USA*****35.784258,-81.006617
+1650 E Broad St, Statesville, NC 28625, USA*****35.788216,-80.858968
+608 Turnersburg Hwy, Statesville, NC 28625, USA*****35.835742,-80.870382
+3474 E Broad St, Statesville, NC 28625, USA*****35.806629,-80.810181
+1737 Wilkesboro Hwy, Statesville, NC 28625, USA*****35.810165,-80.911873
+511 U.S. Hwy 70 SW, Connelly Springs, NC 28612, USA*****35.714493,-81.420387
+3078 Hickory Blvd, Hudson, NC 28638, USA*****35.847029,-81.471195
+733 E Main St, Jefferson, NC 28640, USA*****36.421538,-81.458882
+US-221 & NC-16, Jefferson, NC 28640, USA*****36.418331,-81.444060
+Highway, 1632 NC-67, Jonesville, NC 28642, USA*****36.237872,-80.821229
+2116 Morganton Blvd SW, Lenoir, NC 28645, USA*****35.897304,-81.565641
+201 Island Ford Rd, Maiden, NC 28650, USA*****35.565987,-81.193568
+2931 NC-16, Millers Creek, NC 28651, USA*****36.187995,-81.239103
+576 E Fleming Dr, Morganton, NC 28655, USA*****35.751589,-81.655047
+120 Bost Rd, Morganton, NC 28655, USA*****35.754404,-81.713993
+110 Fiddlers Run Blvd, Morganton, NC 28655, USA*****35.715019,-81.670109
+1230 Burkemont Ave, Morganton, NC 28655, USA*****35.716963,-81.698170
+2380 W North Carolina 10, Newton, NC 28658, USA*****35.646885,-81.267078
+1390 NC-16, Newton, NC 28658, USA*****35.654362,-81.194136
+21 Sparta Rd, North Wilkesboro, NC 28659, USA*****36.180371,-81.148993
+381 S Main St, Sparta, NC 28675, USA*****36.502001,-81.114522
+US-21 & S Main St, Sparta, NC 28675, USA*****36.505417,-81.120741
+947 Davie Ave, Statesville, NC 28677, USA*****35.794893,-80.875569
+625 W Main Ave, Taylorsville, NC 28681, USA*****35.921655,-81.187176
+629 W Main Ave, Taylorsville, NC 28681, USA*****35.921168,-81.189609
+827 Main St W, Valdese, NC 28690, USA*****35.743664,-81.575580
+1300 Westwood Ln, Wilkesboro, NC 28697, USA*****36.132672,-81.166567
+100 College Station Dr, Brevard, NC 28712, USA*****35.239294,-82.732270
+1 New Clyde Hwy, Canton, NC 28716, USA*****35.531036,-82.850348
+16 Cherokee Crossing aka, 16 Casino Trail #10, Cherokee, NC 28719, USA*****35.462985,-83.315848
+263 Paragon Pkwy, Clyde, NC 28721, USA*****35.525874,-82.953844
+179 Paragon Pkwy, Clyde, NC 28721, USA*****35.527172,-82.954639
+231 W Mills St, Columbus, NC 28722, USA*****35.248768,-82.202547
+1350 Charlotte Hwy, Fairview, NC 28730, USA*****35.525352,-82.411110
+364 US-70, Marion, NC 28752, USA*****35.705029,-82.038860
+6 Cross Rd Dr, Mills River, NC 28759, USA*****35.386942,-82.569005
+Spruce Pine, NC 28777, USA*****35.915401,-82.064561
+73 Asheville Hwy, Sylva, NC 28779, USA*****35.382321,-83.204668
+Weaverville Hwy, Weaverville, NC 28787, USA*****35.665876,-82.584173
+3285 US-441, Whittier, NC 28789, USA*****35.456559,-83.311705
+800 Greenville Hwy, Hendersonville, NC 28792, USA*****35.304417,-82.456828
+1856 Hendersonville Rd, Asheville, NC 28803, USA*****35.501240,-82.521355
+55 Weaverville Rd, Woodfin, NC 28804, USA*****35.639463,-82.577726
+901 Smokey Park Hwy, Candler, NC 28715, USA*****35.547538,-82.656469
+7 Wilson St, Andrews, NC 28901, USA*****35.200850,-83.830578
+1225 Ritner Hwy, Carlisle, PA 17013, USA*****40.202166,-77.212582
+4170 Philadelphia Ave, Chambersburg, PA 17201, USA*****39.979904,-77.622736
+875 Lincoln Way W, Chambersburg, PA 17202, USA*****39.937419,-77.682099
+500 N Antrim Way, Greencastle, PA 17225, USA*****39.799055,-77.727771
+Commerce Ave, Antrim Township, PA 17225, USA*****39.767437,-77.731116
+300 S Fayette St, Shippensburg, PA 17257, USA*****40.043871,-77.520624
+11105 Buchanan Trail E, Waynesboro, PA 17268, USA*****39.739742,-77.534512
+3744 Centennial Rd, Hanover, PA 17331, USA*****39.800812,-77.031708
+517 S Main St, Bishopville, SC 29010, USA*****34.211002,-80.256264
+740 University Village Dr, Blythewood, SC 29016, USA*****34.215987,-80.985899
+2529 Broad St, Camden, SC 29020, USA*****34.274569,-80.610576
+140 Amicks Ferry Rd, Chapin, SC 29036, USA*****34.163923,-81.356015
+2465 Main St, Elgin, SC 29045, USA*****34.169561,-80.789553
+5204 US-321, Gaston, SC 29053, USA*****33.836783,-81.093143
+9013 Garners Ferry Rd, Hopkins, SC 29061, USA*****33.944421,-80.870728
+11107 Broad River Rd, Irmo, SC 29063, USA*****34.148595,-81.240466
+742 W Main St Unit B, Lexington, SC 29072, USA*****33.984453,-81.251074
+918 N Lake Dr Ste B, Lexington, SC 29072, USA*****33.994208,-81.228562
+918 N Lake Dr, Lexington, SC 29072, USA*****33.994222,-81.228640
+1856 S Lake Dr Ste G, Lexington, SC 29073, USA*****33.908945,-81.225469
+1856 S Lake Dr, Lexington, SC 29073, USA*****33.908945,-81.225469
+610 US-1, Lugoff, SC 29078, USA*****34.240374,-80.660946
+1821 Wilson Rd, Newberry, SC 29108, USA*****34.291174,-81.604791
+709 Kendall Rd, Newberry, SC 29108, USA*****34.283047,-81.638514
+Santee, SC 29142, USA*****33.475163,-80.486476
+697 Bass Dr, Santee, SC 29142, USA*****33.483210,-80.478277
+1785 Hwy 15 S, St George, SC 29477, USA*****33.118082,-80.591177
+175 Palmetto St, Sumter, SC 29150, USA*****33.900658,-80.345005
+5700 Broad St, Sumter, SC 29154, USA*****33.949450,-80.498257
+1618 Airport Blvd, West Columbia, SC 29169, USA*****33.970736,-81.079821
+2250 Sunset Blvd, West Columbia, SC 29169, USA*****34.001653,-81.101402
+675 Main St, West Columbia, SC 29170, USA*****33.914608,-81.131537
+3975 Platt Springs Rd, West Columbia, SC 29170, USA*****33.938206,-81.147313
+100 US-321, Winnsboro, SC 29180, USA*****34.369568,-81.101253
+133 US-321, Winnsboro, SC 29180, USA*****34.375293,-81.101185
+5118 Fairfield Rd, Columbia, SC 29203, USA*****34.052664,-81.026898
+3912 Two Notch Rd, Columbia, SC 29204, USA*****34.041583,-80.991165
+2312 Decker Blvd, Columbia, SC 29206, USA*****34.055373,-80.946433
+2900 Leesburg Rd, Columbia, SC 29209, USA*****33.981999,-80.902025
+543 St Andrews Rd, Columbia, SC 29210, USA*****34.046312,-81.126933
+7241 Broad River Rd, Irmo, SC 29063, USA*****34.094555,-81.159133
+1013 Broad River Rd, Columbia, SC 29210, USA*****34.024707,-81.081432
+6169 St Andrews Rd, Columbia, SC 29212, USA*****34.056576,-81.163276
+9810 Two Notch Rd, Columbia, SC 29223, USA*****34.106601,-80.899569
+2110 Clemson Rd, Columbia, SC 29229, USA*****34.140584,-80.915022
+2430 Reidville Rd, Spartanburg, SC 29301, USA*****34.920357,-81.994811
+230 Cedar Springs Rd, Spartanburg, SC 29302, USA*****34.918539,-81.886155
+95 Garner Rd, Spartanburg, SC 29303, USA*****34.967536,-81.931231
+2375 E Main St, Spartanburg, SC 29307, USA*****34.976982,-81.874806
+1405 E Frederick St, Gaffney, SC 29340, USA*****35.060213,-81.640325
+11295 Asheville Hwy, Inman, SC 29349, USA*****35.038187,-82.080376
+241 Hillcrest Dr, Laurens, SC 29360, USA*****34.503983,-82.015083
+251 Hillcrest Dr, Laurens, SC 29360, USA*****34.504814,-82.015504
+300 Spartanburg Hwy, Lyman, SC 29365, USA*****34.954634,-82.117359
+4825 US-221, Roebuck, SC 29376, USA*****34.869250,-81.959363
+320 N Duncan Bypass, Union, SC 29379, USA*****34.717253,-81.639137
+926 N Main St, Woodruff, SC 29388, USA*****34.753002,-82.045055
+1015 King St, Charleston, SC 29403, USA*****32.804157,-79.952583
+4400 Dorchester Rd #10, North Charleston, SC 29405, USA*****32.854549,-80.012640
+1213 Remount Rd, North Charleston, SC 29406, USA*****32.901444,-79.986669
+65 Sycamore Ave, Charleston, SC 29407, USA*****32.791178,-79.989076
+1291 Folly Rd, Charleston, SC 29412, USA*****32.716133,-79.968404
+2245 Ashley Crossing Dr, Charleston, SC 29414, USA*****32.813685,-80.039695
+2144 Savannah Hwy, Charleston, SC 29414, USA*****32.792870,-80.036926
+3740 Ashley Phosphate Rd, North Charleston, SC 29420, USA*****32.925239,-80.087801
+7550 Dorchester Rd, North Charleston, SC 29418, USA*****32.903595,-80.078734
+29430 US-52, New London, NC 28127, USA*****35.411139,-80.203880
+2234 S Fraser St, Georgetown, SC 29440, USA*****33.344028,-79.300692
+1045 N Fraser St, Georgetown, SC 29440, USA*****33.386053,-79.289773
+971 Crowfield Blvd, Goose Creek, SC 29445, USA*****33.015603,-80.087888
+1316 Red Bank Rd, Goose Creek, SC 29445, USA*****32.969122,-80.011148
+2770 Maybank Hwy, Johns Island, SC 29455, USA*****32.745092,-80.038274
+1316 Red Bank Rd, Goose Creek, SC 29445, USA*****32.969122,-80.011148
+697 Long Point Rd, Mt Pleasant, SC 29464, USA*****32.842447,-79.854156
+730 Coleman Blvd, Mt Pleasant, SC 29464, USA*****32.792711,-79.868790
+3365 S Morgans Point Rd, Mt Pleasant, SC 29466, USA*****32.873350,-79.772141
+6320 Savannah Hwy, Ravenel, SC 29470, USA*****32.776578,-80.248729
+6323 Savannah Hwy, Ravenel, SC 29470, USA*****32.774819,-80.249121
+1115 Central Ave, Summerville, SC 29483, USA*****33.016263,-80.208225
+350 N Cashua Dr, Florence, SC 29501, USA*****34.200448,-79.798942
+3219 W Palmetto St, Florence, SC 29501, USA*****34.170458,-79.845518
+1307 2nd Loop Rd, Florence, SC 29505, USA*****34.168145,-79.788959
+2600 S Irby St, Florence, SC 29505, USA*****34.145129,-79.768813
+3208 E Palmetto St, Florence, SC 29506, USA*****34.195329,-79.703263
+415 Brooks Rd, Andrews, SC 29510, USA*****33.448208,-79.551651
+Bennettsville, SC 29512, USA*****34.617380,-79.684781
+831 Chesterfield Hwy, Cheraw, SC 29520, USA*****34.695538,-79.923381
+1904 SC-544, Conway, SC 29526, USA*****33.765718,-79.018646
+2290 S Hwy 501, Marion, SC 29571, USA*****34.143539,-79.381339
+2608 Main St, Conway, SC 29526, USA*****33.868097,-79.051352
+3320 4th Ave, Conway, SC 29527, USA*****33.816213,-79.079158
+110 Express Ln, Darlington, SC 29532, USA*****34.284136,-79.859608
+205 Radford Blvd, Dillon, SC 29536, USA*****34.429769,-79.366180
+SC-41 & Hemingway Hwy, Hemingway, SC 29554, USA*****33.753521,-79.447284
+15 Williamsburg County Hwy, Kingstree, SC 29556, USA*****33.683928,-79.825297
+1699 US-17, Little River, SC 29566, USA*****33.879021,-78.611234
+3379 Hwy 9 E, Little River, SC 29566, USA*****33.873398,-78.672937
+110 Hwy 9 E, Longs, SC 29568, USA*****33.935450,-78.731767
+305 US-701, Loris, SC 29569, USA*****34.066487,-78.881899
+1318 N Main St, Marion, SC 29571, USA*****34.194629,-79.395475
+7601 N Kings Hwy, Myrtle Beach, SC 29572, USA*****33.747323,-78.818952
+7611 N Kings Hwy, Myrtle Beach, SC 29572, USA*****33.748223,-78.820114
+5387-5423 Dick Pond Rd, Myrtle Beach, SC 29588, USA*****33.681196,-79.001405
+2292 Glenns Bay Rd, Myrtle Beach, SC 29575, USA*****33.618558,-78.999538
+901 Garden City Con, Murrells Inlet, SC 29576, USA*****33.596976,-79.021331
+760 Mink Ave, Murrells Inlet, SC 29576, USA*****33.566760,-79.037049
+3890 S Kings Hwy, Myrtle Beach, SC 29577, USA*****33.656861,-78.934393
+1009 Hwy 501, Myrtle Beach, SC 29577, USA*****33.695212,-78.893209
+1430 S Kings Hwy, Myrtle Beach, SC 29578, USA*****33.677914,-78.903805
+6103 N Kings Hwy, Myrtle Beach, SC 29577, USA*****33.736345,-78.833044
+3501 Belle Terre Blvd, Myrtle Beach, SC 29579, USA*****33.733306,-78.949772
+811 Hwy 17 S, North Myrtle Beach, SC 29582, USA*****33.821463,-78.686584
+1000 Hwy 17 N, North Myrtle Beach, SC 29582, USA*****33.836181,-78.668860
+9380 Ocean Hwy, Pawleys Island, SC 29585, USA*****33.430095,-79.143035
+4377 SC-24, Anderson, SC 29626, USA*****34.510759,-82.759961
+4733 SC-24, Anderson, SC 29626, USA*****34.517636,-82.770595
+107 Canoy Ln, Clemson, SC 29631, USA*****34.688325,-82.812877
+2551 US-25, Greenwood, SC 29646, USA*****34.155329,-82.137873
+1520 Edgefield St, Greenwood, SC 29646, USA*****34.170486,-82.153206
+Greenwood, SC, USA*****34.195400,-82.161788
+1360 Bypass 72 NE, Greenwood, SC 29649, USA*****34.214381,-82.150382
+210 N Creek Blvd, Greenwood, SC 29649, USA*****34.215134,-82.183174
+3093 SC-14, Greer, SC 29650, USA*****34.851724,-82.228307
+8024 Augusta Rd, Piedmont, SC 29673, USA*****34.695821,-82.399167
+1004 W Georgia Rd, Simpsonville, SC 29680, USA*****34.733989,-82.283958
+901 Holland Rd, Simpsonville, SC 29681, USA*****34.790641,-82.275712
+1130 W Cherokee St, Blacksburg, SC 29702, USA*****35.113733,-81.532129
+1841 J A Cochran Bypass Suite H, Chester, SC 29706, USA*****34.709027,-81.192623
+8175 Charlotte Hwy, Fort Mill, SC 29707, USA*****34.949179,-80.848417
+825 Crossroads Plaza, Fort Mill, SC 29708, USA*****35.059053,-80.990647
+5233 Charlotte Hwy, Clover, SC 29710, USA*****35.115634,-81.085502
+5233 Hwy 557, Clover, SC 29710, USA*****35.118491,-81.085900
+1360 SC-160, Fort Mill, SC 29715, USA*****35.010206,-80.914124
+1730 Airport Rd, Lancaster, SC 29720, USA*****34.690309,-80.786816
+709 E McGregor St, Pageland, SC 29728, USA*****34.774750,-80.381958
+1260 E Main St, Rock Hill, SC 29730, USA*****34.914587,-81.002387
+Heckle Blvd, Rock Hill, SC 29730, USA*****34.946493,-81.058614
+2260 Cross Pointe Dr, Rock Hill, SC 29730, USA*****34.938338,-80.965607
+1720 Ebenezer Rd, Rock Hill, SC 29732, USA*****34.957927,-81.045837
+353 Rutland Dr, Aiken, SC 29801, USA*****33.577641,-81.705428
+1520 Richland Ave W, Aiken, SC 29801, USA*****33.566472,-81.740328
+720 Silver Bluff Rd, Aiken, SC 29803, USA*****33.514925,-81.733501
+314 S Mine St, McCormick, SC 29835, USA*****33.909472,-82.291848
+135 Market Plaza Dr, North Augusta, SC 29860, USA*****33.570014,-81.939833
+313 Laurel Bay Rd, Beaufort, SC 29906, USA*****32.453486,-80.767902
+10 Sams Point Rd, Beaufort, SC 29902, USA*****32.413453,-80.646371
+210 Okatie Village Dr, Okatie, SC 29909, USA*****32.295391,-80.944864
+210 Okatie Village Dr, Okatie, SC 29909, USA*****32.295391,-80.944864
+1008 Fording Island Rd, Bluffton, SC 29910, USA*****32.256513,-80.852050
+40 Palmetto Pkwy, Hilton Head Island, SC 29926, USA*****32.218303,-80.706173
+936 Richards Rd, Antioch, TN 37013, USA*****36.067932,-86.681306
+314 Frey St, Ashland City, TN 37015, USA*****36.295812,-87.047983
+1764 State Hwy 48, Clarksville, TN 37040, USA*****36.478291,-87.377274
+1596 Fort Campbell Blvd, Clarksville, TN 37042, USA*****36.572652,-87.408393
+1598 Fort Campbell Blvd, Clarksville, TN 37042, USA*****36.573254,-87.407387
+2302 Madison St, Clarksville, TN 37043, USA*****36.506780,-87.271276
+2304 Madison St, Clarksville, TN 37043, USA*****36.506810,-87.270771
+303 Henslee Dr, Dickson, TN 37055, USA*****36.079330,-87.376188
+2239 Fairview Blvd, Fairview, TN 37062, USA*****35.971563,-87.127715
+744 Nashville Pike, Gallatin, TN 37066, USA*****36.380888,-86.466400
+471 E Main St, Gallatin, TN 37066, USA*****36.390133,-86.436207
+4096 Carothers Pkwy, Franklin, TN 37067, USA*****35.912969,-86.817369
+103 Glen Oak Blvd, Hendersonville, TN 37075, USA*****36.323498,-86.618970
+31 Bonita Pkwy, Hendersonville, TN 37075, USA*****36.315257,-86.589156
+5185 Murfreesboro Rd, La Vergne, TN 37086, USA*****36.021093,-86.572800
+860 N Ellington Pkwy, Lewisburg, TN 37091, USA*****35.463702,-86.782283
+3060 S Church St, Murfreesboro, TN 37127, USA*****35.785114,-86.402752
+352 W Northfield Blvd, Murfreesboro, TN 37129, USA*****35.872294,-86.389696
+2061 Lascassas Pike, Murfreesboro, TN 37130, USA*****35.871668,-86.355873
+1114 Mercury Blvd, Murfreesboro, TN 37130, USA*****35.836036,-86.375898
+4331 Old Hickory Blvd, Old Hickory, TN 37138, USA*****36.217210,-86.625976
+304 S Broadway, Portland, TN 37148, USA*****36.577920,-86.514059
+219 Colloredo Blvd, Shelbyville, TN 37160, USA*****35.493164,-86.468296
+719 S Congress Blvd, Smithville, TN 37166, USA*****35.953105,-85.814143
+11459 Old Nashville Hwy, Smyrna, TN 37167, USA*****35.956861,-86.519716
+564 Nissan Dr, Smyrna, TN 37167, USA*****35.985071,-86.495627
+250 Country Village Dr, Smyrna, TN 37167, USA*****35.956973,-86.522785
+2010 Memorial Blvd, Springfield, TN 37172, USA*****36.495799,-86.877687
+5341 Main St, Spring Hill, TN 37174, USA*****35.744998,-86.940424
+4529 Nolensville Pike, Nashville, TN 37211, USA*****36.069741,-86.725340
+3636 Bell Rd, Nashville, TN 37214, USA*****36.150482,-86.627253
+2324 Lebanon Pike, Nashville, TN 37214, USA*****36.170798,-86.684164
+2453 Murfreesboro Pike, Nashville, TN 37217, USA*****36.080407,-86.646167
+1312 Decatur Pike, Athens, TN 37303, USA*****35.450725,-84.616433
+114 Stuart Rd NE, Cleveland, TN 37312, USA*****35.199827,-84.845705
+125 Stuart Rd NE, Cleveland, TN 37312, USA*****35.201112,-84.843628
+2641 APD 40, Cleveland, TN 37323, USA*****35.129961,-84.875522
+6210 Hixson Pike, Hixson, TN 37343, USA*****35.151708,-85.200009
+4798 New Hwy 68, Madisonville, TN 37354, USA*****35.505475,-84.370710
+944 Hillsboro Blvd, Manchester, TN 37355, USA*****35.473172,-86.079799
+411 W Lincoln St, Tullahoma, TN 37388, USA*****35.357384,-86.214658
+600 S College St, Winchester, TN 37398, USA*****35.182379,-86.106759
+620 S College St, Winchester, TN 37398, USA*****35.180748,-86.107341
+816 Mountain Creek Rd, Chattanooga, TN 37405, USA*****35.101785,-85.325395
+W State St, Chattanooga, TN 37407, USA*****34.984110,-85.288261
+3810 Brainerd Rd, Chattanooga, TN 37411, USA*****35.022036,-85.243250
+3201 Wilcox Blvd Suite B, Chattanooga, TN 37411, USA*****35.048556,-85.242571
+4340 Ringgold Rd, Chattanooga, TN 37412, USA*****34.994944,-85.236886
+3901 Hixson Pike #181, Chattanooga, TN 37415, USA*****35.114754,-85.263435
+4850 TN-58, Chattanooga, TN 37416, USA*****35.091377,-85.182048
+321 Browns Ferry Rd, Chattanooga, TN 37419, USA*****35.031259,-85.363763
+7601 E Brainerd Rd, Chattanooga, TN 37421, USA*****35.013939,-85.157253
+3120 Bristol Hwy, Johnson City, TN 37601, USA*****36.362400,-82.381546
+1420 E Main St, Johnson City, TN 37601, USA*****36.325164,-82.331012
+701 US-11W, Church Hill, TN 37642, USA*****36.519082,-82.711867
+915 N Main Ave, Erwin, TN 37650, USA*****36.154813,-82.408315
+2291 S Shady St, Mountain City, TN 37683, USA*****36.445583,-81.795744
+400 Jd Yarnell Industrial Pkwy, Clinton, TN 37716, USA*****36.093792,-84.101856
+1115 N Charles G Seivers Blvd, Clinton, TN 37716, USA*****36.121066,-84.114568
+2325 E Andrew Johnson Hwy, Greeneville, TN 37745, USA*****36.180216,-82.782280
+119 W Broadway Blvd, Jefferson City, TN 37760, USA*****36.113680,-83.493940
+200 W Broadway Blvd, Jefferson City, TN 37760, USA*****36.113649,-83.501070
+1707 E Central Ave, LaFollette, TN 37766, USA*****36.394013,-84.094723
+1793 W Broadway Ave, Maryville, TN 37801, USA*****35.730859,-83.997163
+1707 E Lamar Alexander Pkwy, Maryville, TN 37804, USA*****35.756490,-83.947928
+1707 E Andrew Johnson Hwy, Morristown, TN 37814, USA*****36.225537,-83.274098
+691 Emory Valley Rd, Oak Ridge, TN 37830, USA*****36.020213,-84.227214
+320 W Main St, Sevierville, TN 37862, USA*****35.871126,-83.571172
+1424 Old Knoxville Hwy, Sevierville, TN 37876, USA*****35.894602,-83.585102
+5412 Pleasant Ridge Rd, Knoxville, TN 37912, USA*****35.992105,-84.000285
+4728 Centerline Dr, Knoxville, TN 37917, USA*****36.029492,-83.883853
+341 N Cedar Bluff Rd, Knoxville, TN 37923, USA*****35.921888,-84.092842
+6221 Riverview Crossing Dr, Knoxville, TN 37924, USA*****36.018363,-83.825483
+7220 Oak Ridge Hwy, Knoxville, TN 37931, USA*****35.989937,-84.079102
+10708 Kingston Pike, Knoxville, TN 37934, USA*****35.893595,-84.137495
+5021 Mt Pleasant Pike, Columbia, TN 38401, USA*****35.596928,-87.083540
+5021 Trotwood Ave, Columbia, TN 38401, USA*****35.588150,-87.097617
+1245 E Spring St, Cookeville, TN 38501, USA*****36.152979,-85.478726
+1037 N Main St, Crossville, TN 38555, USA*****35.960810,-85.036045
+75 Genesis Square, Crossville, TN 38555, USA*****35.954414,-85.031872
+US-127, Jamestown, TN, USA*****36.427564,-84.932029
+1210 Byrdstown Hwy, Livingston, TN 38570, USA*****36.395196,-85.301330
+281 N Spring St, Sparta, TN 38583, USA*****35.940982,-85.474538
+2416 Keller Springs Rd, Carrollton, TX 75006, USA*****32.970599,-96.875417
+636 E Sandy Lake Rd, Coppell, TX 75019, USA*****32.970620,-96.974436
+3901 W Northgate Dr, Irving, TX 75038, USA*****32.857564,-97.002977
+Historic District, 9121 Centreville Rd, Manassas, VA 20110, USA*****38.755414,-77.464012
+Historic District, 6306 Hoadly Rd, Manassas, VA 20112, USA*****38.673793,-77.395152
+Historic District, 13490 Dumfries Rd, Manassas, VA 20112, USA*****38.659751,-77.441691
+4195 Winchester Rd, Marshall, VA 20115, USA*****38.864024,-77.847538
+Purcellville, VA 20134, USA*****39.140000,-77.710000
+43930 Farmwell Rd, Ashburn, VA 20147, USA*****39.023644,-77.480944
+13621 Lee Jackson Memorial Hwy, Chantilly, VA 20151, USA*****38.887330,-77.419545
+43090 Peacock Market Plaza, South Riding, VA 20152, USA*****38.916009,-77.512674
+15201 Washington St, Haymarket, VA 20169, USA*****38.813530,-77.641850
+1050 Elden St, Herndon, VA 20170, USA*****38.967664,-77.397192
+3059 Centreville Rd, Herndon, VA 20171, USA*****38.921326,-77.415220
+720 S King St, Leesburg, VA 20175, USA*****39.104862,-77.568300
+240 Fort Evans Rd NE, Leesburg, VA 20176, USA*****39.110651,-77.535877
+5050 Waterway Dr, Montclair, VA 22025, USA*****38.610679,-77.358470
+11171 Lee Hwy, Fairfax, VA 22030, USA*****38.851920,-77.329956
+11181 Lee Hwy Ste A, Fairfax, VA 22030, USA*****38.849689,-77.331904
+13065 Fair Lakes Shopping Center, Fairfax, VA 22033, USA*****38.853791,-77.399457
+7760 Gunston Plaza, Lorton, VA 22079, USA*****38.704182,-77.209078
+12420 Dillingham Square, Lake Ridge, VA 22192, USA*****38.684691,-77.318615
+14055 Noblewood Plaza, Woodbridge, VA 22193, USA*****38.650895,-77.314264
+14630 Minnieville Rd, Dale City, VA 22193, USA*****38.633276,-77.372990
+282 Deacon Rd, Fredericksburg, VA 22405, USA*****38.327056,-77.438553
+205 Kings Hwy, Fredericksburg, VA 22405, USA*****38.298273,-77.445994
+736 Warrenton Rd, Fredericksburg, VA 22406, USA*****38.353112,-77.504162
+4153 Plank Rd, Fredericksburg, VA 22407, USA*****38.291168,-77.533459
+10601 Rhoads Dr, Fredericksburg, VA 22407, USA*****38.249626,-77.515519
+10601 Spotsylvania Ave, Fredericksburg, VA 22408, USA*****38.246241,-77.492961
+332 W Broaddus Ave, Bowling Green, VA 22427, USA*****38.047676,-77.358673
+15429 Dahlgren Rd, King George, VA 22485, USA*****38.339635,-77.071466
+8149 Kings Hwy, King George, VA 22485, USA*****38.277956,-77.206114
+18044 Kings Hwy, Montross, VA 22520, USA*****38.085128,-76.792618
+17501 Jefferson Davis Hwy, Ruther Glen, VA 22546, USA*****38.018998,-77.513839
+6320 Jefferson Davis Hwy, Spotsylvania Courthouse, VA 22551, USA*****38.132096,-77.523731
+9801 Courthouse Rd, Spotsylvania Courthouse, VA 22553, USA*****38.232922,-77.557419
+2612 Jefferson Davis Hwy, Stafford, VA 22554, USA*****38.448839,-77.400219
+933 Garrisonville Rd, Stafford, VA 22556, USA*****38.469051,-77.462159
+1850 Tappahannock Blvd, Tappahannock, VA 22560, USA*****37.901819,-76.866241
+2600 Valley Ave, Winchester, VA 22601, USA*****39.156252,-78.185032
+2047 S Pleasant Valley Rd, Winchester, VA 22601, USA*****39.162889,-78.169361
+190 Delco Plaza, Winchester, VA 22602, USA*****39.158310,-78.153504
+159 Grocery Ave, Winchester, VA 22602, USA*****39.168881,-78.119917
+159 Gregory Pl, Winchester, VA 22603, USA*****39.191241,-78.127529
+409 McNeil St, Berryville, VA 22611, USA*****39.159186,-77.980735
+260 Remount Rd, Front Royal, VA 22630, USA*****38.909041,-78.182984
+380 Fairfax Pike, Stephens City, VA 22655, USA*****39.080772,-78.203969
+1029 S Main St, Woodstock, VA 22664, USA*****38.864492,-78.517011
+US-29, Culpeper, VA, USA*****38.453918,-77.977201
+6358 Village Center Dr, Bealeton, VA 22712, USA*****38.582136,-77.765145
+46 Madison Plaza Dr, Madison, VA 22727, USA*****38.367106,-78.269781
+85 S Carlton St, Harrisonburg, VA 22801, USA*****38.442288,-78.856074
+1021 Port Republic Rd, Harrisonburg, VA 22801, USA*****38.420512,-78.872291
+1751 S High St, Harrisonburg, VA 22801, USA*****38.433893,-78.901860
+924 W Market St, Harrisonburg, VA 22801, USA*****38.452799,-78.883774
+1751 Virginia Ave, Harrisonburg, VA 22802, USA*****38.481015,-78.871792
+1400 US-211, Luray, VA 22835, USA*****38.661695,-78.496966
+5300 Main St, Mt Jackson, VA 22842, USA*****38.758134,-78.627525
+558 W Main St, Stanley, VA 22851, USA*****38.578060,-78.513722
+South Carolina, USA*****33.836081,-81.163725
+585 Branchlands Blvd, Charlottesville, VA 22901, USA*****38.072091,-78.480396
+32 Mill Creek Dr, Charlottesville, VA 22902, USA*****38.001119,-78.495972
+1131 5th St SW, Charlottesville, VA 22903, USA*****38.013468,-78.502808
+570 Riverbend Dr, Charlottesville, VA 22911, USA*****38.031427,-78.456633
+1740 Timberwood Blvd, Charlottesville, VA 22911, USA*****38.129170,-78.435848
+30 Windward Dr #102, Fishersville, VA 22939, USA*****38.106077,-78.980611
+408 W Gordon Ave, Gordonsville, VA 22942, USA*****38.139857,-78.195328
+85 Callohill Dr, Lovingston, VA 22949, USA*****37.753662,-78.878160
+577 N Madison Rd #15, Orange, VA 22960, USA*****38.257412,-78.113673
+264 Turkeysag Trail, Palmyra, VA 22963, USA*****37.905190,-78.342797
+136 Cedar Grove Rd, Ruckersville, VA 22968, USA*****38.209400,-78.387867
+990 Hopeman Pkwy, Waynesboro, VA 22980, USA*****38.085602,-78.882759
+1442 Jefferson Hwy #2696, Fishersville, VA 22939, USA*****38.106206,-78.979949
+135 Junction Dr, Ashland, VA 23005, USA*****37.754775,-77.467777
+4915 Richmond Tappahannock Hwy, Aylett, VA 23009, USA*****37.744695,-77.135663
+11371 Nuckols Rd, Glen Allen, VA 23059, USA*****37.681818,-77.591179
+State Rte 619, Virginia 23061, USA*****37.416026,-76.552669
+216 US-17, Yemassee, SC 29945, USA*****32.631835,-80.836748
+1301 Jamestown Rd, Williamsburg, VA 23185, USA*****37.252477,-76.734111
+501 E Main St, Louisa, VA 23093, USA*****38.021396,-77.991441
+30 Broadstreet Rd, Manakin-Sabot, VA 23103, USA*****37.671318,-77.680902
+183 Main St, Mathews, VA 23109, USA*****37.434320,-76.319676
+13530 Waterford Pl, Midlothian, VA 23112, USA*****37.451150,-77.647539
+13100 Midlothian Turnpike, Midlothian, VA 23113, USA*****37.504455,-77.640815
+1800 S Creek One, Powhatan, VA 23139, USA*****37.516244,-77.790352
+2105 Academy Rd, Powhatan, VA 23139, USA*****37.539709,-77.884871
+9030 Pocahontas Trail, Providence Forge, VA 23140, USA*****37.442996,-77.042324
+2589 New Kent Hwy, Quinton, VA 23141, USA*****37.519516,-77.184372
+7300 Market Pl Dr, Quinton, VA 23141, USA*****37.508856,-77.185810
+12532 Tidewater Trail, Saluda, VA 23149, USA*****37.609758,-76.611576
+5251 John Tyler Hwy, Williamsburg, VA 23185, USA*****37.257435,-76.739520
+a, 701-a Merrimac Trail, Williamsburg, VA 23185, USA*****37.269967,-76.675787
+5601 Richmond Rd, Williamsburg, VA 23188, USA*****37.316643,-76.737724
+16615 Mountain Rd, Montpelier, VA 23192, USA*****37.812621,-77.663242
+16625 Mountain Rd, Montpelier, VA 23192, USA*****37.814092,-77.663069
+3089 Mechanicsville Turnpike, Richmond, VA 23223, USA*****37.567848,-77.400085
+5620 Hull Street Rd, Richmond, VA 23224, USA*****37.488652,-77.496994
+6409 Jahnke Rd, Richmond, VA 23225, USA*****37.518748,-77.514554
+6815 Forest Hill Ave, Richmond, VA 23225, USA*****37.537078,-77.520290
+5300 Chamberlayne Rd, Richmond, VA 23227, USA*****37.604623,-77.452449
+1288 Concord Ave, Henrico, VA 23228, USA*****37.635841,-77.462058
+9157 Staples Mill Rd, Richmond, VA 23228, USA*****37.641633,-77.514197
+8910 Quioccasin Rd, Richmond, VA 23229, USA*****37.606342,-77.569759
+5400 W Broad St, Richmond, VA 23230, USA*****37.587569,-77.499995
+2949 Williamsburg Rd, Richmond, VA 23231, USA*****37.516687,-77.375688
+2599 New Market Rd, Henrico, VA 23231, USA*****37.442817,-77.353202
+3081 Lauderdale Dr, Richmond, VA 23233, USA*****37.637813,-77.632044
+5702 Jefferson Davis Hwy, Richmond, VA 23234, USA*****37.444946,-77.443036
+4116 Meadowdale Blvd, Richmond, VA 23234, USA*****37.439122,-77.471362
+6425 Iron Bridge Pl, Richmond, VA 23234, USA*****37.427006,-77.491617
+8201 Hull Street Rd, North Chesterfield, VA 23235, USA*****37.459598,-77.543043
+8006 Buford Ct, Richmond, VA 23225, USA*****37.501275,-77.544477
+11272 Patterson Ave, Richmond, VA 23238, USA*****37.598900,-77.622020
+9035 W Broad St, Richmond, VA 23294, USA*****37.634470,-77.548935
+22485 Lankford Hwy, Cape Charles, VA 23310, USA*****37.269693,-75.972721
+13478 Carrollton Blvd, Carrollton, VA 23314, USA*****36.953160,-76.530612
+109 Gainsborough Square, Chesapeake, VA 23320, USA*****36.739847,-76.243839
+1745 Parkview Dr, Chesapeake, VA 23320, USA*****36.792608,-76.237728
+910 Great Bridge Blvd, Chesapeake, VA 23320, USA*****36.752527,-76.272120
+801 Volvo Pkwy, Chesapeake, VA 23320, USA*****36.767563,-76.228780
+2409 Taylor Rd, Chesapeake, VA 23321, USA*****36.825646,-76.408095
+3325 Taylor Rd, Chesapeake, VA 23321, USA*****36.845239,-76.425460
+415 Centerville Turnpike S, Chesapeake, VA 23322, USA*****36.713487,-76.183809
+717 S Battlefield Blvd, Chesapeake, VA 23322, USA*****36.701490,-76.233642
+1245 Cedar Rd, Chesapeake, VA 23322, USA*****36.714741,-76.283482
+2617 Moses Grandy Trail, Chesapeake, VA 23323, USA*****36.738859,-76.342840
+Atlantic Marketplace, 2048 Campostella Rd, Chesapeake, VA 23324, USA*****36.791706,-76.262163
+2048 Atlantic Ave, Chesapeake, VA 23324, USA*****36.791718,-76.262161
+2544 Bainbridge Blvd, Chesapeake, VA 23324, USA*****36.799576,-76.277780
+652 US-13, Windsor, NC 27983, USA*****36.047691,-76.964576
+7013 Lankford Hwy, Oak Hall, VA 23416, USA*****37.943640,-75.539124
+1941 S Church St, Smithfield, VA 23430, USA*****36.961996,-76.603813
+Suffolk, VA 23434, USA*****36.730588,-76.616596
+1524 Holland Rd, Suffolk, VA 23434, USA*****36.726306,-76.636420
+2815 Godwin Blvd, Suffolk, VA 23434, USA*****36.776249,-76.584402
+1226 White Marsh Rd, Suffolk, VA 23434, USA*****36.718971,-76.564460
+1010 Portsmouth Blvd, Suffolk, VA 23434, USA*****36.744087,-76.551909
+6550 Town Point Rd, Suffolk, VA 23435, USA*****36.862441,-76.439245
+3215 Bridge Rd, Suffolk, VA 23435, USA*****36.862634,-76.485046
+1077 Virginia Beach Blvd, Virginia Beach, VA 23451, USA*****36.840452,-75.994902
+4312 Holland Road #118, Virginia Beach, VA 23452, USA*****36.821897,-76.122564
+4392 Holland Road, Virginia Beach, VA 23452, USA*****36.821898,-76.122566
+3208 Holland Road, Virginia Beach, VA 23453, USA*****36.793392,-76.079951
+2352 Virginia Beach Blvd, Virginia Beach, VA 23454, USA*****36.843273,-76.050523
+1220 N Great Neck Rd, Virginia Beach, VA 23454, USA*****36.870978,-76.040557
+1940 Laskin Rd #304, Virginia Beach, VA 23454, USA*****36.849773,-76.035017
+PE 1 KOP, 1577 General Booth Blvd, Virginia Beach, VA 23454, USA*****36.787255,-76.000095
+748 Independence Blvd, Virginia Beach, VA 23455, USA*****36.864393,-76.130907
+5461 Wesleyan Dr, Virginia Beach, VA 23455, USA*****36.869670,-76.169885
+2005 Sandbridge Rd #100, Virginia Beach, VA 23456, USA*****36.750662,-76.009876
+391 Cape Henry Rd, Virginia Beach, VA 23459, USA*****36.926153,-76.006824
+5277 Princess Anne Rd, Virginia Beach, VA 23462, USA*****36.827249,-76.166939
+821 Tuition Ct, Virginia Beach, VA 23462, USA*****36.868830,-76.177049
+5242 Fairfield Shopping Centre, Virginia Beach, VA 23464, USA*****36.815203,-76.167543
+5020 Ferrell Pkwy, Virginia Beach, VA 23464, USA*****36.794541,-76.164788
+1920 Centerville Turnpike, Virginia Beach, VA 23464, USA*****36.779609,-76.190683
+4221 Pleasant Valley Rd, Virginia Beach, VA 23464, USA*****36.788614,-76.151654
+880 S. Military &, Indian River Rd, Virginia Beach, VA 23464, USA*****36.815520,-76.213624
+11435 Windsor Blvd, Windsor, VA 23487, USA*****36.804963,-76.725626
+Virginia Beach, VA 23452, USA*****36.821852,-76.122925
+7525 Tidewater Dr, Norfolk, VA 23505, USA*****36.914807,-76.256482
+3530 Tidewater Dr, Norfolk, VA 23509, USA*****36.885213,-76.259481
+620 E Virginia Beach Blvd, Norfolk, VA 23510, USA*****36.856703,-76.279761
+4253 E Little Creek Rd, Norfolk, VA 23518, USA*****36.916081,-76.193136
+1859 E Little Creek Rd, Norfolk, VA 23518, USA*****36.914310,-76.224300
+6206 N Military Hwy, Norfolk, VA 23518, USA*****36.896278,-76.223741
+10880 Warwick Blvd, Newport News, VA 23601, USA*****37.042297,-76.469594
+980 J Clyde Morris Blvd, Newport News, VA 23601, USA*****37.095698,-76.457843
+13276 Warwick Blvd, Newport News, VA 23602, USA*****37.113568,-76.517125
+123 Newmarket Square, Hampton, VA 23605, USA*****37.020520,-76.439407
+41 Hiden Blvd, Newport News, VA 23606, USA*****37.070767,-76.495080
+11712-0 Jefferson Ave, Newport News, VA 23606, USA*****37.080598,-76.476796
+12917 Jefferson Ave Ste K, Newport News, VA 23608, USA*****37.149877,-76.530478
+15435 Warwick Blvd, Newport News, VA 23608, USA*****37.150966,-76.554558
+467 Oriana Rd, Newport News, VA 23608, USA*****37.133448,-76.532727
+425 Wythe Creek Rd, Poquoson, VA 23662, USA*****37.123511,-76.393854
+425A Wythe Creek Rd, Poquoson, VA 23662, USA*****37.123156,-76.393965
+1164 Big Bethel Rd, Hampton, VA 23666, USA*****37.058453,-76.425034
+4047 W Mercury Blvd, Hampton, VA 23666, USA*****37.027379,-76.425055
+3855 Kecoughtan Rd, Hampton, VA 23669, USA*****37.012238,-76.354051
+21 W Mercury Blvd, Hampton, VA 23669, USA*****37.042331,-76.351609
+8100 George Washington Memorial Hwy, Yorktown, VA 23692, USA*****37.191531,-76.485840
+2900 Hampton Hwy, Yorktown, VA 23693, USA*****37.100900,-76.419502
+3535 Airline Blvd, Portsmouth, VA 23701, USA*****36.804287,-76.383039
+3539 Airline Blvd, Portsmouth, VA 23701, USA*****36.803733,-76.380640
+5606 Portsmouth Blvd, Portsmouth, VA 23701, USA*****36.820264,-76.378463
+3100 Airline Blvd, Portsmouth, VA 23701, USA*****36.809371,-76.372320
+5610 Portsmouth Blvd, Portsmouth, VA 23701, USA*****36.820535,-76.378847
+2012 Victory Blvd, Portsmouth, VA 23702, USA*****36.797586,-76.328553
+1907 Victory Blvd, Portsmouth, VA 23702, USA*****36.794070,-76.325845
+5734 Churchland Blvd, Portsmouth, VA 23703, USA*****36.862488,-76.390406
+1503 London Blvd, Portsmouth, VA 23704, USA*****36.836220,-76.317233
+Petersburg National Battlefield Visitor Center, 5001 Siege Rd, Prince George, VA 23875, USA*****37.243861,-77.356892
+4320 Westgate Dr, Petersburg, VA 23803, USA*****37.212685,-77.458545
+2100 S Crater Rd, Petersburg, VA 23805, USA*****37.201716,-77.380090
+2120 S Crater Rd, Petersburg, VA 23805, USA*****37.201011,-77.381339
+1521 S Main St, Blackstone, VA 23824, USA*****37.059581,-78.006606
+12140 Bermuda Crossroad Ln, Chester, VA 23831, USA*****37.360565,-77.416665
+9801 Chester Rd, Chester, VA 23831, USA*****37.384471,-77.450379
+6201 Belmont Rd, Chesterfield, VA 23832, USA*****37.453239,-77.511957
+7032 Commons Plaza, Chesterfield, VA 23832, USA*****37.374141,-77.510434
+7032 Commons Plaza, Chesterfield, VA 23832, USA*****37.374141,-77.510434
+15702 Jefferson Davis Hwy, Colonial Heights, VA 23834, USA*****37.310429,-77.410039
+11 Dunlop Village, Colonial Heights, VA 23834, USA*****37.266960,-77.397484
+28344 Southampton Pkwy, Courtland, VA 23837, USA*****36.686655,-77.025051
+13103 Boydton and Petersburg Plank Rd, Dinwiddie, VA 23841, USA*****37.091627,-77.571883
+6500 Enterprise Dr, Disputanta, VA 23842, USA*****37.162179,-77.289365
+216 Market Dr, Emporia, VA 23847, USA*****36.704639,-77.544118
+1328 Armory Dr, Franklin, VA 23851, USA*****36.671788,-76.947652
+116 Hicks St, Lawrenceville, VA 23868, USA*****36.757613,-77.847314
+1592 S Main St, Farmville, VA 23901, USA*****37.282582,-78.392577
+1113 N Main St, Chase City, VA 23924, USA*****36.811588,-78.463561
+1013 Virginia Ave, Clarksville, VA 23927, USA*****36.618446,-78.569102
+38 S Constitution Route, Dillwyn, VA 23936, USA*****37.544713,-78.475336
+Old Rte 15 Ln, 3, VA 23936, USA*****37.487038,-78.475960
+RR 3 Box 37, Keysville, VA 23947, USA*****37.040429,-78.483328
+1022 W Atlantic St, South Hill, VA 23970, USA*****36.733431,-78.144596
+715 E Atlantic St, South Hill, VA 23970, USA*****36.720280,-78.116264
+950 Main St, Victoria, VA 23974, USA*****36.987146,-78.219094
+2110 Bennington St SE, Roanoke, VA 24014, USA*****37.251583,-79.915335
+4350 Franklin Rd SW, Roanoke, VA 24014, USA*****37.221666,-79.966180
+2631 Peters Creek Rd, Roanoke, VA 24017, USA*****37.314008,-80.003074
+629 Peters Creek Rd, Roanoke, VA 24017, USA*****37.280060,-80.006591
+4933 Grandin Rd SW, Roanoke, VA 24018, USA*****37.246675,-80.030700
+6619 Williamson Rd, Roanoke, VA 24019, USA*****37.336490,-79.954331
+4812 Hollins Rd, Roanoke, VA 24019, USA*****37.322547,-79.934398
+5835 Virginia Ave, Bassett, VA 24055, USA*****36.748929,-79.939119
+1413 N Main St, Blacksburg, VA 24060, USA*****37.248036,-80.415115
+801 Hethwood Blvd, Blacksburg, VA 24060, USA*****37.216792,-80.455076
+1530 Roanoke St, Christiansburg, VA 24073, USA*****37.133905,-80.379336
+350 W Main St, Floyd, VA 24091, USA*****36.911623,-80.323661
+1101 Brookdale St, Martinsville, VA 24112, USA*****36.679532,-79.849019
+US-220, Martinsville, VA, USA*****36.671348,-79.930381
+220 Rives Rd, Martinsville, VA 24112, USA*****36.682701,-79.862140
+13340 Booker T Washington Hwy, Moneta, VA 24121, USA*****37.118287,-79.710449
+Moneta, VA 24121, USA*****37.182652,-79.619556
+850 Tanyard Rd, Rocky Mount, VA 24151, USA*****37.006331,-79.876394
+951 Fairystone Park Hwy, Stanleytown, VA 24168, USA*****36.738522,-79.953981
+221 Johnson St, Stuart, VA 24171, USA*****36.647483,-80.272263
+1641 Blue Ridge Blvd, Troutville, VA 24175, USA*****37.346893,-79.846393
+1952 E Washington Ave, Vinton, VA 24179, USA*****37.280822,-79.865559
+2012 Lee Hwy, Bristol, VA 24201, USA*****36.597484,-82.205496
+845 Village Blvd, Abingdon, VA 24210, USA*****36.707590,-81.999240
+US-23 & State Rte 614, 3, VA 24219, USA*****36.846247,-82.761047
+241 Gateway Plaza #104, Gate City, VA 24251, USA*****36.636417,-82.567864
+400 Henry St NW, Norton, VA 24273, USA*****36.938260,-82.633085
+16431 Wise St, St Paul, VA 24283, USA*****36.906857,-82.315492
+1200 E Main St, Pulaski, VA 24301, USA*****37.046495,-80.755131
+125 S Main St, Hillsville, VA 24343, USA*****36.762631,-80.732659
+945 N Main St #2, Marion, VA 24354, USA*****36.843654,-81.505720
+1155 N 4th St #200, Wytheville, VA 24382, USA*****36.955709,-81.095643
+1380 E Main St, Wytheville, VA 24382, USA*****36.951910,-81.066237
+2411 W Beverley St, Staunton, VA 24401, USA*****38.154884,-79.106602
+11 Orchard Hill Cir, Staunton, VA 24401, USA*****38.126114,-79.066368
+600 N Coalter St, Staunton, VA 24401, USA*****38.159878,-79.063270
+Staunton, VA 24402, USA*****38.149982,-79.069990
+2150 E Midland Trail, Buena Vista, VA 24416, USA*****37.742455,-79.379025
+1005 S Craig Ave, Covington, VA 24426, USA*****37.782018,-79.989968
+83 Augusta Ave, Grottoes, VA 24441, USA*****38.255748,-78.823576
+84 E Midland Trail, Lexington, VA 24450, USA*****37.774223,-79.435013
+Verona, VA 24482, USA*****38.209621,-79.007995
+13955 Wards Rd, Lynchburg, VA 24501, USA*****37.318314,-79.187213
+2225 Florida Ave, Lynchburg, VA 24501, USA*****37.382274,-79.134480
+2909 Memorial Ave, Lynchburg, VA 24501, USA*****37.398963,-79.170461
+21039 Timberlake Rd, Lynchburg, VA 24502, USA*****37.335284,-79.244322
+4925 Boonsboro Rd, Lynchburg, VA 24503, USA*****37.446722,-79.218952
+2303 Bedford Ave, Lynchburg, VA 24503, USA*****37.433928,-79.166934
+1301 Main St, Altavista, VA 24517, USA*****37.121250,-79.272552
+1102 Washington St, Amherst, VA 24521, USA*****37.583956,-79.048350
+Appomattox, VA 24522, USA*****37.357089,-78.825291
+425 Lusardi Dr, Brookneal, VA 24528, USA*****37.043628,-78.944292
+13701 US-29 Ste G, Chatham, VA 24531, USA*****36.789894,-79.395124
+703 Piney Forest Rd, Danville, VA 24540, USA*****36.611261,-79.406998
+540 Westover Dr, Danville, VA 24541, USA*****36.587563,-79.433995
+607 W Main St, Danville, VA 24541, USA*****36.571506,-79.417727
+US-221 & Graves Mill Rd, Forest, VA 24551, USA*****37.378623,-79.248230
+1208 Perrowville Rd, Forest, VA 24551, USA*****37.372527,-79.304126
+100 Vaden Dr, Gretna, VA 24557, USA*****36.949211,-79.363540
+111 Seminole Dr, Madison Heights, VA 24572, USA*****37.439701,-79.118688
+192 Amelon Square, Madison Heights, VA 24572, USA*****37.468085,-79.117125
+923 Village Hwy, Rustburg, VA 24588, USA*****37.277474,-79.098992
+Corner Highway 58 & 501, South Boston, VA 24592, USA*****36.687986,-78.899675
+US-501, South Boston, VA, USA*****36.698649,-78.901682
+620 Market St, North Tazewell, VA 24630, USA*****37.134402,-81.490996
+124 Kents Ridge Rd, Richlands, VA 24641, USA*****37.092932,-81.806466
+515 College Ave, Bluefield, WV 24701, USA*****37.254252,-81.222093
+1140 Winchester Ave, Martinsburg, WV 25405, USA*****39.439744,-77.980824
+1317 Old, Courthouse Dr, Martinsburg, WV 25404, USA*****39.477882,-77.956617
+96 Somerset Blvd, Charles Town, WV 25414, USA*****39.296246,-77.828777
+4803 Gerrardstown Rd, Inwood, WV 25428, USA*****39.363351,-78.043368
+50 Coast Guard Dr, Kearneysville, WV 25430, USA*****39.399103,-77.908979
+1018 N Eisenhower Dr, Beckley, WV 25801, USA*****37.799566,-81.175353
+WV-16, McAlpin, WV 25921, USA*****37.711633,-81.250620
+553 Route 20 South Road, Buckhannon, WV 26201, USA*****38.971470,-80.231014
+US-19 & Davisson Run Rd, Clarksburg, WV 26301, USA*****39.268550,-80.372812
+600 Buckhannon Pike, Nutter Fort, WV 26301, USA*****39.261898,-80.326968
+308 Marion Square, Fairmont, WV 26554, USA*****39.474940,-80.176957
+1005 N Industrial Dr, Summersville, WV 26651, USA*****38.306955,-80.830340

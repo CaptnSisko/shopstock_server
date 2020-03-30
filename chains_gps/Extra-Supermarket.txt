@@ -1,0 +1,13 @@
+12890 SW 8th St, Miami, FL 33184, USA*****25.760196,-80.405439
+218 Dayton Ave, Clifton, NJ 07011, USA*****40.875273,-74.122253
+563 Central Ave, East Orange, NJ 07018, USA*****40.760462,-74.223374
+719 Irvington Ave, Maplewood, NJ 07040, USA*****40.731883,-74.244277
+5505 Palisade Ave, West New York, NJ 07093, USA*****40.785066,-74.016654
+125 Avon Ave, Newark, NJ 07108, USA*****40.724649,-74.194912
+327 Lyons Ave, Newark, NJ 07112, USA*****40.712496,-74.218334
+360 Martin Luther King Dr., Jersey City, NJ 07305, USA*****40.710543,-74.076918
+333 Suydam St, New Brunswick, NJ 08901, USA*****40.492168,-74.452059
+602 W 185th St, New York, NY 10033, USA*****40.851743,-73.932448
+9 NY-23, Claverack, NY 12513, USA*****42.222951,-73.734312
+NY-9H & NY-23B, Claverack-Red Mills, NY 12534, USA*****42.222444,-73.734962
+2214 NY-208, Montgomery, NY 12549, USA*****41.525134,-74.200469

@@ -1,0 +1,45 @@
+502 N 51st St #122, Phoenix, AZ 85008, USA*****33.453651,-111.972743
+3121 E Washington St, Phoenix, AZ 85034, USA*****33.447666,-112.014382
+3145 E Washington St, Phoenix, AZ 85034, USA*****33.447673,-112.013451
+5860 S Ash Ave, Tempe, AZ 85283, USA*****33.369595,-111.942841
+10199 W Van Buren St, Tolleson, AZ 85353, USA*****33.449814,-112.278452
+2949 E Elvira Rd #181, Tucson, AZ 85756, USA*****32.128174,-110.928962
+5505 E Olympic Blvd, Commerce, CA 90022, USA*****34.016012,-118.153045
+7418 Carnelian St, Rancho Cucamonga, CA 91730, USA*****34.119411,-117.616416
+11559 Jersey Blvd, Rancho Cucamonga, CA 91730, USA*****34.094185,-117.553176
+3142 Triumph Ln, Ontario, CA 91764, USA*****34.070874,-117.583175
+200 N Lemon St, Anaheim, CA 92805, USA*****33.836839,-117.915910
+4476 Dupont Ct Ste C, Ventura, CA 93003, USA*****34.251857,-119.233123
+2210 Wankel Way, Oxnard, CA 93030, USA*****34.216537,-119.148650
+2351 Latigo Ave, Oxnard, CA 93030, USA*****34.211698,-119.144788
+7940 W Doe Ave, Visalia, CA 93291, USA*****36.347551,-119.377115
+3451 Unicorn Rd #100, Bakersfield, CA 93308, USA*****35.437659,-119.073720
+1149 Madison Ln, Salinas, CA 93907, USA*****36.694166,-121.678706
+5159 Commercial Cir Ste J, Concord, CA 94520, USA*****38.017327,-122.027717
+23415 Cabot Blvd, Hayward, CA 94545, USA*****37.640664,-122.136242
+2295 Ringwood Ave, San Jose, CA 95131, USA*****37.401991,-121.899928
+410 E Trimble Rd, San Jose, CA 95131, USA*****37.390148,-121.921064
+1878 Industrial Dr, Stockton, CA 95206, USA*****37.910966,-121.249190
+3665 Mary Ave, Stockton, CA 95206, USA*****37.910929,-121.279557
+3000 Commerce Way, Turlock, CA 95380, USA*****37.485676,-120.883536
+3100 Commerce Way, Turlock, CA 95380, USA*****37.485593,-120.884478
+12280 Shale Ridge Rd, Auburn, CA 95602, USA*****38.952678,-121.091458
+4661 Pell Dr #7, Sacramento, CA 95838, USA*****38.653253,-121.472665
+14800 E 35th Pl #500, Aurora, CO 80011, USA*****39.766711,-104.815458
+E 58th Pl, Aurora, CO 80019, USA*****39.802316,-104.759074
+220 W Colorado Ave, Colorado Springs, CO 80903, USA*****38.833635,-104.829639
+600 Old Smelter Rd, Pueblo, CO 81003, USA*****38.261500,-104.601162
+2110 Santa Fe Dr, Pueblo, CO 81006, USA*****38.245261,-104.572674
+925 Athena Dr, Athens, GA 30601, USA*****33.971335,-83.313883
+1501 NE Broadway Ave, Des Moines, IA 50313, USA*****41.643473,-93.596853
+1414 S Sabin St, Wichita, KS 67209, USA*****37.669003,-97.394726
+1565 1st Ave NW, New Brighton, MN 55112, USA*****45.074958,-93.186951
+1339 Norwood Hills Dr, O'Fallon, MO 63366, USA*****38.785712,-90.726270
+94 Walton St, Brooklyn, NY 11206, USA*****40.702502,-73.948427
+470 Shoemaker Rd, King of Prussia, PA 19406, USA*****40.082541,-75.350737
+1140 International Pkwy, Richardson, TX 75081, USA*****32.961784,-96.709554
+8563 N North Loop Rd, San Antonio, TX 78216, USA*****29.552650,-98.488284
+3758 Wow Rd, Corpus Christi, TX 78413, USA*****27.697684,-97.418512
+320 S Utah Ave, Weslaco, TX 78596, USA*****26.158096,-97.978773
+9204 Brown Ln, Austin, TX 78754, USA*****30.348498,-97.672318
+533 Byron St, Chesapeake, VA 23320, USA*****36.757123,-76.261514

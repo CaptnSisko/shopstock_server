@@ -1,0 +1,14 @@
+1224 Main St, Concord, MA 01742, USA*****42.456903,-71.392295
+289 Montvale Ave, Woburn, MA 01801, USA*****42.479297,-71.122431
+7 Austin Square, Lynn, MA 01905, USA*****42.462077,-70.982735
+32 Hamilton St, Saugus, MA 01906, USA*****42.465619,-71.006828
+444 Humphrey St, Swampscott, MA 01907, USA*****42.468086,-70.908749
+13 1/2 Pond St, Newburyport, MA 01950, USA*****42.806744,-70.873589
+73 Storey Ave, Newburyport, MA 01950, USA*****42.819703,-70.908912
+20 W Central St #508, Franklin, MA 02038, USA*****42.082160,-71.398163
+250 Cambridge St #3, Boston, MA 02114, USA*****42.361018,-71.067434
+120 Byron St, Boston, MA 02128, USA*****42.383908,-71.016207
+205 Maverick St, Boston, MA 02128, USA*****42.368718,-71.036266
+43 Revere St, Winthrop, MA 02152, USA*****42.381979,-70.980732
+11 Brighton St, Belmont, MA 02478, USA*****42.395132,-71.158202
+2 Amherst Rd, Merrimack, NH 03054, USA*****42.840128,-71.496304

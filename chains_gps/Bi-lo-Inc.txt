@@ -1,0 +1,29 @@
+1220 Holtville Rd, Wetumpka, AL 36092, USA*****32.552681,-86.213735
+251 Mary Esther Blvd B8, Mary Esther, FL 32569, USA*****30.414866,-86.653609
+1104 E John Sims Pkwy, Niceville, FL 32578, USA*****30.517408,-86.467456
+501 W 1st St, Vidalia, GA 30474, USA*****32.220479,-82.419243
+Crimson Ln, Georgia 30738, USA*****34.758514,-85.530755
+531 Battlefield Pkwy, Fort Oglethorpe, GA 30742, USA*****34.955574,-85.256562
+1873 Battlefield Pkwy, Fort Oglethorpe, GA 30742, USA*****34.949595,-85.233333
+36 Trion Rd Spur, Trion, GA 30753, USA*****34.594313,-85.284052
+207 N Lewis St, New Iberia, LA 70563, USA*****30.002593,-91.799425
+1642 Dickerson Blvd, Monroe, NC 28110, USA*****35.000936,-80.566673
+1620 E Roosevelt Blvd, Monroe, NC 28112, USA*****34.972570,-80.512761
+4430 The Plaza, Charlotte, NC 28215, USA*****35.248641,-80.779718
+2607 Hendersonville Rd, Arden, NC 28704, USA*****35.448364,-82.509713
+511 Smokey Park Hwy, Candler, NC 28715, USA*****35.552558,-82.643874
+Carrolltown, PA, USA*****40.602846,-78.708635
+100 N Main St, DuBois, PA 15801, USA*****41.123863,-78.766571
+1305 E Main St, Clarion, PA 16214, USA*****41.208810,-79.369655
+806 Church St, Hollidaysburg, PA 16648, USA*****40.429970,-78.387237
+1001 Old River Rd, Camden, SC 29020, USA*****34.244639,-80.616243
+975 Bacons Bridge Rd #134, Summerville, SC 29485, USA*****32.995980,-80.184106
+1 Independence Point, Greenville, SC 29615, USA*****34.836959,-82.299313
+1706 E Greenville St, Anderson, SC 29621, USA*****34.535926,-82.629183
+1321 S Suber Rd, Greer, SC 29650, USA*****34.901660,-82.257172
+2375 Cherry Rd, Rock Hill, SC 29732, USA*****34.969930,-80.995543
+2127 Boundary St #19, Beaufort, SC 29902, USA*****32.443038,-80.691783
+835 Smithville Hwy, McMinnville, TN 37110, USA*****35.695897,-85.781001
+5414 Hixson Pike, Hixson, TN 37343, USA*****35.141387,-85.229628
+3600 Hixson Pike, Chattanooga, TN 37415, USA*****35.106218,-85.271115
+3715 Cuscowilla Trail, Chattanooga, TN 37415, USA*****35.111130,-85.277219

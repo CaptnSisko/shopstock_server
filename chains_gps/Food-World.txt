@@ -1,0 +1,10 @@
+1005 Crossroads Plaza Dr, Moody, AL 35004, USA*****33.592445,-86.495909
+790 N Brindlee Mountain Pkwy, Arab, AL 35016, USA*****34.328333,-86.501944
+641 Bear Creek Rd, Tuscaloosa, AL 35405, USA*****33.144647,-87.546230
+3100 E Meighan Blvd, Gadsden, AL 35903, USA*****33.973637,-85.949251
+1860 E Main St, Prattville, AL 36066, USA*****32.460508,-86.420438
+112 Saraland Loop, Saraland, AL 36571, USA*****30.824905,-88.074841
+9400 US-60, Kevil, KY 42053, USA*****37.066741,-88.802781
+5686 Mosholu Ave, The Bronx, NY 10471, USA*****40.905288,-73.901099
+549 Greens Rd, Houston, TX 77060, USA*****29.951336,-95.400909
+1179 Navajo St, Salt Lake City, UT 84104, USA*****40.742860,-111.929054

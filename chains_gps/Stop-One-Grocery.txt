@@ -1,0 +1,8 @@
+352 Walnut St, Waterbury, CT 06704, USA*****41.561309,-73.026000
+711 E 2nd St, Plainfield, NJ 07062, USA*****40.627559,-74.413787
+361 S Orange Ave, Newark, NJ 07103, USA*****40.740310,-74.200392
+243 Stuyvesant Ave, Newark, NJ 07106, USA*****40.738075,-74.231941
+1301 Kaighn Ave, Camden, NJ 08103, USA*****39.932268,-75.102559
+543 E 183rd St, The Bronx, NY 10458, USA*****40.854510,-73.891306
+12822 Liberty Ave, South Richmond Hill, NY 11419, USA*****40.689020,-73.816261
+270 Jerusalem Ave, Hempstead, NY 11550, USA*****40.702258,-73.607801

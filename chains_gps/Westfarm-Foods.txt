@@ -1,0 +1,6 @@
+170 Barnard Ave, San Jose, CA 95125, USA*****37.308954,-121.871339
+1703 S Buchanan St, Jerome, ID 83338, USA*****42.708130,-114.516181
+2720 SE 6th Ave, Portland, OR 97202, USA*****45.503173,-122.659147
+4058 Rainier Ave S, Seattle, WA 98118, USA*****47.566873,-122.288438
+635 Elliott Ave W, Seattle, WA 98119, USA*****47.625160,-122.367330
+1130 Rainier Ave S, Seattle, WA 98144, USA*****47.592852,-122.308752

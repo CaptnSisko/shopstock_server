@@ -1,0 +1,14 @@
+3348 E 14th St, Los Angeles, CA 90023, USA*****34.016996,-118.207293
+527 Sunrise Ave, Madera, CA 93638, USA*****36.960155,-120.048694
+2600 Jensen Ave, Sanger, CA 93657, USA*****36.707142,-119.574676
+835 Edgewood Ave S, Jacksonville, FL 32205, USA*****30.314168,-81.719787
+16644 W Chicago, Detroit, MI 48228, USA*****42.365411,-83.210225
+4650 44th St SE, Grand Rapids, MI 49512, USA*****42.883476,-85.550216
+154 Maple Ave, South Plainfield, NJ 07080, USA*****40.581775,-74.412750
+916 Floyd Ave, Rome, NY 13440, USA*****43.217226,-75.437659
+10881 US-11, Adams, NY 13605, USA*****43.826028,-76.021103
+3120 Valleyview Dr, Columbus, OH 43204, USA*****39.963199,-83.085449
+929 Federal Rd, Houston, TX 77015, USA*****29.773469,-95.215392
+1301 S Staples St, Corpus Christi, TX 78404, USA*****27.778651,-97.401871
+8929 Agnes St, Corpus Christi, TX 78406, USA*****27.784282,-97.538983
+2879 W Wells St, Milwaukee, WI 53208, USA*****43.040281,-87.950469

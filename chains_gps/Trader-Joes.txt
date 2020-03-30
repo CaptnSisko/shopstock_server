@@ -1,0 +1,39 @@
+3456 S Sepulveda Blvd, Los Angeles, CA 90034, USA*****34.020480,-118.422106
+3212 Pico Blvd, Santa Monica, CA 90405, USA*****34.026355,-118.455765
+6451 Pacific Coast Hwy, Long Beach, CA 90803, USA*****33.757662,-118.108930
+3845 Thousand Oaks Blvd, Thousand Oaks, CA 91362, USA*****34.163850,-118.825846
+6225 Riverside Ave, Riverside, CA 92506, USA*****33.955946,-117.388500
+21431 Brookhurst St, Huntington Beach, CA 92646, USA*****33.651845,-117.954128
+1751 S Victoria Ave, Ventura, CA 93003, USA*****34.257896,-119.210978
+99 Danville Oak Pl, Danville, CA 94526, USA*****37.827298,-122.006794
+113 Mill Plain Rd, Danbury, CT 06811, USA*****41.392700,-73.521741
+440 Post Rd, Darien, CT 06820, USA*****41.084405,-73.461678
+2258 Black Rock Turnpike, Fairfield, CT 06825, USA*****41.183139,-73.253173
+400 Post Rd E, Westport, CT 06880, USA*****41.139841,-73.351942
+77 Boston Turnpike, Shrewsbury, MA 01545, USA*****42.275346,-71.751220
+659 Worcester Rd #4, Framingham, MA 01701, USA*****42.299117,-71.425230
+419 Paradise Rd, Swampscott, MA 01907, USA*****42.481002,-70.901886
+300 Andover St, Peabody, MA 01960, USA*****42.549474,-70.956214
+899 Boylston St, Boston, MA 02115, USA*****42.348457,-71.084086
+727 Memorial Dr, Cambridge, MA 02139, USA*****42.357296,-71.113619
+1401 Washington St, Hanover, MA 02339, USA*****42.144676,-70.844001
+1309 Beacon St, Brookline, MA 02446, USA*****42.342017,-71.120459
+117 Kendrick St, Needham, MA 02494, USA*****42.297062,-71.212987
+27880 Woodward Ave, Royal Oak, MI 48067, USA*****42.495407,-83.163686
+31221 W 14 Mile Rd, Farmington Hills, MI 48334, USA*****42.527681,-83.358652
+1679 Clarkson Rd, Chesterfield, MO 63017, USA*****38.644897,-90.566556
+2716 N Green Valley Pkwy, Henderson, NV 89014, USA*****36.069580,-115.081119
+2101 S Decatur Blvd Ste S, Las Vegas, NV 89102, USA*****36.148735,-115.209943
+7575 W Washington Ave, Las Vegas, NV 89128, USA*****36.180590,-115.257869
+215 N Central Ave, Hartsdale, NY 10530, USA*****41.025545,-73.793473
+1260 W Boston Post Rd, Larchmont, NY 10538, USA*****40.938364,-73.746453
+727 Post Rd, Scarsdale, NY 10583, USA*****40.979423,-73.801251
+130 Court St, Brooklyn, NY 11201, USA*****40.689584,-73.992870
+1280 W Broadway, Hewlett, NY 11557, USA*****40.639202,-73.701720
+1940 Merrick Ave, Merrick, NY 11566, USA*****40.670865,-73.555571
+233 Merrick Ave, Merrick, NY 11566, USA*****40.670831,-73.555341
+3418 Long Beach Rd, Oceanside, NY 11572, USA*****40.626813,-73.641102
+5010 Jericho Turnpike, Commack, NY 11725, USA*****40.840182,-73.312146
+139 Alexander Ave, Lake Grove, NY 11755, USA*****40.866393,-73.132840
+54 E Main St, Pawling, NY 12564, USA*****41.560992,-73.597955
+6355 Sawmill Rd, Dublin, OH 43017, USA*****40.096504,-83.093089

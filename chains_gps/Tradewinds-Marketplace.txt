@@ -1,0 +1,3 @@
+689 Main St, Bangor, ME 04401, USA*****44.783241,-68.781013
+689 Main St, Corinth, ME 04427, USA*****44.983114,-69.003557
+South St, Blue Hill, ME 04614, USA*****44.393244,-68.584144

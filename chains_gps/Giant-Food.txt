@@ -1,0 +1,93 @@
+4303 Connecticut Ave NW, Washington, DC 20008, USA*****38.944579,-77.063154
+1345 Park Rd NW, Washington, DC 20010, USA*****38.930713,-77.031731
+1535 Alabama Ave SE, Washington, DC 20032, USA*****38.844913,-76.980958
+300 Eden Cir, Bear, DE 19701, USA*****39.632716,-75.654721
+DE-299, Middletown, DE, USA*****39.449714,-75.716332
+4301 Concord Pike, Wilmington, DE 19803, USA*****39.813913,-75.547230
+220 Town Center Dr, Millville, DE 19967, USA*****38.545446,-75.106968
+Rehoboth Beach, DE, USA*****38.720945,-75.076014
+3297 Crain Hwy, Waldorf, MD 20603, USA*****38.623201,-76.917039
+7025 Berry Rd, Accokeek, MD 20607, USA*****38.660192,-77.017043
+11740 Rousby Hall Rd, Lusby, MD 20657, USA*****38.374326,-76.442299
+10501 Greenbelt Rd, Lanham, MD 20706, USA*****38.988565,-76.823032
+1009 Fairlawn Ave, Laurel, MD 20707, USA*****39.096758,-76.855799
+8899 Woodyard Rd, Clinton, MD 20735, USA*****38.772661,-76.883853
+7074 Allentown Rd, Camp Springs, MD 20748, USA*****38.792298,-76.926404
+4119 Branch Ave, Marlow Heights, MD 20748, USA*****38.832425,-76.944411
+5700 Crain Hwy, Upper Marlboro, MD 20772, USA*****38.811638,-76.737344
+5815 Eastern Ave NE, Hyattsville, MD 20782, USA*****38.961416,-76.994997
+5463 Wisconsin Ave, Bethesda, MD 20815, USA*****38.962233,-77.084601
+17821 Georgia Ave, Olney, MD 20832, USA*****39.149378,-77.064919
+625 Hungerford Dr, Rockville, MD 20850, USA*****39.092556,-77.151932
+9719 Traville Gateway Dr, Rockville, MD 20850, USA*****39.091176,-77.203149
+16837 Crabbs Branch Way, Derwood, MD 20855, USA*****39.131117,-77.168025
+19721 Frederick Rd, Germantown, MD 20876, USA*****39.178906,-77.237013
+20944 Frederick Rd, Germantown, MD 20876, USA*****39.203254,-77.246802
+229 Kentlands Blvd, Gaithersburg, MD 20878, USA*****39.125561,-77.238540
+18250 Flower Hill Way, Gaithersburg, MD 20879, USA*****39.155063,-77.165951
+20044 Goshen Rd, Gaithersburg, MD 20879, USA*****39.187266,-77.188138
+19227 Watkins Mill Rd, Montgomery Village, MD 20886, USA*****39.171509,-77.206181
+2900 University Blvd W, Kensington, MD 20895, USA*****39.037491,-77.058626
+13490 New Hampshire Ave, Colesville, MD 20904, USA*****39.077106,-77.003636
+2211 Bel Pre Rd, Silver Spring, MD 20906, USA*****39.091594,-77.047422
+1280 E W Hwy, Silver Spring, MD 20910, USA*****38.991989,-77.031529
+9200 Baltimore National Pike, Ellicott City, MD 21042, USA*****39.280174,-76.830111
+7200 Cradlerock Way, Columbia, MD 21045, USA*****39.186442,-76.842996
+8805 Centre Park Dr, Columbia, MD 21045, USA*****39.227947,-76.817133
+7383 Baltimore Annapolis Blvd, Glen Burnie, MD 21061, USA*****39.172866,-76.630621
+6626 Ritchie Hwy, Glen Burnie, MD 21061, USA*****39.197394,-76.615983
+7940 Crain Hwy S, Glen Burnie, MD 21061, USA*****39.133472,-76.636627
+9934 Reisterstown Rd, Owings Mills, MD 21117, USA*****39.409948,-76.769269
+9730 Groffs Mill Dr, Owings Mills, MD 21117, USA*****39.406357,-76.810644
+711 W 40th St, Baltimore, MD 21211, USA*****39.336279,-76.630258
+6620 Reisterstown Rd, Baltimore, MD 21215, USA*****39.355656,-76.707226
+7944 Honeygo Blvd, Nottingham, MD 21236, USA*****39.373555,-76.472134
+8665 Philadelphia Rd, Rosedale, MD 21237, USA*****39.337488,-76.484955
+3602 Milford Mill Rd, Windsor Mill, MD 21244, USA*****39.354854,-76.758767
+8100 Loch Raven Blvd, Towson, MD 21286, USA*****39.387121,-76.576908
+948 Bay Ridge Rd, Annapolis, MD 21403, USA*****38.948608,-76.486605
+8223 Elliott Rd, Easton, MD 21601, USA*****38.774340,-76.055848
+1700 Kingfisher Dr, Frederick, MD 21701, USA*****39.447883,-77.384117
+5316 New Design Rd, Frederick, MD 21701, USA*****39.381016,-77.422683
+3530 Sugarloaf Pkwy, Frederick, MD 21704, USA*****39.330757,-77.352093
+751 S Salisbury Blvd, Salisbury, MD 21801, USA*****38.354824,-75.599257
+Historic District, 10100 Dumfries Rd, Manassas, VA 20110, USA*****38.737824,-77.474881
+5740 Union Mill Rd, Clifton, VA 20124, USA*****38.834451,-77.413806
+1000 E Main St, Purcellville, VA 20132, USA*****39.135452,-77.700314
+43670 Greenway Corporate Dr, Ashburn, VA 20147, USA*****39.009421,-77.491537
+43330 Junction Plaza, Ashburn, VA 20147, USA*****39.035029,-77.500833
+7575 Linton Hall Rd, Gainesville, VA 20155, USA*****38.793130,-77.608324
+5581 Merchants View Sq, Haymarket, VA 20169, USA*****38.844461,-77.641576
+1228 Elden St, Herndon, VA 20170, USA*****38.962703,-77.400536
+2551 John Milton Dr, Herndon, VA 20171, USA*****38.926720,-77.374970
+635 Potomac Station Dr, Leesburg, VA 20176, USA*****39.098431,-77.527013
+6980 Braddock Rd, Annandale, VA 22003, USA*****38.813375,-77.185810
+7137 Columbia Pike, Annandale, VA 22003, USA*****38.830526,-77.192068
+6011 Burke Centre Pkwy, Burke, VA 22015, USA*****38.787257,-77.297805
+9550 Burke Rd, Burke, VA 22015, USA*****38.795576,-77.272034
+10653 Braddock Rd, Fairfax, VA 22032, USA*****38.825004,-77.315482
+13043 Lee Jackson Memorial Hwy, Fairfax, VA 22033, USA*****38.879725,-77.400420
+3480 S Jefferson St, Falls Church, VA 22041, USA*****38.849880,-77.118853
+1230 W Broad St, Falls Church, VA 22046, USA*****38.894887,-77.188850
+8941 Ox Rd, Lorton, VA 22079, USA*****38.715524,-77.262395
+1454 Chain Bridge Rd, McLean, VA 22101, USA*****38.932845,-77.180447
+2932 Chain Bridge Rd, Oakton, VA 22124, USA*****38.883966,-77.300152
+8320 Old Keene Mill Rd, West Springfield, VA 22152, USA*****38.780824,-77.232432
+7501 Huntsman Blvd, Springfield, VA 22153, USA*****38.751876,-77.263953
+8074 Rolling Rd, Springfield, VA 22153, USA*****38.740421,-77.212761
+12445 Hedges Run Dr, Lake Ridge, VA 22192, USA*****38.686059,-77.311352
+N Adams St, Arlington, VA 22201, USA*****38.893248,-77.088142
+3450 Washington Blvd, Arlington, VA 22201, USA*****38.885609,-77.102940
+2901-11 S Glebe Rd, Arlington, VA 22206, USA*****38.845728,-77.068722
+425 E Monroe Ave, Alexandria, VA 22301, USA*****38.820621,-77.053478
+3680 King St, Alexandria, VA 22302, USA*****38.828919,-77.092734
+5730 Edsall Rd, Alexandria, VA 22304, USA*****38.806960,-77.131798
+6800 Richmond Hwy, Alexandria, VA 22306, USA*****38.770805,-77.083877
+3131 Duke St, Alexandria, VA 22314, USA*****38.809050,-77.084327
+530 First St, Alexandria, VA 22314, USA*****38.814995,-77.043211
+1245 Jefferson Davis Hwy, Fredericksburg, VA 22401, USA*****38.306782,-77.481938
+35 Town and Country Dr, Fredericksburg, VA 22405, USA*****38.308938,-77.427704
+3501 Plank Rd, Fredericksburg, VA 22407, USA*****38.295173,-77.520291
+10346 Courthouse Rd, Spotsylvania Courthouse, VA 22553, USA*****38.245270,-77.529159
+220 Zan Rd, Charlottesville, VA 22901, USA*****38.062787,-78.486577
+1900 Abbey Rd, Charlottesville, VA 22911, USA*****38.029499,-78.446241

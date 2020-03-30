@@ -1,0 +1,3 @@
+123 North St, Middletown, NY 10940, USA*****41.448959,-74.418075
+148 North St, Middletown, NY 10940, USA*****41.449875,-74.417873
+94 William St, Newburgh, NY 12550, USA*****41.496292,-74.016400

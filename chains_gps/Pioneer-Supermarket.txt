@@ -1,0 +1,27 @@
+71 Mt Vernon Pl, Newark, NJ 07106, USA*****40.736603,-74.240355
+320 Martin Luther King Dr., Jersey City, NJ 07305, USA*****40.709785,-74.079837
+179 E Houston St, New York, NY 10002, USA*****40.722585,-73.988275
+7 Avenue D, New York, NY 10009, USA*****40.720400,-73.978774
+289 Columbus Ave, New York, NY 10023, USA*****40.778373,-73.977613
+2407 Broadway, New York, NY 10024, USA*****40.789963,-73.975539
+2076 1st Avenue, New York, NY 10029, USA*****40.790456,-73.938989
+1407 Lexington Ave, New York, NY 10128, USA*****40.783360,-73.952468
+2262 Jerome Ave, The Bronx, NY 10453, USA*****40.858293,-73.903557
+256 St Ann's Ave, The Bronx, NY 10454, USA*****40.807226,-73.916956
+1869 Archer St, The Bronx, NY 10460, USA*****40.837894,-73.864233
+1345 Castle Hill Ave, The Bronx, NY 10462, USA*****40.835245,-73.852290
+777 Morris Park Ave, The Bronx, NY 10462, USA*****40.845978,-73.863234
+694 Burke Ave, The Bronx, NY 10467, USA*****40.871183,-73.867727
+2711 White Plains Rd, The Bronx, NY 10467, USA*****40.866065,-73.867681
+445 Dekalb Ave, Brooklyn, NY 11205, USA*****40.690638,-73.959684
+381 Mother Gaston Blvd, Brooklyn, NY 11212, USA*****40.669681,-73.906496
+5612 5th Ave, Brooklyn, NY 11220, USA*****40.641580,-74.014259
+822 Franklin Ave, Brooklyn, NY 11225, USA*****40.669682,-73.958484
+395 Court St, Brooklyn, NY 11231, USA*****40.679810,-73.996891
+51-55 Van Kleeck St #2g, Flushing, NY 11373, USA*****40.735874,-73.881798
+9002 43rd Avenue, Queens, NY 11373, USA*****40.742739,-73.875506
+99-01 63rd Rd, Flushing, NY 11374, USA*****40.732840,-73.856834
+66-17 Grand Ave, Flushing, NY 11378, USA*****40.724722,-73.898371
+84-12 97th Ave, Jamaica, NY 11416, USA*****40.683143,-73.855782
+175-35 Hillside Avenue, Jamaica, NY 11432, USA*****40.712274,-73.786717
+633 Lancaster Ave, Reading, PA 19611, USA*****40.318010,-75.937841

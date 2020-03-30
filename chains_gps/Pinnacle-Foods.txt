@@ -1,0 +1,13 @@
+1155 Government St, Mobile, AL 36604, USA*****30.683143,-88.062468
+525 S School Ave, Fayetteville, AR 72701, USA*****36.057235,-94.165414
+1100 W 15th St, Fayetteville, AR 72701, USA*****36.049740,-94.177295
+4156 N Valley Lake Dr #12, Fayetteville, AR 72703, USA*****36.126303,-94.121559
+2700 SE Otis Corley, Bentonville, AR 72712, USA*****36.345581,-94.193541
+6 N Executive Hanger Rd, Rogers, AR 72756, USA*****36.368104,-94.104013
+311 W Sunset Ave, Springdale, AR 72764, USA*****36.173791,-94.134264
+2005 E Technology Cir, Tempe, AZ 85284, USA*****33.343610,-111.901464
+2467 Henry Ladyn Dr, Montrose, IA 52639, USA*****40.576083,-91.437591
+3865 Imlay City Rd, Attica, MI 48412, USA*****43.046667,-83.191430
+11329 P St, Omaha, NE 68137, USA*****41.205867,-96.089889
+1 Bloomfield Ave, Mountain Lakes, NJ 07054, USA*****40.875842,-74.435125
+2370 NJ-70, Cherry Hill, NJ 08002, USA*****39.928951,-75.053212

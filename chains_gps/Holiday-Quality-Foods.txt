@@ -1,0 +1,19 @@
+10935 Combie Rd, Auburn, CA 95602, USA*****39.040573,-121.078921
+5030 Ellinghouse Dr, Cool, CA 95614, USA*****38.885970,-121.014599
+4653 Mt Aukum Rd, Placerville, CA 95667, USA*****38.682227,-120.661781
+16981 Placer Hills Rd, Meadow Vista, CA 95722, USA*****39.000439,-121.022468
+1017 Bridge St, Colusa, CA 95932, USA*****39.204302,-122.002612
+11324 Pleasant Valley Rd, Penn Valley, CA 95946, USA*****39.223878,-121.203953
+14001 Lakeridge Cir, Magalia, CA 95954, USA*****39.815347,-121.590600
+6848 Skyway Rd, Paradise, CA 95969, USA*****39.763340,-121.619923
+6536 Westside Rd, Redding, CA 96001, USA*****40.520376,-122.383100
+3315 Placer St, Redding, CA 96001, USA*****40.574745,-122.415267
+2455 Hartnell Ave, Redding, CA 96002, USA*****40.562969,-122.325609
+7001 Eastside Rd, Anderson, CA 96007, USA*****40.489267,-122.355624
+271 Main St, Chester, CA 96020, USA*****40.307375,-121.229816
+268 Main St, Chester, CA 96020, USA*****40.308029,-121.231314
+20635 Gas Point Rd, Cottonwood, CA 96022, USA*****40.388080,-122.288105
+20803 Front St, Cottonwood, CA 96022, USA*****40.382185,-122.281834
+Cottonwood, CA 96022, USA*****40.385709,-122.280835
+9350 Deschutes Rd, Palo Cedro, CA 96073, USA*****40.559584,-122.240177
+616 Cedar St, Red Bluff, CA 96080, USA*****40.178998,-122.241016

@@ -1,0 +1,5 @@
+260 LA-70 Spur, Plattenville, LA 70393, USA*****29.999536,-91.024060
+58440 Belleview Dr, Plaquemine, LA 70764, USA*****30.275838,-91.236546
+6901 Martin Luther King Blvd, Houston, TX 77033, USA*****29.678196,-95.336206
+110 W Main St, Appalachia, VA 24216, USA*****36.906182,-82.781689
+109 Laurel Ave, Coeburn, VA 24230, USA*****36.943281,-82.470960

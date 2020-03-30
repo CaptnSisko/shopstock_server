@@ -1,0 +1,8 @@
+3282 Middlefield Rd, Menlo Park, CA 94025, USA*****37.470739,-122.203427
+775 Arguello St, Redwood City, CA 94063, USA*****37.488496,-122.235409
+817 Arguello St, Redwood City, CA 94063, USA*****37.488821,-122.235941
+46 Fifth Ave, Redwood City, CA 94063, USA*****37.467498,-122.207683
+666 N Fair Oaks Ave, Sunnyvale, CA 94085, USA*****37.390170,-122.013906
+1157 W Tennyson Rd, Hayward, CA 94544, USA*****37.632317,-122.076376
+2327 McKee Rd, San Jose, CA 95116, USA*****37.367191,-121.850390
+472 Lochridge Dr, San Jose, CA 95133, USA*****37.361972,-121.862599

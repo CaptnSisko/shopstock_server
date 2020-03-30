@@ -1,0 +1,69 @@
+11 Cooperative Way, Pembroke, NH 03275, USA*****43.170796,-71.484523
+488 Boulevard, Kenilworth, NJ 07033, USA*****40.676115,-74.292877
+130 Spruce St, Newark, NJ 07108, USA*****40.728131,-74.185878
+265 Ocean Ave, Jersey City, NJ 07305, USA*****40.696734,-74.088847
+543 Shaler Blvd, Ridgefield, NJ 07657, USA*****40.832960,-74.002515
+409e E 110th St, New York, NY 10029, USA*****40.792203,-73.937257
+1486 Lexington Ave, New York, NY 10128, USA*****40.785713,-73.951251
+342 E 8th St, New York, NY 10009, USA*****40.724737,-73.978902
+311 E 23rd St, New York, NY 10010, USA*****40.737605,-73.979664
+278 Park Ave S, New York, NY 10010, USA*****40.739413,-73.987254
+255 W 14th St, New York, NY 10011, USA*****40.739748,-74.001862
+225 W 57th St, New York, NY 10019, USA*****40.766243,-73.981243
+917 9th Ave, New York, NY 10019, USA*****40.768952,-73.985303
+755 Amsterdam Ave, New York, NY 10025, USA*****40.794441,-73.969642
+1565 1st Avenue, New York, NY 10028, USA*****40.773979,-73.951907
+448 Malcolm X Blvd, New York, NY 10037, USA*****40.812553,-73.941616
+148 E 170th St, The Bronx, NY 10452, USA*****40.838893,-73.914782
+1136 Ogden Ave, The Bronx, NY 10452, USA*****40.835812,-73.927440
+148 E Burnside Ave, The Bronx, NY 10453, USA*****40.852229,-73.904521
+40 W Burnside Ave, The Bronx, NY 10453, USA*****40.853695,-73.909390
+4141 Laconia Ave, The Bronx, NY 10466, USA*****40.888300,-73.847024
+2467 Jerome Ave, The Bronx, NY 10468, USA*****40.863366,-73.901044
+529 S Broadway, Yonkers, NY 10705, USA*****40.914714,-73.897264
+167 Tulip Ave, Floral Park, NY 11001, USA*****40.724226,-73.702594
+24111 Linden Blvd, Elmont, NY 11003, USA*****40.689327,-73.720798
+181 Middle Neck Rd, Great Neck, NY 11021, USA*****40.794013,-73.733161
+1007 41st Ave, Long Island City, NY 11101, USA*****40.755608,-73.945105
+37-15 31st Ave, Long Island City, NY 11103, USA*****40.762118,-73.917887
+2016 21st Ave, Long Island City, NY 11105, USA*****40.782386,-73.915127
+5311 Church Ave, Brooklyn, NY 11203, USA*****40.652616,-73.927065
+4121 Church Ave, Brooklyn, NY 11203, USA*****40.651596,-73.938393
+97 Avenue O, Brooklyn, NY 11204, USA*****40.610607,-73.981343
+492 Myrtle Ave, Brooklyn, NY 11205, USA*****40.693337,-73.965305
+2578 Pitkin Ave, Brooklyn, NY 11208, USA*****40.674476,-73.876891
+385 Broadway, Brooklyn, NY 11211, USA*****40.707429,-73.954420
+639 Grand St, Brooklyn, NY 11211, USA*****40.711671,-73.946584
+1038 Rutland Rd, Brooklyn, NY 11212, USA*****40.663283,-73.925253
+243 Schenectady Ave, Brooklyn, NY 11213, USA*****40.670247,-73.933387
+2323 86th St, Brooklyn, NY 11214, USA*****40.600384,-73.990647
+216 5th Ave, Brooklyn, NY 11215, USA*****40.676159,-73.980960
+108 New York Ave, Brooklyn, NY 11216, USA*****40.676316,-73.947468
+5009 6th Ave, Brooklyn, NY 11220, USA*****40.643357,-74.008093
+4910 8th Ave, Brooklyn, NY 11220, USA*****40.641614,-74.003572
+301 Marcus Garvey Blvd, Brooklyn, NY 11221, USA*****40.687037,-73.938502
+650 Flatbush Ave, Brooklyn, NY 11225, USA*****40.657421,-73.960734
+905 Franklin Ave, Brooklyn, NY 11225, USA*****40.667518,-73.958783
+2722 Church Ave, Brooklyn, NY 11226, USA*****40.650496,-73.951740
+1413 Avenue J, Brooklyn, NY 11230, USA*****40.625312,-73.961794
+229 Knickerbocker Ave, Brooklyn, NY 11237, USA*****40.703128,-73.925419
+45-02 Junction Blvd, Flushing, NY 11368, USA*****40.744498,-73.868043
+39-07 103rd St, Flushing, NY 11368, USA*****40.750486,-73.862715
+89 11 Northern Blvd, Jackson Heights, NY 11372, USA*****40.756594,-73.878338
+84-20 51st Ave #3f, Queens, NY 11373, USA*****40.738180,-73.878543
+82-10 Baxter Ave, Flushing, NY 11373, USA*****40.746646,-73.883090
+50-18 Skillman Ave, Woodside, NY 11377, USA*****40.745759,-73.913805
+333 Seneca Ave, Flushing, NY 11385, USA*****40.707651,-73.915419
+23008 Merrick Blvd, Laurelton, NY 11413, USA*****40.675772,-73.740201
+101-16 77th St, Jamaica, NY 11416, USA*****40.679553,-73.860927
+134-16 Liberty Ave, South Richmond Hill, NY 11419, USA*****40.691274,-73.811993
+10858 Guy R Brewer Blvd, Jamaica, NY 11433, USA*****40.695114,-73.790205
+1197 Grand Ave, Baldwin, NY 11510, USA*****40.681346,-73.614158
+386 Fulton Ave, Hempstead, NY 11550, USA*****40.709091,-73.620000
+1800 Rockaway Ave, Hewlett, NY 11557, USA*****40.648983,-73.689214
+653 E Park Ave, Long Beach, NY 11561, USA*****40.588976,-73.644597
+160 N Long Beach Rd, Rockville Centre, NY 11570, USA*****40.659641,-73.630303
+214 Rockaway Ave, Valley Stream, NY 11580, USA*****40.661350,-73.699812
+245 Beach 20th St, Far Rockaway, NY 11691, USA*****40.596491,-73.755049
+2050 Mott Ave, Far Rockaway, NY 11691, USA*****40.604553,-73.753198
+615 Yakima Valley Hwy, Sunnyside, WA 98944, USA*****46.328266,-120.011794

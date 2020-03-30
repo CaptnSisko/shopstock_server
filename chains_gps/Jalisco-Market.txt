@@ -1,0 +1,11 @@
+248 N Pacific Ave, San Pedro, CA 90731, USA*****33.745002,-118.287583
+501 S Sultana Ave, Ontario, CA 91761, USA*****34.058825,-117.645639
+2619 International Blvd, Oakland, CA 94601, USA*****37.781038,-122.232395
+134 S Clayton St, Lawrenceville, GA 30046, USA*****33.949319,-83.985504
+5014 Singleton Rd #105, Norcross, GA 30093, USA*****33.912482,-84.162927
+677 Deerfield Ln, Norcross, GA 30093, USA*****33.883796,-84.182272
+1330 Glen Rock Ave, Waukegan, IL 60085, USA*****42.354250,-87.848050
+2139 Stumpf Blvd, Terrytown, LA 70056, USA*****29.910396,-90.024159
+2003 Williams Blvd, Kenner, LA 70062, USA*****29.992625,-90.242117
+150 London Rd, Delaware, OH 43015, USA*****40.290692,-83.073929
+50 S Sandusky St, Delaware, OH 43015, USA*****40.297362,-83.068289

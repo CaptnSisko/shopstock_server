@@ -1,0 +1,53 @@
+1291 Albany Ave, Hartford, CT 06112, USA*****41.781307,-72.698343
+519 S Orange Blossom Trail, Apopka, FL 32703, USA*****28.672044,-81.493756
+2413 Enterprise Rd, Orange City, FL 32763, USA*****28.922918,-81.297129
+2921 S Orlando Dr, Sanford, FL 32773, USA*****28.772348,-81.277262
+999 N Semoran Blvd, Orlando, FL 32807, USA*****28.560323,-81.309705
+4065 W Oak Ridge Rd, Orlando, FL 32839, USA*****28.473563,-81.427984
+2701 N Hiawassee Rd, Pine Hills, FL 32818, USA*****28.579291,-81.473984
+3025 Johnson St, Hollywood, FL 33021, USA*****26.019260,-80.168761
+18030 NW 27th Ave, Miami Gardens, FL 33056, USA*****25.939157,-80.249012
+10400 NW 7th Ave, Miami, FL 33150, USA*****25.869964,-80.210781
+10692 Fontainebleau Blvd, Miami, FL 33172, USA*****25.774597,-80.369126
+1206 S Dixie Hwy, Lake Worth, FL 33460, USA*****26.600483,-80.056199
+7611 Causeway Blvd, Tampa, FL 33619, USA*****27.922055,-82.370362
+1703 E Hinson Ave, Haines City, FL 33844, USA*****28.106700,-81.617927
+2004 Tamiami Trail, Bradenton, FL 34205, USA*****27.481403,-82.576022
+4108 W Vine St, Kissimmee, FL 34741, USA*****28.303715,-81.446053
+238 Cranbrook Dr, Kissimmee, FL 34758, USA*****28.173433,-81.479238
+502 Owl Tree Way, Ocoee, FL 34761, USA*****28.590324,-81.531893
+624 S Dillard St, Winter Garden, FL 34787, USA*****28.557382,-81.584673
+321 Scotland Rd, City of Orange, NJ 07050, USA*****40.767579,-74.242555
+1245 W 7th St, South Plainfield, NJ 07080, USA*****40.597165,-74.436434
+260 Roseville Ave, Newark, NJ 07107, USA*****40.759719,-74.189637
+67 Broadway, Paterson, NJ 07505, USA*****40.919227,-74.172373
+76 E 15th St, Paterson, NJ 07524, USA*****40.933861,-74.154365
+42 W Blackwell St, Dover, NJ 07801, USA*****40.883743,-74.560465
+36 W Blackwell St, Dover, NJ 07801, USA*****40.883743,-74.560465
+1567 E State St, Trenton, NJ 08609, USA*****40.231597,-74.732000
+621 Hamilton St, Somerset, NJ 08873, USA*****40.493178,-74.469873
+62 Main St, South River, NJ 08882, USA*****40.450547,-74.381060
+959 Livingston Ave, North Brunswick Township, NJ 08902, USA*****40.469689,-74.469827
+244 5th Ave #2395, New York, NY 10001, USA*****40.744634,-73.987730
+81 West Ave, Brooklyn, NY 11224, USA*****40.581688,-73.968543
+1331 St Nicholas Ave, New York, NY 10033, USA*****40.846661,-73.936070
+4261 Broadway, New York, NY 10033, USA*****40.850676,-73.935906
+640 Courtlandt Ave, The Bronx, NY 10451, USA*****40.818875,-73.918354
+127 W Burnside Ave, The Bronx, NY 10453, USA*****40.854145,-73.914167
+2285 Grand Concourse, The Bronx, NY 10453, USA*****40.857211,-73.900571
+208 E 170th St, The Bronx, NY 10456, USA*****40.838342,-73.913349
+1250 Washington Ave, The Bronx, NY 10456, USA*****40.832113,-73.906049
+248 E 174th St, The Bronx, NY 10457, USA*****40.844524,-73.906984
+1654 Metropolitan Ave, The Bronx, NY 10462, USA*****40.840174,-73.855705
+4026 Boston Rd, The Bronx, NY 10475, USA*****40.883818,-73.832257
+2061 Bartow Ave, The Bronx, NY 10475, USA*****40.870515,-73.828792
+3412 34th Ave, Queens, NY 11106, USA*****40.758028,-73.924500
+208 Crescent St, Brooklyn, NY 11208, USA*****40.684171,-73.872688
+8 E 93rd St, Brooklyn, NY 11212, USA*****40.664173,-73.929045
+1299 Fulton St, Brooklyn, NY 11216, USA*****40.680618,-73.949230
+5818 4th Ave, Brooklyn, NY 11220, USA*****40.641779,-74.017940
+174 Wheeler Rd, Central Islip, NY 11722, USA*****40.802003,-73.213225
+175 S Ocean Ave, Patchogue, NY 11772, USA*****40.762782,-73.013616
+179 N Ocean Ave, Patchogue, NY 11772, USA*****40.769635,-73.014653
+2446 N 6th St, Harrisburg, PA 17110, USA*****40.286075,-76.893669
+693 Dexter St, Central Falls, RI 02863, USA*****41.886707,-71.396748

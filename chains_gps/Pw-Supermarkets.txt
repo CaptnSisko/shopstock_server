@@ -1,0 +1,4 @@
+1600 N Vasco Rd, Livermore, CA 94551, USA*****37.719108,-121.725411
+4015 E Castro Valley Blvd, Castro Valley, CA 94552, USA*****37.694739,-122.050451
+20620 Homestead Rd, Cupertino, CA 95014, USA*****37.336169,-122.034725
+1665 Foxworthy Ave, San Jose, CA 95124, USA*****37.270713,-121.907575

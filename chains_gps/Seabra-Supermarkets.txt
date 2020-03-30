@@ -1,0 +1,9 @@
+208 Waverly St, Framingham, MA 01702, USA*****42.277586,-71.407950
+440 Stafford Rd, Fall River, MA 02721, USA*****41.682453,-71.155074
+41 Rockdale Ave, New Bedford, MA 02744, USA*****41.614680,-70.931711
+579 Grand Army of the Republic Hwy, Swansea, MA 02777, USA*****41.748925,-71.208295
+83 Wilson Ave, Newark, NJ 07105, USA*****40.725703,-74.152689
+87 Wilson Ave, Newark, NJ 07105, USA*****40.725715,-74.152897
+260 Lafayette St, Newark, NJ 07105, USA*****40.727975,-74.161043
+1150 Hope St, Bristol, RI 02809, USA*****41.692954,-71.277930
+145 Wadsworth St, Providence, RI 02907, USA*****41.805761,-71.436175

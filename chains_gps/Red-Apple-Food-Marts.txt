@@ -1,0 +1,27 @@
+52 Bartlett St, Highland Park, MI 48203, USA*****42.410485,-83.102478
+307 W 26th St, New York, NY 10001, USA*****40.747670,-73.997524
+1st Avenue, New York, NY 10001, USA*****40.772723,-73.952399
+355 1st Avenue, New York, NY 10010, USA*****40.735453,-73.979956
+823 11th Ave Fl 3, New York, NY 10019, USA*****40.770073,-73.991962
+80 West End Ave, New York, NY 10023, USA*****40.774338,-73.988173
+265 W 87th St, New York, NY 10024, USA*****40.789368,-73.976414
+1245 Park Ave, New York, NY 10128, USA*****40.786596,-73.952032
+1343 Lexington Ave, New York, NY 10128, USA*****40.781542,-73.953813
+81 W 162nd St, The Bronx, NY 10452, USA*****40.831280,-73.928716
+1749 NY-173, Memphis, NY 13112, USA*****43.096801,-76.384701
+Cicero, NY 13039, USA*****43.175825,-76.074000
+Tompkins St, Cortland, NY 13045, USA*****42.591285,-76.190474
+7872 Manlius Center Rd, East Syracuse, NY 13057, USA*****43.057726,-76.007491
+176 Main St, Groton, NY 13073, USA*****42.588999,-76.367497
+US-20, Richfield Springs, NY, USA*****42.853455,-74.985400
+1269 Ruie Rd, North Tonawanda, NY 14120, USA*****43.064479,-78.865313
+4205 Delaware Ave, Tonawanda, NY 14150, USA*****42.998937,-78.874467
+2309 Colvin Blvd, Tonawanda, NY 14150, USA*****42.998327,-78.851847
+1779 Clinton St, Buffalo, NY 14206, USA*****42.871624,-78.810844
+3724 Harlem Rd, Buffalo, NY 14215, USA*****42.945300,-78.784576
+2260 Elmwood Ave, Buffalo, NY 14217, USA*****42.958919,-78.879177
+1131 Ridge Rd, Lackawanna, NY 14218, USA*****42.828101,-78.810183
+30 Geneva St, Lyons, NY 14489, USA*****43.063649,-76.990770
+W Main St, Wolcott, NY 14590, USA*****43.222578,-76.821027
+4702 W Ridge Rd, Erie, PA 16506, USA*****42.072002,-80.182748
+9 E Main St, Lovell, WY 82431, USA*****44.838600,-108.393000

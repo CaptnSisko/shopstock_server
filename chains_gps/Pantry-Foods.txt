@@ -1,0 +1,4 @@
+28 IN-62, Boonville, IN 47601, USA*****38.039832,-87.239174
+720 N 3rd St, Boonville, IN 47601, USA*****38.055754,-87.274540
+2400 E Riverside Dr, Evansville, IN 47714, USA*****37.944666,-87.520168
+3711 Douglas Ave, Racine, WI 53402, USA*****42.766431,-87.801903

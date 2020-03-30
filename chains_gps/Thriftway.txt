@@ -1,0 +1,22 @@
+5529 Dunsmuir Ave, Dunsmuir, CA 96025, USA*****41.213320,-122.272200
+515 E Nelson Ave, Defuniak Springs, FL 32433, USA*****30.721570,-86.112007
+30 E Washington St, Newnan, GA 30263, USA*****33.375351,-84.797185
+300 4th St, La Porte City, IA 50651, USA*****42.316601,-92.190057
+Tonganoxie, KS 66086, USA*****39.109724,-95.087746
+111 Bridgton Rd, Fryeburg, ME 04037, USA*****44.019481,-70.964405
+15 Bridgton Rd, Fryeburg, ME 04037, USA*****44.019849,-70.962713
+5715 W Broadway Ave, Crystal, MN 55428, USA*****45.056789,-93.369138
+305 N Scott Ave, Belton, MO 64012, USA*****38.819118,-94.534000
+1616 E 63rd St, Kansas City, MO 64110, USA*****39.014052,-94.567359
+5402 E Truman Rd, Kansas City, MO 64127, USA*****39.094479,-94.519105
+318 W Main St, Linn, MO 65051, USA*****38.493072,-91.857213
+304 Mechem Dr, Ruidoso, NM 88345, USA*****33.335344,-105.678921
+NY-59, Nyack, NY, USA*****41.092439,-73.928703
+330 Loveland Madeira Rd, Loveland, OH 45140, USA*****39.266525,-84.267508
+2121 W Lehigh Ave, Philadelphia, PA 19132, USA*****39.996610,-75.166668
+2800 W Dauphin St, Philadelphia, PA 19132, USA*****39.991093,-75.178748
+123 S 15th St, Memphis, TX 79245, USA*****34.724541,-100.549384
+Denver City, TX 79323, USA*****32.964548,-102.829096
+125 N Main Ave, Denver City, TX 79323, USA*****32.965405,-102.829443
+902 Frontage Rd, Idalou, TX 79329, USA*****33.662054,-101.694198
+360 E Jackson St, Gate City, VA 24251, USA*****36.641292,-82.575477

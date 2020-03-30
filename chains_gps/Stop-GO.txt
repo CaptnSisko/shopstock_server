@@ -1,0 +1,14 @@
+818 Park Ave, Bloomfield, CT 06002, USA*****41.829952,-72.734145
+612 Main St, Monroe, CT 06468, USA*****41.333443,-73.263626
+1263 W US Hwy 90, Lake City, FL 32055, USA*****30.185042,-82.654674
+378 Middlesex Ave, Wilmington, MA 01887, USA*****42.570044,-71.158748
+727 Summer St, Lynn, MA 01905, USA*****42.459154,-70.977446
+135 Babylon Turnpike, Roosevelt, NY 11575, USA*****40.676770,-73.584694
+265 Macedon Center Rd, Fairport, NY 14450, USA*****43.096595,-77.425446
+3215 Chili Ave, Rochester, NY 14624, USA*****43.105397,-77.749020
+828 W Liberty St, Medina, OH 44256, USA*****41.138832,-81.881717
+215 S Jefferson St, Medina, OH 44256, USA*****41.137673,-81.860837
+27150 E River Rd, Splendora, TX 77372, USA*****30.250027,-95.140723
+100 N Danville St, Willis, TX 77378, USA*****30.424320,-95.479670
+3324 E NASA Pkwy, Seabrook, TX 77586, USA*****29.563914,-95.042556
+17310 TX-3, Webster, TX 77598, USA*****29.552693,-95.133949

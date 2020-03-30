@@ -1,0 +1,11 @@
+2200 Nickerson Dr, Modesto, CA 95358, USA*****37.598778,-120.985660
+126 E 21st St, Burley, ID 83318, USA*****42.527145,-113.792477
+4040 Mound Rd, Joliet, IL 60436, USA*****41.484496,-88.178970
+11855 Archer Ave, Lemont, IL 60439, USA*****41.672808,-87.949281
+20W267 101st St, Lemont, IL 60439, USA*****41.702395,-88.018117
+IL-99, Mt Sterling, IL, USA*****39.985444,-90.764611
+1 Dot Way, Mt Sterling, IL 62353, USA*****39.974946,-90.755995
+14600 Gateway Rd, Cambridge City, IN 47327, USA*****39.850486,-85.150802
+16650 Chesterfield Grove Rd, Chesterfield, MO 63005, USA*****38.666173,-90.576816
+200 Monarch Dr, Liverpool, NY 13088, USA*****43.114822,-76.200351
+3411 Cypert Way, Ardmore, OK 73401, USA*****34.138206,-97.135769

@@ -1,0 +1,3 @@
+13860 N Cleveland Ave, North Fort Myers, FL 33903, USA*****26.666165,-81.887263
+15271 McGregor Blvd, Fort Myers, FL 33908, USA*****26.518568,-81.941121
+440 Exchange St, Geneva, NY 14456, USA*****42.868255,-76.981655

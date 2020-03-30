@@ -1,0 +1,226 @@
+150 New Athol Rd, Athol, MA 01331, USA*****42.581642,-72.262841
+22 Fitchburg Rd, Ayer, MA 01432, USA*****42.570209,-71.596226
+21 Timpany Blvd, Gardner, MA 01440, USA*****42.568782,-71.992793
+977 Merriam Ave, Leominster, MA 01453, USA*****42.552193,-71.783125
+927 Merriam Ave, Leominster, MA 01453, USA*****42.552522,-71.778002
+118 Lancaster St, Leominster, MA 01453, USA*****42.521458,-71.753648
+301 Massachusetts Ave, Lunenburg, MA 01462, USA*****42.594906,-71.759839
+333 Massachusetts Ave, Lunenburg, MA 01462, USA*****42.596022,-71.757614
+18 Main St, Townsend, MA 01469, USA*****42.649184,-71.660820
+333 Brook St, Clinton, MA 01510, USA*****42.424589,-71.687927
+5 Gilbert St, North Brookfield, MA 01535, USA*****42.266525,-72.083387
+144 N Main St, Uxbridge, MA 01569, USA*****42.081679,-71.637466
+201 Washington St, Hudson, MA 01749, USA*****42.380515,-71.569336
+193 Boston Post Rd W, Marlborough, MA 01752, USA*****42.340656,-71.590204
+7 Medway Rd, Milford, MA 01757, USA*****42.148437,-71.502842
+66 Drum Hill Rd, Chelmsford, MA 01824, USA*****42.623081,-71.361319
+301 Pleasant St, Dracut, MA 01826, USA*****42.664409,-71.311827
+199 Plain St, Lowell, MA 01852, USA*****42.622475,-71.317787
+777 Rogers St, Lowell, MA 01852, USA*****42.628682,-71.278326
+637 Lowell St, Peabody, MA 01960, USA*****42.550663,-71.001488
+10 Washington St, Norwell, MA 02061, USA*****42.172182,-70.882786
+10 Washington St Ste 10, Norwell, MA 02061, USA*****42.173941,-70.885579
+434 Walpole St, Norwood, MA 02062, USA*****42.178373,-71.220320
+475 Hancock St, Quincy, MA 02171, USA*****42.270410,-71.023557
+8 Merchant's Way, Middleborough, MA 02346, USA*****41.882862,-70.911861
+182 Summer St, Kingston, MA 02364, USA*****42.010274,-70.734538
+25 Robert Dr, South Easton, MA 02375, USA*****42.025212,-71.141324
+836 Main St, Waltham, MA 02451, USA*****42.376266,-71.244253
+255 Warner Blvd, Taunton, MA 02780, USA*****41.886300,-71.121646
+5 Hannaford Dr, York, ME 03909, USA*****43.152353,-70.668708
+Alfred, ME 04002, USA*****43.476499,-70.716169
+299 Elm St, Biddeford, ME 04005, USA*****43.487376,-70.465387
+109 Portland Rd, Bridgton, ME 04009, USA*****44.045748,-70.702819
+35 Elm St, Brunswick, ME 04011, USA*****43.911865,-69.966744
+Railroad Ave, Brunswick, ME 04011, USA*****43.911794,-69.965018
+99 Main St, Gorham, ME 04038, USA*****43.679658,-70.438380
+797 Roosevelt Trail, Windham, ME 04062, USA*****43.840462,-70.441163
+ME-11 & Ossipee Trail, Limington, ME 04049, USA*****43.747165,-70.679233
+111 Ossipee Trail, Limington, ME 04049, USA*****43.738608,-70.669414
+North Waterboro, Waterboro, ME, USA*****43.620447,-70.734287
+797 Roosevelt Trail, Windham, ME 04062, USA*****43.840682,-70.440845
+US-302, Windham, ME 04062, USA*****43.793452,-70.398476
+532 Main St, Saco, ME 04072, USA*****43.511583,-70.435579
+800 Main St, Sanford, ME 04073, USA*****43.444955,-70.782456
+31 Hannaford Dr, Scarborough, ME 04074, USA*****43.594906,-70.331339
+111 Ossipee Trail W, Standish, ME 04084, USA*****43.734161,-70.565017
+Sebago Lake, ME 04084, USA*****43.784470,-70.543261
+49 Topsham Fair Mall Rd, Topsham, ME 04086, USA*****43.938033,-69.981454
+20 Sokokis Trail, Waterboro, ME 04087, USA*****43.571413,-70.684193
+107 Wells Plaza, Wells, ME 04090, USA*****43.301272,-70.584101
+7 Hannaford Dr, Westbrook, ME 04092, USA*****43.676005,-70.355057
+756 US-1, Yarmouth, ME 04096, USA*****43.805471,-70.179603
+756 US-1, Yarmouth, ME 04096, USA*****43.805471,-70.179603
+295 Forest Ave, Portland, ME 04101, USA*****43.663485,-70.268618
+779 Riverside St, Portland, ME 04103, USA*****43.702013,-70.320270
+65 Gray Rd, Falmouth, ME 04105, USA*****43.736452,-70.295162
+415 Philbrook Ave, South Portland, ME 04106, USA*****43.634361,-70.329523
+50 Cottage Rd, South Portland, ME 04106, USA*****43.637851,-70.250469
+95 Spring St, Auburn, ME 04210, USA*****44.096107,-70.230084
+15 Jay Plaza Ln, Jay, ME 04239, USA*****44.505844,-70.214633
+692 Sabattus St, Lewiston, ME 04240, USA*****44.103964,-70.178939
+15 Jay Plaza Ln, Jay, ME 04239, USA*****44.505844,-70.214633
+ME-26, Otisfield, ME 04270, USA*****44.137473,-70.469013
+520 Waldo St, Rumford, ME 04276, USA*****44.555177,-70.550305
+29 Whitten Rd, Augusta, ME 04330, USA*****44.313292,-69.812249
+7 Willow St, Augusta, ME 04330, USA*****44.317381,-69.769950
+100 Maine Ave, Gardiner, ME 04345, USA*****44.231696,-69.773192
+399 Main St, Winthrop, ME 04364, USA*****44.306233,-69.959176
+190 Jfk Plaza, Waterville, ME 04901, USA*****44.540240,-69.652339
+1129 Union St, Bangor, ME 04401, USA*****44.819749,-68.811004
+653 Broadway, Bangor, ME 04401, USA*****44.825025,-68.777415
+773 Stillwater Ave, Bangor, ME 04401, USA*****44.834622,-68.747807
+383 Wilson St, Brewer, ME 04412, USA*****44.783004,-68.753904
+53 US-1, Bucksport, ME 04416, USA*****44.570372,-68.785168
+22 Goding Ave, Lincoln, ME 04457, USA*****45.360804,-68.516428
+Central St, Millinocket, ME 04462, USA*****45.657360,-68.694811
+843 Central St, Millinocket, ME 04462, USA*****45.658639,-68.687973
+500 Stillwater Ave, Old Town, ME 04468, USA*****44.925858,-68.666100
+180 Townsend Ave, Boothbay Harbor, ME 04538, USA*****43.859993,-69.627109
+469 Main St, Damariscotta, ME 04543, USA*****44.035214,-69.510656
+RR 1, Damariscotta, ME 04543, USA*****44.032877,-69.518889
+225 High St, Ellsworth, ME 04605, USA*****44.531535,-68.408922
+86 Cottage St, Bar Harbor, ME 04609, USA*****44.388271,-68.210648
+62 W Main St, Fort Kent, ME 04743, USA*****47.249670,-68.594070
+75 Maverick St, Rockland, ME 04841, USA*****44.117652,-69.106654
+440 Kennedy Memorial Dr, Waterville, ME 04901, USA*****44.544200,-69.676477
+Elm Plaza, Waterville, ME 04901, USA*****44.568566,-69.639782
+Waterville, ME, USA*****44.552011,-69.631712
+93 Lincolnville Ave, Belfast, ME 04915, USA*****44.420594,-69.018317
+Rural Rte 1, Maine, USA*****44.943071,-67.209891
+55 Elm St, Fairfield, ME 04937, USA*****44.589404,-69.602305
+131 Hannaford Dr, Farmington, ME 04938, USA*****44.650860,-70.151226
+S Main St, Madison, ME 04950, USA*****44.798073,-69.868610
+100 fairgrounds Market Pl, Skowhegan, ME 04976, USA*****44.780869,-69.727948
+Madison Ave, Skowhegan, ME 04976, USA*****44.776916,-69.724831
+370 E Main St, Searsport, ME 04974, USA*****44.475401,-68.883922
+NH-102 & Derry Rd, Londonderry, NH 03053, USA*****42.824500,-71.407690
+77 Derry Rd, Hudson, NH 03051, USA*****42.775293,-71.443612
+6 Hampton Dr, Londonderry, NH 03053, USA*****42.866282,-71.343663
+175 Coliseum Ave, Nashua, NH 03063, USA*****42.760208,-71.498762
+150 Bridge St, Pelham, NH 03076, USA*****42.725800,-71.318536
+33 Windham Rd, Pelham, NH 03076, USA*****42.736366,-71.323751
+2 Freetown Rd, Raymond, NH 03077, USA*****43.038044,-71.161283
+201 John E Devine Dr, Manchester, NH 03103, USA*****42.957734,-71.441625
+605 Mast Rd, Manchester, NH 03102, USA*****42.998158,-71.511941
+201 John E Devine Dr, Manchester, NH 03103, USA*****42.957734,-71.441625
+859 Hanover St, Manchester, NH 03109, USA*****42.984885,-71.428267
+79 Bicentennial Dr, Manchester, NH 03104, USA*****43.033100,-71.455000
+4 Jenkins Rd, Bedford, NH 03110, USA*****42.922056,-71.535766
+5 Colby Ct, Bedford, NH 03110, USA*****42.965053,-71.482342
+952 Central St, Franklin, NH 03235, USA*****43.449097,-71.623855
+277 Newport Rd, New London, NH 03257, USA*****43.422327,-72.001768
+295 Newport Rd, New London, NH 03257, USA*****43.422947,-72.003342
+180 1st New Hampshire Turnpike, Northwood, NH 03261, USA*****43.195058,-71.151748
+389 Tenney Mountain Hwy, Plymouth, NH 03264, USA*****43.769159,-71.715041
+389 Tenney Mountain Hwy, Plymouth, NH 03264, USA*****43.769159,-71.715041
+73 Fort Eddy Rd, Concord, NH 03301, USA*****43.212885,-71.532891
+481 West St, Keene, NH 03431, USA*****42.935108,-72.295720
+481 West St, Keene, NH 03431, USA*****42.935145,-72.295499
+12 Spring St, Keene, NH 03431, USA*****42.935715,-72.276941
+Rindge, NH 03461, USA*****42.759337,-72.023112
+220 Washington St, Claremont, NH 03743, USA*****43.370703,-72.323621
+800 Islington St, Portsmouth, NH 03801, USA*****43.068156,-70.771206
+80 Wolfeboro Hwy, Alton, NH 03809, USA*****43.453977,-71.211079
+55 Adelle Dr, Dover, NH 03820, USA*****43.170085,-70.885887
+Central Ave, Dover, NH 03820, USA*****43.201487,-70.875962
+833 Central Ave, Dover, NH 03820, USA*****43.217150,-70.878327
+883 Central Ave, Dover, NH 03820, USA*****43.218248,-70.883134
+305 Sandown Rd, East Hampstead, NH 03826, USA*****42.892778,-71.142716
+11 W Milton Rd, Farmington, NH 03835, USA*****43.410522,-71.054676
+630 Lafayette Rd, Hampton, NH 03842, USA*****42.946079,-70.835872
+32 Mountain Valley Blvd, North Conway, NH 03860, USA*****44.019156,-71.111809
+32 Mountain Valley Blvd, North Conway, NH 03860, USA*****44.018787,-71.112291
+NH-16 & NH-28, Ossipee, NH 03864, USA*****43.703003,-71.110361
+NH-16, Ossipee, NH 03864, USA*****43.691400,-71.097341
+NH-16, Ossipee, NH 03864, USA*****43.691400,-71.097341
+290 N Main St, Rochester, NH 03867, USA*****43.309765,-70.994244
+30 Tower Dr, Middletown, NY 10941, USA*****41.465226,-74.371027
+30 Tower Dr, Middletown, NY 10941, USA*****41.465290,-74.371144
+30 Tower Dr, Middletown, NY 10941, USA*****41.465226,-74.371027
+4901 NY-30, Amsterdam, NY 12010, USA*****42.967851,-74.185379
+115 Hannaford Plaza, Amsterdam, NY 12010, USA*****42.967717,-74.185572
+11 Trieble Ave, Ballston Spa, NY 12020, USA*****43.047551,-73.852474
+180 Delaware Ave, Delmar, NY 12054, USA*****42.628001,-73.811553
+20 U.S. 9, Albany, NY 12207, USA*****42.655130,-73.744435
+9 Clifton Country Rd, Clifton Park, NY 12065, USA*****42.859892,-73.781499
+NY-30A & 5th Ave, Johnstown, NY 12078, USA*****43.059422,-74.324174
+82 W 8th Ave, Gloversville, NY 12078, USA*****43.058771,-74.346570
+87 Forest St, Gloversville, NY 12078, USA*****43.047884,-74.341679
+235 5th Ave, Gloversville, NY 12078, USA*****43.061236,-74.321873
+579 Troy Schenectady Rd, Latham, NY 12110, USA*****42.753152,-73.764790
+970 U.S. 9, Schodack Landing, NY 12156, USA*****42.494020,-73.670383
+Slingerlands, NY 12159, USA*****42.629246,-73.864568
+12 6th Ave, Troy, NY 12180, USA*****42.753706,-73.680219
+9 126th St, Troy, NY 12182, USA*****42.789317,-73.671477
+2967 U.S. 9, Valatie, NY 12184, USA*****42.427636,-73.690593
+57 Broad St, Waterford, NY 12188, USA*****42.790200,-73.678098
+40 Main Ave, Wynantskill, NY 12198, USA*****42.697420,-73.649850
+20 Main Ave, Wynantskill, NY 12198, USA*****42.698318,-73.650947
+96 Wolf Rd, Colonie, NY 12205, USA*****42.717605,-73.812682
+Albany, NY 12201, USA*****42.650000,-73.760000
+900 Central Ave, Albany, NY 12206, USA*****42.679479,-73.792094
+Schenectady, NY 12301, USA*****42.820000,-73.940000
+262 Saratoga Rd, Schenectady, NY 12302, USA*****42.870112,-73.931115
+100 Plaza Rd, Kingston, NY 12401, USA*****41.937249,-74.016598
+650 Rte 9W, Highland, NY 12528, USA*****41.702837,-73.966729
+3650 Rte 9W, Highland, NY 12528, USA*****41.702261,-73.966013
+152 Stringham Rd, Lagrangeville, NY 12540, USA*****41.667930,-73.795118
+2066 NY-32, Modena, NY 12548, USA*****41.666020,-74.106210
+2636 NY-32, New Windsor, NY 12553, USA*****41.452589,-74.056358
+2636 NY-32, New Windsor, NY 12553, USA*****41.452589,-74.056358
+162 NY-22, Pawling, NY 12564, USA*****41.536902,-73.583008
+31 Ted Dr, Pine Bush, NY 12566, USA*****41.605180,-74.297246
+7260 S Broadway, Red Hook, NY 12571, USA*****41.981073,-73.882105
+35 Hannaford Dr, Red Hook, NY 12571, USA*****41.980335,-73.881537
+650 NY-9D, Wappingers Falls, NY 12590, USA*****41.562210,-73.939264
+1271 U.S. 9, Wappingers Falls, NY 12590, USA*****41.574578,-73.909941
+1490 U.S. 9, Wappingers Falls, NY 12590, USA*****41.590000,-73.906701
+82 Davis Ave, Arlington, NY 12603, USA*****41.692208,-73.893590
+175 Broad St, Glens Falls, NY 12801, USA*****43.304436,-73.661531
+16 Hudson Ave, Glens Falls, NY 12801, USA*****43.305416,-73.651653
+190 Quaker Rd, Queensbury, NY 12804, USA*****43.331036,-73.656380
+Greenwich, NY 12834, USA*****43.090139,-73.499282
+1165 NY-29, Greenwich, NY 12834, USA*****43.104307,-73.515054
+3758 Burgoyne Ave, Hudson Falls, NY 12839, USA*****43.320008,-73.570731
+95 Weibel Ave, Saratoga Springs, NY 12866, USA*****43.096974,-73.747251
+7 Pyramid Dr, Plattsburgh, NY 12901, USA*****44.701240,-73.495747
+55 Meadow St, Clinton, NY 13323, USA*****43.042097,-75.387215
+401 E Albany St, Herkimer, NY 13350, USA*****43.029711,-74.981424
+50 Kellogg Rd, New Hartford, NY 13413, USA*****43.053521,-75.277744
+4593 Commercial Dr, New Hartford, NY 13413, USA*****43.088527,-75.316620
+4593 Commercial Dr, New Hartford, NY 13413, USA*****43.088527,-75.316620
+4953 Commercial Dr, Yorkville, NY 13495, USA*****43.102967,-75.298641
+1 Ellinwood Dr, New Hartford, NY 13413, USA*****43.092255,-75.313322
+4953 Commercial Dr, Yorkville, NY 13495, USA*****43.102967,-75.298641
+1127 Mohawk St, Utica, NY 13501, USA*****43.090618,-75.221703
+175 Arsenal St, Watertown, NY 13601, USA*****43.975340,-75.913933
+2210 NY-3, Oswegatchie, NY 13670, USA*****44.242211,-75.132817
+6100 Mall Rd, Massena, NY 13662, USA*****44.948917,-74.840361
+Oneonta, NY 13820, USA*****42.452857,-75.063775
+10921 Hull Street Rd, Midlothian, VA 23112, USA*****37.437079,-77.595342
+11400 W Huguenot Rd, Midlothian, VA 23113, USA*****37.525909,-77.608682
+3507 W Cary St, Richmond, VA 23221, USA*****37.554356,-77.487943
+7951 Brook Rd, Richmond, VA 23227, USA*****37.631427,-77.454919
+4816 S Laburnum Ave, Richmond, VA 23231, USA*****37.519776,-77.351877
+1356 Gaskins Rd, Richmond, VA 23238, USA*****37.606611,-77.592181
+5601 High St W, Portsmouth, VA 23703, USA*****36.858247,-76.392907
+141 Hannaford Sq, Ste 2, Bennington, VT 05201, USA*****42.906926,-73.222732
+896 Putney Rd, Brattleboro, VT 05301, USA*****42.878628,-72.561705
+Putney Rd, Brattleboro, VT 05301, USA*****42.874189,-72.559797
+217 Dorset St, South Burlington, VT 05403, USA*****44.462122,-73.183610
+218 Dorset St, South Burlington, VT 05403, USA*****44.462983,-73.180540
+218 Hannaford Dr, South Burlington, VT 05403, USA*****44.442875,-73.214351
+1099 North Ave, Burlington, VT 05408, USA*****44.506501,-73.246713
+1127 North Ave #11, Burlington, VT 05408, USA*****44.506343,-73.244441
+10 Sampsonville Rd, Enosburg Falls, VT 05450, USA*****44.912899,-72.795862
+71 Jayview Dr, Enosburg Falls, VT 05450, USA*****44.912297,-72.795831
+21 Essex Way, Essex Junction, VT 05452, USA*****44.506960,-73.082397
+209 US-7, Milton, VT 05468, USA*****44.669045,-73.110713
+289 Swanton Rd, St Albans City, VT 05478, USA*****44.840477,-73.080089
+78 Marshall Ave, Williston, VT 05495, USA*****44.445904,-73.113686
+456 S Barre Rd, Barre, VT 05641, USA*****44.174133,-72.505793
+80 Fairgrounds Plaza Route 100, Morrisville, VT 05661, USA*****44.572735,-72.596817
+241 S Main St, Rutland, VT 05701, USA*****43.590775,-72.972446
+318 S Main St, Rutland, VT 05701, USA*****43.585879,-72.970970
+45 Seymour St, Middlebury, VT 05753, USA*****44.018980,-73.171562

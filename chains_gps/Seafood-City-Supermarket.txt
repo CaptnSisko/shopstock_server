@@ -1,0 +1,8 @@
+2700 Colorado Blvd, Los Angeles, CA 90041, USA*****34.140921,-118.225068
+131 W Carson St Ste A, Carson, CA 90745, USA*****33.832107,-118.279796
+8231 Woodman Ave, Van Nuys, CA 91402, USA*****34.220369,-118.433255
+1525 E Amar Rd, West Covina, CA 91792, USA*****34.031915,-117.912874
+1340 3rd Ave, Chula Vista, CA 91911, USA*****32.605086,-117.066628
+8955 Mira Mesa Blvd, San Diego, CA 92126, USA*****32.913615,-117.131572
+31840 Alvarado Blvd, Union City, CA 94587, USA*****37.591558,-122.069869
+327 Manhattan Dr, Vallejo, CA 94591, USA*****38.110382,-122.221846

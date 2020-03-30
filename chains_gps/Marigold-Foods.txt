@@ -1,0 +1,8 @@
+153 15th St SW, Mason City, IA 50401, USA*****43.136859,-93.204724
+207 College Dr, Decorah, IA 52101, USA*****43.306614,-91.796608
+318 21st Ave N, Hopkins, MN 55343, USA*****44.930471,-93.426629
+406 N Broadway Ave, Rochester, MN 55906, USA*****44.027821,-92.462423
+W55n155 McKinley Blvd, Cedarburg, WI 53012, USA*****43.281811,-87.980333
+4719 Farwell St, McFarland, WI 53558, USA*****43.012769,-89.300859
+2823 W Main St, Merrill, WI 54452, USA*****45.176717,-89.751930
+1601 Ramsay Pl, La Crosse, WI 54603, USA*****43.839858,-91.233992

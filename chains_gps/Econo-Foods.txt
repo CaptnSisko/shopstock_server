@@ -1,0 +1,22 @@
+101 Iowa Ave W, Marshalltown, IA 50158, USA*****42.007725,-92.915255
+522 N Hancock St, Ottumwa, IA 52501, USA*****41.008460,-92.414155
+807 Grandview Ave, Muscatine, IA 52761, USA*****41.408526,-91.064308
+1270 N Henderson St, Galesburg, IL 61401, USA*****40.963068,-90.385569
+962 E Main St, Galesburg, IL 61401, USA*****40.946941,-90.355272
+1280 Lawrence St, Lowell, MA 01852, USA*****42.624010,-71.288339
+115 Elm St, Farmington, MN 55024, USA*****44.641034,-93.147319
+621 Main St, Red Wing, MN 55066, USA*****44.564314,-92.537422
+623 Main St, Red Wing, MN 55066, USA*****44.564313,-92.537425
+160 Tyler Rd S, Red Wing, MN 55066, USA*****44.566068,-92.586608
+205 Washington Ave E, Hutchinson, MN 55350, USA*****44.892437,-94.366408
+1213 Gilmore Ave, Winona, MN 55987, USA*****44.047086,-91.668777
+104 4th Ave NW, New Prague, MN 56071, USA*****44.543765,-93.585442
+387 11th St N, Wahpeton, ND 58075, USA*****46.267022,-96.616104
+387 11th St S, Wahpeton, ND 58075, USA*****46.261919,-96.616934
+812 N Rowley St, Mitchell, SD 57301, USA*****43.717299,-98.026268
+214 8th Ave NE, Aberdeen, SD 57401, USA*****45.473570,-98.484282
+2424 6th Ave SE, Aberdeen, SD 57401, USA*****45.457732,-98.452543
+110 W Fourth St, New Richmond, WI 54017, USA*****45.118616,-92.538705
+1250 N 14th Ave, Sturgeon Bay, WI 54235, USA*****44.851341,-87.360724
+622 E La Salle Ave, Barron, WI 54812, USA*****45.399068,-91.849437
+278 S Main St, Clintonville, WI 54929, USA*****44.611316,-88.764881

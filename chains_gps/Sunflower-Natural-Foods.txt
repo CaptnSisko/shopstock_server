@@ -1,0 +1,6 @@
+8639 Lincoln Blvd, Los Angeles, CA 90045, USA*****33.958753,-118.418729
+405 Main St, Westcliffe, CO 81252, USA*****38.136129,-105.465815
+1401 S Ladoga Rd, Crawfordsville, IN 47933, USA*****40.019643,-86.886534
+1001 S Ladoga Rd, Crawfordsville, IN 47933, USA*****40.024779,-86.889942
+2591 N High St, Columbus, OH 43202, USA*****40.015104,-83.011778
+2934 Waterbury Stowe Rd, Waterbury Center, VT 05677, USA*****44.373311,-72.726015

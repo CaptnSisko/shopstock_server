@@ -1,0 +1,9 @@
+1100 SE 22nd St, Bentonville, AR 72712, USA*****36.348238,-94.196682
+1801 Dulaney St, Seaford, DE 19973, USA*****38.640563,-75.642078
+4715 Harrison Ferry Rd, Hurlock, MD 21643, USA*****38.629973,-75.851217
+25790 Grist Mill Dr, Mardela Springs, MD 21837, USA*****38.465315,-75.718340
+18 Morin St, Biddeford, ME 04005, USA*****43.466280,-70.492039
+5 Drapeau St, Biddeford, ME 04005, USA*****43.465596,-70.490942
+426 Eagle Rock Ave, Roseland, NJ 07068, USA*****40.819514,-74.317540
+8 Nicholas Ct, Dayton, NJ 08810, USA*****40.371613,-74.472511
+315 Tech Park Dr, La Vergne, TN 37086, USA*****35.994657,-86.584290

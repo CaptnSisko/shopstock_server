@@ -1,0 +1,7 @@
+213 Madison St, New York, NY 10002, USA*****40.712944,-73.989234
+430 E 138th St, The Bronx, NY 10454, USA*****40.808377,-73.921832
+5193 Broadway, The Bronx, NY 10463, USA*****40.874622,-73.910309
+72 Main St, Haverstraw, NY 10927, USA*****41.196308,-73.961635
+156 Patchen Ave, Brooklyn, NY 11221, USA*****40.686074,-73.926812
+99-12 37th Ave, Corona, NY 11368, USA*****40.752233,-73.867650
+118-37 Guy R Brewer Blvd, Jamaica, NY 11434, USA*****40.682756,-73.781868

@@ -1,0 +1,8 @@
+1290 S Bascom Ave, San Jose, CA 95128, USA*****37.301821,-121.931089
+247 College Hwy, Southampton, MA 01073, USA*****42.223009,-72.731512
+203 Brook St, Clinton, MA 01510, USA*****42.423653,-71.690526
+392 Main St, Oxford, MA 01540, USA*****42.126769,-71.863549
+140 Franklin St, Stoneham, MA 02180, USA*****42.476252,-71.089030
+1625 Robeson St, Fall River, MA 02720, USA*****41.721287,-71.136427
+1154 New State Hwy, Raynham, MA 02767, USA*****41.905679,-71.023046
+12931 Nyack Dr, Houston, TX 77089, USA*****29.594836,-95.196521

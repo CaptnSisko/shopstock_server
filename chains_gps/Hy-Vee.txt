@@ -1,0 +1,25 @@
+3800 Lincoln Way, Ames, IA 50014, USA*****42.021698,-93.669771
+2900 Devils Glen Rd, Bettendorf, IA 52722, USA*****41.553669,-90.484746
+11105 71st Pl, Shawnee, KS 66203, USA*****38.998247,-94.715083
+7620 State Line Rd, Prairie Village, KS 66208, USA*****38.989934,-94.609744
+13400 W 87th St, Lenexa, KS 66215, USA*****38.972323,-94.741255
+13550 W 63rd St, Shawnee, KS 66216, USA*****39.016061,-94.743438
+8900 W 135th St, Overland Park, KS 66221, USA*****38.885485,-94.688479
+2010 Adams St, Mankato, MN 56001, USA*****44.171527,-93.944968
+1525 East 23rd St S, Independence, MO 64055, USA*****39.077143,-94.393822
+4545 S Noland Rd, Independence, MO 64055, USA*****39.036879,-94.414118
+1525 East 23rd St S, Independence, MO 64055, USA*****39.076866,-94.393618
+Lee's Summit, MO 64063, USA*****38.911646,-94.361652
+310 SW Ward Rd, Lee's Summit, MO 64081, USA*****38.909805,-94.397796
+207 NE Englewood Rd, Kansas City, MO 64118, USA*****39.194917,-94.580289
+7711 State Line Rd, Kansas City, MO 64114, USA*****38.988615,-94.607393
+7117 N Prospect Ave, Gladstone, MO 64118, USA*****39.223351,-94.547293
+8301 N St Clair Ave, Kansas City, MO 64151, USA*****39.245724,-94.645681
+7608 Olson Dr, Papillion, NE 68046, USA*****41.137442,-96.027810
+11650 S 73rd St, Papillion, NE 68046, USA*****41.135262,-96.026763
+Q St & S 180th St, Millard, NE 68135, USA*****41.205103,-96.196387
+5150 Center St, Omaha, NE 68106, USA*****41.242262,-95.994123
+3410 N 156th St, Omaha, NE 68116, USA*****41.289757,-96.161316
+8809 W Center Rd, Omaha, NE 68124, USA*****41.233158,-96.051638
+2109 Savannah Dr, Papillion, NE 68133, USA*****41.153968,-96.010342
+1900 S Marion Rd, Sioux Falls, SD 57106, USA*****43.527377,-96.789725

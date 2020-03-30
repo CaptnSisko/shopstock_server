@@ -1,0 +1,120 @@
+4440 University Blvd E, Tuscaloosa, AL 35404, USA*****33.196978,-87.476338
+4200 McFarland Blvd E, Tuscaloosa, AL 35405, USA*****33.169566,-87.527685
+5510 McFarland Blvd, Northport, AL 35476, USA*****33.237852,-87.609535
+828 Quintard Dr, Oxford, AL 36203, USA*****33.611879,-85.828613
+D, 6729 Spanish Fort Blvd, Spanish Fort, AL 36527, USA*****30.671667,-87.905743
+1750 Marietta Hwy, Canton, GA 30114, USA*****34.224272,-84.503403
+155 S Leroy St, Metter, GA 30439, USA*****32.396315,-82.057909
+540 E Winthrope Ave, Millen, GA 30442, USA*****32.803094,-81.939927
+325 Northside Dr E # 34, Statesboro, GA 30458, USA*****32.436065,-81.763045
+1109 W Ogeechee St, Sylvania, GA 30467, USA*****32.732274,-81.650853
+1101 E 1st St, Vidalia, GA 30474, USA*****32.211698,-82.401297
+709 Elbert St, Elberton, GA 30635, USA*****34.101929,-82.848833
+1041 Franklin Springs St, Royston, GA 30662, USA*****34.283732,-83.128560
+136 Washington Plaza, Washington, GA 30673, USA*****33.725219,-82.754153
+502 G I Maddox Pkwy, Chatsworth, GA 30705, USA*****34.784095,-84.773169
+311 N Main St, LaFayette, GA 30728, USA*****34.709915,-85.282801
+2512 Tobacco Rd, Hephzibah, GA 30815, USA*****33.374847,-82.073994
+687 Main St, Thomson, GA 30824, USA*****33.483332,-82.506418
+263 S Liberty St, Waynesboro, GA 30830, USA*****33.081451,-82.008781
+3457 Peach Orchard Rd, Augusta, GA 30906, USA*****33.389668,-82.028600
+4480 Columbia Rd, Augusta, GA 30907, USA*****33.506935,-82.142963
+500 Furys Ferry Rd, Augusta, GA 30907, USA*****33.536443,-82.080801
+2803 Wrightsboro Rd, Augusta, GA 30909, USA*****33.470343,-82.035772
+306 S Harris St, Sandersville, GA 31082, USA*****32.978823,-82.812050
+704 SW Higgins Ave, Missoula, MT 59803, USA*****46.837027,-114.011084
+9815 Rose Commons Dr, Huntersville, NC 28078, USA*****35.408464,-80.864329
+742 US-27, Whitley City, KY 42653, USA*****36.733357,-84.470464
+3110 Fincher Farm Rd, Matthews, NC 28105, USA*****35.082363,-80.729817
+9101 Pineville-Matthews Rd, Pineville, NC 28134, USA*****35.086978,-80.871765
+145 College Ave, Rutherfordton, NC 28139, USA*****35.361039,-81.941743
+2924 Mt Holly-Huntersville Rd, Charlotte, NC 28214, USA*****35.318999,-80.951443
+525 Little Rock Rd, Charlotte, NC 28214, USA*****35.272336,-80.937268
+9108 Lawyers Rd, Mint Hill, NC 28227, USA*****35.185611,-80.690599
+8620 Camfield St, Charlotte, NC 28277, USA*****35.052912,-80.815589
+1909 E Broad St, Statesville, NC 28625, USA*****35.791774,-80.850970
+1555 E Union St, Morganton, NC 28655, USA*****35.754366,-81.654790
+205 NC-9, Black Mountain, NC 28711, USA*****35.615538,-82.317441
+35 Bass Ln, Burnsville, NC 28714, USA*****35.964750,-82.367681
+651 W Mills St, Columbus, NC 28722, USA*****35.243062,-82.206452
+500 N Main St, Marion, NC 28752, USA*****35.689531,-82.014486
+120 Henderson Crossing Plaza, Hendersonville, NC 28792, USA*****35.331389,-82.446652
+US-11, Pennsylvania, USA*****40.968088,-76.639527
+40 S White St, Brookville, PA 15825, USA*****41.159528,-79.083041
+40 S White St, Brookville, PA 15825, USA*****41.159528,-79.083041
+3 Northgate Plaza, Harmony, PA 16037, USA*****40.802371,-80.136345
+Pennsylvania Ave, Smithfield Township, PA 16652, USA*****40.488462,-78.024505
+1045 N Front St, Philipsburg, PA 16866, USA*****40.901875,-78.232014
+11 Main St, Wellsboro, PA 16901, USA*****41.750100,-77.297440
+595 Elmira St, Troy, PA 16947, USA*****41.790383,-76.775825
+243 Railroad St, Cammal, PA 17723, USA*****41.404202,-77.464821
+E Brimmer Ave, Watsontown, PA 17777, USA*****41.083665,-76.859774
+40 Country Club Shopping Center, Dallas, PA 18612, USA*****41.347449,-75.960713
+300 Knox Abbott Dr, Cayce, SC 29033, USA*****33.988114,-81.055755
+1419 Chapin Rd, Chapin, SC 29036, USA*****34.165618,-81.357709
+200 Friarsgate Ct, Irmo, SC 29063, USA*****34.092343,-81.189841
+Clarendon County Administration Building, 411 Sunset Dr, Manning, SC 29102, USA*****33.687875,-80.222285
+2055 Wedgefield Rd, Sumter, SC 29154, USA*****33.915339,-80.386307
+1126 US Highway 321 Bus S, Ste A, Winnsboro, SC 29180, USA*****34.349606,-81.086923
+120 Forum Dr, Columbia, SC 29229, USA*****34.133444,-80.881474
+927 S Broad St, Clinton, SC 29325, USA*****34.455721,-81.878347
+1750 SC-14, Landrum, SC 29356, USA*****35.179150,-82.161675
+1500 Western Square Dr, Laurens, SC 29360, USA*****34.501329,-82.049498
+323 N Duncan Bypass, Union, SC 29379, USA*****34.718550,-81.640868
+774 S Shelmore Blvd, Mt Pleasant, SC 29464, USA*****32.810694,-79.877108
+1625 N Main St, Summerville, SC 29483, USA*****33.038977,-80.137522
+10150 Dorchester Rd, Summerville, SC 29485, USA*****32.954081,-80.168328
+550 Robertson Blvd, Walterboro, SC 29488, USA*****32.920414,-80.668202
+2640 W Palmetto St, Florence, SC 29501, USA*****34.177173,-79.825997
+500 Pamplico Hwy, Florence, SC 29505, USA*****34.161177,-79.759176
+1085 Cottingham Blvd N, Bennettsville, SC 29512, USA*****34.635195,-79.701510
+508 Lamar Hwy, Darlington, SC 29532, USA*****34.292859,-79.891194
+413 Radford Blvd, Dillon, SC 29536, USA*****34.432991,-79.367763
+1319 N Longstreet St, Kingstree, SC 29556, USA*****33.680710,-79.829237
+269 N Ron McNair Blvd, Lake City, SC 29560, USA*****33.881139,-79.758740
+429 W McIntyre St, Mullins, SC 29574, USA*****34.197837,-79.260532
+1610 US-17 BUS, Surfside Beach, SC 29575, USA*****33.601937,-78.993774
+720 Main St, North Myrtle Beach, SC 29582, USA*****33.827214,-78.677047
+14427 Ocean Hwy #4301, Pawleys Island, SC 29585, USA*****33.488337,-79.094249
+5020 Dick Pond Rd, Myrtle Beach, SC 29588, USA*****33.674118,-78.997660
+6 K-Mart Plaza, Greenville, SC 29605, USA*****34.820063,-82.419240
+2111 N Pleasantburg Dr, Greenville, SC 29609, USA*****34.888289,-82.375191
+3619 Pelham Rd, Greenville, SC 29615, USA*****34.861558,-82.268259
+4405 SC-24, Anderson, SC 29626, USA*****34.510897,-82.762359
+1021 S Pendleton St, Easley, SC 29642, USA*****34.816037,-82.598868
+2010 Montague Ave Ext, Greenwood, SC 29649, USA*****34.228582,-82.196428
+1365 W Wade Hampton Blvd, Greer, SC 29650, USA*****34.938751,-82.264356
+715 E Wade Hampton Blvd, Greer, SC 29651, USA*****34.947773,-82.212090
+500 E Greer St, Honea Path, SC 29654, USA*****34.444730,-82.386291
+7709 US-76, Pendleton, SC 29670, USA*****34.634267,-82.786029
+2700 Gentry Memorial Hwy, Pickens, SC 29671, USA*****34.873606,-82.692620
+191 Bilo Pl, Seneca, SC 29678, USA*****34.690519,-82.983672
+699 Fairview Rd, Simpsonville, SC 29680, USA*****34.706332,-82.255359
+2607 Woodruff Rd, Simpsonville, SC 29681, USA*****34.807115,-82.229211
+3039 Wade Hampton Blvd, Taylors, SC 29687, USA*****34.909186,-82.330183
+J A Cochran Bypass, Chester, SC 29706, USA*****34.709783,-81.218961
+1260 Hwy 9 Bypass W, Lancaster, SC 29720, USA*****34.733970,-80.799104
+1401 E Main St, Rock Hill, SC 29730, USA*****34.918655,-80.999625
+2186 Cherry Rd, Rock Hill, SC 29732, USA*****34.964850,-80.996949
+1095 Filbert Hwy, York, SC 29745, USA*****35.015671,-81.250765
+1016 Pine Log Rd, Aiken, SC 29803, USA*****33.523116,-81.724922
+4435 Jefferson Davis Hwy, Beech Island, SC 29842, USA*****33.502276,-81.899676
+155 Carolina Square, Edgefield, SC 29824, USA*****33.798381,-81.892597
+111 Edgewood Dr, North Augusta, SC 29841, USA*****33.526441,-81.951436
+2127 Boundary St, Beaufort, SC 29902, USA*****32.443038,-80.691783
+860 Parris Island Gateway, Beaufort, SC 29906, USA*****32.377875,-80.725758
+1703 Elm St W, Hampton, SC 29924, USA*****32.880736,-81.126761
+95 Mathews Dr, Hilton Head Island, SC 29926, USA*****32.211970,-80.701117
+70 Pope Ave, Hilton Head Island, SC 29928, USA*****32.144732,-80.756170
+Old Smithville Rd, Tennessee 37110, USA*****35.729147,-85.791336
+255 Ocoee Crossing NW, Cleveland, TN 37312, USA*****35.193558,-84.855653
+2310 McGrady Dr SE, Cleveland, TN 37323, USA*****35.129889,-84.866013
+841 US-411, Etowah, TN 37331, USA*****35.342170,-84.519679
+8530 Hixson Pike, Hixson, TN 37343, USA*****35.198760,-85.159035
+10161 Walden St, Soddy-Daisy, TN 37379, USA*****35.255777,-85.179516
+Chattanooga, TN 37411, USA*****35.027720,-85.225663
+3715 Ringgold Rd, East Ridge, TN 37412, USA*****35.001367,-85.257574
+6723 Ringgold Rd, East Ridge, TN 37412, USA*****34.990976,-85.197581
+3600 Hixson Pike Ste B, Chattanooga, TN 37415, USA*****35.106218,-85.271115
+3901 Dayton Blvd, Chattanooga, TN 37415, USA*****35.119704,-85.291484
+4510 TN-58, Chattanooga, TN 37416, USA*****35.083777,-85.197662

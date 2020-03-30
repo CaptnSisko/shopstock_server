@@ -1,0 +1,6 @@
+11359 Jersey Blvd, Rancho Cucamonga, CA 91730, USA*****34.094580,-117.555883
+12316 World Trade Dr, San Diego, CA 92128, USA*****32.989422,-117.071409
+17748 Caminito Balata, San Diego, CA 92128, USA*****33.032831,-117.053149
+12600 Wallisville Rd, Houston, TX 77013, USA*****29.802593,-95.215087
+501 W Chapin St, Edinburg, TX 78541, USA*****26.318231,-98.165630
+2112 62nd Ave E #14, Fife, WA 98424, USA*****47.237294,-122.348694

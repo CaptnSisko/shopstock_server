@@ -1,0 +1,106 @@
+47 Main St, New Britain, CT 06051, USA*****41.665271,-72.780596
+1744 Park St, Hartford, CT 06106, USA*****41.757337,-72.707624
+165 Wethersfield Ave, Hartford, CT 06114, USA*****41.751219,-72.674476
+442 Main St, East Hartford, CT 06118, USA*****41.753393,-72.640217
+259 Barbour St, Hartford, CT 06120, USA*****41.792550,-72.678402
+332 S Frontage Rd, New London, CT 06320, USA*****41.368643,-72.120046
+156 Dixwell Ave, New Haven, CT 06511, USA*****41.317480,-72.933763
+480 Greenwich Ave, New Haven, CT 06519, USA*****41.290842,-72.934041
+360 Boston Ave, Stratford, CT 06614, USA*****41.194606,-73.153670
+103 Haven Rd, Elmhurst, IL 60126, USA*****41.899494,-87.935893
+790 State St, Springfield, MA 01109, USA*****42.112017,-72.565632
+786 Broadway, Bayonne, NJ 07002, USA*****40.673923,-74.109501
+607 Bloomfield Ave, Bloomfield, NJ 07003, USA*****40.794589,-74.198259
+935 S Orange Ave, East Orange, NJ 07018, USA*****40.746345,-74.226657
+1911 Bergenline Ave, Union City, NJ 07087, USA*****40.764630,-74.034740
+323 Mt Prospect Ave, Newark, NJ 07104, USA*****40.762682,-74.171658
+120 Clinton Ave, Newark, NJ 07114, USA*****40.724660,-74.182574
+574 Jersey Ave, Jersey City, NJ 07302, USA*****40.723139,-74.045481
+885 Bergen Ave, Jersey City, NJ 07306, USA*****40.729847,-74.066141
+680 Main St, Paterson, NJ 07503, USA*****40.902795,-74.167381
+444 20th Ave, Paterson, NJ 07513, USA*****40.907445,-74.150512
+444 Madison Ave, Paterson, NJ 07524, USA*****40.925698,-74.152164
+154 State St, Hackensack, NJ 07601, USA*****40.883379,-74.044563
+272 Maple St, Perth Amboy, NJ 08861, USA*****40.508813,-74.272080
+81 Luther Ave, Perth Amboy, NJ 08861, USA*****40.525692,-74.293407
+84 Main St, Somerset, NJ 08873, USA*****40.491854,-74.465812
+275 George St, New Brunswick, NJ 08901, USA*****40.491299,-74.442350
+238 West Ave, Brooklyn, NY 11224, USA*****40.581899,-73.970107
+W 155th St & Harlem River Dr, New York, NY 10039, USA*****40.828317,-73.935164
+1721 1st Avenue, New York, NY 10128, USA*****40.779123,-73.948037
+188 Avenue A, New York, NY 10009, USA*****40.728866,-73.981138
+309 E 115th St, New York, NY 10029, USA*****40.796270,-73.937498
+2217 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA*****40.812786,-73.945237
+1016 St Nicholas Ave, New York, NY 10032, USA*****40.835047,-73.939380
+24 W 135th St, New York, NY 10037, USA*****40.813129,-73.939197
+5 St James Pl, New York, NY 10038, USA*****40.711466,-74.000007
+159-48 Harlem River Dr, New York, NY 10039, USA*****40.833503,-73.937061
+760 Melrose Ave, The Bronx, NY 10451, USA*****40.821154,-73.915177
+1750 Dr Martin Luther King Jr Blvd, The Bronx, NY 10453, USA*****40.849154,-73.916750
+35 Richman Plaza, The Bronx, NY 10453, USA*****40.851858,-73.922434
+745 Westchester Ave, The Bronx, NY 10455, USA*****40.817855,-73.905968
+3690 3rd Ave, The Bronx, NY 10456, USA*****40.834803,-73.903357
+630 E 169th St, The Bronx, NY 10456, USA*****40.831194,-73.901271
+264 E 204th St, The Bronx, NY 10458, USA*****40.873914,-73.884155
+809 Southern Blvd, The Bronx, NY 10459, USA*****40.817025,-73.895943
+1580 Unionport Rd, The Bronx, NY 10462, USA*****40.839925,-73.861754
+50 Van Cortlandt Ave W, The Bronx, NY 10463, USA*****40.882981,-73.893084
+3959 White Plains Rd, The Bronx, NY 10466, USA*****40.887358,-73.860934
+4265 Katonah Ave, The Bronx, NY 10470, USA*****40.897361,-73.867405
+90 Hugh J. Grant Cir, The Bronx, NY 10472, USA*****40.832662,-73.860790
+1470 Westchester Ave, The Bronx, NY 10472, USA*****40.828245,-73.881446
+119 Einstein Loop N, The Bronx, NY 10475, USA*****40.864717,-73.822325
+111 Dreiser Loop, The Bronx, NY 10475, USA*****40.877865,-73.828857
+100 Croton Ave, Ossining, NY 10562, USA*****41.165530,-73.856313
+114 N Broadway, Tarrytown, NY 10591, USA*****41.080015,-73.857436
+50 Van Cortlandt Park Ave, Yonkers, NY 10701, USA*****40.930440,-73.887916
+70 Linden St, Yonkers, NY 10701, USA*****40.933661,-73.891476
+538 Main St, New Rochelle, NY 10801, USA*****40.907885,-73.782581
+45 Fifth Ave, Pelham, NY 10803, USA*****40.912215,-73.809531
+90 Horace Harding Blvd, Great Neck, NY 11020, USA*****40.768821,-73.721904
+44-65 21st St, Long Island City, NY 11101, USA*****40.747822,-73.947232
+40-12 28th Ave, Queens, NY 11103, USA*****40.765012,-73.913294
+6614 18th Ave, Brooklyn, NY 11204, USA*****40.618296,-73.991313
+2869 Fulton St, Brooklyn, NY 11207, USA*****40.678966,-73.888445
+1115 Pennsylvania Ave, Brooklyn, NY 11207, USA*****40.653591,-73.886464
+1176 Liberty Ave, Brooklyn, NY 11208, USA*****40.678659,-73.865751
+8609 4th Ave, Brooklyn, NY 11209, USA*****40.622359,-74.028274
+330 Graham Ave, Brooklyn, NY 11211, USA*****40.714205,-73.944095
+130 Havemeyer St, Brooklyn, NY 11211, USA*****40.712588,-73.957428
+146 E 98th St, Brooklyn, NY 11212, USA*****40.663326,-73.921561
+187 Troy Ave, Brooklyn, NY 11213, USA*****40.672845,-73.936028
+327 9th St, Brooklyn, NY 11215, USA*****40.669050,-73.985443
+476 Marcus Garvey Blvd, Brooklyn, NY 11216, USA*****40.680373,-73.937866
+239 Bond St, Brooklyn, NY 11217, USA*****40.681985,-73.987826
+710 Coney Island Ave, Brooklyn, NY 11218, USA*****40.640321,-73.969366
+4511 8th Ave, Brooklyn, NY 11220, USA*****40.643489,-74.000911
+953 Manhattan Ave, Brooklyn, NY 11222, USA*****40.731920,-73.954862
+212 Clarkson Ave, Brooklyn, NY 11226, USA*****40.655023,-73.952580
+1188 Flatbush Ave, Brooklyn, NY 11226, USA*****40.641163,-73.956785
+1301 Church Ave, Brooklyn, NY 11226, USA*****40.648011,-73.967360
+597 E 16th St, Brooklyn, NY 11226, USA*****40.635643,-73.962207
+7907 13th Ave, Brooklyn, NY 11228, USA*****40.617693,-74.009722
+Mill Ln, Brooklyn, NY 11234, USA*****40.618528,-73.918174
+7924 Flatlands Ave, Brooklyn, NY 11236, USA*****40.635227,-73.913354
+72 Wyckoff Ave, Brooklyn, NY 11237, USA*****40.704616,-73.920413
+720 Washington Ave, Brooklyn, NY 11238, USA*****40.676248,-73.963764
+801 Washington Ave, Brooklyn, NY 11238, USA*****40.672410,-73.962489
+325 Lafayette Ave, Brooklyn, NY 11238, USA*****40.688865,-73.962650
+47-33 Bell Blvd, Bayside, NY 11361, USA*****40.755960,-73.766953
+108-79 Roosevelt Ave, Corona, NY 11368, USA*****40.751639,-73.856094
+71-76 Yellowstone Blvd, Forest Hills, NY 11375, USA*****40.720819,-73.855634
+62-09 Roosevelt Ave, Woodside, NY 11377, USA*****40.745892,-73.901752
+924 Seneca Ave, Ridgewood, NY 11385, USA*****40.700145,-73.903489
+110-14 Farmers Blvd, St. Albans, NY 11412, USA*****40.702791,-73.766953
+8129 Lefferts Blvd, Kew Gardens, NY 11415, USA*****40.708737,-73.830328
+98-02 Jamaica Ave, Queens, NY 11421, USA*****40.694569,-73.847374
+19509 Jamaica Ave, Jamaica, NY 11423, USA*****40.713419,-73.765673
+222-51 Jamaica Ave, Queens Village, NY 11428, USA*****40.721675,-73.731514
+169-15 Hillside Avenue, Jamaica, NY 11432, USA*****40.711189,-73.792600
+108-30 Merrick Blvd, Jamaica, NY 11433, USA*****40.697241,-73.785798
+1080 W Beech St, East Atlantic Beach, NY 11561, USA*****40.585848,-73.700295
+87-15 Rockaway Beach Blvd, Far Rockaway, NY 11693, USA*****40.586965,-73.812590
+32 Wheeler Rd #810, Central Islip, NY 11722, USA*****40.791423,-73.204193
+1662 New York Ave, Huntington Station, NY 11746, USA*****40.841433,-73.411667
+1975 W Mound St, Columbus, OH 43223, USA*****39.941540,-83.050251
+720 N 4th St, Allentown, PA 18102, USA*****40.614024,-75.470565

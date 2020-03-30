@@ -1,0 +1,60 @@
+5107 Venice Blvd, Los Angeles, CA 90019, USA*****34.045581,-118.350654
+21400 Nordhoff St, Chatsworth, CA 91311, USA*****34.235048,-118.597711
+501 Linden Ave, Carpinteria, CA 93013, USA*****34.396334,-119.521845
+6825 Greenback Ln, Citrus Heights, CA 95621, USA*****38.678592,-121.304439
+400 North Parkway, Breckenridge, CO 80424, USA*****39.488699,-106.046745
+1001 Thompson Rd, Granby, CO 80446, USA*****40.062853,-105.929415
+438 US-24, Buena Vista, CO 81211, USA*****38.836852,-106.131171
+1703 Fremont Dr, Cañon City, CO 81212, USA*****38.448705,-105.223960
+880 N Main St, Gunnison, CO 81230, USA*****38.553353,-106.925347
+3130 Main Ave, Durango, CO 81301, USA*****37.299831,-107.870142
+508 E Main St, Cortez, CO 81321, USA*****37.349273,-108.578084
+16400 S Townsend Ave, Montrose, CO 81401, USA*****38.453444,-107.864941
+128 S Townsend Ave, Montrose, CO 81401, USA*****38.476962,-107.877270
+122 Gunnison River Dr, Delta, CO 81416, USA*****38.747878,-108.072278
+200 Rood Ave, Grand Junction, CO 81501, USA*****39.068921,-108.569507
+2830 North Ave, Grand Junction, CO 81501, USA*****39.078636,-108.527580
+1909 N 1st St, Grand Junction, CO 81501, USA*****39.084975,-108.571826
+2770 US-50, Grand Junction, CO 81503, USA*****39.039933,-108.539081
+569 32 Rd, Grand Junction, CO 81504, USA*****39.086770,-108.461934
+260 Beaver Creek Pl, Avon, CO 81620, USA*****39.633851,-106.517702
+505 W Victory Way, Craig, CO 81625, USA*****40.514964,-107.553751
+71 Sipprelle Dr, Parachute, CO 81635, USA*****39.443953,-108.024403
+850 Castle Valley Blvd, New Castle, CO 81647, USA*****39.568634,-107.513812
+2109 N Frontage Rd W, Vail, CO 81657, USA*****39.632337,-106.416249
+1150 17th St NW, Washington, DC 20036, USA*****38.905293,-77.038834
+1401 W Cervantes St, Pensacola, FL 32501, USA*****30.420155,-87.233706
+417 N Central Ave, Hapeville, GA 30354, USA*****33.655938,-84.402472
+219 W Bryan St #207, Savannah, GA 31401, USA*****32.080917,-81.094544
+1508 Gloucester St, Brunswick, GA 31520, USA*****31.150902,-81.487152
+101 N Patterson St, Valdosta, GA 31602, USA*****30.868705,-83.290916
+207 Main St, Albert City, IA 50510, USA*****42.781292,-94.948672
+5184 230th Ave, Albert City, IA 50510, USA*****42.765988,-94.952581
+35 N Superior St, Cambridge, ID 83610, USA*****44.572723,-116.675400
+216 W Stephen Foster Ave, Bardstown, KY 40004, USA*****37.810190,-85.469876
+W Patapsco Ave, Baltimore, MD, USA*****39.239745,-76.613805
+1422 W Patapsco Ave, Baltimore, MD 21230, USA*****39.248990,-76.637770
+25635 W Warren St, Dearborn Heights, MI 48127, USA*****42.340898,-83.290789
+333 E Michigan Ave, Lansing, MI 48933, USA*****42.734142,-84.547984
+1825 E Lake St, Minneapolis, MN 55407, USA*****44.947927,-93.247180
+Massey, 212 1st Ave SW #5, Rochester, MN 55902, USA*****44.021114,-92.464065
+City Market Apartments, 20 E 5th St, Kansas City, MO 64106, USA*****39.108634,-94.582394
+212 Hay St, Fayetteville, NC 28301, USA*****35.053543,-78.879885
+234 6th Ave W, Newark, NJ 07107, USA*****40.756321,-74.187436
+723 Newark Ave, Jersey City, NJ 07306, USA*****40.734953,-74.061785
+907 S 2nd St, Raton, NM 87740, USA*****36.893560,-104.441033
+585 Main St, New Rochelle, NY 10801, USA*****40.907122,-73.784626
+735 NW 21st Ave, Portland, OR 97210, USA*****45.528299,-122.694719
+449 East E Street, Elizabethton, TN 37643, USA*****36.348697,-82.216856
+440 Del Webb Blvd, Georgetown, TX 78633, USA*****30.715359,-97.721260
+633 E Davis St, Luling, TX 78648, USA*****29.681565,-97.647670
+S US Hwy 77, Texas 78956, USA*****29.632420,-96.895856
+46 Broadway, Salt Lake City, UT 84101, USA*****40.763088,-111.892572
+2250 Clarendon Blvd, Arlington, VA 22201, USA*****38.889658,-77.086035
+1301 Main St, Lynchburg, VA 24504, USA*****37.411320,-79.139551
+1722 Bellevue Ave, Seattle, WA 98122, USA*****47.617062,-122.326465
+415 S Rainier St, Kennewick, WA 99336, USA*****46.205337,-119.142754
+2205 E Capitol Dr, Shorewood, WI 53211, USA*****43.089036,-87.882169
+8725 W North Ave, Wauwatosa, WI 53226, USA*****43.060225,-88.021901
+8700 W Watertown Plank Rd, Wauwatosa, WI 53226, USA*****43.045857,-88.021488
+602 N Higley Blvd, Rawlins, WY 82301, USA*****41.794818,-107.217511

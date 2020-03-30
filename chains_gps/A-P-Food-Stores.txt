@@ -1,0 +1,108 @@
+767 Pine St, Bristol, CT 06010, USA*****41.670491,-72.894477
+207 Webster Square Rd, Berlin, CT 06037, USA*****41.631075,-72.744996
+Webster Square Rd, Berlin, CT 06037, USA*****41.628784,-72.745756
+175 Lowrey Pl, Newington, CT 06111, USA*****41.694764,-72.719045
+90 Halls Rd, Old Lyme, CT 06371, USA*****41.322193,-72.338022
+179 Stonington Rd, Pawcatuck, CT 06379, USA*****41.344014,-71.930164
+1060 W Main St, Branford, CT 06405, USA*****41.273767,-72.832277
+820 Washington St, Middletown, CT 06457, USA*****41.556273,-72.680989
+745 Foxon Rd, East Haven, CT 06513, USA*****41.323491,-72.854883
+1700 Park Ave, Bridgeport, CT 06604, USA*****41.182767,-73.205650
+799 New Haven Rd, Naugatuck, CT 06770, USA*****41.472688,-73.042967
+35 Main St, Danbury, CT 06810, USA*****41.388393,-73.446434
+1 Padanaram Rd, Danbury, CT 06811, USA*****41.412844,-73.456494
+42 Danbury Rd, Ridgefield, CT 06877, USA*****41.290204,-73.496975
+1201 High Ridge Rd, Stamford, CT 06905, USA*****41.109831,-73.546332
+14 W Main St, Middletown, DE 19709, USA*****39.449406,-75.717296
+17656 Highland Ave N, Arlington, GA 39813, USA*****31.440612,-84.725087
+1968 W Peterson Ave, Chicago, IL 60660, USA*****41.990989,-87.679690
+26016 State Rte 19, Arcadia, IN 46030, USA*****40.170029,-86.013273
+US-35, Winamac, IN, USA*****41.051463,-86.602958
+701 Royal St, New Orleans, LA 70116, USA*****29.958183,-90.064787
+4801 Hollins Ferry Rd, Halethorpe, MD 21227, USA*****39.225440,-76.685395
+720 W Woodrow Wilson Ave, Jackson, MS 39213, USA*****32.327023,-90.201060
+Battleboro, Rocky Mount, NC, USA*****36.048754,-77.748721
+1322 Linwood Rd, Gastonia, NC 28052, USA*****35.246187,-81.211626
+54 Lock St, Nashua, NH 03064, USA*****42.766890,-71.462009
+19 Belleville Ave, Bloomfield, NJ 07003, USA*****40.797659,-74.179880
+550 Myrtle Ave, Boonton, NJ 07005, USA*****40.908656,-74.396957
+425 Anderson Ave, Fairview, NJ 07022, USA*****40.820958,-73.992093
+289 Bergen Blvd, Fairview, NJ 07022, USA*****40.819589,-74.002010
+59 Outwater Ln, Garfield, NJ 07026, USA*****40.881972,-74.116180
+614 Clinton St, Hoboken, NJ 07030, USA*****40.745420,-74.033963
+80 Market St, Kenilworth, NJ 07033, USA*****40.676046,-74.282098
+453 Valley St, Maplewood, NJ 07040, USA*****40.737599,-74.266625
+501 Valley Rd, Montclair, NJ 07043, USA*****40.836515,-74.206665
+2220 91st St, North Bergen, NJ 07047, USA*****40.819157,-74.018214
+1425 John F. Kennedy Blvd, North Bergen, NJ 07047, USA*****40.764533,-74.044150
+375 Paterson Ave, Wallington, NJ 07057, USA*****40.844628,-74.106332
+177 Washington Valley Rd, Warren, NJ 07059, USA*****40.615374,-74.496889
+52 Westfield Ave, Clark, NJ 07066, USA*****40.618939,-74.296386
+907 Oak Tree Ave, South Plainfield, NJ 07080, USA*****40.578585,-74.389719
+789 St Georges Ave, Woodbridge Township, NJ 07095, USA*****40.566051,-74.287758
+125 18th St, Jersey City, NJ 07310, USA*****40.733078,-74.037531
+45 De Mercurio Dr, Allendale, NJ 07401, USA*****41.028955,-74.128126
+1926 Union Valley Rd, Hewitt, NJ 07421, USA*****41.153030,-74.353799
+1730 US-46, Woodland Park, NJ 07424, USA*****40.888236,-74.215181
+125 Franklin Turnpike, Mahwah, NJ 07430, USA*****41.099255,-74.144732
+136 Lake Ave, Midland Park, NJ 07432, USA*****40.983134,-74.140422
+5734 Berkshire Valley Rd, Oak Ridge, NJ 07438, USA*****41.036994,-74.503605
+500 NJ-23, Pompton Plains, NJ 07444, USA*****40.967900,-74.282670
+455 Walling Ave, Sussex, NJ 07461, USA*****41.203807,-74.599990
+16 High Point Terrace, Sussex, NJ 07461, USA*****41.215514,-74.551706
+530 Co Rd 515 #13, Vernon Township, NJ 07462, USA*****41.195059,-74.483075
+560 Valley Rd, Wayne, NJ 07470, USA*****40.930906,-74.226527
+396 Demarest Ave, Closter, NJ 07624, USA*****40.969717,-73.962235
+4 Memorial Dr, Lodi, NJ 07644, USA*****40.875560,-74.085873
+534 Bergen Blvd, Palisades Park, NJ 07650, USA*****40.848007,-73.984385
+199 Kinderkamack Rd, Park Ridge, NJ 07656, USA*****41.036429,-74.029920
+75 Mayhill St, Saddle Brook, NJ 07663, USA*****40.899320,-74.092245
+216 Old Tappan Rd, Westwood, NJ 07675, USA*****41.013793,-73.983787
+315 Pascack Rd, Township of Washington, NJ 07676, USA*****40.986510,-74.062783
+520 Chestnut Ridge Rd, Woodcliff Lake, NJ 07677, USA*****41.043081,-74.070952
+NJ-35, Belmar, NJ, USA*****40.181353,-74.028040
+980 Shrewsbury Ave, Eatontown, NJ 07724, USA*****40.315870,-74.069837
+2101 NJ-35, Holmdel, NJ 07733, USA*****40.414708,-74.144365
+507 Prospect Ave, Little Silver, NJ 07739, USA*****40.339079,-74.040386
+79 Stone Ln, Marlboro Township, NJ 07746, USA*****40.315663,-74.275359
+325 NJ-35, Cliffwood, NJ 07721, USA*****40.437541,-74.225453
+128 NJ-94, Blairstown, NJ 07825, USA*****40.987286,-74.982885
+152 NJ-94, Blairstown, NJ 07825, USA*****40.983690,-74.997037
+431 County Rd 513, Califon, NJ 07830, USA*****40.726612,-74.845322
+125 W Main St, Denville, NJ 07834, USA*****40.894923,-74.484270
+293 US-206 #8, Flanders, NJ 07836, USA*****40.832085,-74.707444
+148 Center Grove Rd, Randolph, NJ 07869, USA*****40.863949,-74.569807
+580 N Main St, Barnegat, NJ 08005, USA*****39.768736,-74.211603
+56 Chambersbridge Rd, Brick Township, NJ 08723, USA*****40.058576,-74.140362
+NJ-35, New Jersey, USA*****39.948980,-74.073470
+NJ-28, New Jersey, USA*****40.567225,-74.538681
+49 US-22, Green Brook Township, NJ 08812, USA*****40.607431,-74.467846
+647 NJ-18, East Brunswick, NJ 08816, USA*****40.431936,-74.391185
+Flemington, NJ 08822, USA*****40.512326,-74.859332
+1185 Amboy Ave, Edison, NJ 08837, USA*****40.536516,-74.346977
+45 Pearl St, Metuchen, NJ 08840, USA*****40.541486,-74.363375
+510 Milltown Rd, North Brunswick Township, NJ 08902, USA*****40.464646,-74.451006
+42 W 39th St, New York, NY 10018, USA*****40.752284,-73.984322
+6400 Amboy Rd, Staten Island, NY 10309, USA*****40.522113,-74.215290
+1511 NY-22, Brewster, NY 10509, USA*****41.419682,-73.577852
+Stoneleigh Ave, Carmel Hamlet, NY 10512, USA*****41.403604,-73.663170
+1905 US-6, Carmel Hamlet, NY 10512, USA*****41.413024,-73.669165
+2005 Albany Post Rd, Croton-On-Hudson, NY 10520, USA*****41.228372,-73.907782
+100 NY-22, Goldens Bridge, NY 10526, USA*****41.293296,-73.675971
+123 Bedford Rd, Katonah, NY 10536, USA*****41.251959,-73.683703
+805 Mamaroneck Ave, Mamaroneck, NY 10543, USA*****40.956694,-73.736845
+3131 E Main St, Mohegan Lake, NY 10547, USA*****41.309757,-73.868519
+24 W Grand St, Mt Vernon, NY 10552, USA*****40.925059,-73.837587
+103 Knollwood Rd, White Plains, NY 10607, USA*****41.038718,-73.806711
+369 Tarrytown Rd, White Plains, NY 10607, USA*****41.041845,-73.796593
+Cedar St, Tuckahoe, NY 10707, USA*****40.952254,-73.827154
+12 Cedar St, Bronxville, NY 10708, USA*****40.938992,-73.833911
+38 Ramapo Rd, Garnerville, NY 10923, USA*****41.200886,-74.000616
+280 S Main St, New City, NY 10956, USA*****41.137709,-73.989706
+2820 Jerusalem Ave, North Bellmore, NY 11710, USA*****40.691908,-73.527441
+722 Walt Whitman Rd, Melville, NY 11747, USA*****40.803970,-73.411166
+1227 NY-52, Fishkill, NY 12524, USA*****41.543125,-73.878593
+829 NY-82, Hopewell Junction, NY 12533, USA*****41.580706,-73.812179
+3101 NY-22, Patterson, NY 12563, USA*****41.516902,-73.591940
+W Tioga St, Tunkhannock, PA 18657, USA*****41.540682,-75.955187
+1315 Seydler St, Gonzales, TX 78629, USA*****29.515701,-97.438323

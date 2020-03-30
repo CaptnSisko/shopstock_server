@@ -1,0 +1,153 @@
+1525 S Arlington Heights Rd, Arlington Heights, IL 60005, USA*****42.055947,-87.980754
+1101 E Algonquin Rd #16, Arlington Heights, IL 60005, USA*****42.038233,-87.968623
+364 E Golf Rd #255, Arlington Heights, IL 60005, USA*****42.051857,-87.977891
+1301 Meijer Dr, Rolling Meadows, IL 60008, USA*****42.047920,-87.996399
+2253 N Richmond Rd, McHenry, IL 60051, USA*****42.359599,-88.269839
+2253 N Richmond Rd, McHenry, IL 60051, USA*****42.359599,-88.269839
+9131 National Ave, Morton Grove, IL 60053, USA*****42.047288,-87.801788
+1727 W Crystal Ln, Mt Prospect, IL 60056, USA*****42.035234,-87.962926
+1966 W Algonquin Rd #2a, Mt Prospect, IL 60056, USA*****42.038566,-87.965286
+2094 W Algonquin Rd, Mt Prospect, IL 60056, USA*****42.039988,-87.967979
+400 S Randall Rd, Algonquin, IL 60102, USA*****42.170134,-88.337434
+130 S Gary Ave, Bloomingdale, IL 60108, USA*****41.955157,-88.122167
+130 S Gary Ave, Bloomingdale, IL 60108, USA*****41.955183,-88.122802
+815 S Randall Rd, Elgin, IL 60123, USA*****42.012313,-88.334255
+808 Illinois Rte 59, Naperville, IL 60540, USA*****41.755647,-88.201983
+855 S Randall Rd, St. Charles, IL 60174, USA*****41.900284,-88.343360
+755 E Boughton Rd #3, Bolingbrook, IL 60440, USA*****41.721215,-88.036003
+130 S Gary Ave, Bloomingdale, IL 60108, USA*****41.955157,-88.122167
+808 Illinois Rte 59, Aurora, IL 60504, USA*****41.767909,-88.208461
+2700 US-34, Oswego, IL 60543, USA*****41.699420,-88.310263
+Meijer 207, 1900 E College Ave, Normal, IL 61761, USA*****40.512498,-88.946590
+6610 S Scatterfield Rd, Anderson, IN 46013, USA*****40.048692,-85.649870
+1425 W Carmel Dr, Carmel, IN 46032, USA*****39.972684,-86.152781
+17000 Mercantile Blvd, Noblesville, IN 46060, USA*****40.035492,-85.991425
+10509 Heartland Blvd, Camby, IN 46113, USA*****39.638412,-86.335409
+150 S Marlin Dr, Greenwood, IN 46142, USA*****39.614282,-86.161959
+10841 E US Hwy 36, Avon, IN 46123, USA*****39.762109,-86.329458
+11351 E Washington St, Indianapolis, IN 46229, USA*****39.774449,-85.964300
+5349 W Pike Plaza Rd Ste A, Indianapolis, IN 46254, USA*****39.827306,-86.252261
+5349 W Pike Plaza Rd, Indianapolis, IN 46254, USA*****39.827306,-86.252261
+8375 E 96th St, Indianapolis, IN 46256, USA*****39.925738,-86.021066
+8241 Plumwood Ln, Indianapolis, IN 46256, USA*****39.902979,-86.000337
+10138 Indianapolis Blvd, Highland, IN 46322, USA*****41.528296,-87.474327
+5150 Franklin St, Michigan City, IN 46360, USA*****41.675461,-86.890079
+611 US-30, Merrillville, IN 46410, USA*****41.467589,-87.345469
+611 E Lincoln Hwy, Merrillville, IN 46410, USA*****41.470923,-87.329941
+4522 Elkhart Rd, Goshen, IN 46526, USA*****41.625707,-85.909314
+3610 Bremen Hwy, Mishawaka, IN 46544, USA*****41.627722,-86.173791
+5020 Grape Rd, Mishawaka, IN 46545, USA*****41.706547,-86.185665
+3600 Portage Rd, South Bend, IN 46628, USA*****41.725950,-86.285745
+1663 Turtle Creek Ct, South Bend, IN 46637, USA*****41.697616,-86.224174
+2990 N Wayne St, Angola, IN 46703, USA*****41.668787,-84.996705
+10301 IN-37, Fort Wayne, IN 46835, USA*****41.133920,-85.012626
+5909 Illinois Rd, Fort Wayne, IN 46804, USA*****41.072814,-85.217143
+6309 Lima Rd, Fort Wayne, IN 46818, USA*****41.137871,-85.164958
+10301 Maysville Rd, Fort Wayne, IN 46815, USA*****41.129906,-85.011604
+2301 E Markland Ave, Kokomo, IN 46901, USA*****40.474283,-86.100892
+2750 Allison Ln, Jeffersonville, IN 47130, USA*****38.323249,-85.709602
+4222 Charlestown Rd, New Albany, IN 47150, USA*****38.349233,-85.794529
+4206 Charlestown Rd, New Albany, IN 47150, USA*****38.347884,-85.796734
+6260 W McGalliard Rd, Muncie, IN 47304, USA*****40.221137,-85.458991
+2507 Chester Blvd, Richmond, IN 47374, USA*****39.868121,-84.886106
+4901 IN-26, Lafayette, IN 47905, USA*****40.415625,-86.812289
+9500 Preston Hwy, Louisville, KY 40229, USA*****38.112444,-85.679811
+4100 Towne Center Dr, Louisville, KY 40241, USA*****38.299219,-85.554010
+9905 Dixie Hwy, Louisville, KY 40272, USA*****38.113518,-85.861578
+4500 S Hurstbourne Pkwy, Louisville, KY 40299, USA*****38.187207,-85.606877
+351 W Reynolds Rd, Lexington, KY 40503, USA*****37.995200,-84.533900
+4990 Houston Rd, Florence, KY 41042, USA*****39.011426,-84.638266
+5400 Alexandria Pike #3, Cold Spring, KY 41076, USA*****38.998172,-84.420818
+305 S Range Rd, Marysville, MI 48040, USA*****42.897375,-82.499232
+205 S Range Rd, Marysville, MI 48040, USA*****42.908692,-82.497271
+4775 24th Ave, Fort Gratiot Twp, MI 48059, USA*****43.046758,-82.459705
+1005 E Thirteen Mile Rd, Madison Heights, MI 48071, USA*****42.522984,-83.097365
+29505 Mound Rd, Warren, MI 48092, USA*****42.509826,-83.048891
+8401 26 Mile Rd, Washington, MI 48094, USA*****42.714207,-83.030935
+5645 Jackson Rd, Ann Arbor, MI 48103, USA*****42.285854,-83.841336
+3145 Ann Arbor-Saline Rd, Ann Arbor, MI 48108, USA*****42.240073,-83.766674
+9701 Belleville Rd, Belleville, MI 48111, USA*****42.232239,-83.483717
+3710 Dix Hwy, Lincoln Park, MI 48146, USA*****42.231876,-83.196047
+20401 Haggerty Rd, Northville, MI 48167, USA*****42.436184,-83.437008
+22600 Allen Rd, Woodhaven, MI 48183, USA*****42.144205,-83.230190
+440 Poplar St, Wyandotte, MI 48192, USA*****42.208833,-83.155716
+3815 Carpenter Rd, Ypsilanti, MI 48197, USA*****42.233969,-83.679437
+3825 Carpenter Rd, Ypsilanti, MI 48197, USA*****42.233595,-83.676396
+815 Randolph Street, Detroit, MI 48226, USA*****42.332851,-83.044133
+3175 S Rochester Rd, Rochester Hills, MI 48307, USA*****42.633837,-83.128376
+15055 Hall Rd, Utica, MI 48315, USA*****42.630109,-82.976701
+47610 Edinborough Ln, Novi, MI 48374, USA*****42.459998,-83.518619
+44900 Grand River Ave, Novi, MI 48375, USA*****42.484995,-83.490746
+6001 Highland Rd, White Lake, MI 48383, USA*****42.650333,-83.531673
+1703 Haggerty Rd, Commerce Charter Twp, MI 48390, USA*****42.547778,-83.442222
+1555 Demille Rd, Lapeer, MI 48446, USA*****43.042868,-83.324493
+1713 Lippincott Blvd, Flint, MI 48503, USA*****43.003859,-83.661102
+4333 W Pierson Rd, Flint, MI 48504, USA*****43.057792,-83.764638
+Nichols Ave, Flint, MI 48507, USA*****42.957180,-83.659291
+G-2333 S Center Rd, Burton, MI 48519, USA*****42.993339,-83.631645
+221 S Mason St, Saginaw, MI 48602, USA*****43.420905,-83.972876
+3360 Tittabawassee Rd, Saginaw, MI 48604, USA*****43.481787,-83.982434
+7300 Eastman Ave, Midland, MI 48642, USA*****43.663185,-84.243356
+595 N Pine Rd, Bay City, MI 48708, USA*****43.582268,-83.839475
+1167 E Clinton Trail, Charlotte, MI 48813, USA*****42.554466,-84.814426
+12021 Cross over Dr, Dewitt, MI 48820, USA*****42.828260,-84.539866
+3883 E Grand River Ave, Howell, MI 48843, USA*****42.588614,-83.877824
+550 Hull Rd, Mason, MI 48854, USA*****42.566182,-84.445086
+1015 E Pickard Rd, Mt Pleasant, MI 48858, USA*****43.612480,-84.763613
+1015 W Pickard Rd, Mt Pleasant, MI 48858, USA*****43.613951,-84.765035
+6200 S Pennsylvania Ave, Lansing, MI 48911, USA*****42.668245,-84.541358
+5125 W Saginaw Hwy, Lansing, MI 48917, USA*****42.739242,-84.623628
+Kalamazoo City Hall, 241 W South St, Kalamazoo, MI 49007, USA*****42.289343,-85.585569
+6660 W Main St, Kalamazoo, MI 49009, USA*****42.297606,-85.679927
+6405 B Dr N, Battle Creek, MI 49014, USA*****42.263289,-85.172886
+2177 W Columbia Ave, Battle Creek, MI 49015, USA*****42.296179,-85.235158
+8850 Shaver Rd, Portage, MI 49024, USA*****42.188903,-85.603971
+620 E Chicago Rd, Coldwater, MI 49036, USA*****41.936223,-84.958995
+1015 W Chicago Rd, Coldwater, MI 49036, USA*****41.935226,-85.061509
+5800 Gull Rd, Kalamazoo, MI 49048, USA*****42.324453,-85.515066
+1195 M-89, Plainwell, MI 49080, USA*****42.452174,-85.660505
+800 S US Hwy 131 Apt S, Three Rivers, MI 49093, USA*****41.934215,-85.654901
+800 S US Hwy 131, Three Rivers, MI 49093, USA*****41.934215,-85.654901
+217 US-223, Adrian, MI 49221, USA*****41.876166,-84.035634
+1801 Marketplace Dr SE, Caledonia, MI 49316, USA*****42.846252,-85.619395
+2799 10 Mile Rd NE, Rockford, MI 49341, USA*****43.120030,-85.601319
+3900 US-10, Ludington, MI 49431, USA*****43.958779,-86.377270
+1800 Holton Rd, North Muskegon, MI 49445, USA*****43.283909,-86.220472
+15400 148th Ave, Spring Lake, MI 49456, USA*****43.048227,-86.156616
+631 3 Mile Rd NE, Grand Rapids, MI 49505, USA*****43.013751,-85.654225
+3757 Plainfield Ave NE, Grand Rapids, MI 49525, USA*****43.032986,-85.628046
+Meijer, 8605 34 Rd, Cadillac, MI 49601, USA*****44.283507,-85.404649
+14398 NY-22, New Lebanon, NY 12125, USA*****42.462841,-73.396058
+5050 N Hamilton Rd, Columbus, OH 43230, USA*****40.060773,-82.860192
+1155 N 21st St, Newark, OH 43055, USA*****40.079936,-82.429451
+Reynoldsburg, OH 43068, USA*****39.951839,-82.788640
+6175 Sawmill Rd, Dublin, OH 43017, USA*****40.092665,-83.094179
+2900 Columbus-Lancaster Rd NW, Lancaster, OH 43130, USA*****39.750089,-82.654927
+5050 N Hamilton Rd, Columbus, OH 43230, USA*****40.060773,-82.860192
+5555 Cleveland Ave, Columbus, OH 43231, USA*****40.081851,-82.952469
+5800 Chantry Dr, Columbus, OH 43232, USA*****39.926185,-82.834700
+2153 Marion-Mt Gilead Rd, Marion, OH 43302, USA*****40.579763,-83.072331
+2111 E Wooster St, Bowling Green, OH 43402, USA*****41.376205,-83.608178
+137 Elliott Rd, Defiance, OH 43512, USA*****41.310098,-84.357491
+7240 Central Ave, Toledo, OH 43617, USA*****41.675663,-83.717388
+1355 N Lexington-Springmill Rd, Ontario, OH 44906, USA*****40.789123,-82.591995
+4702 Milan Rd, Sandusky, OH 44870, USA*****41.411413,-82.664552
+1355 N Lexington-Springmill Rd, Ontario, OH 44906, USA*****40.789123,-82.591995
+1560 Main St, Hamilton, OH 45013, USA*****39.430521,-84.597660
+6325 S Gilmore Rd, Fairfield, OH 45014, USA*****39.305315,-84.527149
+3861 Towne Blvd, Middletown, OH 45005, USA*****39.500188,-84.333541
+7390 Tylersville Rd, West Chester Township, OH 45069, USA*****39.357153,-84.377178
+3911 W SR 22, 3, Loveland, OH 45140, USA*****39.292881,-84.292967
+1082 OH-28, Milford, OH 45150, USA*****39.186009,-84.265820
+4825 Marburg Ave, Cincinnati, OH 45209, USA*****39.161576,-84.427667
+888 Eastgate N Dr, Cincinnati, OH 45245, USA*****39.097907,-84.263785
+6555 Harrison Ave, Cincinnati, OH 45248, USA*****39.193799,-84.661015
+3711 Stone Creek Blvd, Cincinnati, OH 45251, USA*****39.251152,-84.603918
+9200 N Main St, Dayton, OH 45415, USA*****39.857869,-84.276332
+3822 Colonel Glenn Hwy, Fairborn, OH 45324, USA*****39.777390,-84.073723
+1900 W Main St, Troy, OH 45373, USA*****40.054592,-84.242512
+Dayton, OH 45401, USA*****39.758800,-84.178790
+2744 Harshman Rd, Dayton, OH 45424, USA*****39.812596,-84.127856
+5858 N Springboro Pike, Dayton, OH 45449, USA*****39.671040,-84.220165
+3298 Elida Rd, Elida, OH 45807, USA*****40.791364,-84.214276
+2200 Tiffin Ave, Findlay, OH 45840, USA*****41.056322,-83.599922

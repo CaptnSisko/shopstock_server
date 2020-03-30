@@ -1,0 +1,42 @@
+825 N Hervey St, Hope, AR 71801, USA*****33.676667,-93.600064
+305 W Kathleen Ave, Coeur d'Alene, ID 83815, USA*****47.716285,-116.790455
+805 E Polston Ave, Post Falls, ID 83854, USA*****47.715624,-116.936316
+1575 W Garwood Rd, Rathdrum, ID 83858, USA*****47.832494,-116.798230
+15837 N Westwood Dr Ste A, Rathdrum, ID 83858, USA*****47.815614,-116.876650
+215 W Willow St, Lafayette, LA 70501, USA*****30.243957,-92.016163
+3747 Ambassador Caffery Pkwy, Lafayette, LA 70503, USA*****30.172870,-92.065754
+2720 Rodeo Rd, Abbeville, LA 70510, USA*****29.975835,-92.104605
+2210 W Laurel Ave, Eunice, LA 70535, USA*****30.496648,-92.439171
+939 S Lewis St, New Iberia, LA 70560, USA*****29.986314,-91.817968
+2418 S Union St, Opelousas, LA 70570, USA*****30.507675,-92.086210
+737 Shreveport Barksdale Hwy, Bossier City, LA 71112, USA*****32.492254,-93.699536
+2640 Waggoner Ave, Shreveport, LA 71108, USA*****32.454226,-93.780128
+1870 Airline Dr, Bossier City, LA 71112, USA*****32.519647,-93.694552
+2810 Louisville Ave, Monroe, LA 71201, USA*****32.523281,-92.093950
+2211 E Madison Ave, Bastrop, LA 71220, USA*****32.777162,-91.884991
+1500 N Trenton St, Ruston, LA 71270, USA*****32.544891,-92.638004
+1131 N 1st St, Hamilton, MT 59840, USA*****46.259687,-114.158715
+1306 US-93, Polson, MT 59860, USA*****47.692756,-114.140950
+50331 US-93, Polson, MT 59860, USA*****47.691906,-114.145008
+39 Stevensville Cutoff Rd Ste B, Stevensville, MT 59870, USA*****46.521387,-114.111879
+1346 U.S. Hwy 2 E, Kalispell, MT 59901, USA*****48.212129,-114.280397
+2100 9th St W, Columbia Falls, MT 59912, USA*****48.369222,-114.209658
+6475 US-93, Whitefish, MT 59937, USA*****48.394973,-114.333262
+1875 N 1st St, Hermiston, OR 97838, USA*****45.856252,-119.291930
+1205 W Ennis Ave, Ennis, TX 75119, USA*****32.321239,-96.638342
+4811 Wesley St, Greenville, TX 75401, USA*****33.121801,-96.108142
+602 S Jefferson Ave, Mt Pleasant, TX 75455, USA*****33.151213,-94.970077
+2610 Richmond Rd, Texarkana, TX 75503, USA*****33.459767,-94.087693
+1217 E Marshall Ave, Longview, TX 75601, USA*****32.504584,-94.722418
+1800 S High St, Longview, TX 75602, USA*****32.471169,-94.740608
+2301 W Loop 281, Longview, TX 75604, USA*****32.517636,-94.791633
+1808 Gilmer Rd, Longview, TX 75604, USA*****32.524375,-94.780986
+207 E End Blvd N, Marshall, TX 75670, USA*****32.546593,-94.351710
+300 N NW Loop 323, Tyler, TX 75702, USA*****32.356348,-95.343306
+3000 W NW Loop 323, Tyler, TX 75702, USA*****32.378231,-95.335500
+3828 Troup Hwy, Tyler, TX 75703, USA*****32.308174,-95.269260
+5935 Old Bullard Rd, Tyler, TX 75703, USA*****32.285621,-95.306861
+3000 E NE Loop 323, Tyler, TX 75708, USA*****32.387683,-95.267581
+200 E Mountain View Ave, Ellensburg, WA 98926, USA*****46.983886,-120.545233
+830 E 29th Ave, Spokane, WA 99203, USA*****47.626903,-117.400048
+710 S 9th Ave, Walla Walla, WA 99362, USA*****46.055749,-118.347457

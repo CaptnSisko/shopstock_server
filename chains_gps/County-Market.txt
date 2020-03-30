@@ -1,0 +1,37 @@
+3101 W 28th Ave, Pine Bluff, AR 71603, USA*****34.202680,-92.035060
+51 Richards Dr, Fort Madison, IA 52627, USA*****40.631759,-91.351935
+2122 Main St, Keokuk, IA 52632, USA*****40.408031,-91.398036
+415 E 1st St, Gibson City, IL 60936, USA*****40.455698,-88.369990
+210 W 3rd St, Sterling, IL 61081, USA*****41.789325,-89.698806
+1120 N 6th St, Monmouth, IL 61462, USA*****40.923851,-90.641370
+1090 E Fort St, Farmington, IL 61531, USA*****40.697164,-89.987708
+406 W Madison St, Pontiac, IL 61764, USA*****40.879824,-88.633407
+1 E Main St, Danville, IL 61832, USA*****40.124225,-87.629174
+1111 Holiday Dr, Danville, IL 61832, USA*****40.154322,-87.607412
+422 S Market St, Monticello, IL 61856, USA*****40.023090,-88.574574
+520 N 24th St, Quincy, IL 62301, USA*****39.937625,-91.377222
+436 N 30th St, Quincy, IL 62301, USA*****39.936779,-91.367271
+2130 Harrison St, Quincy, IL 62301, USA*****39.912283,-91.382123
+408 Walnut St, Carthage, IL 62321, USA*****40.414619,-91.137476
+825 W Washington St, Pittsfield, IL 62363, USA*****39.605946,-90.818762
+6 N Poplar St, Pana, IL 62557, USA*****39.391129,-89.078755
+IL-16, Shelbyville, IL, USA*****39.406692,-88.790062
+1099 Jason Pl, Chatham, IL 62629, USA*****39.685471,-89.707616
+943 E Laurel Ave, Manito, IL 61546, USA*****40.295611,-90.044759
+1255 W Morton Ave, Jacksonville, IL 62650, USA*****39.721017,-90.252176
+130 E Jefferson St, Rushville, IL 62681, USA*****40.122760,-90.560911
+134 S Liberty St, Rushville, IL 62681, USA*****40.119550,-90.562907
+520 W Clinton St, Rushville, IL 62681, USA*****40.116588,-90.571223
+451 E South Blvd, Crawfordsville, IN 47933, USA*****40.023533,-86.895014
+6363 Hearne Ave, Shreveport, LA 71108, USA*****32.448932,-93.779900
+3709 Greenwood Rd, Shreveport, LA 71109, USA*****32.472640,-93.799161
+1900 Louisville Ave, Monroe, LA 71201, USA*****32.517360,-92.104605
+1131 Oxford St, Worthington, MN 56187, USA*****43.632209,-95.599395
+3001 E Hwy 7, Montevideo, MN 56265, USA*****44.951553,-95.690095
+2101 Clay St, Vicksburg, MS 39183, USA*****32.348973,-90.866247
+Mclaurin Mart, Pearl, MS 39208, USA*****32.274591,-90.132031
+203 2nd Ave NW, Sidney, MT 59270, USA*****47.714684,-104.159715
+201 Hampton Ave, Punxsutawney, PA 15767, USA*****40.945510,-78.968859
+58 W Market St, Elkhorn, WI 53121, USA*****42.692435,-88.544026
+160 Medford Plaza, Medford, WI 54451, USA*****45.139944,-90.331253
+2500 S Main St, Rice Lake, WI 54868, USA*****45.473914,-91.737200

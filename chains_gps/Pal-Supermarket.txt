@@ -1,0 +1,3 @@
+277 James St, Lakewood, NJ 08701, USA*****40.079658,-74.234898
+1031 Nostrand Ave, Brooklyn, NY 11225, USA*****40.663293,-73.950727
+5 9th St, Brooklyn, NY 11215, USA*****40.674684,-73.997460

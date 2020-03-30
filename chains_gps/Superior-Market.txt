@@ -1,0 +1,9 @@
+280 Henry St, New York, NY 10002, USA*****40.713570,-73.983646
+108 W 168th St, The Bronx, NY 10452, USA*****40.838225,-73.924708
+1000 Longwood Ave, The Bronx, NY 10455, USA*****40.816712,-73.897425
+407 Wilson Ave, Brooklyn, NY 11221, USA*****40.694687,-73.914833
+2126 Caton Ave, Brooklyn, NY 11226, USA*****40.652694,-73.959694
+1925 Church Ave, Brooklyn, NY 11226, USA*****40.650241,-73.961491
+48-12 104th St, Flushing, NY 11368, USA*****40.744634,-73.859215
+88-01 Jamaica Ave, Jamaica, NY 11421, USA*****40.692925,-73.856406
+220-33 Jamaica Ave, Jamaica, NY 11428, USA*****40.719726,-73.733401

@@ -1,0 +1,15 @@
+2900 Veterans Memorial Blvd, Metairie, LA 70002, USA*****30.001414,-90.151287
+5245 Veterans Blvd, Metairie, LA 70006, USA*****30.006506,-90.199121
+6930 Veterans Memorial Blvd, Metairie, LA 70003, USA*****30.003853,-90.217693
+1175 Audubon Ave, Thibodaux, LA 70301, USA*****29.782039,-90.807457
+1653 St Mary St, Thibodaux, LA 70301, USA*****29.800601,-90.847931
+1301 St Mary St, Thibodaux, LA 70301, USA*****29.798116,-90.840339
+13980 W Main St, Larose, LA 70373, USA*****29.549196,-90.347259
+9465 E Park Ave, Houma, LA 70363, USA*****29.592670,-90.674785
+561 Grand Caillou Rd, Houma, LA 70363, USA*****29.589291,-90.702441
+516 Justin St, Lockport, LA 70374, USA*****29.642633,-90.541422
+6403 LA-182, Morgan City, LA 70380, USA*****29.698748,-91.195635
+3880 LA-1, Raceland, LA 70394, USA*****29.728066,-90.604172
+1200 US-190 BUS, Covington, LA 70433, USA*****30.474357,-90.084310
+1644 Gause Blvd, Slidell, LA 70458, USA*****30.286193,-89.752810
+4402 E Aloha Dr, Diamondhead, MS 39525, USA*****30.376375,-89.373883

@@ -1,0 +1,13 @@
+50 Boston St, Lynn, MA 01904, USA*****42.477465,-70.955702
+51 Austin St, Charlestown, MA 02129, USA*****42.375979,-71.065859
+45 Beacon Pl, Somerville, MA 02143, USA*****42.377880,-71.104526
+105 Alewife Brook Pkwy, Somerville, MA 02144, USA*****42.406742,-71.132286
+100 Everett Ave STE 12, Chelsea, MA 02150, USA*****42.394267,-71.039460
+651 Squire Rd, Revere, MA 02151, USA*****42.432259,-71.022940
+471 Salem St, Medford, MA 02155, USA*****42.422886,-71.088682
+880 Main St, Melrose, MA 02176, USA*****42.464697,-71.062684
+10 Pleasantview Ave, Weymouth, MA 02188, USA*****42.229663,-70.955325
+35 Pleasant St, South Weymouth, MA 02190, USA*****42.171496,-70.953605
+688 Bedford St, Whitman, MA 02382, USA*****42.079535,-70.947848
+1028 Beacon St, Brookline, MA 02446, USA*****42.346186,-71.108226
+808 Massachusetts Ave, Arlington, MA 02474, USA*****42.417009,-71.160504

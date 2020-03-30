@@ -1,0 +1,19 @@
+2701 Patton Rd SW, Huntsville, AL 35805, USA*****34.712250,-86.625880
+CA-2, Wrightwood, CA, USA*****34.361101,-117.633232
+55 S Dubuque St, North Liberty, IA 52317, USA*****41.743974,-91.592561
+US-231, Dale, IN, USA*****38.172839,-86.998709
+302 S Washington St, Dale, IN 47523, USA*****38.165475,-86.990227
+Ferdinand Rd, Ferdinand Township, IN 47532, USA*****38.219608,-86.852643
+US-231, United States*****38.298953,-86.955447
+847 3rd Ave, Jasper, IN 47546, USA*****38.377810,-86.913386
+15 N Kringle Pl, Santa Claus, IN 47579, USA*****38.119692,-86.924964
+Holly, Santa Claus, IN 47579, USA*****38.124789,-86.917922
+12 N Kringle Pl, Santa Claus, IN 47579, USA*****38.119333,-86.924287
+422 N 5th St, Rockport, IN 47635, USA*****37.887743,-87.050326
+524 N 5th St, Rockport, IN 47635, USA*****37.887790,-87.050315
+760 IN-68, Haubstadt, IN 47639, USA*****38.199925,-87.566536
+107 S McCreary St, Fort Branch, IN 47648, USA*****38.247204,-87.580628
+422 W 5th St, Owensboro, KY 42301, USA*****37.771388,-87.114679
+1732 Connelly Springs Rd, Lenoir, NC 28645, USA*****35.850726,-81.540937
+933 Wilkesboro Blvd NE, Lenoir, NC 28645, USA*****35.924576,-81.505184
+4303 Kingwood Dr, Humble, TX 77339, USA*****30.049913,-95.186538

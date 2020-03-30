@@ -1,0 +1,6 @@
+1420 Southgate Ave, Daly City, CA 94015, USA*****37.675142,-122.478655
+1015 El Camino Real, South San Francisco, CA 94080, USA*****37.654933,-122.435311
+3573 Callan Blvd, South San Francisco, CA 94080, USA*****37.643394,-122.463619
+2900 Alemany Blvd, San Francisco, CA 94112, USA*****37.712001,-122.452828
+94-300 Farrington Hwy, Waipahu, HI 96797, USA*****21.381271,-158.018722
+94-500 Farrington Hwy, Waipahu, HI 96797, USA*****21.382629,-158.012839

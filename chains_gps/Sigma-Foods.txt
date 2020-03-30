@@ -1,0 +1,19 @@
+3320 E Van Buren St, Phoenix, AZ 85008, USA*****33.451379,-112.009938
+4919 Alcoa Ave, Vernon, CA 90058, USA*****33.999434,-118.209426
+538 S 6th Ave, City of Industry, CA 91746, USA*****34.029213,-117.983931
+1501 E California Ave, Bakersfield, CA 93307, USA*****35.368184,-118.982238
+392 Railroad Ct, Milpitas, CA 95035, USA*****37.436707,-121.906330
+4330 S Idalia Way, Aurora, CO 80015, USA*****39.637844,-104.806134
+5265 Fairplay St, Denver, CO 80239, USA*****39.789355,-104.812562
+10025 NW 116th Way, Medley, FL 33178, USA*****25.873743,-80.362298
+1265 Oakbrook Dr, Norcross, GA 30093, USA*****33.917496,-84.183569
+420 Darrow Dr, Duluth, GA 30097, USA*****34.001234,-84.204040
+7380 Eastgate Rd, Henderson, NV 89011, USA*****36.052828,-115.019074
+1405 S Belt Line Rd #200, Coppell, TX 75019, USA*****32.934456,-96.994581
+Houston, TX 77001, USA*****29.770000,-95.370000
+4400 Blalock Rd, Houston, TX 77041, USA*****29.835630,-95.523265
+521 N Sam Houston Pkwy E, Houston, TX 77060, USA*****29.940914,-95.391419
+110 Cypress Station Dr, Houston, TX 77090, USA*****30.033324,-95.430527
+1240 Vo Tech Dr, Weslaco, TX 78599, USA*****26.173614,-97.965367
+6625 19th St, Lubbock, TX 79407, USA*****33.577172,-101.961533
+3664 S 5200 W, West Valley City, UT 84120, USA*****40.692434,-112.016059

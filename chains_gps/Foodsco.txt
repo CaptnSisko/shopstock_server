@@ -1,0 +1,19 @@
+1850 W Lacey Blvd, Hanford, CA 93230, USA*****36.328894,-119.676172
+1210 E Prosperity Ave, Tulare, CA 93274, USA*****36.226825,-119.327504
+3637 S Mooney Blvd, Visalia, CA 93277, USA*****36.297547,-119.315506
+1801 White Ln, Bakersfield, CA 93304, USA*****35.315892,-119.022898
+8200 Rosedale Hwy, Bakersfield, CA 93312, USA*****35.385696,-119.093352
+601 W Central Ave, Lompoc, CA 93436, USA*****34.662669,-120.463306
+1465 S Broadway, Santa Maria, CA 93454, USA*****34.935337,-120.437634
+3657 W Shaw Ave, Fresno, CA 93711, USA*****36.805942,-119.859733
+3053 E Shields Ave, Fresno, CA 93726, USA*****36.781095,-119.773908
+4838 E Kings Canyon Rd, Fresno, CA 93727, USA*****36.734413,-119.734904
+1030 E Alisal St, Salinas, CA 93905, USA*****36.671457,-121.625987
+2443 H Dela Rosa Sr St, Soledad, CA 93960, USA*****36.414171,-121.320028
+1401 Broadway, Redwood City, CA 94063, USA*****37.486061,-122.216549
+1800 Folsom St, San Francisco, CA 94103, USA*****37.767619,-122.416173
+345 Williams Ave, San Francisco, CA 94124, USA*****37.729787,-122.398853
+1250 Macdonald Ave, Richmond, CA 94801, USA*****37.934948,-122.357981
+5330 Stockton Blvd, Sacramento, CA 95820, USA*****38.526950,-121.444449
+7421 W Stockton Blvd, Sacramento, CA 95823, USA*****38.456612,-121.415439
+8122 Gerber Rd, Sacramento, CA 95828, USA*****38.480329,-121.407580

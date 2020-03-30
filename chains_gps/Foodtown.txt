@@ -1,0 +1,114 @@
+13 N Santa Cruz Ave, Eloy, AZ 85131, USA*****32.749429,-111.548787
+1019 W Martin Luther King Jr Blvd, Los Angeles, CA 90037, USA*****34.011739,-118.292356
+200 Eureka Dr, Pacifica, CA 94044, USA*****37.632912,-122.487763
+832 Montezuma Dr, Pacifica, CA 94044, USA*****37.590025,-122.496541
+3049 Sacramento St, Berkeley, CA 94702, USA*****37.851671,-122.278392
+1450 N Courtenay Pkwy, Merritt Island, FL 32953, USA*****28.382912,-80.701170
+1960 Opa-Locka Blvd, Opa-locka, FL 33054, USA*****25.897821,-80.232153
+210 E McNab Rd, Pompano Beach, FL 33060, USA*****26.210851,-80.119021
+Hillsboro Beach, FL 33062, USA*****26.247448,-80.092601
+6431 Stirling Rd, Davie, FL 33314, USA*****26.047178,-80.232393
+5335 N Military Trl, West Palm Beach, FL 33407, USA*****26.758607,-80.110579
+1903 E 131st Ave, Tampa, FL 33612, USA*****28.065302,-82.438396
+2435 US Hwy 98 N, Lakeland, FL 33805, USA*****28.074930,-81.958681
+935 E 79th St, Chicago, IL 60619, USA*****41.751048,-87.601318
+4401 N Hazel St, Chicago, IL 60640, USA*****41.961957,-87.652199
+26650 IL-3, Olive Branch, IL 62969, USA*****37.167083,-89.347418
+275 W Center St, Madisonville, KY 42431, USA*****37.329075,-87.503442
+1918 Benton Rd, Bossier City, LA 71111, USA*****32.538140,-93.720940
+7375 Secor Rd, Lambertville, MI 48144, USA*****41.748272,-83.626893
+211 N Telegraph Rd, Monroe, MI 48162, USA*****41.926125,-83.414904
+32825 Fort Rd, Rockwood, MI 48173, USA*****42.067998,-83.248797
+8926 Lewis Ave, Temperance, MI 48182, USA*****41.777896,-83.568218
+3000 Van Horn Rd, Trenton, MI 48183, USA*****42.127869,-83.204835
+7811 Gratiot Ave, Detroit, MI 48213, USA*****42.378297,-83.015576
+Emerson, NE 68733, USA*****42.278609,-96.726705
+Hartington, NE 68739, USA*****42.622499,-97.264499
+215 Blair Rd, Avenel, NJ 07001, USA*****40.573925,-74.259583
+597 Pompton Ave, Cedar Grove, NJ 07009, USA*****40.853811,-74.228662
+1 Schuyler Ave, North Arlington, NJ 07031, USA*****40.778382,-74.130878
+435 N Beverwyck Rd, Lake Hiawatha, NJ 07034, USA*****40.876278,-74.381381
+53 S Jefferson St, City of Orange, NJ 07050, USA*****40.774913,-74.238383
+510 W Inman Ave, Rahway, NJ 07065, USA*****40.600239,-74.295845
+510 Inman Ave, Colonia, NJ 07067, USA*****40.599768,-74.324929
+211 Morris Ave, Springfield Township, NJ 07081, USA*****40.710196,-74.310813
+525 Irvington Ave, Newark, NJ 07106, USA*****40.735995,-74.249570
+550 Raritan Rd, Roselle, NJ 07203, USA*****40.645452,-74.272493
+1068 High Mountain Rd, North Haledon, NJ 07508, USA*****40.972312,-74.191426
+408 Haledon Ave, Haledon, NJ 07508, USA*****40.938417,-74.181336
+39 Sunset Ave, Red Bank, NJ 07701, USA*****40.339632,-74.073408
+NJ-35 & Sea Girt Ave, Wall Township, NJ 08736, USA*****40.135648,-74.063691
+36 NJ-36, Belford, NJ 07718, USA*****40.420493,-74.092433
+362 Broad St, Red Bank, NJ 07701, USA*****40.339736,-74.064344
+1560 NJ-35, Ocean Township, NJ 07712, USA*****40.250406,-74.040960
+2201 Sunset Ave, Ocean Township, NJ 07712, USA*****40.232524,-74.026432
+18th Ave, Belmar, NJ 07719, USA*****40.169560,-74.032972
+9 Tennent Rd, Manalapan Township, NJ 07726, USA*****40.281673,-74.330484
+597 Park Ave, Freehold Township, NJ 07728, USA*****40.250258,-74.269926
+150 West End Ct, Long Branch, NJ 07740, USA*****40.283149,-73.989155
+Middletown, NJ 07748, USA*****40.392536,-74.118123
+116 3rd Ave, Neptune City, NJ 07753, USA*****40.202381,-74.028972
+75 NJ-36, Keansburg, NJ 07734, USA*****40.436110,-74.134248
+559 E Main St, Denville, NJ 07834, USA*****40.874434,-74.482144
+140 Park Rd, Tabor, NJ 07878, USA*****40.867698,-74.472939
+235 Ridgedale Ave, Cedar Knolls, NJ 07927, USA*****40.808871,-74.458638
+45 S New York Rd, Galloway, NJ 08205, USA*****39.487955,-74.462906
+NJ-35, Point Pleasant Beach, NJ, USA*****40.091218,-74.048167
+505 Richmond Ave, Point Pleasant Beach, NJ 08742, USA*****40.091159,-74.050300
+1 NJ-37 #12, Toms River, NJ 08753, USA*****39.962010,-74.203808
+1 NJ-37, Toms River, NJ 08753, USA*****39.962010,-74.203808
+943 Fischer Blvd, Toms River, NJ 08753, USA*****39.977123,-74.137680
+1 Easton Rd, Toms River, NJ 08757, USA*****39.961572,-74.281959
+333 Atlantic City Blvd, Toms River, NJ 08757, USA*****39.943578,-74.194430
+145 Talmadge Rd, Edison, NJ 08817, USA*****40.535230,-74.391368
+Wood Ave & Oak Tree Rd, Edison, NJ 08820, USA*****40.573006,-74.336108
+611 Bordentown Ave, South Amboy, NJ 08879, USA*****40.474565,-74.286399
+20 Elizabeth St, New Brunswick, NJ 08901, USA*****40.478346,-74.461202
+608 Adams St NE, Albuquerque, NM 87110, USA*****35.087888,-106.593834
+Crescent Valley, NV 89821, USA*****40.416028,-116.576475
+756 St Nicholas Ave, New York, NY 10031, USA*****40.825891,-73.943008
+885 Gerard Ave, The Bronx, NY 10452, USA*****40.828169,-73.924918
+1489 West Ave, The Bronx, NY 10462, USA*****40.837318,-73.861491
+5555 Broadway, The Bronx, NY 10463, USA*****40.878625,-73.905440
+283 E 204th St, The Bronx, NY 10467, USA*****40.873569,-73.878701
+49 Chestnut St, Cold Spring, NY 10516, USA*****41.417754,-73.951642
+31 E Prospect Ave, Mt Vernon, NY 10550, USA*****40.912974,-73.835933
+444 S Fulton Ave, Mt Vernon, NY 10553, USA*****40.901546,-73.827341
+772 Palisade Ave, Yonkers, NY 10703, USA*****40.960057,-73.885137
+6 McLean Ave, Yonkers, NY 10705, USA*****40.920801,-73.895702
+41-25 Greenpoint Ave, Long Island City, NY 11104, USA*****40.740650,-73.923215
+2772 Fulton St, Brooklyn, NY 11207, USA*****40.677794,-73.892223
+9105 3rd Ave, Brooklyn, NY 11209, USA*****40.619971,-74.032315
+1406 Fulton St, Brooklyn, NY 11216, USA*****40.680101,-73.944565
+382 McDonald Ave, Brooklyn, NY 11218, USA*****40.644653,-73.980133
+1958 Ralph Ave, Brooklyn, NY 11234, USA*****40.629869,-73.918989
+40-28 Main St, Flushing, NY 11354, USA*****40.758765,-73.830113
+135-46 Lefferts Blvd, Jamaica, NY 11420, USA*****40.669236,-73.821691
+202-15 Hillside Avenue, Jamaica, NY 11423, USA*****40.720761,-73.761675
+169-28 Hillside Avenue, Jamaica, NY 11432, USA*****40.710856,-73.792025
+5094 NY-22, Amenia, NY 12501, USA*****41.858730,-73.551251
+3042 NY-22, Dover Plains, NY 12522, USA*****41.733874,-73.580506
+7516 St Clair Ave, Cleveland, OH 44103, USA*****41.528979,-81.636280
+15545 Euclid Ave, East Cleveland, OH 44112, USA*****41.539760,-81.572539
+2892 E 116th St, Cleveland, OH 44120, USA*****41.480195,-81.603304
+121 Blossom Centre Blvd, Willard, OH 44890, USA*****41.040902,-82.724815
+458 Buntyn St, Memphis, TN 38111, USA*****35.119633,-89.971193
+5 Uvalde Rd, Houston, TX 77015, USA*****29.805363,-95.181142
+1455 Wilcrest Dr, Houston, TX 77042, USA*****29.748526,-95.570915
+8620 Cullen Blvd, Houston, TX 77051, USA*****29.667907,-95.356052
+8628 Cullen Blvd, Houston, TX 77051, USA*****29.667476,-95.355711
+440 W Little York Rd, Houston, TX 77076, USA*****29.871312,-95.405654
+7426 Airline Dr, Houston, TX 77076, USA*****29.869516,-95.383404
+10902 Scarsdale Blvd, Houston, TX 77089, USA*****29.584739,-95.211906
+15875 Farm to Market Rd 529, Houston, TX 77095, USA*****29.877769,-95.648633
+11873 Bissonnet St, Houston, TX 77099, USA*****29.674117,-95.586030
+Houston, TX 77210, USA*****29.770000,-95.370000
+2477 Louetta Rd, Spring, TX 77388, USA*****30.059061,-95.454049
+13811 Cypress North Houston Rd, Cypress, TX 77429, USA*****29.946366,-95.629859
+9129 TX-60, East Bernard, TX 77435, USA*****29.521442,-96.069292
+1130 Eldridge Rd, Sugar Land, TX 77478, USA*****29.637577,-95.617294
+Pasadena, TX 77502, USA*****29.681352,-95.200573
+1700 Decker Dr, Baytown, TX 77520, USA*****29.740304,-94.979274
+3322 Center St, Deer Park, TX 77536, USA*****29.681228,-95.124803
+4790 N Hopkins St, Milwaukee, WI 53209, USA*****43.104456,-87.959631
+6608 W Fond Du Lac Ave, Milwaukee, WI 53218, USA*****43.104530,-87.994010

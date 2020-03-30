@@ -1,0 +1,48 @@
+4330 48th St NW, Washington, DC 20016, USA*****38.945845,-77.095043
+700 Plaza Dr, Newark, DE 19702, USA*****39.626550,-75.746253
+2105 Philadelphia Pike, Claymont, DE 19703, USA*****39.790882,-75.473888
+401 New London Rd, Newark, DE 19711, USA*****39.693909,-75.764857
+4301 N Market St, Wilmington, DE 19802, USA*****39.761735,-75.520345
+41 Greentree Dr, Dover, DE 19901, USA*****39.160415,-75.554144
+609 N Dupont Blvd, Milford, DE 19963, USA*****38.917996,-75.443996
+DE-1A, Rehoboth Beach, DE 19971, USA*****38.716115,-75.081894
+1700 N Lewis Ave, Waukegan, IL 60085, USA*****42.383858,-87.856668
+12028 Cherry Hill Rd, Silver Spring, MD 20904, USA*****39.054890,-76.956564
+16 1st Ave, Glen Burnie, MD 21060, USA*****39.151254,-76.592940
+7280 Montgomery Rd, Elkridge, MD 21075, USA*****39.207015,-76.729368
+37 W Aylesbury Rd, Lutherville-Timonium, MD 21093, USA*****39.437374,-76.627396
+222 N Charles St, Baltimore, MD 21201, USA*****39.291975,-76.615823
+5200 Elmer Ave, Baltimore, MD 21215, USA*****39.347880,-76.678708
+5101 East Dr, Halethorpe, MD 21227, USA*****39.252500,-76.692624
+7709 Harford Rd, Parkville, MD 21234, USA*****39.372482,-76.541705
+1763 Chesaco Ave, Rosedale, MD 21237, USA*****39.330486,-76.520507
+1238 Putty Hill Ave, Towson, MD 21286, USA*****39.394751,-76.582139
+780 Cambridge Plaza, Cambridge, MD 21613, USA*****38.559200,-76.061287
+17 Washington Square, Washington Square Shopping Center, Chestertown, MD 21620, USA*****39.229922,-76.070377
+5830 Ballenger Creek Pike, Frederick, MD 21703, USA*****39.393225,-77.440135
+40 Souder Rd, Brunswick, MD 21716, USA*****39.323670,-77.623720
+125 W College Ave, Salisbury, MD 21804, USA*****38.349550,-75.599681
+12741 Ocean Gateway #600, Ocean City, MD 21842, USA*****38.337998,-75.106474
+9601 Coastal Hwy, Ocean City, MD 21842, USA*****38.410567,-75.059023
+2101 4th St NW, Austin, MN 55912, USA*****43.687889,-92.980505
+609 E Bay Ave, Manahawkin, NJ 08050, USA*****39.685083,-74.239020
+38 W Railroad Ave, Mt Holly, NJ 08060, USA*****39.983263,-74.758273
+709 S Broadway, Pennsville, NJ 08070, USA*****39.612247,-75.504558
+800 West Ave, Ocean City, NJ 08226, USA*****39.280545,-74.576993
+6825 Tilton Rd, Egg Harbor Township, NJ 08234, USA*****39.389058,-74.559951
+2465 S Broad St, Trenton, NJ 08610, USA*****40.192111,-74.720517
+10 Newberry Commons, Goldsboro, PA 17319, USA*****40.157206,-76.821820
+200 N Best Ave, Walnutport, PA 18088, USA*****40.759789,-75.593635
+322 W Bridge St, New Hope, PA 18938, USA*****40.364288,-74.965861
+731 PA-113, Souderton, PA 18964, USA*****40.315147,-75.307417
+2100 County Line Rd, Huntingdon Valley, PA 19006, USA*****40.169333,-75.073020
+Hoffman Park, 34 Scottdale Rd, Lansdowne, PA 19050, USA*****39.931058,-75.281609
+1305 West Chester Pike, Havertown, PA 19083, USA*****39.973981,-75.320656
+309 S 5th St, Philadelphia, PA 19106, USA*****39.944341,-75.149886
+10 Station Ln, Philadelphia, PA 19118, USA*****40.076413,-75.202151
+4501 Woodhaven Rd, Philadelphia, PA 19154, USA*****40.083729,-74.966130
+863 E Baltimore Pike, Kennett Square, PA 19348, USA*****39.862383,-75.681425
+1301 W Skippack Pike #8, Blue Bell, PA 19422, USA*****40.167292,-75.287199
+130 W Main St #100, Collegeville, PA 19426, USA*****40.194589,-75.468507
+616 E Main St, Lansdale, PA 19446, USA*****40.232796,-75.270991
+Camino De La Rosa Rd, San Elizario, TX 79849, USA*****31.591400,-106.263775

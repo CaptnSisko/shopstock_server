@@ -1,0 +1,6 @@
+800 Hooper Rd, Endicott, NY 13760, USA*****42.129474,-76.028002
+Binghamton, NY 13901, USA*****42.201464,-75.876633
+50 Pennsylvania Ave, Binghamton, NY 13903, USA*****42.086132,-75.917109
+370 Conklin Ave, Binghamton, NY 13903, USA*****42.098979,-75.881784
+160 Robinson St, Binghamton, NY 13904, USA*****42.106589,-75.889158
+56 Main St, Binghamton, NY 13905, USA*****42.099597,-75.920239

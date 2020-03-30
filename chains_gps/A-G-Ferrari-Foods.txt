@@ -1,0 +1,4 @@
+1050 El Camino Real, Belmont, CA 94002, USA*****37.519750,-122.275535
+468 Castro St, San Francisco, CA 94114, USA*****37.761419,-122.435331
+200 Hamilton Ave, Palo Alto, CA 94301, USA*****37.443922,-122.161247
+2905 College Ave, Berkeley, CA 94705, USA*****37.858177,-122.252937

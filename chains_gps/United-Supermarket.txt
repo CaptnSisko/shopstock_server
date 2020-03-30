@@ -1,0 +1,75 @@
+8058 S Kimbark Ave, Chicago, IL 60619, USA*****41.747917,-87.593128
+Purcell, OK, USA*****35.013683,-97.361139
+1600 N Green Ave, Purcell, OK 73080, USA*****35.030489,-97.364908
+810 E Main St, Weatherford, OK 73096, USA*****35.526046,-98.698520
+5324 NW Cache Rd, Lawton, OK 73505, USA*****34.622408,-98.460648
+600 E Broadway St, Altus, OK 73521, USA*****34.637082,-99.326821
+Altus, OK 73522, USA*****34.640068,-99.335499
+423 E Broadway St, Hollis, OK 73550, USA*****34.681239,-99.913988
+1029 S 10th St, Clinton, OK 73601, USA*****35.503916,-98.971947
+1029 S 10th St, Clinton, OK 73601, USA*****35.503910,-98.970858
+Clinton, OK, USA*****35.515606,-98.967307
+1428 N Glenn L English St, New Cordell, OK 73632, USA*****35.305292,-98.986219
+2700 W 3rd St, Elk City, OK 73644, USA*****35.410385,-99.436090
+319 S Broadway Ave, Hobart, OK 73651, USA*****35.025548,-99.096107
+429 N 4th St, Sayre, OK 73662, USA*****35.295277,-99.640477
+8th St & Downs Ave, Woodward, OK 73801, USA*****36.419043,-99.389410
+8th St & Downs Ave, Woodward, OK 73801, USA*****36.419043,-99.389410
+1849 W 4th St, Bartlesville, OK 74003, USA*****36.749854,-95.999949
+4th St, Ponca City, OK 74601, USA*****36.682425,-97.080568
+904 S 4th St, Ponca City, OK 74601, USA*****36.694785,-97.080729
+1221 W Doolin Ave, Blackwell, OK 74631, USA*****36.810260,-97.298158
+140 S Heartz Rd, Coppell, TX 75019, USA*****32.967126,-96.988562
+7830 Orland Park Cir, Fort Worth, TX 76137, USA*****32.882221,-97.288772
+4516 Old Jacksboro Hwy, Wichita Falls, TX 76302, USA*****33.864813,-98.495051
+2522 Old Iowa Park Rd, Wichita Falls, TX 76306, USA*****33.928547,-98.517777
+2622 Old Iowa Park Rd, Wichita Falls, TX 76306, USA*****33.928075,-98.519981
+5320 Whispering Creek Ln, Wichita Falls, TX 76310, USA*****33.895316,-98.577295
+311 S Ave D, Burkburnett, TX 76354, USA*****34.090183,-98.570868
+2900 Wilbarger St, Vernon, TX 76384, USA*****34.153083,-99.298031
+1922 Roadrunner Rd, Graford, TX 76449, USA*****32.889329,-98.482206
+1414 W Wilson St, Borger, TX 79007, USA*****35.659921,-101.411471
+200 N 23rd St, Canyon, TX 79015, USA*****34.984021,-101.918555
+1016 Santa Fe Trail, Canyon, TX 79015, USA*****34.972012,-101.943655
+1910 3rd Ave, Canyon, TX 79015, USA*****34.980646,-101.922728
+1601 Tennessee Ave, Dalhart, TX 79022, USA*****36.050412,-102.512518
+1420 Guy Lane Plz United Supermarkets, Dumas, TX 79029, USA*****35.848957,-101.975493
+2806 S Main St, Perryton, TX 79070, USA*****36.372219,-100.804765
+2802 US-83, Perryton, TX 79070, USA*****36.372334,-100.803046
+2403 N Columbia St, Plainview, TX 79072, USA*****34.201512,-101.707662
+3501 Olton Rd, Plainview, TX 79072, USA*****34.186359,-101.746177
+1414 W Wilson St, Borger, TX 79007, USA*****35.659927,-101.411552
+3300 E I-40, Amarillo, TX 79103, USA*****35.192138,-101.798366
+6680 Woodward St #104, Amarillo, TX 79106, USA*****35.195717,-101.911408
+5601 W Amarillo Blvd, Amarillo, TX 79106, USA*****35.214562,-101.900222
+1501 E Amarillo Blvd, Amarillo, TX 79107, USA*****35.222668,-101.815721
+3400 River Rd, Amarillo, TX 79107, USA*****35.248217,-101.830081
+5807 SW 45th Ave, Amarillo, TX 79109, USA*****35.160549,-101.900613
+2530 S Georgia St, Amarillo, TX 79109, USA*****35.186875,-101.866832
+4701 S Washington St, Amarillo, TX 79110, USA*****35.161787,-101.846585
+7912 Fenley Dr, Amarillo, TX 79121, USA*****35.180471,-101.935097
+2103 Ave F NW, Childress, TX 79201, USA*****34.434871,-100.228065
+100 W 11th St, Quanah, TX 79252, USA*****34.289716,-99.742035
+1401 Tahoka Rd, Brownfield, TX 79316, USA*****33.182179,-102.256437
+2302 Lubbock Hwy, Lamesa, TX 79331, USA*****32.755503,-101.949696
+1306 Ave K, Levelland, TX 79336, USA*****33.578853,-102.381967
+511 College Ave, Levelland, TX 79336, USA*****33.588837,-102.366524
+703 W Marshall Howard Blvd, Littlefield, TX 79339, USA*****33.906892,-102.337529
+104 W 9th St, Muleshoe, TX 79347, USA*****34.231461,-102.733533
+507 W 2nd St, Muleshoe, TX 79347, USA*****34.222782,-102.727921
+123 N Broadway St, Post, TX 79356, USA*****33.192247,-101.378657
+1900 W Division St, Slaton, TX 79364, USA*****33.434494,-101.666349
+1318 Broadway St, Lubbock, TX 79401, USA*****33.584775,-101.849881
+2630 Parkway Dr, Lubbock, TX 79403, USA*****33.597067,-101.808431
+5801 M.L.K. Jr Blvd, Lubbock, TX 79404, USA*****33.539693,-101.812914
+5001 Marsha Sharp Fwy, Lubbock, TX 79407, USA*****33.564464,-101.919456
+1701 50th St, Lubbock, TX 79412, USA*****33.547839,-101.855605
+112 N University Ave, Lubbock, TX 79415, USA*****33.599137,-101.868946
+401 Slide Rd, Lubbock, TX 79416, USA*****33.591690,-101.920947
+Kingsgate professional building, 4010 82nd St, Lubbock, TX 79423, USA*****33.520697,-101.900668
+7830 Orlando Ave, Lubbock, TX 79423, USA*****33.521214,-101.902451
+8010 Frankford Ave, Lubbock, TX 79424, USA*****33.520494,-101.941959
+3500 College Ave, Snyder, TX 79549, USA*****32.706827,-100.917577
+1095 N Judge Ely Blvd, Abilene, TX 79601, USA*****32.461797,-99.705134
+3301 S 14th St, Abilene, TX 79605, USA*****32.431576,-99.765628
+4209 Buffalo Gap Rd, Abilene, TX 79606, USA*****32.399314,-99.757674

@@ -1,0 +1,13 @@
+137 N Brindlee Mountain Pkwy, Arab, AL 35016, USA*****34.318559,-86.504945
+2861 AL-101, Rogersville, AL 35652, USA*****34.852578,-87.391693
+3536 Harding Ave Fl 1st, Honolulu, HI 96816, USA*****21.281968,-157.800951
+2315 W Taylor St, Chicago, IL 60612, USA*****41.868760,-87.684340
+5401 Collinsville Rd, Fairmont City, IL 62201, USA*****38.660817,-90.091224
+223 W G L Smith St, Morgantown, KY 42261, USA*****37.233818,-86.693580
+2234 Massachusetts Ave, Cambridge, MA 02140, USA*****42.393781,-71.126493
+204 Cortelyou Rd, Brooklyn, NY 11218, USA*****40.637895,-73.977145
+4935 Tuscarawas Rd, Beaver, PA 15009, USA*****40.705292,-80.404396
+6047 National Pike E, Grindstone, PA 15442, USA*****40.006837,-79.865821
+9001 Jensen Dr, Houston, TX 77093, USA*****29.842162,-95.344404
+18 Perry Morris Square, Milton, WV 25541, USA*****38.436153,-82.130578
+311 S Virginia Ave, Bridgeport, WV 26330, USA*****39.281295,-80.257158

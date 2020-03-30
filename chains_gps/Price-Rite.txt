@@ -1,0 +1,18 @@
+160 Silas Deane Hwy, Wethersfield, CT 06109, USA*****41.722614,-72.666809
+164 Boston Ave, Stratford, CT 06614, USA*****41.192972,-73.150735
+706 N Clinton St, Bloomington, IL 61701, USA*****40.484384,-88.985172
+1600 Memorial Dr, Chicopee, MA 01020, USA*****42.200756,-72.574300
+5 Sibley Ave, Westfield, MA 01085, USA*****42.127232,-72.748899
+633 Boston Rd, Springfield, MA 01119, USA*****42.133529,-72.521777
+457 Dalton Ave, Pittsfield, MA 01201, USA*****42.464789,-73.214918
+866 Pleasant St, Fall River, MA 02723, USA*****41.696631,-71.140659
+39 South St, New Bedford, MA 02740, USA*****41.625534,-70.920822
+58 Swansea Mall Dr, Swansea, MA 02777, USA*****41.750411,-71.215586
+64-01 Fresh Pond Rd, Queens, NY 11385, USA*****40.710201,-73.898918
+2230 Watt St, Schenectady, NY 12304, USA*****42.785242,-73.919150
+2330 Watt St, Schenectady, NY 12304, USA*****42.784143,-73.918366
+326 W Delavan Ave, Buffalo, NY 14213, USA*****42.922279,-78.887482
+925 Providence Rd, Clifton Heights, PA 19018, USA*****39.919081,-75.302308
+951 N 6th St, Reading, PA 19601, USA*****40.349413,-75.924969
+465 Lonsdale Ave, Pawtucket, RI 02860, USA*****41.881403,-71.399923
+2000 Diamond Hill Rd #3, Woonsocket, RI 02895, USA*****42.016993,-71.471347

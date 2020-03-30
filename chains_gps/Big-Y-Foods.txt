@@ -1,0 +1,65 @@
+3 Colonial Rd B, Canton, CT 06019, USA*****41.823201,-72.875217
+135 West Rd, Ellington, CT 06029, USA*****41.887256,-72.461166
+275 New Britain Ave, Plainville, CT 06062, USA*****41.677084,-72.839550
+81 Vernon Ave, Vernon, CT 06066, USA*****41.860326,-72.449381
+1040 Elm St, Rocky Hill, CT 06067, USA*****41.658474,-72.676195
+W Stafford Rd, Stafford, CT 06076, USA*****41.967295,-72.330164
+87 W Stafford Rd, Stafford Springs, CT 06076, USA*****41.969473,-72.328538
+65 Palomba Dr, Enfield, CT 06082, USA*****41.990504,-72.569606
+152 Merrow Rd, Tolland, CT 06084, USA*****41.860555,-72.356919
+195 Merrow Rd, Tolland, CT 06084, USA*****41.860638,-72.353423
+67 Prospect Hill Rd, East Windsor, CT 06088, USA*****41.922346,-72.608216
+995 Poquonock Ave, Windsor, CT 06095, USA*****41.881167,-72.667452
+114 Dibble Hollow Ln, Windsor Locks, CT 06096, USA*****41.916021,-72.634409
+287 Ellington Rd, East Hartford, CT 06108, USA*****41.794971,-72.621870
+141 Storrs Rd, Mansfield Center, CT 06250, USA*****41.738062,-72.199920
+995 Poquonnock Rd, Groton, CT 06340, USA*****41.344879,-72.049137
+83 Lathrop Rd, Plainfield, CT 06374, USA*****41.661912,-71.913319
+404 Main St, Ansonia, CT 06401, USA*****41.337989,-73.076026
+1289 Foxon Rd, North Branford, CT 06471, USA*****41.325677,-72.780827
+850 Boston Post Rd, Guilford, CT 06437, USA*****41.287905,-72.677357
+535 Monroe Turnpike, Monroe, CT 06468, USA*****41.319099,-73.214191
+6 Queen St, Newtown, CT 06470, USA*****41.412418,-73.304296
+345 Washington Ave, North Haven, CT 06473, USA*****41.406676,-72.846644
+355 Hawley Ave, Bridgeport, CT 06606, USA*****41.199661,-73.203434
+85 Bridge St, Naugatuck, CT 06770, USA*****41.500558,-73.052149
+3 Kent Rd, New Milford, CT 06776, USA*****41.574453,-73.419620
+504 Winsted Rd, Torrington, CT 06790, USA*****41.825540,-73.110342
+83 Stony Hill Rd, Bethel, CT 06801, USA*****41.412580,-73.378966
+5 Nabby Rd UNIT B123, Danbury, CT 06811, USA*****41.427225,-73.420894
+7353 KY-160, Littcarr, KY 41834, USA*****37.255356,-82.943342
+175 University Dr, Amherst, MA 01002, USA*****42.367960,-72.534363
+2189 Westover Rd, Chicopee, MA 01022, USA*****42.187229,-72.555466
+441 N Main St, East Longmeadow, MA 01028, USA*****42.080089,-72.528848
+425 Center St, Ludlow, MA 01056, USA*****42.168192,-72.481838
+136 N King St, Northampton, MA 01060, USA*****42.340927,-72.642188
+142 N King St, Northampton, MA 01060, USA*****42.339642,-72.642327
+384 Spring St, Northampton, MA 01062, USA*****42.339062,-72.695482
+1180 Thorndike St, Palmer, MA 01069, USA*****42.174232,-72.323898
+Thorndike St, Palmer, MA 01069, USA*****42.168053,-72.326185
+10 College Hwy, Southampton, MA 01073, USA*****42.253580,-72.698724
+501 Newton St, South Hadley, MA 01075, USA*****42.236266,-72.581423
+195 College Hwy, Southwick, MA 01077, USA*****42.025247,-72.788241
+150 West St, Ware, MA 01082, USA*****42.255418,-72.252283
+1 E Silver St, Westfield, MA 01085, USA*****42.112402,-72.746921
+475 E Main St, Westfield, MA 01085, USA*****42.111681,-72.723155
+503 Memorial Ave, West Springfield, MA 01089, USA*****42.094522,-72.604232
+151 Cottage St, Springfield, MA 01104, USA*****42.140211,-72.546540
+60 Memorial Dr, Springfield, MA 01104, USA*****42.138856,-72.545152
+1090 St James Ave, Springfield, MA 01104, USA*****42.137023,-72.571730
+61 Laurel Ln, Longmeadow, MA 01106, USA*****42.055899,-72.569583
+679 Bliss Rd, Longmeadow, MA 01106, USA*****42.056011,-72.555313
+SPFLD (LONG), MA 01106, USA*****42.052628,-72.555975
+Springfield, MA 01109, USA*****42.123715,-72.550060
+Springfield, MA 01118, USA*****42.091220,-72.526398
+300 Cooley St, Springfield, MA 01128, USA*****42.096278,-72.498621
+200 West St, Pittsfield, MA 01201, USA*****42.448545,-73.259397
+Myrtle St, Adams, MA 01220, USA*****42.620224,-73.119835
+740 Main St, Great Barrington, MA 01230, USA*****42.189872,-73.365163
+237 Mohawk Trail, Greenfield, MA 01301, USA*****42.586892,-72.624857
+160 Reservoir St, Holden, MA 01520, USA*****42.343937,-71.862081
+505 E Main St, Southbridge, MA 01550, USA*****42.069490,-72.009037
+62 W Main St, Spencer, MA 01562, USA*****42.233703,-72.014126
+50 SW Cutoff, Worcester, MA 01604, USA*****42.239611,-71.746910
+100 Mayfield St, Worcester, MA 01602, USA*****42.259364,-71.826187
+999 Boston-Providence Turnpike, Norwood, MA 02062, USA*****42.176492,-71.193746

@@ -1,0 +1,7 @@
+100 E Pico Blvd, Los Angeles, CA 90015, USA*****34.036095,-118.260309
+149 SW Martin Luther King Jr Ave, Ocala, FL 34471, USA*****29.185614,-82.152198
+6759 S Western Ave, Chicago, IL 60636, USA*****41.770282,-87.683037
+192 Appleton St, Lowell, MA 01852, USA*****42.639848,-71.311873
+281 Broadway, Staten Island, NY 10310, USA*****40.634491,-74.117049
+1557 Watson Ave, The Bronx, NY 10472, USA*****40.826481,-73.876582
+2900 N 12th St, Milwaukee, WI 53206, USA*****43.071419,-87.926481

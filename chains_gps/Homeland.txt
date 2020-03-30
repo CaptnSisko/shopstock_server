@@ -1,0 +1,36 @@
+201 S Jackson St, Pratt, KS 67124, USA*****37.644568,-98.741320
+3137 S Seneca St, Wichita, KS 67217, USA*****37.637955,-97.354272
+1607 S Georgetown St, Wichita, KS 67218, USA*****37.663243,-97.286501
+2205 W Edmond Rd Apt W, Edmond, OK 73003, USA*****35.652959,-97.512959
+2205 W Edmond Rd, Edmond, OK 73003, USA*****35.652959,-97.512959
+24 E 33rd St, Edmond, OK 73013, USA*****35.621869,-97.483117
+220 E Cleveland Ave, Guthrie, OK 73044, USA*****35.879663,-97.423179
+115 E State Hwy 152, Mustang, OK 73064, USA*****35.393943,-97.723613
+1724 W Lindsey St, Norman, OK 73069, USA*****35.202429,-97.466482
+1100 W Main St Apt W, Norman, OK 73069, USA*****35.217937,-97.457236
+1100 W Main St, Norman, OK 73069, USA*****35.217937,-97.457236
+1251 Alameda St, Norman, OK 73071, USA*****35.219218,-97.421068
+505 S Chickasaw St, Pauls Valley, OK 73075, USA*****34.737213,-97.217172
+310 N Washington Ave, Weatherford, OK 73096, USA*****35.528007,-98.692754
+11241 W Reno Ave, Yukon, OK 73099, USA*****35.465060,-97.722732
+1108 NW 18th St, Oklahoma City, OK 73106, USA*****35.487262,-97.530419
+2016 NW 39th St, Oklahoma City, OK 73118, USA*****35.510583,-97.546343
+4301 S May Ave Apt S, Oklahoma City, OK 73119, USA*****35.422007,-97.566451
+4301 S May Ave, Oklahoma City, OK 73119, USA*****35.422007,-97.566451
+12508 N May Ave, Oklahoma City, OK 73120, USA*****35.596937,-97.565988
+4308 SE 44th St, Oklahoma City, OK 73135, USA*****35.419231,-97.440623
+Moore, OK, USA*****35.339508,-97.486703
+201 Ce Colston Dr, Marietta, OK 73448, USA*****33.941752,-97.133047
+1200 W Gary Blvd, Clinton, OK 73601, USA*****35.514790,-98.975173
+1402 N Main St, Guymon, OK 73942, USA*****36.692233,-101.482457
+915 S Madison Blvd, Bartlesville, OK 74006, USA*****36.741608,-95.918271
+19302 E Admiral Pl, Catoosa, OK 74015, USA*****36.159424,-95.760448
+501 N Broadway St, Cleveland, OK 74020, USA*****36.313595,-96.463081
+501 E 2nd Ave, Owasso, OK 74055, USA*****36.265594,-95.851128
+4001 OK-97, Sand Springs, OK 74063, USA*****36.105330,-96.115349
+3115 W Okmulgee St, Muskogee, OK 74401, USA*****35.754851,-95.401691
+1300 S York St, Muskogee, OK 74403, USA*****35.727962,-95.339255
+2410 Chandler Rd, Muskogee, OK 74403, USA*****35.742002,-95.339174
+Haskell, OK 74436, USA*****35.820378,-95.674149
+2705 N Harrison St, Shawnee, OK 74804, USA*****35.362486,-96.910432
+600 W Independence St, Shawnee, OK 74804, USA*****35.348242,-96.932738

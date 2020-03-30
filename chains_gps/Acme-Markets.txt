@@ -1,0 +1,165 @@
+200 Lantana Dr, Hockessin, DE 19707, USA*****39.774581,-75.711259
+460 E Main St, Middletown, DE 19709, USA*****39.448438,-75.697759
+Wilmington, DE 19801, USA*****39.731260,-75.545138
+Concord Pike, Talleyville, DE 19803, USA*****39.801368,-75.548017
+1901 Concord Pike, Wilmington, DE 19803, USA*****39.787789,-75.545047
+1401 N Dupont St, Wilmington, DE 19806, USA*****39.757208,-75.563789
+1308 Centerville Rd, Wilmington, DE 19808, USA*****39.734066,-75.623537
+4720 Limestone Rd, Wilmington, DE 19808, USA*****39.740007,-75.693803
+2084 Naamans Rd, Wilmington, DE 19810, USA*****39.823705,-75.500435
+1103 S Central Ave, Laurel, DE 19956, USA*****38.548595,-75.567971
+2315 Belair Rd, Fallston, MD 21047, USA*****39.492408,-76.392841
+114 Talbot St, Easton, MD 21601, USA*****38.771244,-76.073367
+210 Marlboro Ave, Easton, MD 21601, USA*****38.779975,-76.081761
+611 Railroad Ave, Centreville, MD 21617, USA*****39.039913,-76.056018
+1231 Shopping Center Rd, Stevensville, MD 21666, USA*****38.975701,-76.296083
+711 Washington Ave, Chestertown, MD 21620, USA*****39.224874,-76.068924
+10391 Talbot St, St Michaels, MD 21663, USA*****38.835968,-76.274725
+101 Big Elk Mall, Elkton, MD 21921, USA*****39.598622,-75.819835
+467 Allwood Rd, Clifton, NJ 07012, USA*****40.840989,-74.158035
+1319 Magie Ave, Union, NJ 07083, USA*****40.671190,-74.253101
+2 Garfield Ave, Jersey City, NJ 07305, USA*****40.685401,-74.099130
+216 Garfield Ave, Jersey City, NJ 07305, USA*****40.691482,-74.092054
+Shrewsbury Plaza, Shrewsbury, NJ 07702, USA*****40.314692,-74.065762
+576 River Rd, Fair Haven, NJ 07704, USA*****40.360685,-74.042147
+3241 U.S. 9, Freehold, NJ 07728, USA*****40.219372,-74.263599
+616 Newman Springs Rd, Lincroft, NJ 07738, USA*****40.332100,-74.119210
+Rumson, NJ 07760, USA*****40.372054,-73.999027
+Mt Hope Ave, Dover, NJ, USA*****40.896246,-74.551574
+343 Mt Hope Ave, Dover, NJ 07801, USA*****40.903881,-74.549356
+Denville, NJ 07834, USA*****40.888976,-74.481870
+W Nelson St, Newton, NJ 07860, USA*****41.048855,-74.757081
+690 Millbrook Ave, Randolph, NJ 07869, USA*****40.827092,-74.572142
+1252 Springfield Ave, New Providence, NJ 07974, USA*****40.706513,-74.404968
+9600 Long Beach Blvd, Long Beach Township, NJ 08008, USA*****39.603919,-74.211604
+2200 Mt Holly Rd, Burlington, NJ 08016, USA*****40.047136,-74.839564
+731 Delsea Dr, Glassboro, NJ 08028, USA*****39.720770,-75.116774
+US-130 & Farnsworth Ave, Bordentown Township, NJ 08505, USA*****40.139632,-74.706733
+71 Shawmont Ln, Willingboro, NJ 08046, USA*****40.051300,-74.888014
+2091 US-130, Willingboro, NJ 08046, USA*****40.051572,-74.891302
+300 S Lenola Rd, Maple Shade Township, NJ 08052, USA*****39.947834,-74.971658
+54 W Main St, Maple Shade Township, NJ 08052, USA*****39.955161,-75.003640
+18 Broadway St, Browns Mills, NJ 08015, USA*****39.975248,-74.580871
+175 NJ-70, Medford, NJ 08055, USA*****39.903111,-74.832494
+115 W Camden Ave F1, Moorestown, NJ 08057, USA*****39.957695,-74.982839
+350 Young Ave, Hainesport, NJ 08036, USA*****39.970439,-74.917614
+119 Chester Ave, Moorestown, NJ 08057, USA*****39.966136,-74.942542
+251 N Broadway, Pennsville, NJ 08070, USA*****39.669147,-75.507019
+Pennsville, NJ 08070, USA*****39.619969,-75.504376
+1105 US-130, Cinnaminson, NJ 08077, USA*****39.999100,-74.991157
+515 Berlin - Cross Keys Rd, Sicklerville, NJ 08081, USA*****39.744595,-74.998132
+69 Rosalind Cir, Sicklerville, NJ 08081, USA*****39.747509,-74.989619
+525 Berlin - Cross Keys Rd, Sicklerville, NJ 08081, USA*****39.744166,-74.998612
+1619 Center Square Rd, Logan Township, NJ 08085, USA*****39.754649,-75.354317
+Village Center Dr, Logan Township, NJ 08085, USA*****39.757312,-75.354097
+425 U.S. 9, Little Egg Harbor Township, NJ 08087, USA*****39.602671,-74.354715
+631 Mantua Pike, Woodbury, NJ 08096, USA*****39.827056,-75.161287
+857 NJ-45, Woodstown, NJ 08098, USA*****39.645007,-75.341127
+E Black Horse Pike, Audubon, NJ 08106, USA*****39.895003,-75.091590
+130 E Black Horse Pike, Audubon, NJ 08106, USA*****39.891501,-75.086628
+110 E Black Horse Pike, Audubon, NJ 08106, USA*****39.891219,-75.089474
+400 E Cuthbert Blvd, Haddon Township, NJ 08108, USA*****39.920886,-75.055765
+400 W Cuthbert Blvd, Haddon Township, NJ 08108, USA*****39.907361,-75.058751
+676 White Horse Pike, Absecon, NJ 08201, USA*****39.435725,-74.514438
+ALL PARKS & Cape May County Zoo - CLOSED UNTIL FURTHER NOTICE, 707 U.S. 9, Cape May Court House, NJ 08210, USA*****39.102863,-74.814140
+3428 Simpson Ave, Ocean City, NJ 08226, USA*****39.252214,-74.614881
+5493 Rinker Cir, Doylestown, PA 18902, USA*****40.339634,-75.136071
+411 Tudor Terrace, Somers Point, NJ 08244, USA*****39.320153,-74.598331
+Landis Ave at 63rd St, Sea Isle City, NJ 08243, USA*****39.141068,-74.702463
+5300 Park Blvd, Wildwood, NJ 08260, USA*****38.984034,-74.830014
+5200 Park Blvd, Wildwood, NJ 08260, USA*****38.984889,-74.830152
+29 Cornwell Dr, Bridgeton, NJ 08302, USA*****39.460094,-75.211258
+301 S Main Rd, Vineland, NJ 08360, USA*****39.479324,-74.999495
+6 Cedar Ave, Bordentown, NJ 08505, USA*****40.167345,-74.698543
+260 Dunns Mill Rd, Bordentown, NJ 08505, USA*****40.133624,-74.725843
+130 US-130, Trenton, NJ 08620, USA*****40.155805,-74.696989
+262 US-130, Fieldsboro, NJ 08505, USA*****40.139348,-74.708558
+Princeton Hightstown Rd, West Windsor Township, NJ, USA*****40.311936,-74.619273
+2091 US-130, Roebling, NJ 08554, USA*****40.106645,-74.784275
+4454 E Black Horse Pike, Mays Landing, NJ 08330, USA*****39.451322,-74.648138
+Trenton, NJ 08619, USA*****40.248203,-74.698589
+58 Hughes Ave, Hamilton Township, NJ 08619, USA*****40.244660,-74.712102
+Trenton, NJ 08619, USA*****40.248203,-74.698589
+4400 S Broad St, Hamilton Township, NJ 08620, USA*****40.181907,-74.673038
+953 NJ-33, Trenton, NJ 08690, USA*****40.228397,-74.670965
+Lakewood, NJ 08701, USA*****40.080740,-74.206193
+Taylor Ave & Main St, Manasquan, NJ 08736, USA*****40.122027,-74.048735
+125 Bound Brook Rd, Middlesex, NJ 08846, USA*****40.586671,-74.477199
+Middlesex, NJ 08846, USA*****40.575405,-74.505312
+300 Ryders Ln, East Brunswick, NJ 08816, USA*****40.445144,-74.424442
+Piscataway, NJ 08854, USA*****40.554887,-74.464286
+2700 Gilchrist Rd, Akron, OH 44305, USA*****41.062244,-81.428152
+225 N West End Blvd, Quakertown, PA 18951, USA*****40.449624,-75.362254
+101 Byers Dr, Glen Mills, PA 19342, USA*****39.884288,-75.527852
+7445 Westbranch Hwy, Lewisburg, PA 17837, USA*****40.981397,-76.885311
+480 N Main St, Doylestown, PA 18901, USA*****40.322516,-75.132556
+505 W Butler Ave, Chalfont, PA 18914, USA*****40.269906,-75.226575
+611 N Main St, Quakertown, PA 18951, USA*****40.444449,-75.352293
+225 N West End Blvd, Quakertown, PA 18951, USA*****40.449624,-75.362254
+105 Street Rd, Southampton, PA 18966, USA*****40.181555,-75.055335
+808 E Street Rd, Warminster, PA 18974, USA*****40.185257,-75.059837
+1991 Sproul Rd, Broomall, PA 19008, USA*****39.959474,-75.355120
+1991 Sproul Rd #11, Broomall, PA 19008, USA*****39.959474,-75.355120
+417 Farnsworth Dr, Broomall, PA 19008, USA*****39.965589,-75.337232
+6501 Harbison Ave, Philadelphia, PA 19149, USA*****40.034775,-75.063517
+2301 Neshaminy Blvd, Bensalem, PA 19020, USA*****40.143732,-74.932539
+Eddington, PA 19020, USA*****40.099442,-74.932568
+1640 Bethlehem Pike, Flourtown, PA 19031, USA*****40.107079,-75.211258
+124 Morton Ave, Folsom, PA 19033, USA*****39.884879,-75.328282
+GLEN RDL LIMA, PA 19037, USA*****39.904940,-75.388534
+323 Old York Rd, Jenkintown, PA 19046, USA*****40.091773,-75.125167
+100 Woodbine Ave, Feasterville-Trevose, PA 19053, USA*****40.154496,-74.992536
+105 E Street Rd, Feasterville-Trevose, PA 19053, USA*****40.147454,-74.999655
+6800 New Falls Rd, Levittown, PA 19057, USA*****40.151836,-74.857109
+3140 William Rd, Garnet Valley, PA 19060, USA*****39.845923,-75.466733
+263 Glen Riddle Rd, Media, PA 19063, USA*****39.897483,-75.431377
+274 Glen Riddle Rd, Media, PA 19063, USA*****39.895674,-75.431648
+527 E Baltimore Pike, Media, PA 19063, USA*****39.915969,-75.378654
+545 W Trenton Ave, Morrisville, PA 19067, USA*****40.210990,-74.794016
+829 Montgomery Ave, Penn Valley, PA 19072, USA*****40.011020,-75.258206
+3950 West Chester Pike, Newtown Square, PA 19073, USA*****39.985531,-75.415922
+21 Morton Ave, Ridley Park, PA 19078, USA*****39.878883,-75.319595
+1130 Chester Pike, Sharon Hill, PA 19079, USA*****39.909641,-75.274930
+Sharon Hill, PA 19079, USA*****39.906502,-75.271573
+801 Lawson Ave, Havertown, PA 19083, USA*****39.981698,-75.284954
+567 Sproul Rd, Villanova, PA 19085, USA*****40.021805,-75.369125
+700 W Lancaster Ave, Devon, PA 19333, USA*****40.045396,-75.407701
+311 E Lancaster Ave, Wayne, PA 19087, USA*****40.044518,-75.379920
+Philadelphia, PA 19101, USA*****39.952267,-75.162518
+6640 Oxford Ave, Philadelphia, PA 19111, USA*****40.050330,-75.086939
+920 Red Lion Rd, Philadelphia, PA 19115, USA*****40.100683,-75.026776
+7710 Germantown Ave, Philadelphia, PA 19118, USA*****40.067822,-75.198097
+7010 Germantown Ave, Philadelphia, PA 19119, USA*****40.056677,-75.189466
+6064 Ridge Ave, Philadelphia, PA 19128, USA*****40.032989,-75.214940
+8600 Ridge Ave, Philadelphia, PA 19128, USA*****40.063876,-75.236611
+5927 Ridge Ave, Philadelphia, PA 19128, USA*****40.030863,-75.212127
+1901 Johnston St, Philadelphia, PA 19145, USA*****39.916959,-75.180256
+1400 E Passyunk Ave, Philadelphia, PA 19147, USA*****39.932293,-75.162291
+6601 Roosevelt Blvd, Philadelphia, PA 19149, USA*****40.035700,-75.062666
+8200 Roosevelt Blvd, Philadelphia, PA 19152, USA*****40.060289,-75.045235
+Island Ave, Philadelphia, PA 19153, USA*****39.898585,-75.237983
+100 Dickinson Dr, Chadds Ford, PA 19317, USA*****39.878906,-75.549004
+111 W Lincoln Hwy, Exton, PA 19341, USA*****40.028121,-75.628780
+Glen Mills, PA, USA*****39.901627,-75.510348
+4201 Fox Pointe Ct, Glen Mills, PA 19342, USA*****39.866582,-75.536113
+101 Byers Dr, Glen Mills, PA 19342, USA*****39.884288,-75.527852
+2 Cherry Cir, Glen Mills, PA 19342, USA*****39.857808,-75.522418
+1306 Chevers Dr, Glen Mills, PA 19342, USA*****39.859606,-75.541077
+Crier in the Country Ln, Chester Heights, PA 19342, USA*****39.894685,-75.483265
+75 Valley Stream Pkwy, Malvern, PA 19355, USA*****40.056877,-75.517570
+Malvern, PA 19355, USA*****40.036218,-75.513812
+2176 Baltimore Pike, Oxford, PA 19363, USA*****39.773267,-75.983787
+372 Brinton Lake Rd, Glen Mills, PA 19342, USA*****39.883617,-75.536074
+770 Miles Rd, West Chester, PA 19380, USA*****39.963994,-75.629285
+907 Paoli Pike, West Chester, PA 19380, USA*****39.969817,-75.587235
+West Chester, PA, USA*****39.960664,-75.605488
+431 Keebler Rd, King of Prussia, PA 19406, USA*****40.101016,-75.380863
+320 W Dekalb Pike, King of Prussia, PA 19406, USA*****40.093878,-75.370913
+20 Sharon Ln, Collegeville, PA 19426, USA*****40.167099,-75.450518
+Collegeville, PA 19426, USA*****40.185660,-75.451571
+W 7th Ave, Conshohocken, PA 19428, USA*****40.081129,-75.305215
+1150 W Main St, Lansdale, PA 19446, USA*****40.249063,-75.299037
+183 Jacob St, Mont Clare, PA 19453, USA*****40.138905,-75.507834
+31 W Ridge Pike, Royersford, PA 19468, USA*****40.216013,-75.501659
+222 Main St, Schwenksville, PA 19473, USA*****40.247984,-75.457913
+800 E Main St, Wytheville, VA 24382, USA*****36.954023,-81.074597

@@ -1,0 +1,26 @@
+52 S Main St, Cohasset, MA 02025, USA*****42.240378,-70.801287
+189 Lincoln St, Hingham, MA 02043, USA*****42.249201,-70.904516
+340 Rockland St, Hingham, MA 02043, USA*****42.259987,-70.845232
+40 Chauncy St, Mansfield, MA 02048, USA*****42.032231,-71.217113
+774 Plain St, Marshfield, MA 02050, USA*****42.106743,-70.748023
+337 Gannett Rd, Scituate, MA 02066, USA*****42.219226,-70.783797
+691 Truman Pkwy, Hyde Park, MA 02136, USA*****42.252468,-71.118641
+495 Washington St, Quincy, MA 02169, USA*****42.247499,-70.981637
+650 Adams St, Quincy, MA 02169, USA*****42.255559,-71.032273
+98 Houston Ave, Milton, MA 02186, USA*****42.259027,-71.089200
+1039 Main St, South Weymouth, MA 02190, USA*****42.169131,-70.956120
+474 Columbian St, South Weymouth, MA 02190, USA*****42.180711,-70.971421
+17 Pearl St, Brockton, MA 02301, USA*****42.088479,-71.064959
+448 E Ashland St, Brockton, MA 02302, USA*****42.098322,-70.999492
+750 Centre St, Brockton, MA 02302, USA*****42.086775,-70.988254
+34 Whiting St, Hanover, MA 02339, USA*****42.130556,-70.881730
+2103 Washington St, Hanover, MA 02339, USA*****42.156901,-70.849927
+31 N Franklin St, Holbrook, MA 02343, USA*****42.155348,-71.008221
+Hedges Pond Rd, Plymouth, MA 02360, USA*****41.828192,-70.560013
+2360 State Hwy, Eastham, MA 02642, USA*****41.828149,-69.972714
+178 MA-6A, Orleans, MA 02653, USA*****41.782372,-69.997953
+1237 Pleasant St, Fall River, MA 02723, USA*****41.692198,-71.136433
+4 Elm St, North Attleborough, MA 02760, USA*****41.982243,-71.332377
+4 Elm Ave, Plainville, MA 02762, USA*****42.003224,-71.332606
+325 New State Hwy #1468, Raynham, MA 02767, USA*****41.905439,-71.052881
+14 Howard St, Taunton, MA 02780, USA*****41.901192,-71.094070

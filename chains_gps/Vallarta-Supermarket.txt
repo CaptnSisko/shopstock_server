@@ -1,0 +1,26 @@
+3425 Whittier Blvd, Los Angeles, CA 90023, USA*****34.027791,-118.200119
+2550 E 25th St, Vernon, CA 90058, USA*****34.014711,-118.227493
+21208 Sherman Way, Canoga Park, CA 91303, USA*****34.200614,-118.594850
+22725 Gault St, West Hills, CA 91307, USA*****34.199430,-118.621579
+8453 Reseda Blvd, Northridge, CA 91324, USA*****34.224332,-118.536479
+10175 San Fernando Rd, Pacoima, CA 91331, USA*****34.254917,-118.410742
+9011 Woodman Ave, Arleta, CA 91331, USA*****34.233209,-118.439643
+12979 Arroyo St, Sylmar, CA 91342, USA*****34.292319,-118.416421
+14813 Wolfskill St, Mission Hills, CA 91345, USA*****34.267356,-118.455778
+23449 Lyons Ave, Santa Clarita, CA 91355, USA*****34.380471,-118.543593
+13715 Vanowen St, Van Nuys, CA 91405, USA*****34.194336,-118.431960
+16107 Victory Blvd, Van Nuys, CA 91406, USA*****34.187005,-118.485033
+14833 Sylvan St #8, Van Nuys, CA 91411, USA*****34.185008,-118.456581
+806 E Grinnell Dr, Burbank, CA 91501, USA*****34.192883,-118.307792
+11288 Ventura Blvd, Studio City, CA 91604, USA*****34.140268,-118.375577
+13051 Victory Blvd, North Hollywood, CA 91606, USA*****34.188969,-118.417249
+13940 Ramona Pkwy, Baldwin Park, CA 91706, USA*****34.084831,-117.969104
+1315 E Valley Pkwy, Escondido, CA 92027, USA*****33.130463,-117.064151
+12351 Mariposa Rd, Victorville, CA 92395, USA*****34.474884,-117.339329
+1055 S Oxnard Blvd, Oxnard, CA 93030, USA*****34.190345,-119.177698
+1840 Cecil Ave, Delano, CA 93215, USA*****35.775524,-119.230850
+1615 W Ave L, Lancaster, CA 93534, USA*****34.660770,-118.159565
+43723 20th St W #103, Lancaster, CA 93534, USA*****34.677450,-118.166255
+1803 E Palmdale Blvd, Palmdale, CA 93550, USA*****34.580834,-118.095899
+4831 E Butler Ave, Fresno, CA 93727, USA*****36.729799,-119.735008
+312 W Willow St, Lansing, MI 48906, USA*****42.749693,-84.556083

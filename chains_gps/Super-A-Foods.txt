@@ -1,0 +1,15 @@
+425 S Soto St, Los Angeles, CA 90033, USA*****34.040345,-118.213104
+7200 Dominion Cir, Commerce, CA 90040, USA*****33.976813,-118.136589
+1353 Las Flores Dr, Los Angeles, CA 90041, USA*****34.141870,-118.194920
+2245 Yosemite Dr, Los Angeles, CA 90041, USA*****34.135760,-118.216569
+5250 York Blvd, Los Angeles, CA 90042, USA*****34.119743,-118.201216
+2925 Division St, Los Angeles, CA 90065, USA*****34.103448,-118.235790
+8116 California Ave, South Gate, CA 90280, USA*****33.961787,-118.204294
+1315 W Beverly Blvd #225, Montebello, CA 90640, USA*****34.018299,-118.112954
+6101 Rosemead Blvd, Pico Rivera, CA 90660, USA*****33.991985,-118.091860
+13120 Downey Ave, Paramount, CA 90723, USA*****33.914019,-118.151491
+935 W Duarte Rd, Monrovia, CA 91016, USA*****34.132108,-118.019144
+1825 N Verdugo Rd, Glendale, CA 91208, USA*****34.175387,-118.226279
+300 W Main St, Alhambra, CA 91801, USA*****34.093146,-118.130463
+725 Ventura St, Fillmore, CA 93015, USA*****34.396901,-118.918662
+4325 Red Bluff Rd, Pasadena, TX 77503, USA*****29.677595,-95.143585

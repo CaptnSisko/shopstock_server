@@ -1,0 +1,115 @@
+5242 S 12th Ave, Tucson, AZ 85706, USA*****32.156723,-110.977907
+2851 Airway Ave, Kingman, AZ 86409, USA*****35.225073,-114.014351
+3845 Marysville Blvd, Sacramento, CA 95838, USA*****38.637506,-121.430182
+1020 N Elbert St, Milledgeville, GA 31061, USA*****33.095769,-83.227640
+US-20, Fairfield, ID 83322, USA*****43.324647,-114.996054
+6015 Humbert Rd, Godfrey, IL 62035, USA*****38.954640,-90.180643
+15909 Stagecoach Rd, Jerseyville, IL 62052, USA*****39.012723,-90.239902
+13775 State Rd 17, Culver, IN 46511, USA*****41.276998,-86.415679
+798 LA-26, Lake Arthur, LA 70549, USA*****30.090894,-92.671251
+518 E Russell Ave, Welsh, LA 70591, USA*****30.233142,-92.815727
+2800 Ryan St, Lake Charles, LA 70601, USA*****30.204915,-93.218676
+929 3rd Ave, Lake Charles, LA 70601, USA*****30.225377,-93.195149
+4950 Lake St, Lake Charles, LA 70605, USA*****30.167319,-93.233774
+2120 Country Club Rd, Lake Charles, LA 70605, USA*****30.168736,-93.253536
+4431 Nelson Rd, Lake Charles, LA 70605, USA*****30.177070,-93.247599
+362 Sam Houston Jones Pkwy, Lake Charles, LA 70611, USA*****30.302128,-93.201113
+505 E 4th St, Dequincy, LA 70633, USA*****30.450267,-93.431833
+Dequincy, LA 70633, USA*****30.450478,-93.433219
+112 S Thomson Ave, Iowa, LA 70647, USA*****30.236792,-93.013787
+707 1st Ave, Kinder, LA 70648, USA*****30.480955,-92.851087
+2227 Maplewood Dr, Sulphur, LA 70663, USA*****30.226516,-93.352039
+261717 US-90, Castroville, TX 78009, USA*****29.364604,-98.808540
+2013 Sampson St, Westlake, LA 70669, USA*****30.257622,-93.258543
+Leominster, MA 01453, USA*****42.523343,-71.738523
+71 Sack Blvd, Leominster, MA 01453, USA*****42.529871,-71.745288
+49 Pond St, Ashland, MA 01721, USA*****42.257084,-71.428267
+1 Mishawum Rd, Woburn, MA 01801, USA*****42.488132,-71.151902
+310 Mishawum Rd, Woburn, MA 01801, USA*****42.506210,-71.131741
+47 Middlesex Turnpike, Burlington, MA 01803, USA*****42.472260,-71.210991
+496 Boston Rd, Billerica, MA 01821, USA*****42.555438,-71.262060
+11 Wood St, Dracut, MA 01826, USA*****42.679975,-71.369567
+Haverhill, MA 01830, USA*****42.775790,-71.075057
+219 Lincoln Ave, Haverhill, MA 01830, USA*****42.762621,-71.038197
+110 Lowell Ave, Haverhill, MA 01832, USA*****42.776297,-71.104070
+700 Essex St #5, Lawrence, MA 01841, USA*****42.701881,-71.172051
+70 Pleasant Valley St, Methuen, MA 01844, USA*****42.742807,-71.164916
+350 Winthrop Ave #10, North Andover, MA 01845, USA*****42.683911,-71.135382
+1235 Bridge St, Lowell, MA 01850, USA*****42.665682,-71.302877
+199 Boston Rd #12, North Billerica, MA 01862, USA*****42.580709,-71.289280
+1 General Way #7, Reading, MA 01867, USA*****42.518912,-71.098911
+10 Main St Ste C, Tewksbury, MA 01876, USA*****42.630878,-71.272944
+1876 Main St, Tewksbury, MA 01876, USA*****42.591919,-71.205426
+1900 Main St, Tewksbury, MA 01876, USA*****42.590962,-71.202220
+160 Littleton Rd #16, Westford, MA 01886, USA*****42.568269,-71.420125
+12 Endicott St, Danvers, MA 01923, USA*****42.550231,-70.923720
+230 S Main St, Middleton, MA 01949, USA*****42.580367,-70.997959
+25 Storey Ave, Newburyport, MA 01950, USA*****42.820921,-70.902015
+225 Newburyport Turnpike, Rowley, MA 01969, USA*****42.708584,-70.905666
+227 Highland Ave, Salem, MA 01970, USA*****42.503924,-70.920147
+274 Hartford Ave, Bellingham, MA 02019, USA*****42.116612,-71.462403
+400 Somerville Ave, Somerville, MA 02143, USA*****42.380778,-71.101594
+160 Everett Ave, Chelsea, MA 02150, USA*****42.396621,-71.042162
+252 Broadway, Raynham, MA 02767, USA*****41.936944,-71.083922
+7005 Blue Mountain Rd, Thurmont, MD 21788, USA*****39.602279,-77.425216
+100 Norway Rd, Harrison, ME 04040, USA*****44.114623,-70.673686
+323 Commercial St, Rockport, ME 04856, USA*****44.179332,-69.080866
+32654 Franklin Rd, Franklin, MI 48025, USA*****42.526988,-83.305798
+1109 Rochester Rd, Troy, MI 48083, USA*****42.543095,-83.133604
+187 N Michigan Ave, Beulah, MI 49617, USA*****44.635032,-86.088915
+8121 Worden Rd, Beulah, MI 49617, USA*****44.653663,-86.075614
+368 MS-6, Batesville, MS 38606, USA*****34.310537,-89.952181
+8014 S Frontage Rd, Billings, MT 59101, USA*****45.724601,-108.617916
+1404 E Main St, Lincolnton, NC 28092, USA*****35.476160,-81.239449
+1531 Cloninger Mill Rd NE, Hickory, NC 28601, USA*****35.782600,-81.294871
+6576 NC-16, Conover, NC 28613, USA*****35.813059,-81.189627
+3541 Taylorsville Hwy, Statesville, NC 28625, USA*****35.809597,-80.948743
+1101 N Main Ave, Newton, NC 28658, USA*****35.673145,-81.220837
+5119 Taylorsville Hwy, Stony Point, NC 28678, USA*****35.855556,-81.034146
+671 W Main Ave, Taylorsville, NC 28681, USA*****35.921980,-81.187169
+176 Westgate Dr, Taylorsville, NC 28681, USA*****35.919687,-81.186439
+1329 NC-16, Taylorsville, NC 28681, USA*****35.902805,-81.177678
+NH-102, Londonderry, NH 03038, USA*****42.880393,-71.327111
+212 Lowell Rd, Hudson, NH 03051, USA*****42.732921,-71.423814
+375 Amherst St, Nashua, NH 03063, USA*****42.785224,-71.505439
+13 Northwest Blvd, Nashua, NH 03063, USA*****42.802985,-71.541324
+225 Amherst St, Nashua, NH 03063, USA*****42.778203,-71.496167
+167 E Broadway, Salem, NH 03079, USA*****42.837347,-71.220961
+167 S Broadway, Salem, NH 03079, USA*****42.768356,-71.217442
+29 E Main St, Tilton, NH 03276, USA*****43.452684,-71.571889
+30 New Hampshire Rte 103, Warner, NH 03278, USA*****43.281798,-71.819223
+New Hampshire Rte 103, Warner, NH 03278, USA*****43.283862,-71.823220
+80 Storrs St Suite 2, Concord, NH 03301, USA*****43.203665,-71.532659
+US-202, Rindge, NH 03461, USA*****42.752901,-72.039958
+1465 Woodbury Ave, Portsmouth, NH 03801, USA*****43.088263,-70.788276
+US-4, Lee, NH 03824, USA*****43.141019,-70.914976
+34 Plaistow Rd, Plaistow, NH 03865, USA*****42.822593,-71.106787
+96 Milton Rd, Rochester, NH 03868, USA*****43.342115,-70.975670
+6 Lafayette Rd, Seabrook, NH 03874, USA*****42.877388,-70.870541
+8-200 High St, Somersworth, NH 03878, USA*****43.227060,-70.882235
+Rte 101, Stratham, NH 03885, USA*****42.987262,-70.921393
+300 Sicomac Ave #2, Wyckoff, NJ 07481, USA*****40.984760,-74.171291
+308 Wall St, Kingston, NY 12401, USA*****41.934261,-74.019592
+1890 Cherry Valley Rd, Newark, OH 43055, USA*****40.043561,-82.468718
+8979 Rogue River Hwy, Grants Pass, OR 97527, USA*****42.430127,-123.172207
+1407 Dwight Dr, Johnstown, PA 15904, USA*****40.271815,-78.860293
+16455 Pottsville Pike, Hamburg, PA 19526, USA*****40.533787,-75.975488
+4401 South St, Brookshire, TX 77423, USA*****29.786019,-95.957584
+Brookshire, TX 77423, USA*****29.786064,-95.951066
+6001 39th St, Groves, TX 77619, USA*****29.945085,-93.922111
+210 N 27th St, Nederland, TX 77627, USA*****29.965305,-93.999883
+2420 Nederland Ave, Nederland, TX 77627, USA*****29.965843,-93.998487
+11916 TX-62, Orange, TX 77632, USA*****30.206273,-93.872928
+864 Magnolia Ave, Port Neches, TX 77651, USA*****29.980175,-93.961301
+421 S Main St, Lumberton, TX 77657, USA*****30.249474,-94.195782
+800 N Main St, Vidor, TX 77662, USA*****30.133638,-94.014358
+1328 TX-124, Winnie, TX 77665, USA*****29.812177,-94.385022
+1328 TX-124, Winnie, TX 77665, USA*****29.812177,-94.385022
+2255 N 11th St, Beaumont, TX 77703, USA*****30.099887,-94.131466
+655 Lavaca St, Beaumont, TX 77705, USA*****30.046376,-94.087195
+4055 Calder Ave, Beaumont, TX 77706, USA*****30.084839,-94.145224
+5960 TX-105, Beaumont, TX 77708, USA*****30.134230,-94.170734
+Arc, 1669 Crystal Square Way, Arlington, VA 22202, USA*****38.858829,-77.050808
+611 E Main St, Berryville, VA 22611, USA*****39.146812,-77.971389
+1901 Walnut St, Everett, WA 98201, USA*****47.992088,-122.188711
+403 De Witt St, Portage, WI 53901, USA*****43.540917,-89.460054

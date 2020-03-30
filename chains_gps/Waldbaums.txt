@@ -1,0 +1,69 @@
+Staten Island, NY 10312, USA*****40.555548,-74.182712
+259-10 Union Tpke, Glen Oaks, NY 11004, USA*****40.746662,-73.712209
+2124 Northern Blvd, Manhasset, NY 11030, USA*****40.796608,-73.669555
+2407-2475 Jericho Turnpike, New Hyde Park, NY 11040, USA*****40.743702,-73.659585
+8121 New Utrecht Ave, Brooklyn, NY 11214, USA*****40.610125,-74.001092
+2149 Ralph Ave, Brooklyn, NY 11234, USA*****40.626376,-73.915987
+3100 Ocean Ave, Brooklyn, NY 11235, USA*****40.585182,-73.949667
+1871 Rockaway Pkwy, Brooklyn, NY 11236, USA*****40.636903,-73.892132
+13311 20th Ave, College Point, NY 11356, USA*****40.783220,-73.835106
+145-24 17th Ave, Flushing, NY 11357, USA*****40.784355,-73.820396
+153-01 10th Ave, Whitestone, NY 11357, USA*****40.794241,-73.808089
+35-09 Francis Lewis Blvd, Flushing, NY 11358, USA*****40.764217,-73.787026
+213-15 26th Ave, Bayside, NY 11360, USA*****40.780162,-73.777847
+46-40 Francis Lewis Blvd, Flushing, NY 11358, USA*****40.753518,-73.781340
+242-02 61st Ave, Douglaston, NY 11362, USA*****40.754507,-73.738408
+19835 Horace Harding Expy, Fresh Meadows, NY 11365, USA*****40.743320,-73.777792
+7555 31st Ave, East Elmhurst, NY 11370, USA*****40.759966,-73.892598
+156-1 Cross Bay Blvd, Howard Beach, NY 11414, USA*****40.663856,-73.840436
+82-35 153rd Ave, Howard Beach, NY 11414, USA*****40.666800,-73.851360
+259-10 Union Tpke, Glen Oaks, NY 11004, USA*****40.746662,-73.712209
+1050 Willis Ave, Albertson, NY 11507, USA*****40.771858,-73.647826
+1050 Wales Pl, Baldwin, NY 11510, USA*****40.668537,-73.613720
+905 Atlantic Ave, Baldwin, NY 11510, USA*****40.640800,-73.608270
+2 Westbury Ave, Carle Place, NY 11514, USA*****40.747731,-73.622089
+1530 Front St, East Meadow, NY 11554, USA*****40.712873,-73.574688
+345 Rockaway Turnpike, Lawrence, NY 11559, USA*****40.626335,-73.738408
+85 Long Beach Blvd, Long Beach, NY 11561, USA*****40.584458,-73.658304
+399 Ocean Ave, Rockville Centre, NY 11570, USA*****40.657587,-73.655276
+1686 Merrick Rd, Merrick, NY 11566, USA*****40.653050,-73.559458
+3600 Long Beach Rd, Oceanside, NY 11572, USA*****40.622816,-73.642256
+3620 Long Beach Rd, Oceanside, NY 11572, USA*****40.622127,-73.642491
+500 W Merrick Rd, Valley Stream, NY 11580, USA*****40.669133,-73.715329
+112-15 Beach Channel Dr, Rockaway Park, NY 11694, USA*****40.581980,-73.835014
+Hubbards Path, West Babylon, NY 11704, USA*****40.717743,-73.342037
+1934 Middle Country Rd, Centereach, NY 11720, USA*****40.857887,-73.079818
+1 Boulevard Ave, Central Islip, NY 11722, USA*****40.789152,-73.185255
+40 Vanderbilt Motor Pkwy, Commack, NY 11725, USA*****40.815636,-73.291370
+Deer Park Ave, Deer Park, NY 11729, USA*****40.763145,-73.330042
+300 E Main St, East Islip, NY 11730, USA*****40.733814,-73.177012
+4054 Nesconset Hwy, Setauket- East Setauket, NY 11733, USA*****40.906458,-73.073216
+450 Main St, Farmingdale, NY 11735, USA*****40.729118,-73.445921
+777 Pulaski Rd, Greenlawn, NY 11740, USA*****40.868073,-73.349688
+328 Union Ave, Holbrook, NY 11741, USA*****40.811972,-73.081058
+60 Wall St, Huntington, NY 11743, USA*****40.873372,-73.426953
+Huntington, NY, USA*****40.868154,-73.425676
+890 Walt Whitman Rd, Melville, NY 11747, USA*****40.798911,-73.409502
+3335 Hempstead Turnpike, Levittown, NY 11756, USA*****40.726361,-73.512845
+Bunting Ln, Levittown, NY 11756, USA*****40.736416,-73.536139
+60 E Hoffman Ave, Lindenhurst, NY 11757, USA*****40.688324,-73.371646
+702 Hicksville Rd, Massapequa, NY 11758, USA*****40.692438,-73.477130
+5500 Sunrise Hwy, Massapequa, NY 11758, USA*****40.674591,-73.435976
+4560 Sunrise Hwy, Oakdale, NY 11769, USA*****40.752521,-73.117164
+440 Sunrise Hwy South Service Rd, Patchogue, NY 11772, USA*****40.775481,-73.031712
+655 Montauk Hwy, East Patchogue, NY 11772, USA*****40.768154,-72.989996
+245 NY-25A, Rocky Point, NY 11778, USA*****40.945726,-72.948087
+601 Portion Rd, Lake Ronkonkoma, NY 11779, USA*****40.832230,-73.089136
+211 Middle Country Rd, Coram, NY 11727, USA*****40.869631,-73.024790
+124 E Main St, Smithtown, NY 11787, USA*****40.855646,-73.190251
+1236 Veterans Memorial Hwy, Hauppauge, NY 11788, USA*****40.814155,-73.192126
+2162 Nesconset Hwy, Stony Brook, NY 11790, USA*****40.873050,-73.126029
+910 S Broadway, Hicksville, NY 11801, USA*****40.745567,-73.500540
+259 10th St, Hicksville, NY 11801, USA*****40.754842,-73.524122
+1510 Old Country Rd, Riverhead, NY 11901, USA*****40.928786,-72.695122
+812 Main St, East Moriches, NY 11940, USA*****40.799616,-72.773416
+66 Newtown Ln, East Hampton, NY 11937, USA*****40.964662,-72.187797
+Newtown Ln, East Hampton, NY 11937, USA*****40.965695,-72.193670
+10095 Main Rd, Mattituck, NY 11952, USA*****40.986275,-72.538414
+23 Jagger Ln, Southampton, NY 11968, USA*****40.887505,-72.392572
+Sunset Ave, Westhampton Beach, NY 11978, USA*****40.815284,-72.644835

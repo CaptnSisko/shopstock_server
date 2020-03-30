@@ -1,0 +1,5 @@
+310 Cherry Ave, Rochelle, IL 61068, USA*****41.921955,-89.064449
+485 Central Ave, East Orange, NJ 07018, USA*****40.758632,-74.220785
+168 Taylor St, City of Orange, NJ 07050, USA*****40.766203,-74.229236
+712 Broadway, Newark, NJ 07104, USA*****40.774648,-74.159939
+1427 St Georges Ave, Rahway, NJ 07065, USA*****40.613160,-74.285295

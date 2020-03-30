@@ -1,0 +1,22 @@
+670 Airport Rd, Oxford, AL 36203, USA*****33.590230,-85.859423
+2130 Roberts Dr, Anniston, AL 36207, USA*****33.624036,-85.798055
+16840 Main St, Hesperia, CA 92345, USA*****34.420651,-117.295508
+351 Thornton Rd #109, Lithia Springs, GA 30122, USA*****33.792221,-84.632461
+999 W McKinley Rd, Ottawa, IL 61350, USA*****41.322924,-88.855385
+2611 N Lincoln Ave, Urbana, IL 61802, USA*****40.140333,-88.223295
+3001 Apollo Dr, Champaign, IL 61822, USA*****40.151948,-88.231440
+5819 Deer Trail, Godfrey, IL 62035, USA*****38.952461,-90.256467
+1198 Vierling Dr E, Shakopee, MN 55379, USA*****44.779974,-93.509703
+104 11th St SW, Austin, MN 55912, USA*****43.666554,-92.988627
+273 MS-28, Pinola, MS 39149, USA*****31.880663,-90.115267
+833 Smelter Ave NE, Great Falls, MT 59404, USA*****47.525359,-111.292759
+707 Airport Rd, Bismarck, ND 58504, USA*****46.798500,-100.760124
+NJ-64 & Princeton Hightstown Rd, West Windsor Township, NJ 08550, USA*****40.317397,-74.620005
+3301 Southern Blvd SE, Rio Rancho, NM 87124, USA*****35.243279,-106.669429
+7800 Enchanted Hills Blvd NE, Rio Rancho, NM 87144, USA*****35.323365,-106.576638
+1003 Bellbrook Ave, Xenia, OH 45385, USA*****39.674167,-83.949719
+3900 Industrial Rd, Harrisburg, PA 17110, USA*****40.313699,-76.888052
+3729 S Lawrence St, Tacoma, WA 98409, USA*****47.223132,-122.478647
+1525 E D St, Tacoma, WA 98421, USA*****47.247828,-122.428782
+3401 80th St, Kenosha, WI 53142, USA*****42.557222,-87.849713
+205 7th Ave, Huntington, WV 25701, USA*****38.414217,-82.454439

@@ -1,0 +1,12 @@
+1200 Kennedy Dr, Kankakee, IL 60901, USA*****41.133326,-87.874154
+7520 Roosevelt Rd, Forest Park, IL 60130, USA*****41.863169,-87.814003
+491 E Roosevelt Rd, Lombard, IL 60148, USA*****41.858490,-88.005271
+571 W 14th Pl, Chicago Heights, IL 60411, USA*****41.505571,-87.666512
+1590 N Larkin Ave, Joliet, IL 60435, USA*****41.550764,-88.124639
+16831 Torrence Ave, Lansing, IL 60438, USA*****41.589889,-87.556679
+3128 N Monticello Ave, Chicago, IL 60618, USA*****41.938271,-87.718820
+2627 N Elston Ave, Chicago, IL 60647, USA*****41.929907,-87.681734
+3250 W 87th St, Chicago, IL 60652, USA*****41.736690,-87.703560
+13001 S Ashland Ave, Calumet Park, IL 60827, USA*****41.658748,-87.657805
+6110 Broadway, Merrillville, IN 46410, USA*****41.509229,-87.334911
+6140 Broadway, Merrillville, IN 46410, USA*****41.505479,-87.339459

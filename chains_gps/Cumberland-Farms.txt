@@ -1,0 +1,14 @@
+9 River Rd, Stafford Springs, CT 06076, USA*****41.952591,-72.303422
+633 Boston Post Rd, Madison, CT 06443, USA*****41.279816,-72.597607
+204 Marlborough St, Portland, CT 06480, USA*****41.569988,-72.631887
+464 River Rd, Shelton, CT 06484, USA*****41.289678,-73.076336
+3944 Gall Blvd, Zephyrhills, FL 33541, USA*****28.214669,-82.179585
+70 Central St, Ipswich, MA 01938, USA*****42.681422,-70.840308
+5 Liberty Rd, Hingham, MA 02043, USA*****42.186441,-70.881416
+624 E Boston Post Rd, Mamaroneck, NY 10543, USA*****40.952512,-73.727248
+Geyser Rd, Malta, NY 12020, USA*****43.043340,-73.861848
+2530 Albany St, Schenectady, NY 12304, USA*****42.783563,-73.912123
+78 Quaker St, Granville, NY 12832, USA*****43.399394,-73.265433
+19 Spring St, Schuylerville, NY 12871, USA*****43.103927,-73.580117
+191 Broadway, Whitehall, NY 12887, USA*****43.546706,-73.405912
+361 W Lancaster Ave, Haverford, PA 19041, USA*****40.012107,-75.298863

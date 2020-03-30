@@ -1,0 +1,8 @@
+20 Carando Dr, Springfield, MA 01104, USA*****42.145191,-72.536952
+499 Park Ave #600, New York, NY 10022, USA*****40.762533,-73.969644
+3319 US-54, El Dorado Springs, MO 64744, USA*****37.862619,-94.006861
+414 Prince George St, Williamsburg, VA 23185, USA*****37.272114,-76.706490
+200 Commerce St, Smithfield, VA 23430, USA*****36.984831,-76.630145
+18178 Havlow Ln, Smithfield, VA 23430, USA*****37.022252,-76.610552
+111 Commerce St, Smithfield, VA 23430, USA*****36.983532,-76.630753
+1 Monette Pkwy, Smithfield, VA 23430, USA*****37.007984,-76.602842

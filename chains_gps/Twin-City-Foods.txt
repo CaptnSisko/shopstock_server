@@ -1,0 +1,15 @@
+Lewiston, ID 83501, USA*****46.400409,-117.001189
+1315 Sherman St, Lake Odessa, MI 48849, USA*****42.785112,-85.141455
+67801 Balk Rd, Sturgis, MI 49091, USA*****41.813784,-85.464764
+67733 Klinger Lake Rd, Sturgis, MI 49091, USA*****41.813958,-85.534889
+600 Park Ave #1, Plainfield, NJ 07060, USA*****40.615062,-74.418762
+146 Smith St, South Plainfield, NJ 07080, USA*****40.568532,-74.413655
+611 Broadway, Newark, NJ 07104, USA*****40.771132,-74.161705
+1016 Sherman Ave, Elizabeth, NJ 07208, USA*****40.686969,-74.206285
+E Main St, Bridgewater Township, NJ 08807, USA*****40.563478,-74.581098
+617 E Main St, Bridgewater Township, NJ 08807, USA*****40.563892,-74.577176
+10120 269th Pl NW, Stanwood, WA 98292, USA*****48.240839,-122.372856
+501 W 4th Ave, Ellensburg, WA 98926, USA*****46.996060,-120.553795
+5405 Industrial Way, Pasco, WA 99301, USA*****46.274749,-119.092524
+1000 E 1st Ave, Kennewick, WA 99337, USA*****46.207366,-119.103428
+506 6th St, Prosser, WA 99350, USA*****46.206564,-119.771318

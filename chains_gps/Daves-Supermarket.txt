@@ -1,0 +1,16 @@
+120 S 3rd St, Fairbury, IL 61739, USA*****40.746672,-88.513421
+S Main St, Southwest City, MO 64863, USA*****36.509481,-94.613158
+Stephentown, NY 12168, USA*****42.561708,-73.382658
+3565 Ridge Rd, Cleveland, OH 44102, USA*****41.459290,-81.737165
+2500 E 40th St, Cleveland, OH 44115, USA*****41.491997,-81.658684
+7422 Harvard Ave, Cleveland, OH 44105, USA*****41.448383,-81.634932
+15900 Lakeshore Blvd, Cleveland, OH 44110, USA*****41.578628,-81.569411
+3301 Payne Ave, Cleveland, OH 44114, USA*****41.509401,-81.665522
+13130 Shaker Square, Cleveland, OH 44120, USA*****41.482749,-81.591080
+22600 Shore Center Dr, Euclid, OH 44123, USA*****41.608572,-81.522313
+22501 Shore Center Dr, Euclid, OH 44123, USA*****41.609541,-81.523384
+4948 Turney Rd, Garfield Heights, OH 44125, USA*****41.424647,-81.613447
+16820 Harvard Ave, Cleveland, OH 44128, USA*****41.448127,-81.562556
+871 E Exchange St, Akron, OH 44306, USA*****41.071261,-81.493118
+440 E Long Ave, New Castle, PA 16101, USA*****40.985746,-80.340001
+300 W Glen St, Crandon, WI 54520, USA*****45.572338,-88.907768

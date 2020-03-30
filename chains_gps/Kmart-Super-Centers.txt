@@ -1,0 +1,13 @@
+10555 W Colfax Ave, Lakewood, CO 80215, USA*****39.742977,-105.115297
+17550 Halsted St, Homewood, IL 60430, USA*****41.570762,-87.637378
+990 N Kinzie Ave, Bradley, IL 60915, USA*****41.158762,-87.847302
+2715 Madison Ave, Indianapolis, IN 46225, USA*****39.727275,-86.151405
+6780 W Washington St, Indianapolis, IN 46241, USA*****39.745869,-86.278862
+1179 32nd St, Port Huron, MI 48060, USA*****42.969786,-82.458182
+21111 Van Born Rd, Taylor, MI 48180, USA*****42.267413,-83.244411
+19990 Telegraph Rd, Detroit, MI 48219, USA*****42.437087,-83.275873
+529 Huffman Mill Rd, Burlington, NC 27215, USA*****36.075106,-79.493764
+709 Crystalwood Ct NW, Concord, NC 28027, USA*****35.431876,-80.612847
+3201 Austin Peay Hwy, Memphis, TN 38128, USA*****35.213104,-89.920359
+12330 San Pedro Ave, San Antonio, TX 78216, USA*****29.553100,-98.486197
+6501 University Ave, Lubbock, TX 79413, USA*****33.537219,-101.868144

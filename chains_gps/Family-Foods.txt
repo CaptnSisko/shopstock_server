@@ -1,0 +1,44 @@
+302 E Martin Luther King Hwy, Tuskegee, AL 36083, USA*****32.424689,-85.687907
+12469 Washington Blvd, Los Angeles, CA 90066, USA*****33.997051,-118.430436
+15001 Staff Ct, Gardena, CA 90248, USA*****33.895846,-118.275182
+4508 W Imperial Hwy, Inglewood, CA 90304, USA*****33.930561,-118.355098
+2037 Glenoaks Blvd, San Fernando, CA 91340, USA*****34.299492,-118.438240
+15300 Brand Blvd, Mission Hills, CA 91345, USA*****34.270401,-118.464252
+2780 Sweetwater Springs Blvd, Spring Valley, CA 91977, USA*****32.729749,-116.971482
+112 3rd St, Clifton, CO 81520, USA*****39.088646,-108.448013
+3713 New Hampshire Ave NW, Washington, DC 20010, USA*****38.936797,-77.023634
+831 Shadow Ridge Dr, Pensacola, FL 32514, USA*****30.554931,-87.256042
+2200 Bruton Blvd, Orlando, FL 32805, USA*****28.517178,-81.426598
+1350 W Gore St, Orlando, FL 32805, USA*****28.530374,-81.398791
+4511 N Pine Hills Rd, Orlando, FL 32808, USA*****28.597848,-81.450429
+303 Broadway Blvd SE, Polk City, FL 33868, USA*****28.181749,-81.820471
+1400 G Ave, Grundy Center, IA 50638, USA*****42.361031,-92.782416
+610 Cedar St, Tipton, IA 52772, USA*****41.771694,-91.127432
+214 W 5th St, Tipton, IA 52772, USA*****41.770122,-91.130240
+2S501 Illinois Rte 59, Warrenville, IL 60555, USA*****41.832530,-88.199789
+2301 S Homan Ave, Chicago, IL 60623, USA*****41.849759,-87.709853
+3002 N Franklin Rd, Indianapolis, IN 46226, USA*****39.811465,-86.027195
+10179 John Jay Dr, Indianapolis, IN 46235, USA*****39.820126,-85.987892
+Inez, KY 41224, USA*****37.866483,-82.538763
+500 2nd St, Paintsville, KY 41240, USA*****37.814776,-82.808688
+KY-194, Freeburn, KY, USA*****37.565085,-82.144681
+350 Main St, Falmouth, MA 02540, USA*****41.552566,-70.612604
+35 N Main St, Falmouth, MA 02540, USA*****41.555583,-70.621470
+350 Main St, Falmouth, MA 02540, USA*****41.552566,-70.612604
+19230 Harper Ave, Harper Woods, MI 48225, USA*****42.426283,-82.926079
+318 W Adams St, Iron River, MI 49935, USA*****46.092634,-88.642030
+920 10th St, Clarkfield, MN 56223, USA*****44.790121,-95.803734
+Lancaster, MN 56735, USA*****48.858315,-96.804215
+1146 Long Ave, Rocky Mount, NC 27801, USA*****35.929231,-77.782307
+NC-37, Gates, NC, USA*****36.503640,-76.768799
+Court St, Gatesville, NC 27938, USA*****36.405135,-76.763284
+713 Main St, Strasburg, ND 58573, USA*****46.133808,-100.159842
+57 State St, Washington, NJ 07882, USA*****40.758132,-74.985711
+740 Morgan St, Camden, NJ 08104, USA*****39.912273,-75.112986
+188 Bay Ridge Ave, Brooklyn, NY 11230, USA*****40.636637,-74.029281
+412 Auburn Ave, Buffalo, NY 14213, USA*****42.918746,-78.885455
+1212 N Detroit Ave, Toledo, OH 43607, USA*****41.652437,-83.577579
+404 N U.S. Hwy 52, Moncks Corner, SC 29461, USA*****33.202067,-79.989128
+104 Dragstrip Rd, Aiken, SC 29803, USA*****33.352259,-81.804124
+418 S Main St, Belton, TX 76513, USA*****31.053513,-97.465394
+840 W 600 S, Lindon, UT 84042, USA*****40.327021,-111.734550

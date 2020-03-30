@@ -1,0 +1,8 @@
+1111 Angell Dr, Springdale, AR 72764, USA*****36.194785,-94.114760
+1295 Stewart Pl, Springdale, AR 72764, USA*****36.170746,-94.116918
+708 Union Dr Apt F, Springdale, AR 72764, USA*****36.190775,-94.142465
+20W446 22nd St, Lombard, IL 60148, USA*****41.844890,-88.027494
+1106 S Bridge St, Yorkville, IL 60560, USA*****41.633010,-88.448541
+4849 N Milwaukee Ave, Chicago, IL 60630, USA*****41.969071,-87.760846
+80 Grove St, Watertown, MA 02472, USA*****42.369989,-71.152362
+22 Fawnridge Dr, Long Valley, NJ 07853, USA*****40.810285,-74.774600

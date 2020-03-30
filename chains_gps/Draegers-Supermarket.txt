@@ -1,0 +1,4 @@
+342 1st St, Los Altos, CA 94022, USA*****37.376353,-122.116850
+University Dr, West Menlo Park, CA 94025, USA*****37.448811,-122.185252
+291 Utah Ave, South San Francisco, CA 94080, USA*****37.647738,-122.394870
+222 E 4th Ave, San Mateo, CA 94401, USA*****37.564288,-122.321469
