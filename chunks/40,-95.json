@@ -1,0 +1,1 @@
+[{'xid': 'W380440626', 'name': 'Hy-Vee', 'rate': 1, 'osm': 'way/380440626', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -94.872009, 'lat': 40.333576}}, {'xid': 'N2575206231', 'name': 'Walmart Supercenter', 'rate': 1, 'osm': 'node/2575206231', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -94.870117, 'lat': 40.330025}}]

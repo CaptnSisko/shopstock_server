@@ -1,0 +1,1 @@
+[{'xid': 'N5315601384', 'name': 'Walmart Supercenter', 'rate': 1, 'osm': 'node/5315601384', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -100.757713, 'lat': 41.120785}}, {'xid': 'N4798949608', 'name': "Reed's Food Center", 'rate': 1, 'osm': 'node/4798949608', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -100.195076, 'lat': 41.422031}}]

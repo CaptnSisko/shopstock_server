@@ -1,0 +1,1 @@
+[{'xid': 'W172873832', 'name': 'Albertsons', 'rate': 1, 'osm': 'way/172873832', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -106.636665, 'lat': 48.197464}}, {'xid': 'N3482149019', 'name': "Gordon's Warehouse Grocery", 'rate': 1, 'osm': 'node/3482149019', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -106.631035, 'lat': 48.194691}}]

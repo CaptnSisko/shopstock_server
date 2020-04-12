@@ -1,0 +1,1 @@
+[{'xid': 'W457223557', 'name': 'Safeway', 'rate': 1, 'osm': 'way/457223557', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -120.345268, 'lat': 42.191811}}, {'xid': 'N490511453', 'name': "Stewart's", 'rate': 1, 'osm': 'node/490511453', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -120.346169, 'lat': 42.190681}}]

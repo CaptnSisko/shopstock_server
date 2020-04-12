@@ -1,0 +1,441 @@
+[{
+    'xid': 'W179136725',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/179136725',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.657722,
+        'lat': 35.879845
+    }
+}, {
+    'xid': 'W372325368',
+    'name': 'Kroger',
+    'rate': 1,
+    'osm': 'way/372325368',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.068962,
+        'lat': 35.862602
+    }
+}, {
+    'xid': 'W476935233',
+    'name': 'Food City',
+    'rate': 1,
+    'osm': 'way/476935233',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.016129,
+        'lat': 35.98098
+    }
+}, {
+    'xid': 'W697919434',
+    'name': "Fresh N' Low",
+    'rate': 1,
+    'osm': 'way/697919434',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.958931,
+        'lat': 35.303143
+    }
+}, {
+    'xid': 'N1015281072',
+    'name': 'Food City',
+    'rate': 1,
+    'osm': 'node/1015281072',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.112389,
+        'lat': 35.948692
+    }
+}, {
+    'xid': 'N1447303781',
+    'name': 'Piggly Wiggly',
+    'rate': 1,
+    'osm': 'node/1447303781',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.790695,
+        'lat': 35.520508
+    }
+}, {
+    'xid': 'N1759303994',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'node/1759303994',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.062881,
+        'lat': 35.926636
+    }
+}, {
+    'xid': 'N1867657257',
+    'name': 'Piggly Wiggly',
+    'rate': 1,
+    'osm': 'node/1867657257',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.864151,
+        'lat': 35.69096
+    }
+}, {
+    'xid': 'N2527426576',
+    'name': 'Butler and Bailey Market',
+    'rate': 1,
+    'osm': 'node/2527426576',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.020332,
+        'lat': 35.905228
+    }
+}, {
+    'xid': 'N2694794259',
+    'name': 'Food City',
+    'rate': 1,
+    'osm': 'node/2694794259',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.000839,
+        'lat': 35.934078
+    }
+}, {
+    'xid': 'N2870253203',
+    'name': 'Kroger',
+    'rate': 1,
+    'osm': 'node/2870253203',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.08905,
+        'lat': 35.913544
+    }
+}, {
+    'xid': 'N3061103675',
+    'name': 'IGA Supermarket',
+    'rate': 1,
+    'osm': 'node/3061103675',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.616524,
+        'lat': 35.450687
+    }
+}, {
+    'xid': 'N3061131813',
+    'name': 'Save A Lot White Way Shopping Center',
+    'rate': 1,
+    'osm': 'node/3061131813',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.590271,
+        'lat': 35.436302
+    }
+}, {
+    'xid': 'N3758828322',
+    'name': 'Publix',
+    'rate': 1,
+    'osm': 'node/3758828322',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.076508,
+        'lat': 35.86063
+    }
+}, {
+    'xid': 'N3760431450',
+    'name': 'Publix',
+    'rate': 1,
+    'osm': 'node/3760431450',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.17012,
+        'lat': 35.893524
+    }
+}, {
+    'xid': 'N3855084957',
+    'name': 'Fresh Market',
+    'rate': 1,
+    'osm': 'node/3855084957',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.165161,
+        'lat': 35.880783
+    }
+}, {
+    'xid': 'N3858132389',
+    'name': 'Whole Foods Market',
+    'rate': 1,
+    'osm': 'node/3858132389',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.015633,
+        'lat': 35.933201
+    }
+}, {
+    'xid': 'N4332726389',
+    'name': "Trader Joe's",
+    'rate': 1,
+    'osm': 'node/4332726389',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.045921,
+        'lat': 35.927151
+    }
+}, {
+    'xid': 'N5258233910',
+    'name': 'Fresh N" Low',
+    'rate': 1,
+    'osm': 'node/5258233910',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.718987,
+        'lat': 35.128326
+    }
+}, {
+    'xid': 'W536781031',
+    'name': 'Food City #653',
+    'rate': 1,
+    'osm': 'way/536781031',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.496796,
+        'lat': 35.885632
+    }
+}, {
+    'xid': 'N5315596440',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'node/5315596440',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.264633,
+        'lat': 35.822086
+    }
+}, {
+    'xid': 'N5315597788',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'node/5315597788',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.005501,
+        'lat': 35.108761
+    }
+}, {
+    'xid': 'N5315598221',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'node/5315598221',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.360077,
+        'lat': 35.512287
+    }
+}, {
+    'xid': 'W593409840',
+    'name': 'Food City',
+    'rate': 1,
+    'osm': 'way/593409840',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.855492,
+        'lat': 35.193321
+    }
+}, {
+    'xid': 'W610073619',
+    'name': 'Walmart',
+    'rate': 1,
+    'osm': 'way/610073619',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.005486,
+        'lat': 35.108578
+    }
+}, {
+    'xid': 'W302173686',
+    'name': 'Ingles',
+    'rate': 1,
+    'osm': 'way/302173686',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.262978,
+        'lat': 35.801964
+    }
+}, {
+    'xid': 'W372497330',
+    'name': 'Kroger',
+    'rate': 1,
+    'osm': 'way/372497330',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.157158,
+        'lat': 35.880131
+    }
+}, {
+    'xid': 'W372502671',
+    'name': 'Ingles Market',
+    'rate': 1,
+    'osm': 'way/372502671',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.178177,
+        'lat': 35.875011
+    }
+}, {
+    'xid': 'W469846620',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/469846620',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.012802,
+        'lat': 35.714729
+    }
+}, {
+    'xid': 'W592886665',
+    'name': 'Publix Super Market',
+    'rate': 1,
+    'osm': 'way/592886665',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.860687,
+        'lat': 35.209511
+    }
+}, {
+    'xid': 'W610073618',
+    'name': 'Ingles',
+    'rate': 1,
+    'osm': 'way/610073618',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.006233,
+        'lat': 35.105778
+    }
+}, {
+    'xid': 'N1015281074',
+    'name': 'Kroger',
+    'rate': 1,
+    'osm': 'node/1015281074',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.093353,
+        'lat': 35.942787
+    }
+}, {
+    'xid': 'N1204752726',
+    'name': 'Food City',
+    'rate': 1,
+    'osm': 'node/1204752726',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.1866,
+        'lat': 35.931561
+    }
+}, {
+    'xid': 'N3759740536',
+    'name': 'Earth Fare',
+    'rate': 1,
+    'osm': 'node/3759740536',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.146454,
+        'lat': 35.902931
+    }
+}, {
+    'xid': 'N4439521468',
+    'name': 'Target',
+    'rate': 1,
+    'osm': 'node/4439521468',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.079323,
+        'lat': 35.862774
+    }
+}, {
+    'xid': 'N6424706961',
+    'name': 'Ingles Market',
+    'rate': 1,
+    'osm': 'node/6424706961',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.474785,
+        'lat': 35.587551
+    }
+}, {
+    'xid': 'W262034084',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/262034084',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.631493,
+        'lat': 35.452785
+    }
+}, {
+    'xid': 'W372408279',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/372408279',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.147636,
+        'lat': 35.90012
+    }
+}, {
+    'xid': 'W503718627',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/503718627',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.868805,
+        'lat': 35.125286
+    }
+}, {
+    'xid': 'W520909329',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/520909329',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.475502,
+        'lat': 35.583488
+    }
+}, {
+    'xid': 'W593061055',
+    'name': 'Walmart Supercenter',
+    'rate': 1,
+    'osm': 'way/593061055',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.848938,
+        'lat': 35.202175
+    }
+}, {
+    'xid': 'W594770798',
+    'name': "Cooke's",
+    'rate': 1,
+    'osm': 'way/594770798',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.864983,
+        'lat': 35.18964
+    }
+}, {
+    'xid': 'N4657618805',
+    'name': 'Walmart Neighborhood Market',
+    'rate': 1,
+    'osm': 'node/4657618805',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.011024,
+        'lat': 35.976273
+    }
+}, {
+    'xid': 'N1849239529',
+    'name': 'Ingles Market',
+    'rate': 1,
+    'osm': 'node/1849239529',
+    'kinds': 'shops,supermarkets,tourist_facilities',
+    'point': {
+        'lon': -84.095505,
+        'lat': 35.983685
+    }
+}]

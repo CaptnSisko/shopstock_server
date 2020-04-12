@@ -1,0 +1,1 @@
+[{'xid': 'N5315596626', 'name': 'Walmart', 'rate': 1, 'osm': 'node/5315596626', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -99.104218, 'lat': 35.017075}}, {'xid': 'W396821010', 'name': 'Walmart Supercenter', 'rate': 1, 'osm': 'way/396821010', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -99.376381, 'lat': 35.409203}}]
