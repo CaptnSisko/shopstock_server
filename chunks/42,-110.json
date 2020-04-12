@@ -1,1 +1,1 @@
-[{'xid': 'N3744964748', 'name': "Ridley's Family Market", 'rate': 1, 'osm': 'node/3744964748', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -109.856277, 'lat': 42.867264}}]
+[{"xid":"N3744964748","name":"Ridley's Family Market","rate":1,"osm":"node/3744964748","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-109.856277,"lat":42.867264}}]

@@ -10,8 +10,8 @@ exports.setup = () => {
         password: secret['db_pass'],
         database: "shopstock"
     });
-    con.connect(function(err) {
-    if (err) throw err;
+    con.connect((err) => {
+        if (err) throw err;
         console.log("Connected to SQL db!");
     });
 };

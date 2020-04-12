@@ -1,1 +1,1 @@
-[{'xid': 'N3542060597', 'name': 'Roberts Groceries', 'rate': 1, 'osm': 'node/3542060597', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -79.295158, 'lat': 25.729349}}]
+[{"xid":"N3542060597","name":"Roberts Groceries","rate":1,"osm":"node/3542060597","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-79.295158,"lat":25.729349}}]

@@ -1,1 +1,1 @@
-[{'xid': 'N434584010', 'name': "Basha's", 'rate': 1, 'osm': 'node/434584010', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -110.251244, 'lat': 36.709557}}]
+[{"xid":"N434584010","name":"Basha's","rate":1,"osm":"node/434584010","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-110.251244,"lat":36.709557}}]

@@ -1,1 +1,1 @@
-[{'xid': 'N5240262406', 'name': "Rex's Supermarket", 'rate': 1, 'osm': 'node/5240262406', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -112.18306, 'lat': 47.813095}}]
+[{"xid":"N5240262406","name":"Rex's Supermarket","rate":1,"osm":"node/5240262406","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-112.18306,"lat":47.813095}}]

@@ -1,1 +1,1 @@
-[{'xid': 'N4370547299', 'name': 'Dayville Merc', 'rate': 1, 'osm': 'node/4370547299', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -119.536865, 'lat': 44.470402}}]
+[{"xid":"N4370547299","name":"Dayville Merc","rate":1,"osm":"node/4370547299","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-119.536865,"lat":44.470402}}]

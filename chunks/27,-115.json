@@ -1,1 +1,1 @@
-[{'xid': 'N6203002722', 'name': '', 'rate': 0, 'osm': 'node/6203002722', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -114.055611, 'lat': 27.962175}}]
+[{"xid":"N6203002722","name":"","rate":0,"osm":"node/6203002722","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-114.055611,"lat":27.962175}}]

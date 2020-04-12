@@ -1,1 +1,1 @@
-[{'xid': 'N3411171779', 'name': "Van's Iga", 'rate': 1, 'osm': 'node/3411171779', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -106.676979, 'lat': 46.265991}}]
+[{"xid":"N3411171779","name":"Van's Iga","rate":1,"osm":"node/3411171779","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-106.676979,"lat":46.265991}}]

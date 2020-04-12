@@ -1,1 +1,1 @@
-[{'xid': 'N2445163483', 'name': 'Del Rio', 'rate': 1, 'osm': 'node/2445163483', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -106.515106, 'lat': 30.638565}}]
+[{"xid":"N2445163483","name":"Del Rio","rate":1,"osm":"node/2445163483","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-106.515106,"lat":30.638565}}]

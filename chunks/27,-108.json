@@ -1,1 +1,1 @@
-[{'xid': 'N5764122054', 'name': 'Supermercado', 'rate': 1, 'osm': 'node/5764122054', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -107.91713, 'lat': 27.210148}}]
+[{"xid":"N5764122054","name":"Supermercado","rate":1,"osm":"node/5764122054","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-107.91713,"lat":27.210148}}]

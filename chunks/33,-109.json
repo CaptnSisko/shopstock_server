@@ -1,1 +1,1 @@
-[{'xid': 'N5249879928', 'name': "Jake's General Merchandise", 'rate': 1, 'osm': 'node/5249879928', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -108.757553, 'lat': 33.713146}}]
+[{"xid":"N5249879928","name":"Jake's General Merchandise","rate":1,"osm":"node/5249879928","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-108.757553,"lat":33.713146}}]

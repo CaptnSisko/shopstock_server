@@ -1,1 +1,1 @@
-[{'xid': 'N3409170911', 'name': 'Stage Stop Inn Cafe & General Store', 'rate': 1, 'osm': 'node/3409170911', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -108.351311, 'lat': 47.003815}}]
+[{"xid":"N3409170911","name":"Stage Stop Inn Cafe & General Store","rate":1,"osm":"node/3409170911","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-108.351311,"lat":47.003815}}]

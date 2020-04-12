@@ -1,1 +1,1 @@
-[{'xid': 'N1736880560', 'name': "Porter's Thriftway", 'rate': 1, 'osm': 'node/1736880560', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -104.027748, 'lat': 30.30703}}]
+[{"xid":"N1736880560","name":"Porter's Thriftway","rate":1,"osm":"node/1736880560","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-104.027748,"lat":30.30703}}]

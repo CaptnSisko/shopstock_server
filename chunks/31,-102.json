@@ -1,1 +1,1 @@
-[{'xid': 'N2217098482', 'name': 'Super S Grocery', 'rate': 1, 'osm': 'node/2217098482', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -101.460251, 'lat': 31.191862}}]
+[{"xid":"N2217098482","name":"Super S Grocery","rate":1,"osm":"node/2217098482","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-101.460251,"lat":31.191862}}]

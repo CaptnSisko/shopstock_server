@@ -1,1 +1,1 @@
-[{'xid': 'N4927617347', 'name': 'IGA', 'rate': 1, 'osm': 'node/4927617347', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -72.783249, 'lat': 47.439919}}]
+[{"xid":"N4927617347","name":"IGA","rate":1,"osm":"node/4927617347","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-72.783249,"lat":47.439919}}]

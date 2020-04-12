@@ -1,1 +1,1 @@
-[{'xid': 'W283268116', 'name': "Smith's", 'rate': 1, 'osm': 'way/283268116', 'kinds': 'shops,supermarkets,tourist_facilities', 'point': {'lon': -114.078102, 'lat': 40.739574}}]
+[{"xid":"W283268116","name":"Smith's","rate":1,"osm":"way/283268116","kinds":"shops,supermarkets,tourist_facilities","point":{"lon":-114.078102,"lat":40.739574}}]
