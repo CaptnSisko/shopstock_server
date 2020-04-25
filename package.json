@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/captnsisko/shopstock_server.git"
   }
 }

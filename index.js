@@ -1,7 +1,8 @@
 const express = require('express');
+const secret = require('./secret.json');
 
 const app = express();
-const port = 3000;
+const port = secret['port'];
 const version = 0.1;
 
 const db = require('./drivers/sqldriver.js');
