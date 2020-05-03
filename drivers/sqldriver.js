@@ -55,7 +55,7 @@ exports.get_stores_in_area = (lat_1, lat_2, long_1, long_2, callback) => {
 
     con.query(sql, [lat_1, lat_2, long_1, long_2], (err, result) => {
         if(err) throw err;
-        var stores = []
+        var stores = [];
 		for (i in result) {
 			stores.push({
                 'id': result[i].id,
@@ -68,3 +68,67 @@ exports.get_stores_in_area = (lat_1, lat_2, long_1, long_2, callback) => {
         callback(stores); 
     });
 };
+
+exports.send_report = (in_stock, no_stock, user_id, store_id, timestamp, callback) => {
+    sql = 'INSERT INTO reports VALUES (NULL, ?, ?, ?, ?, FROM_UNIXTIME(?))';
+
+    for(i in in_stock) {
+        con.query(sql, [user_id, in_stock[i], store_id, true, timestamp], (err, result) => {
+            if(err) { 
+                throw err;
+                callback({'success': false})
+            }
+        });
+    }
+
+    for(i in in_stock) {
+        con.query(sql, [user_id, in_stock[i], store_id, false, timestamp], (err, result) => {
+            if(err) {
+                throw err;
+                callback({'success': false})
+            }
+        });
+    }
+    callback({'success': true});
+};
+
+exports.get_store_reports = (store_id, callback) => {
+    sql = 'SELECT * FROM reports WHERE store_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
+
+    con.query(sql, [store_id], (err, result) => {
+        if(err) throw err;
+        var reports = [];
+		for (i in result) {
+			reports.push({
+                'id': result[i].id,
+                'user_id': result[i].user_id,
+                'item_id': result[i].item_id,
+                'store_id': result[i].store_id,
+                'in_stock': result[i].in_stock,
+                'timestamp': result[i].timestamp
+			});
+        }
+        callback(reports); 
+    });
+};
+
+exports.get_user_reports = (user_id, callback) => {
+    sql = 'SELECT id, user_id, item_id, store_id, in_stock, UNIX_TIMESTAMP(timestamp) FROM reports WHERE user_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 WEEK) ORDER BY timestamp ASC';
+
+    con.query(sql, [user_id], (err, result) => {
+        if(err) throw err;
+        var reports = []
+		for (i in result) {
+			reports.push({
+                'id': result[i]['id'],
+                'user_id': result[i]['user_id'],
+                'item_id': result[i]['item_id'],
+                'store_id': result[i]['store_id'],
+                'in_stock': result[i]['in_stock'],
+                'timestamp': result[i]['UNIX_TIMESTAMP(timestamp)']
+			});
+        }
+        callback(reports);
+    });
+};
+
