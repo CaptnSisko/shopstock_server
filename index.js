@@ -1,8 +1,10 @@
 const express = require('express');
 var bodyParser = require("body-parser");
 
+const secret = require('./secret.json');
+
 const app = express();
-const port = 3000;
+const port = secret['port'];
 const version = 0.1;
 
 const reliability_calc = require('./math/reliability_calculator.js');
