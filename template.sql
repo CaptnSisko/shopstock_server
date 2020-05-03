@@ -90,6 +90,34 @@ INSERT INTO `item_lookup` VALUES (1,'Milk',1),(2,'Potatos',2);
 UNLOCK TABLES;
 
 --
+-- Table structure for table `reports`
+--
+
+DROP TABLE IF EXISTS `reports`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `reports` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `user_id` int(10) unsigned NOT NULL,
+  `item_id` int(10) unsigned NOT NULL,
+  `store_id` int(10) unsigned NOT NULL,
+  `in_stock` tinyint(1) NOT NULL,
+  `timestamp` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=43 DEFAULT CHARSET=utf8mb4;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `reports`
+--
+
+LOCK TABLES `reports` WRITE;
+/*!40000 ALTER TABLE `reports` DISABLE KEYS */;
+INSERT INTO `reports` VALUES (1,0,1,5,1,'1970-01-01 03:25:45'),(2,0,2,5,1,'1970-01-01 03:25:45'),(3,0,3,5,1,'1970-01-01 03:25:45'),(4,0,1,5,0,'1970-01-01 03:25:45'),(5,0,2,5,0,'1970-01-01 03:25:45'),(6,0,3,5,0,'1970-01-01 03:25:45'),(7,0,1,5,1,'1970-01-01 03:25:45'),(8,0,2,5,1,'1970-01-01 03:25:45'),(9,0,3,5,1,'1970-01-01 03:25:45'),(10,0,1,5,0,'1970-01-01 03:25:45'),(11,0,2,5,0,'1970-01-01 03:25:45'),(12,0,3,5,0,'1970-01-01 03:25:45'),(13,0,1,5,1,'1970-01-02 10:17:35'),(14,0,2,5,1,'1970-01-02 10:17:35'),(15,0,3,5,1,'1970-01-02 10:17:35'),(16,0,1,5,0,'1970-01-02 10:17:35'),(17,0,2,5,0,'1970-01-02 10:17:35'),(18,0,3,5,0,'1970-01-02 10:17:35'),(19,0,1,5,1,'2020-05-03 00:22:50'),(20,0,2,5,1,'2020-05-03 00:22:50'),(21,0,3,5,1,'2020-05-03 00:22:50'),(22,0,1,5,0,'2020-05-03 00:22:50'),(23,0,2,5,0,'2020-05-03 00:22:50'),(24,0,3,5,0,'2020-05-03 00:22:50'),(25,0,1,5,1,'2020-05-03 00:22:50'),(26,0,2,5,1,'2020-05-03 00:22:50'),(27,0,3,5,1,'2020-05-03 00:22:50'),(28,0,1,5,0,'2020-05-03 00:22:50'),(29,0,2,5,0,'2020-05-03 00:22:50'),(30,0,3,5,0,'2020-05-03 00:22:50'),(31,0,1,5,1,'2020-05-03 00:22:55'),(32,0,2,5,1,'2020-05-03 00:22:55'),(33,0,3,5,1,'2020-05-03 00:22:55'),(34,0,1,5,0,'2020-05-03 00:22:55'),(35,0,2,5,0,'2020-05-03 00:22:55'),(36,0,3,5,0,'2020-05-03 00:22:55'),(37,0,1,5,1,'2020-05-03 00:22:56'),(38,0,2,5,1,'2020-05-03 00:22:56'),(39,0,3,5,1,'2020-05-03 00:22:56'),(40,0,1,5,0,'2020-05-03 00:22:56'),(41,0,2,5,0,'2020-05-03 00:22:56'),(42,0,3,5,0,'2020-05-03 00:22:56');
+/*!40000 ALTER TABLE `reports` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `store_category_lookup`
 --
 
@@ -155,4 +183,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-04-25  4:05:44
+-- Dump completed on 2020-05-03 19:19:58
