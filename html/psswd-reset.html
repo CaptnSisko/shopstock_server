@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Reset Password</title>
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+		
+		<link rel="icon" href="img/ShopstockLogo.png">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/fontAwesome.css">
+        <link rel="stylesheet" href="css/hero-slider.css">
+        <link rel="stylesheet" href="css/owl-carousel.css">
+        <link rel="stylesheet" href="css/templatemo-style.css">
+        <link rel="stylesheet" href="css/lightbox.css">
+
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	
+</head>
+
+<body>
+
+
+
+<div class="parallax-content formpage-content" id="home">
+        <div class="container">
+            <div class="text-content">
+                <h2>Reset Password</h2>
+
+				<label for="error" id="error_message"></label>
+
+				<form id="reset_form" action="http://devel.shopstock.live:3001/api/change_password" method="POST">
+				
+					<div class="alignment-container">
+						<input type="email" id="email" name="email" readonly="readonly" value="EMAIL_NOT_FOUND"><br><br>
+						
+						<input type="password" id="password" name="password" placeholder=" New password"><br><br>
+					  
+						<input type="password" id="confirmpassword" name="confirmpassword" placeholder="Confirm new password"><br><br>
+					</div>
+					 
+					<input type="hidden" id="token" name="token" value="TOKEN_NOT_FOUND"> 
+					
+					<div align="center">
+						<div class="g-recaptcha" data-sitekey="6Leae-0UAAAAABBNZl2W8rVszK4pCOpsTlot4He5"></div><br>
+					</div>
+
+					
+					
+					<div class="primary-green-button">
+						<a href="#" class="scroll-link" data-id="about" onclick="launch_reset();">Reset Password</a>
+					</div>
+					<br><br>
+					<label for="submit">Resetting will log you out of the Shopstock application.</label>
+				</form> 
+            </div>
+        </div>
+    </div>
+
+<script>
+
+var parsed_qs = new URLSearchParams(window.location.search);
+var email = parsed_qs.get("email");
+var token = parsed_qs.get("token");
+
+if (email == undefined || token == undefined) {
+    //document.getElementById("reset_form").style.visibility = "hidden"; 
+    //document.getElementById("error_message").innerHTML = "Your email or token is invalid. ";
+}
+
+let lowercase = new RegExp('(?=.*[a-z])');
+let capital = new RegExp('(?=.*[A-Z])');
+let number = new RegExp('(?=.*[0-9])');
+let specialchar = new RegExp('(?=.*[!@#\$%^&*])');
+function launch_reset() {
+	var new_password = document.getElementById("password").value;
+	var confirm_password = document.getElementById("confirmpassword").value;
+	
+	// Make sure the passwords match
+	if(new_password != confirm_password){
+		document.getElementById("error_message").innerHTML = "Passwords do not match.";
+		return;
+	}else{
+		if(!new_password.match(lowercase)){
+			document.getElementById("error_message").innerHTML = "Password must have at least one lowercase letter.";
+			return;
+		}else if(!new_password.match(capital)){
+			document.getElementById("error_message").innerHTML = "Password must have at least one capital letter.";
+			return;
+		}else if(!new_password.match(number)){
+			document.getElementById("error_message").innerHTML = "Password must have at least one number.";
+			return;
+		}else if(!new_password.match(specialchar)){
+			document.getElementById("error_message").innerHTML = "Password must have a special character from: !@#\$%^&*";
+			return;
+		}else if(!(new_password.length >= 8)){
+			document.getElementById("error_message").innerHTML = "Password must have at least 8 characters.";
+			return;
+		}
+		document.getElementById("error_message").innerHTML = "";
+		
+		// Password is secure, and matches - Trevor work here
+	}
+	
+	
+}
+
+document.getElementById("email").value = email;
+document.getElementById("token").value = token;
+
+</script>
+
+</body>
+</html>
+
+<!-- Background Photo by Artur Łuczka on Unsplash -->
