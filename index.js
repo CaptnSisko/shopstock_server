@@ -14,8 +14,8 @@ const confidence_calc = require('./math/confidence_calculator.js');
 
 const user_manager = require('./drivers/usermanager.js');
 const db = require('./drivers/sqldriver.js');
-user_manager.setup();
 db.setup();
+user_manager.setup(db);
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
