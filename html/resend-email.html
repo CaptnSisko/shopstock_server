@@ -25,7 +25,7 @@
 
 <body>
 
-<form id="resend_form" action="http://devel.shopstock.live:3001/api/resend_verification_email" method="POST">
+<form id="resend_form" action="http://devel.shopstock.live/api/resend_verification_email" method="POST">
 	<div class="parallax-content formpage-content" id="home">
 		<div class="container">
 			<div class="text-content">
@@ -61,8 +61,8 @@
 			document.getElementById("error_message").innerHTML = "The emails do not match.";
 			return;
 		}
-		// Emails match trevor work here
 		document.getElementById("error_message").innerHTML = "";	
+		document.getElementById("resend_form").submit();
 	}
 </script>
  

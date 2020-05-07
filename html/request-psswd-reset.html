@@ -35,7 +35,7 @@
 
 				<label for="error" id="error_message"></label><br>
 
-				<form id="reset_form" action="http://devel.shopstock.live:3001/api/request_change_password" method="POST">
+				<form id="reset_form" action="http://devel.shopstock.live/api/request_change_password" method="POST">
 					<div class="ungreyed">
 						<input type="text" id="idemail" name="email" placeholder="Email"><br><br>
 					</div>
@@ -64,8 +64,8 @@
 			document.getElementById("error_message").innerHTML = "The emails do not match.";
 			return;
 		}
-		// Emails match trevor work here
 		document.getElementById("error_message").innerHTML = "";	
+		document.getElementById("reset_form").submit();
 	}
 </script>
 </body>

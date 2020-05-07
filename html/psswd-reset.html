@@ -37,7 +37,7 @@
 
 			<label for="error" id="error_message"></label>
 
-			<form id="reset_form" action="http://devel.shopstock.live:3001/api/change_password" method="POST">
+			<form id="reset_form" action="http://devel.shopstock.live/api/change_password" method="POST">
 			
 				<div class="alignment-container">
 					<input type="email" id="email" name="email" readonly="readonly" value="EMAIL_NOT_FOUND"><br><br>
@@ -106,8 +106,7 @@ function launch_reset() {
 			return;
 		}
 		document.getElementById("error_message").innerHTML = "";
-		
-		// Password is secure, and matches - Trevor work here
+		document.getElementById("reset_form").submit();
 	}
 	
 	
