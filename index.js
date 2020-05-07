@@ -1,6 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
+const Recaptcha = require('express-recaptcha').RecaptchaV2;
 
 const secret = require('./secret.json');
 const saltRounds = 10;
@@ -8,6 +9,8 @@ const saltRounds = 10;
 const app = express();
 const port = secret['port'];
 const version = 0.1;
+
+const recaptcha = new Recaptcha(secret['recaptcha_site_key'], secret['recaptcha_secret_key']);
 
 const reliability_calc = require('./math/reliability_calculator.js');
 const confidence_calc = require('./math/confidence_calculator.js');
@@ -78,12 +81,76 @@ app.post('/api/create_account', (req, res) => {
 			});
 			// TODO handle error
 		}
-		console.log(hash);
 		user_manager.create_user(name, email, hash, (status) => {
 			if(status['success'] == false) res.status(400);
 			res.json(status);
 		});
 	});
+});
+
+app.post('/api/change_password', recaptcha.middleware.verify, (req, res) => {
+	var email = req.body.email;
+	var password = req.body.password;
+	var token = req.body.token;
+
+	if (req.recaptcha.error) {
+		res.status(400);
+		res.send('An error has occured while changing your password: Invalid Recaptcha response!');
+	} else {
+		bcrypt.hash(password, saltRounds, function(err, hash) {
+			if(err) {
+				res.status(400);
+				res.json({
+					'success': false
+				});
+				// TODO handle error
+			}
+			user_manager.change_password(email, hash, token, (response) => {
+				if (response['success']) {
+					res.send('Your password has been updated! You may now close this window.');
+				} else {
+					res.status(400);
+					res.send('An error has occured while changing your password: ' + response['error']);
+				}
+			});
+		});
+	}
+});
+
+app.post('/api/request_change_password', recaptcha.middleware.verify, (req, res) => {
+	var email = req.body.email;
+
+	if (req.recaptcha.error) {
+		res.status(400);
+		res.send('An error has occured while changing your password: Invalid Recaptcha response!');
+	} else {
+		user_manager.password_reset_email(email,(response) => {
+			if (response['success']) {
+				res.send('An email has been sent to your inbox with instructions on how to reset your password.');
+			} else {
+				res.status(400);
+				res.send('An error has occured with your password reset request: ' + response['error']);
+			}
+		});
+	}
+});
+
+app.post('/api/resend_verification_email', recaptcha.middleware.verify, (req, res) => {
+	var email = req.body.email;
+
+	if (req.recaptcha.error) {
+		res.status(400);
+		res.send('An error has occured while changing your password: Invalid Recaptcha response!');
+	} else {
+		user_manager.resend_verification_email(email,(response) => {
+			if (response['success']) {
+				res.send('An verification email has been sent to your inbox with instructions on how to verify your account.');
+			} else {
+				res.status(400);
+				res.send('An error has occured with your verification email request: ' + response['error']);
+			}
+		});
+	}
 });
 
 app.get('/api/verify_email', (req, res) => {
@@ -100,14 +167,7 @@ app.get('/api/verify_email', (req, res) => {
 	});
 });
 
-app.get('/api/resend_verification_email', (req, res) => {
-	var email = req.query.email;
 
-	user_manager.resend_verification_email(email, (response) => {
-		if (!response['success']) res.status(400);
-		res.json(response);
-	});
-});
 
 app.get('/api/get_items', (req, res) => {
 	db.get_all_items((items) => {
