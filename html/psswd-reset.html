@@ -31,39 +31,39 @@
 
 
 <div class="parallax-content formpage-content" id="home">
-        <div class="container">
-            <div class="text-content">
-                <h2>Reset Password</h2>
+	<div class="container">
+		<div class="text-content">
+			<h2>Reset Password</h2>
 
-				<label for="error" id="error_message"></label>
+			<label for="error" id="error_message"></label>
 
-				<form id="reset_form" action="http://devel.shopstock.live:3001/api/change_password" method="POST">
+			<form id="reset_form" action="http://devel.shopstock.live:3001/api/change_password" method="POST">
+			
+				<div class="alignment-container">
+					<input type="email" id="email" name="email" readonly="readonly" value="EMAIL_NOT_FOUND"><br><br>
+					
+					<input type="password" id="password" name="password" placeholder=" New password"><br><br>
+				  
+					<input type="password" id="confirmpassword" name="confirmpassword" placeholder="Confirm new password"><br><br>
+				</div>
+				 
+				<input type="hidden" id="token" name="token" value="TOKEN_NOT_FOUND"> 
 				
-					<div class="alignment-container">
-						<input type="email" id="email" name="email" readonly="readonly" value="EMAIL_NOT_FOUND"><br><br>
-						
-						<input type="password" id="password" name="password" placeholder=" New password"><br><br>
-					  
-						<input type="password" id="confirmpassword" name="confirmpassword" placeholder="Confirm new password"><br><br>
-					</div>
-					 
-					<input type="hidden" id="token" name="token" value="TOKEN_NOT_FOUND"> 
-					
-					<div align="center">
-						<div class="g-recaptcha" data-sitekey="6Leae-0UAAAAABBNZl2W8rVszK4pCOpsTlot4He5"></div><br>
-					</div>
+				<div align="center">
+					<div class="g-recaptcha" data-sitekey="6Leae-0UAAAAABBNZl2W8rVszK4pCOpsTlot4He5"></div><br>
+				</div>
 
-					
-					
-					<div class="primary-green-button">
-						<a href="#" class="scroll-link" data-id="about" onclick="launch_reset();">Reset Password</a>
-					</div>
-					<br><br>
-					<label for="submit">Resetting will log you out of the Shopstock application.</label>
-				</form> 
-            </div>
-        </div>
-    </div>
+				
+				
+				<div class="primary-green-button">
+					<a href="#" class="scroll-link" data-id="about" onclick="launch_reset();">Reset Password</a>
+				</div>
+				<br><br>
+				<label for="submit">Resetting will log you out of the Shopstock application.</label>
+			</form> 
+		</div>
+	</div>
+</div>
 
 <script>
 
