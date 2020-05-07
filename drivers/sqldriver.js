@@ -12,7 +12,7 @@ exports.setup = () => {
     });
     con.connect((err) => {
         if (err) throw err;
-        console.log("Connected to SQL db!");
+        console.log("Driver connected to SQL db!");
     });
 };
 
@@ -34,7 +34,7 @@ exports.get_all_items = (callback) => {
 };
 
 exports.get_all_item_categories = (callback) => {
-    sql = 'SELECT * FROM item_category_lookup';
+    var sql = 'SELECT * FROM item_category_lookup';
 
     con.query(sql, (err, result) => {
         if(err) throw err;
@@ -51,7 +51,7 @@ exports.get_all_item_categories = (callback) => {
 };
 
 exports.get_stores_in_area = (lat_1, lat_2, long_1, long_2, callback) => {
-    sql = 'SELECT * FROM store_lookup WHERE gps_lat > ? AND gps_lat < ? AND gps_long > ? AND gps_long < ?';
+    var sql = 'SELECT * FROM store_lookup WHERE gps_lat > ? AND gps_lat < ? AND gps_long > ? AND gps_long < ?';
 
     con.query(sql, [lat_1, lat_2, long_1, long_2], (err, result) => {
         if(err) throw err;
@@ -70,7 +70,7 @@ exports.get_stores_in_area = (lat_1, lat_2, long_1, long_2, callback) => {
 };
 
 exports.send_report = (in_stock, no_stock, user_id, store_id, timestamp, callback) => {
-    sql = 'INSERT INTO reports VALUES (NULL, ?, ?, ?, ?, FROM_UNIXTIME(?))';
+    var sql = 'INSERT INTO reports VALUES (NULL, ?, ?, ?, ?, FROM_UNIXTIME(?))';
 
     for(i in in_stock) {
         con.query(sql, [user_id, in_stock[i], store_id, true, timestamp], (err, result) => {
@@ -93,7 +93,7 @@ exports.send_report = (in_stock, no_stock, user_id, store_id, timestamp, callbac
 };
 
 exports.get_store_reports = (store_id, callback) => {
-    sql = 'SELECT * FROM reports WHERE store_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
+    var sql = 'SELECT * FROM reports WHERE store_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
 
     con.query(sql, [store_id], (err, result) => {
         if(err) throw err;
@@ -113,7 +113,7 @@ exports.get_store_reports = (store_id, callback) => {
 };
 
 exports.get_user_reports = (user_id, callback) => {
-    sql = 'SELECT id, user_id, item_id, store_id, in_stock, UNIX_TIMESTAMP(timestamp) FROM reports WHERE user_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 WEEK) ORDER BY timestamp ASC';
+    var sql = 'SELECT id, user_id, item_id, store_id, in_stock, UNIX_TIMESTAMP(timestamp) FROM reports WHERE user_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 WEEK) ORDER BY timestamp ASC';
 
     con.query(sql, [user_id], (err, result) => {
         if(err) throw err;

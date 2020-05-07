@@ -1,7 +1,9 @@
 const express = require('express');
-var bodyParser = require("body-parser");
+const bodyParser = require('body-parser');
+const bcrypt = require('bcrypt');
 
 const secret = require('./secret.json');
+const saltRounds = 10;
 
 const app = express();
 const port = secret['port'];
@@ -10,7 +12,9 @@ const version = 0.1;
 const reliability_calc = require('./math/reliability_calculator.js');
 const confidence_calc = require('./math/confidence_calculator.js');
 
+const user_manager = require('./drivers/usermanager.js');
 const db = require('./drivers/sqldriver.js');
+user_manager.setup();
 db.setup();
 
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -54,6 +58,56 @@ app.post('/api/send_report', (req, res) => {
 	}
 });
 
+app.post('/api/create_account', (req, res) => {
+	var name = req.body.name;
+	var email = req.body.email;
+	var password = req.body.password;
+
+	if (name.length > 60 || email.length > 60 || password.length > 60) {
+		res.status(400);
+		res.json({
+			'success': false
+		});
+		// TODO handle error
+	}
+	bcrypt.hash(password, saltRounds, function(err, hash) {
+		if(err) {
+			res.status(400);
+			res.json({
+				'success': false
+			});
+			// TODO handle error
+		}
+		console.log(hash);
+		user_manager.create_user(name, email, hash, (status) => {
+			if(status['success'] == false) res.status(400);
+			res.json(status);
+		});
+	});
+});
+
+app.get('/api/verify_email', (req, res) => {
+	var email = req.query.email;
+	var token = req.query.token;
+
+	user_manager.verify_user(email, token, (response) => {
+		if (response['success']) {
+			res.send('Your email has been verified! You may now close this window.');
+		} else {
+			res.status(400);
+			res.send('An error has occured while verifying your email: ' + response['error']);
+		}
+	});
+});
+
+app.get('/api/resend_verification_email', (req, res) => {
+	var email = req.query.email;
+
+	user_manager.resend_verification_email(email, (response) => {
+		if (!response['success']) res.status(400);
+		res.json(response);
+	});
+});
 
 app.get('/api/get_items', (req, res) => {
 	db.get_all_items((items) => {
@@ -95,10 +149,10 @@ app.get('/api/get_stores_in_area', (req, res) => {
 });
 
 app.get('/api/test', (req, res) => {
-	reliability_calc.get_reliability(db, 0, (reliability) => {
-		res.status(400);
-		res.json(reliability);
-	});
+	// reliability_calc.get_reliability(db, 0, (reliability) => {
+	// 	res.status(400);
+	// 	res.json(reliability);
+	// });
 });
 
 app.listen(port, () => console.log(`API listening on port ${port}!`))
