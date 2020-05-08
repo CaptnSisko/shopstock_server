@@ -103,18 +103,9 @@ app.post('/api/login', (req, res) => {
 		});
 		// TODO handle error
 	}
-	bcrypt.hash(password, saltRounds, function(err, hash) {
-		if(err) {
-			res.status(400);
-			res.json({
-				'success': false
-			});
-			// TODO handle error
-		}
-		user_manager.create_user(name, email, hash, (status) => {
-			if(status['success'] == false) res.status(400);
-			res.json(status);
-		});
+
+	user_manager.login(email, password, bcrypt, (response) => {
+		res.json(response);
 	});
 });
 

@@ -10,7 +10,7 @@ exports.setup = (database) => {
     db = database;
 };
 
-exports.login = (email, password, bycrypt, callback) => {
+exports.login = (email, password, bcrypt, callback) => {
     var sql = 'SELECT password FROM users WHERE email = ?';
     
     db.get_connection((con) => {
@@ -22,7 +22,26 @@ exports.login = (email, password, bycrypt, callback) => {
                     if (err) throw err;
 
                     if(matched) {
-                        
+                        is_account_verified(email, con, (is_verified) => {
+                            if(is_verified) {
+                                // must run this before refreshing key expirey to check if old key is expired
+                                get_key_if_not_expired(email, con, (key) => {
+                                    if(key == null) { // if key is expired, generate a new one, then refresh expirey and return it
+                                        refresh_key(email, con, (new_key) => {
+                                            refresh_key_expirey(email, con, () => {
+                                                callback({'success': true, 'key': new_key});
+                                            });
+                                        });
+                                    } else { // otherwise, just return the key and refresh expirey
+                                        refresh_key_expirey(email, con, () => {
+                                            callback({'success': true, 'key': key});
+                                        });
+                                    }
+                                });
+                            } else {
+                                callback({'success': false, 'error': 'This account\'s email is not verified!'});
+                            }
+                        });
                     } else {
                         callback({'success': false, 'error': 'Invalid username/password!'});
                     }
@@ -314,6 +333,17 @@ function gen_unique_token(con, callback, depth) {
     });
 }
 
+function refresh_key(email, con, callback) {
+    var sql = 'UPDATE users SET api_key = ? WHERE email = ?';
+
+    gen_unique_key(con, (key) => {
+        con.query(sql, [key, email], (err, result) => {
+            if (err) throw err;
+            callback(key);
+        });
+    });
+}
+
 function refresh_token(email, con, callback) {
     var sql = 'UPDATE users SET token = ? WHERE email = ?';
 
@@ -322,5 +352,29 @@ function refresh_token(email, con, callback) {
             if (err) throw err;
             callback();
         });
+    });
+}
+
+function get_key_if_not_expired(email, con, callback) {
+    var sql = 'SELECT UNIX_TIMESTAMP(expire_time), api_key FROM users WHERE email = ?';
+
+    con.query(sql, [email], (err, result) => {
+        if(result.length == 0) {
+            callback(null);
+        } else if (result[0]['UNIX_TIMESTAMP(expire_time)'] > new Date() / 1000) { // if key is NOT expired
+            callback(result[0].api_key);
+        } else {
+            callback(null);
+        }
+    });
+
+}
+
+function refresh_key_expirey(email, con, callback) {
+    var sql = 'UPDATE users SET expire_time = DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL 1 DAY) WHERE email = ?;';
+
+    con.query(sql, [email], (err, result) => {
+        if (err) throw err;
+        callback();
     });
 }
