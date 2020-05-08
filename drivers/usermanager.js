@@ -10,6 +10,21 @@ exports.setup = (database) => {
     db = database;
 };
 
+exports.authenticate_user = (key, callback) => {
+    var sql = 'SELECT id, UNIX_TIMESTAMP(expire_time) FROM users WHERE api_key = ?';
+
+    db.get_connection((con) => {
+        con.query(sql, [key], (err, result) => {
+            if(err) throw err;
+            if (result.length == 0 || result[0]['UNIX_TIMESTAMP(expire_time)'] < new Date() / 1000) { // return null for nonexistant or expired key
+                callback(null);
+            } else {
+                callback(result[0].id);
+            }
+        });
+    });
+};
+
 exports.login = (email, password, bcrypt, callback) => {
     var sql = 'SELECT password FROM users WHERE email = ?';
     
@@ -217,8 +232,11 @@ function send_verification_email(name, email, token, con, callback) {
     con.query(sql, [email], (err, result) => {
         if(err) throw err;
         mg.messages().send(email_data, function (err, body) {
-            if(err) throw err
-            callback({'success': true});
+            if(err) {
+                callback({'success': false, 'error': 'Invalid email!'});
+            } else {
+                callback({'success': true});
+            }
         });
     });
 }
@@ -247,8 +265,11 @@ function send_password_email(name, email, token, con, callback) {
     con.query(sql, [email], (err, result) => {
         if(err) throw err;
         mg.messages().send(email_data, function (err, body) {
-            if(err) throw err
-            callback({'success': true});
+            if(err) {
+                callback({'success': false, 'error': 'Invalid email!'});
+            } else {
+                callback({'success': true});
+            }
         });
     });
 }

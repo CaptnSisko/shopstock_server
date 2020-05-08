@@ -39,8 +39,9 @@ app.post('/api/send_report', (req, res) => {
 	var no_stock = req.body.no_stock_items;
 	var store_id = req.body.store_id;
 	var timestamp = req.body.timestamp;
+	var key = req.body.key;
 
-	if([in_stock, no_stock, store_id, timestamp].includes(undefined)) {
+	if([in_stock, no_stock, store_id, timestamp, key].includes(undefined)) {
 		res.status(400);
 		res.json({
 			'success': false
@@ -56,10 +57,17 @@ app.post('/api/send_report', (req, res) => {
 			});
 			// TODO handle error
 		} else {
-			console.log(in_stock_arr)
-			console.log(no_stock_arr)
-			db.send_report(in_stock_arr, no_stock_arr, 0, store_id, timestamp, (success) => {
-				res.json(success);
+			user_manager.authenticate_user(key, (user_id) => {
+				if(user_id != null) {
+					db.send_report(in_stock_arr, no_stock_arr, user_id, store_id, timestamp, (success) => {
+						res.json(success);
+					});
+				} else {
+					res.json({
+						'success': false,
+						'error': 'Invalid API key!'
+					});
+				}
 			});
 		}
 	}
@@ -205,14 +213,25 @@ app.get('/api/verify_email', (req, res) => {
 
 
 app.get('/api/get_items', (req, res) => {
-	db.get_all_items((items) => {
-		db.get_all_item_categories((item_categories) => {
-			res.json({
-				'items': items,
-				'item_categories': item_categories,
-				'success': true
+	var key = req.query.key;
+
+	user_manager.authenticate_user(key, (user_id) => {
+		if(user_id != null) {
+			db.get_all_items((items) => {
+				db.get_all_item_categories((item_categories) => {
+					res.json({
+						'items': items,
+						'item_categories': item_categories,
+						'success': true
+					});
+				});
 			});
-		});
+		} else {
+			res.json({
+				'success': false,
+				'error': 'Invalid API key!'
+			});
+		}
 	});
 });
 
@@ -221,26 +240,38 @@ app.get('/api/get_stores_in_area', (req, res) => {
 	var long_1 = Number(req.query.long_1);
 	var lat_2 = Number(req.query.lat_2);
 	var long_2 = Number(req.query.long_2);
-	if([lat_1, long_1, lat_2, long_2].includes(undefined)) {
-		res.status(400);
-		res.json({
-			'success': false
-		})
-		// TODO handle error
-	} else if ([lat_1, long_1, lat_2, long_2].includes(NaN)) {
-		res.status(400);
-		res.json({
-			'success': false
-		})
-		// TODO handle error
-	} else {
-		db.get_stores_in_area(lat_1, lat_2, long_1, long_2, (stores) => {
+	var key = req.query.key;
+
+	user_manager.authenticate_user(key, (user_id) => {
+		if(user_id != null) {
+			if([lat_1, long_1, lat_2, long_2].includes(undefined)) {
+				res.status(400);
+				res.json({
+					'success': false
+				})
+				// TODO handle error
+			} else if ([lat_1, long_1, lat_2, long_2].includes(NaN)) {
+				res.status(400);
+				res.json({
+					'success': false
+				})
+				// TODO handle error
+			} else {
+				db.get_stores_in_area(lat_1, lat_2, long_1, long_2, (stores) => {
+					res.json({
+						'stores': stores,
+						'success': true
+					});
+				});
+			}
+		} else {
 			res.json({
-				'stores': stores,
-				'success': true
+				'success': false,
+				'error': 'Invalid API key!'
 			});
-		});
-	}
+		}
+	});
+
 });
 
 app.get('/api/test', (req, res) => {
