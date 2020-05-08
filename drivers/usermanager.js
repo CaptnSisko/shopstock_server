@@ -27,7 +27,7 @@ exports.authenticate_user = (key, callback) => {
     });
 };
 
-exports.login = (email, password, bcrypt, callback) => {
+exports.login = (email, password, stay_logged_in, bcrypt, callback) => {
     var sql = 'SELECT password FROM users WHERE email = ?';
     
     db.get_connection((con) => {
@@ -45,12 +45,12 @@ exports.login = (email, password, bcrypt, callback) => {
                                 get_key_if_not_expired(email, con, (key) => {
                                     if(key == null) { // if key is expired, generate a new one, then refresh expirey and return it
                                         refresh_key(email, con, (new_key) => {
-                                            refresh_key_expirey(email, con, () => {
+                                            refresh_key_expirey(email, stay_logged_in, con, () => {
                                                 callback({'success': true, 'key': new_key});
                                             });
                                         });
                                     } else { // otherwise, just return the key and refresh expirey
-                                        refresh_key_expirey(email, con, () => {
+                                        refresh_key_expirey(email, stay_logged_in, con, () => {
                                             callback({'success': true, 'key': key});
                                         });
                                     }
@@ -409,9 +409,11 @@ function get_key_if_not_expired(email, con, callback) {
 
 }
 
-function refresh_key_expirey(email, con, callback) {
+function refresh_key_expirey(email, stay_logged_in, con, callback) {
     var sql = 'UPDATE users SET expire_time = DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL 1 DAY) WHERE email = ?;';
-
+    if(stay_logged_in) {
+        sql = 'UPDATE users SET expire_time = DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL 1 MONTH) WHERE email = ?;';
+    }
     con.query(sql, [email], (err, result) => {
         if (err) throw err;
         callback();

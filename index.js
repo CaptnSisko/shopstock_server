@@ -102,8 +102,9 @@ app.post('/api/create_account', (req, res) => {
 });
 
 app.post('/api/login', (req, res) => {
-	var email = req.body.email;
-	var password = req.body.password;
+	var email = String(req.body.email);
+	var password = String(req.body.password);
+	var stay_logged_in = Boolean(req.body.stay_logged_in);
 
 	if (email.length > 60 || password.length > 60) {
 		res.status(400);
@@ -113,7 +114,7 @@ app.post('/api/login', (req, res) => {
 		// TODO handle error
 	}
 
-	user_manager.login(email, password, bcrypt, (response) => {
+	user_manager.login(email, password, stay_logged_in, bcrypt, (response) => {
 		res.json(response);
 	});
 });
