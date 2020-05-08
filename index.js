@@ -88,6 +88,32 @@ app.post('/api/create_account', (req, res) => {
 	});
 });
 
+app.post('/api/login', (req, res) => {
+	var email = req.body.email;
+	var password = req.body.password;
+
+	if (email.length > 60 || password.length > 60) {
+		res.status(400);
+		res.json({
+			'success': false
+		});
+		// TODO handle error
+	}
+	bcrypt.hash(password, saltRounds, function(err, hash) {
+		if(err) {
+			res.status(400);
+			res.json({
+				'success': false
+			});
+			// TODO handle error
+		}
+		user_manager.create_user(name, email, hash, (status) => {
+			if(status['success'] == false) res.status(400);
+			res.json(status);
+		});
+	});
+});
+
 app.post('/api/change_password', recaptcha.middleware.verify, (req, res) => {
 	var email = req.body.email;
 	var password = req.body.password;

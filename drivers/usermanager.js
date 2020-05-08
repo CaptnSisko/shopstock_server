@@ -10,6 +10,28 @@ exports.setup = (database) => {
     db = database;
 };
 
+exports.login = (email, password, bycrypt, callback) => {
+    var sql = 'SELECT password FROM users WHERE email = ?';
+    
+    db.get_connection((con) => {
+        con.query(sql, [email], (err, result) => {
+            if(result.length == 0) {
+                callback({'success': false, 'error': 'Invalid username/password!'});
+            } else {
+                bcrypt.compare(password, result[0].password, function(err, matched) {
+                    if (err) throw err;
+
+                    if(matched) {
+                        
+                    } else {
+                        callback({'success': false, 'error': 'Invalid username/password!'});
+                    }
+                });
+            }
+        });
+    });
+};
+
 exports.create_user = (name, email, password_hash, callback) => {
     var sql = 'INSERT INTO users (name, email, password, reliability, api_key, verified, token) VALUES (?, ?, ?, 0.0, ?, FALSE, ?)';
 
@@ -96,7 +118,7 @@ exports.resend_verification_email = (email, callback) => {
     db.get_connection((con) => {
         con.query(sql, [email], (err, result) => {
             if(err) throw err;
-            
+
             if(result.length == 0) {
                 callback({'success': false, 'error': 'That email is not in use!'});
             } else {
@@ -154,7 +176,7 @@ exports.password_reset_email = (email, callback) => {
 function send_verification_email(name, email, token, con, callback) {
     var sql = 'UPDATE users SET last_email = current_timestamp() WHERE email = ?';
 
-    const verify_url_string = "http://devel.shopstock.live:3001/api/verify_email?email=" + email + "&token=" + token;
+    const verify_url_string = secret['base_url'] + "/api/verify_email?email=" + email + "&token=" + token;
 
     const message_text = `Hello ` + name + `,\n
     You are recieving this email because you created a Shopstock account.
@@ -185,7 +207,7 @@ function send_verification_email(name, email, token, con, callback) {
 function send_password_email(name, email, token, con, callback) {
     var sql = 'UPDATE users SET last_email = current_timestamp() WHERE email = ?';
 
-    const password_url_string = "https://shopstock.live/reset_password/set_new_password/?email=" + email + "&token=" + token;
+    const password_url_string = secret['base_url'] + "/reset_password/set_new_password/?email=" + email + "&token=" + token;
 
     const message_text = `Hello ` + name + `,\n
     You are recieving this email because you requested to reset your Shopstock password.
