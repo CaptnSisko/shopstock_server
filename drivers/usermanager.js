@@ -71,29 +71,34 @@ exports.login = (email, password, stay_logged_in, bcrypt, callback) => {
 exports.logout = (key, callback) => {
     var sql = 'UPDATE users SET expire_time = 0 WHERE api_key = ?';
 
-    this.authenticate_user(key, (user_id) => {
-        if(user_id == null) {
-            callback({'success': false, 'error': 'Invalid API key!'})
-        } else {
-            con.query(sql, [key], (err, result) => {
-                if(err) throw err;
-                callback({'success': true})
-            });
-        }
+    db.get_connection((con) => {
+        this.authenticate_user(key, (user_id) => {
+            if(user_id == null) {
+                callback({'success': false, 'error': 'Invalid API key!'})
+            } else {
+                con.query(sql, [key], (err, result) => {
+                    if(err) throw err;
+                    callback({'success': true})
+                });
+            }
+        });
     });
 };
 
 exports.get_expire_time = (key, callback) => {
     var sql = 'SELECT UNIX_TIMESTAMP(expire_time) FROM users WHERE api_key = ?';
-    this.authenticate_user(key, (user_id) => {
-        if(user_id == null) {
-            callback({'success': false, 'error': 'Invalid API key!'})
-        } else {
-            con.query(sql, [key], (err, result) => {
-                if(err) throw err;
-                callback({'success': true, 'expires': result[0]['UNIX_TIMESTAMP(expire_time)']});
-            });
-        }
+
+    db.get_connection((con) => {
+        this.authenticate_user(key, (user_id) => {
+            if(user_id == null) {
+                callback({'success': false, 'error': 'Invalid API key!'})
+            } else {
+                con.query(sql, [key], (err, result) => {
+                    if(err) throw err;
+                    callback({'success': true, 'expires': result[0]['UNIX_TIMESTAMP(expire_time)']});
+                });
+            }
+        });
     });
 };
 
