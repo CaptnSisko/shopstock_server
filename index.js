@@ -123,6 +123,7 @@ app.post('/api/logout', (req, res) => {
 	var key = String(req.body.key);
 
 	user_manager.logout(key, (response) => {
+		if(response['success'] == false) res.status(400);
 		res.json(response);
 	});
 });
@@ -131,6 +132,7 @@ app.post('/api/get_expire_time', (req, res) => {
 	var key = String(req.body.key);
 
 	user_manager.get_expire_time(key, (response) => {
+		if(response['success'] == false) res.status(400);
 		res.json(response);
 	});
 });
