@@ -4,7 +4,7 @@
   "description": "API that tracks stock levels of products at various stores",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "semistandard"
   },
   "author": "Trevor Wong",
   "license": "ISC",
@@ -19,5 +19,13 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/captnsisko/shopstock_server.git"
+  },
+  "devDependencies": {
+    "semistandard": "^14.2.0"
+  },
+  "semistandard": {
+  "ignore": [
+    "html/"
+  ]
   }
 }

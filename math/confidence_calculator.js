@@ -1,4 +1,3 @@
-exports.get_confidence = (db, store_id, callback) => {
-    
-}
+exports.get_confidence = (db, storeId, callback) => {
 
+};

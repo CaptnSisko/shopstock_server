@@ -4,147 +4,156 @@ const secret = require('../secret.json');
 var pool;
 
 exports.setup = () => {
-    pool  = mysql.createPool({
-        host     : 'localhost',
-        user: secret['db_user'],
-        password: secret['db_pass'],
-        port: 3306,
-        database: "shopstock"
-    });
+  pool = mysql.createPool({
+    host: 'localhost',
+    user: secret.db_user,
+    password: secret.db_pass,
+    port: 3306,
+    database: 'shopstock'
+  });
 };
 
 exports.get_connection = (callback) => {
-    pool.getConnection((err, con) => {
-        if (err) throw err;
-        callback(con);
-    });
-}
+  pool.getConnection((err, con) => {
+    callback(err, con);
+  });
+};
 
 exports.get_all_items = (callback) => {
-    var sql = 'SELECT * FROM item_lookup';
+  var sql = 'SELECT * FROM item_lookup';
 
-    this.get_connection((con) => {
-        con.query(sql, (err, result) => {
-            if(err) throw err;
-            var items = [];
-            for(i in result) {
-			    items.push({
-                    'id': result[i].id,
-				    'name': result[i].name,
-				    'item-category': result[i].category
-			    });
-            }
-            callback(items);
+  this.get_connection((err, con) => {
+    if (err) throw err;
+    con.query(sql, (err, result) => {
+      var items = [];
+      for (var i in result) {
+        items.push({
+          id: result[i].id,
+          name: result[i].name,
+          'item-category': result[i].category
         });
+      }
+      callback(err, items);
     });
+  });
 };
 
-exports.get_all_item_categories = (callback) => {
-    var sql = 'SELECT * FROM item_category_lookup';
+exports.get_all_item_categories = callback => {
+  var sql = 'SELECT * FROM item_category_lookup';
 
-    this.get_connection((con) => {
-        con.query(sql, (err, result) => {
-            if(err) throw err;
-            var item_categories = []
-            for (i in result) {
-                item_categories.push({
-                    'id': result[i].id,
-                   'name': result[i].name
-                });
-            }
-            callback(item_categories)
+  this.get_connection((err, con) => {
+    if (err) throw err;
+    con.query(sql, (err, result) => {
+      var itemCategories = [];
+      for (var i in result) {
+        itemCategories.push({
+          id: result[i].id,
+          name: result[i].name
         });
+      }
+      callback(err, itemCategories);
     });
-
+  });
 };
 
-exports.get_stores_in_area = (lat_1, lat_2, long_1, long_2, callback) => {
-    var sql = 'SELECT * FROM store_lookup WHERE gps_lat > ? AND gps_lat < ? AND gps_long > ? AND gps_long < ?';
+exports.get_stores_in_area = (lat1, lat2, long1, long2, callback) => {
+  var sql =
+    'SELECT * FROM store_lookup WHERE gps_lat > ? AND gps_lat < ? AND gps_long > ? AND gps_long < ?';
 
-    this.get_connection((con) => {
-        con.query(sql, [lat_1, lat_2, long_1, long_2], (err, result) => {
-            if(err) throw err;
-            var stores = [];
-	    	for (i in result) {
-	    		stores.push({
-                    'id': result[i].id,
-	    			'name': result[i].name,
-	    			'address': result[i].address,
-	    			'lat': result[i].gps_lat,
-	    			'long': result[i].gps_long,
-	    		});
-            }
-            callback(stores); 
+  this.get_connection((err, con) => {
+    if (err) throw err;
+    con.query(sql, [lat1, lat2, long1, long2], (err, result) => {
+      var stores = [];
+      for (var i in result) {
+        stores.push({
+          id: result[i].id,
+          name: result[i].name,
+          address: result[i].address,
+          lat: result[i].gps_lat,
+          long: result[i].gps_long
         });
+      }
+      callback(err, stores);
     });
+  });
 };
 
-exports.send_report = (in_stock, no_stock, user_id, store_id, timestamp, callback) => {
-    var sql = 'INSERT INTO reports VALUES (NULL, ?, ?, ?, ?, FROM_UNIXTIME(?))';
+exports.send_report = (
+  inStock,
+  noStock,
+  userId,
+  storeId,
+  timestamp,
+  callback
+) => {
+  var sql = 'INSERT INTO reports VALUES (NULL, ?, ?, ?, ?, FROM_UNIXTIME(?))';
 
-    this.get_connection((con) => {
-        for(i in in_stock) {
-            con.query(sql, [user_id, in_stock[i], store_id, true, timestamp], (err, result) => {
-                if(err) { 
-                    throw err;
-                    callback({'success': false})
-                }
-            });
+  this.get_connection((err, con) => {
+    for (var i in inStock) {
+      con.query(
+        sql,
+        [userId, inStock[i], storeId, true, timestamp],
+        (err, result) => {
+          callback(err, { success: false });
         }
+      );
+    }
 
-        for(i in in_stock) {
-            con.query(sql, [user_id, in_stock[i], store_id, false, timestamp], (err, result) => {
-                if(err) {
-                    throw err;
-                    callback({'success': false})
-                }
-            });
+    for (i in inStock) {
+      con.query(
+        sql,
+        [userId, inStock[i], storeId, false, timestamp],
+        (err, result) => {
+          callback(err, { success: false });
         }
-        callback({'success': true});
-    });
+      );
+    }
+    callback(err, { success: true });
+  });
 };
 
-exports.get_store_reports = (store_id, callback) => {
-    var sql = 'SELECT * FROM reports WHERE store_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
+exports.get_store_reports = (storeId, callback) => {
+  var sql =
+    'SELECT * FROM reports WHERE storeId = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
 
-    this.get_connection((con) => {
-        con.query(sql, [store_id], (err, result) => {
-            if(err) throw err;
-            var reports = [];
-	    	for (i in result) {
-	    		reports.push({
-                    'id': result[i].id,
-                    'user_id': result[i].user_id,
-                    'item_id': result[i].item_id,
-                    'store_id': result[i].store_id,
-                    'in_stock': result[i].in_stock,
-                    'timestamp': result[i].timestamp
-	    		});
-            }
-            callback(reports); 
+  this.get_connection((err, con) => {
+    if (err) throw err;
+    con.query(sql, [storeId], (err, result) => {
+      var reports = [];
+      for (var i in result) {
+        reports.push({
+          id: result[i].id,
+          userId: result[i].userId,
+          item_id: result[i].item_id,
+          storeId: result[i].storeId,
+          inStock: result[i].inStock,
+          timestamp: result[i].timestamp
         });
+      }
+      callback(err, reports);
     });
+  });
 };
 
-exports.get_user_reports = (user_id, callback) => {
-    var sql = 'SELECT id, user_id, item_id, store_id, in_stock, UNIX_TIMESTAMP(timestamp) FROM reports WHERE user_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 WEEK) ORDER BY timestamp ASC';
+exports.get_user_reports = (userId, callback) => {
+  var sql =
+    'SELECT id, userId, item_id, storeId, inStock, UNIX_TIMESTAMP(timestamp) FROM reports WHERE userId = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 WEEK) ORDER BY timestamp ASC';
 
-    this.get_connection((con) => {
-        con.query(sql, [user_id], (err, result) => {
-            if(err) throw err;
-            var reports = []
-	    	for (i in result) {
-	    		reports.push({
-                    'id': result[i]['id'],
-                    'user_id': result[i]['user_id'],
-                    'item_id': result[i]['item_id'],
-                    'store_id': result[i]['store_id'],
-                    'in_stock': result[i]['in_stock'],
-                    'timestamp': result[i]['UNIX_TIMESTAMP(timestamp)']
-	    		});
-            }
-            callback(reports);
+  this.get_connection((err, con) => {
+    if (err) throw err;
+    con.query(sql, [userId], (err, result) => {
+      var reports = [];
+      for (var i in result) {
+        reports.push({
+          id: result[i].id,
+          userId: result[i].userId,
+          item_id: result[i].item_id,
+          storeId: result[i].storeId,
+          inStock: result[i].inStock,
+          timestamp: result[i]['UNIX_TIMESTAMP(timestamp)']
         });
+      }
+      callback(err, reports);
     });
+  });
 };
-
