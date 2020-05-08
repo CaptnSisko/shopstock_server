@@ -4,6 +4,8 @@ const secret = require('../secret.json');
 const mailgun = require("mailgun-js");
 const mg = mailgun({apiKey: secret['mailjet_api_key'], domain: 'shopstock.live'});
 
+const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
 var db;
 
 exports.setup = (database) => {
@@ -74,9 +76,15 @@ exports.create_user = (name, email, password_hash, callback) => {
             gen_unique_token(con, (token) => {
                 is_email_in_use(email, con, (in_use) => {
                     if(in_use == false) {
-                        con.query(sql, [name, email, password_hash, key, token], (err, result) => {
-                            if(err) throw err;
-                            send_verification_email(name, email, token, con, callback);
+                        send_verification_email(name, email, token, con, (result) => {
+                            if(result['success']) {
+                                con.query(sql, [name, email, password_hash, key, token], (err, result) => {
+                                    if(err) throw err;
+                                    callback(result);
+                                });
+                            } else {
+                                callback(result);
+                            }
                         });
                     } else {
                         callback({'success': false, 'error': 'The email you specified is already in in use!'});
@@ -229,16 +237,21 @@ function send_verification_email(name, email, token, con, callback) {
         'v:verify_url': verify_url_string
     };
 
-    con.query(sql, [email], (err, result) => {
-        if(err) throw err;
-        mg.messages().send(email_data, function (err, body) {
-            if(err) {
-                callback({'success': false, 'error': 'Invalid email!'});
-            } else {
-                callback({'success': true});
-            }
+    // check email with regex
+    if(!re.test(String(email).toLowerCase())) {
+        callback({'success': false, 'error': 'Invalid email!'});
+    } else {
+        con.query(sql, [email], (err, result) => {
+            if(err) throw err;
+            mg.messages().send(email_data, function (err, body) {
+                if(err) {
+                    callback({'success': false, 'error': 'Invalid email!'});
+                } else {
+                    callback({'success': true});
+                }
+            });
         });
-    });
+    }
 }
 
 function send_password_email(name, email, token, con, callback) {
@@ -262,16 +275,21 @@ function send_password_email(name, email, token, con, callback) {
         'v:reset_url': password_url_string
     };
 
-    con.query(sql, [email], (err, result) => {
-        if(err) throw err;
-        mg.messages().send(email_data, function (err, body) {
-            if(err) {
-                callback({'success': false, 'error': 'Invalid email!'});
-            } else {
-                callback({'success': true});
-            }
+    // check email with regex
+    if(!re.test(String(email).toLowerCase())) {
+        callback({'success': false, 'error': 'Invalid email!'});
+    } else {
+        con.query(sql, [email], (err, result) => {
+            if(err) throw err;
+            mg.messages().send(email_data, function (err, body) {
+                if(err) {
+                    callback({'success': false, 'error': 'Invalid email!'});
+                } else {
+                    callback({'success': true});
+                }
+            });
         });
-    });
+    }
 }
 
 function is_account_verified(email, con, callback) {

@@ -63,6 +63,7 @@ app.post('/api/send_report', (req, res) => {
 						res.json(success);
 					});
 				} else {
+					res.status(400);
 					res.json({
 						'success': false,
 						'error': 'Invalid API key!'
@@ -227,6 +228,7 @@ app.get('/api/get_items', (req, res) => {
 				});
 			});
 		} else {
+			res.status(400);
 			res.json({
 				'success': false,
 				'error': 'Invalid API key!'
@@ -265,6 +267,7 @@ app.get('/api/get_stores_in_area', (req, res) => {
 				});
 			}
 		} else {
+			res.status(400);
 			res.json({
 				'success': false,
 				'error': 'Invalid API key!'
