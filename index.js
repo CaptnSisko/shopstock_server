@@ -119,6 +119,22 @@ app.post('/api/login', (req, res) => {
 	});
 });
 
+app.post('/api/logout', (req, res) => {
+	var key = String(req.body.key);
+
+	user_manager.logout(key, (response) => {
+		res.json(response);
+	});
+});
+
+app.post('/api/get_expire_time', (req, res) => {
+	var key = String(req.body.key);
+
+	user_manager.get_expire_time(key, (response) => {
+		res.json(response);
+	});
+});
+
 app.post('/api/change_password', recaptcha.middleware.verify, (req, res) => {
 	var email = req.body.email;
 	var password = req.body.password;
