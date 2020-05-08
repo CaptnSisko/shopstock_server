@@ -154,7 +154,7 @@ exports.password_reset_email = (email, callback) => {
 function send_verification_email(name, email, token, con, callback) {
     var sql = 'UPDATE users SET last_email = current_timestamp() WHERE email = ?';
 
-    const verify_url_string = secret['base_url'] + "/verify_email?email=" + email + "&token=" + token;
+    const verify_url_string = secret['base_url'] + "/api/verify_email?email=" + email + "&token=" + token;
 
     const message_text = `Hello ` + name + `,\n
     You are recieving this email because you created a Shopstock account.

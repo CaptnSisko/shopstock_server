@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
 const Recaptcha = require('express-recaptcha').RecaptchaV2;
+const fs = require('fs');
 
 const secret = require('./secret.json');
 const saltRounds = 10;
@@ -14,6 +15,9 @@ const recaptcha = new Recaptcha(secret['recaptcha_site_key'], secret['recaptcha_
 
 const reliability_calc = require('./math/reliability_calculator.js');
 const confidence_calc = require('./math/confidence_calculator.js');
+
+const success_template = fs.readFileSync('html/success.html','utf8');
+const failure_template = fs.readFileSync('html/failure.html','utf8');
 
 const user_manager = require('./drivers/usermanager.js');
 const db = require('./drivers/sqldriver.js');
@@ -95,7 +99,9 @@ app.post('/api/change_password', recaptcha.middleware.verify, (req, res) => {
 
 	if (req.recaptcha.error) {
 		res.status(400);
-		res.send('An error has occured while changing your password: Invalid Recaptcha response!');
+		res.set('Content-Type', 'text/html');
+		res.set('Content-Type', 'text/html');
+		res.send(failure_template.replace("{{error_msg}}", "Invalid Recaptcha response!"));
 	} else {
 		bcrypt.hash(password, saltRounds, function(err, hash) {
 			if(err) {
@@ -107,10 +113,14 @@ app.post('/api/change_password', recaptcha.middleware.verify, (req, res) => {
 			}
 			user_manager.change_password(email, hash, token, (response) => {
 				if (response['success']) {
-					res.send('Your password has been updated! You may now close this window.');
+					res.set('Content-Type', 'text/html');
+					res.set('Content-Type', 'text/html');
+					res.send(success_template);
 				} else {
 					res.status(400);
-					res.send('An error has occured while changing your password: ' + response['error']);
+					res.set('Content-Type', 'text/html');
+					res.set('Content-Type', 'text/html');
+					res.send(failure_template.replace("{{error_msg}}", response['error']));
 				}
 			});
 		});
@@ -122,14 +132,17 @@ app.post('/api/request_change_password', recaptcha.middleware.verify, (req, res)
 
 	if (req.recaptcha.error) {
 		res.status(400);
-		res.send('An error has occured while changing your password: Invalid Recaptcha response!');
+		res.set('Content-Type', 'text/html');
+		res.send(failure_template.replace("{{error_msg}}", "Invalid Recaptcha response!"));
 	} else {
 		user_manager.password_reset_email(email,(response) => {
 			if (response['success']) {
-				res.send('An email has been sent to your inbox with instructions on how to reset your password.');
+				res.set('Content-Type', 'text/html');
+				res.send(success_template);
 			} else {
 				res.status(400);
-				res.send('An error has occured with your password reset request: ' + response['error']);
+				res.set('Content-Type', 'text/html');
+				res.send(failure_template.replace("{{error_msg}}", response['error']));
 			}
 		});
 	}
@@ -140,14 +153,17 @@ app.post('/api/resend_verification_email', recaptcha.middleware.verify, (req, re
 
 	if (req.recaptcha.error) {
 		res.status(400);
-		res.send('An error has occured while changing your password: Invalid Recaptcha response!');
+		res.set('Content-Type', 'text/html');
+		res.send(failure_template.replace("{{error_msg}}", "Invalid Recaptcha response!"));
 	} else {
 		user_manager.resend_verification_email(email,(response) => {
 			if (response['success']) {
-				res.send('An verification email has been sent to your inbox with instructions on how to verify your account.');
+				res.set('Content-Type', 'text/html');
+				res.send(success_template);
 			} else {
 				res.status(400);
-				res.send('An error has occured with your verification email request: ' + response['error']);
+				res.set('Content-Type', 'text/html');
+				res.send(failure_template.replace("{{error_msg}}", response['error']));
 			}
 		});
 	}
@@ -159,10 +175,12 @@ app.get('/api/verify_email', (req, res) => {
 
 	user_manager.verify_user(email, token, (response) => {
 		if (response['success']) {
-			res.send('Your email has been verified! You may now close this window.');
+			res.set('Content-Type', 'text/html');
+			res.send(success_template);
 		} else {
 			res.status(400);
-			res.send('An error has occured while verifying your email: ' + response['error']);
+			res.set('Content-Type', 'text/html');
+			res.send(failure_template.replace("{{error_msg}}", response['error']));
 		}
 	});
 });
