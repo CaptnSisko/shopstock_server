@@ -57,10 +57,10 @@ app.post('/api/send_report', (req, res) => {
       });
       // TODO handle error
     } else {
-      userManager.authenticate_user(key, (err, userId) => {
+      userManager.authenticateUser(key, (err, userId) => {
         if (err) throw err;
         if (userId != null) {
-          db.send_report(inStockArr, noStockArr, userId, storeId, timestamp, (err, success) => {
+          db.sendReport(inStockArr, noStockArr, userId, storeId, timestamp, (err, success) => {
             if (err) throw err;
             res.json(success);
           });
@@ -96,7 +96,7 @@ app.post('/api/create_account', (req, res) => {
       });
       // TODO handle error
     }
-    userManager.create_user(name, email, hash, (err, status) => {
+    userManager.createUser(name, email, hash, (err, status) => {
       if (err) throw err;
       if (status.success === false) res.status(400);
       res.json(status);
@@ -136,7 +136,7 @@ app.post('/api/logout', (req, res) => {
 app.post('/api/get_expire_time', (req, res) => {
   var key = String(req.body.key);
 
-  userManager.get_expire_time(key, (err, response) => {
+  userManager.getExpireTime(key, (err, response) => {
     if (err) throw err;
     if (response.success === false) res.status(400);
     res.json(response);
@@ -162,7 +162,7 @@ app.post('/api/change_password', recaptcha.middleware.verify, (req, res) => {
         });
         // TODO handle error
       }
-      userManager.change_password(email, hash, token, (err, response) => {
+      userManager.changePassword(email, hash, token, (err, response) => {
         if (err) throw err;
         if (response.success) {
           res.set('Content-Type', 'text/html');
@@ -187,7 +187,7 @@ app.post('/api/request_change_password', recaptcha.middleware.verify, (req, res)
     res.set('Content-Type', 'text/html');
     res.send(failureTemplate.replace('{{error_msg}}', 'Invalid Recaptcha response!'));
   } else {
-    userManager.password_reset_email(email, (err, response) => {
+    userManager.passwordResetEmail(email, (err, response) => {
       if (err) throw err;
       if (response.success) {
         res.set('Content-Type', 'text/html');
@@ -209,7 +209,7 @@ app.post('/api/resend_verification_email', recaptcha.middleware.verify, (req, re
     res.set('Content-Type', 'text/html');
     res.send(failureTemplate.replace('{{error_msg}}', 'Invalid Recaptcha response!'));
   } else {
-    userManager.resend_verification_email(email, (err, response) => {
+    userManager.resendVerificationEmail(email, (err, response) => {
       if (err) throw err;
       if (response.success) {
         res.set('Content-Type', 'text/html');
@@ -227,7 +227,7 @@ app.get('/api/verify_email', (req, res) => {
   var email = req.query.email;
   var token = req.query.token;
 
-  userManager.verify_user(email, token, (err, response) => {
+  userManager.verifyUser(email, token, (err, response) => {
     if (err) throw err;
     if (response.success) {
       res.set('Content-Type', 'text/html');
@@ -243,12 +243,12 @@ app.get('/api/verify_email', (req, res) => {
 app.get('/api/get_items', (req, res) => {
   var key = req.query.key;
 
-  userManager.authenticate_user(key, (err, userId) => {
+  userManager.authenticateUser(key, (err, userId) => {
     if (err) throw err;
     if (userId != null) {
-      db.get_all_items((err, items) => {
+      db.getAllItems((err, items) => {
         if (err) throw err;
-        db.get_all_item_categories((err, itemCategories) => {
+        db.getAllItemCategories((err, itemCategories) => {
           if (err) throw err;
           res.json({
             items: items,
@@ -274,7 +274,7 @@ app.get('/api/get_stores_in_area', (req, res) => {
   var long2 = Number(req.query.long_2);
   var key = req.query.key;
 
-  userManager.authenticate_user(key, (err, userId) => {
+  userManager.authenticateUser(key, (err, userId) => {
     if (err) throw err;
     if (userId != null) {
       if ([lat1, long1, lat2, long2].includes(undefined)) {
@@ -290,7 +290,7 @@ app.get('/api/get_stores_in_area', (req, res) => {
         });
         // TODO handle error
       } else {
-        db.get_stores_in_area(lat1, lat2, long1, long2, (err, stores) => {
+        db.getStoresInArea(lat1, lat2, long1, long2, (err, stores) => {
           if (err) throw err;
           res.json({
             stores: stores,

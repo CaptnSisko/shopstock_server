@@ -12,7 +12,7 @@ exports.setup = (database) => {
   db = database;
 };
 
-exports.authenticate_user = (key, callback) => {
+exports.authenticateUser = (key, callback) => {
   authenticateUser(key, (err, userId) => {
     callback(err, userId);
   });
@@ -21,231 +21,207 @@ exports.authenticate_user = (key, callback) => {
 exports.login = (email, password, stayLoggedIn, bcrypt, callback) => {
   var sql = 'SELECT password FROM users WHERE email = ?';
 
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    con.query(sql, [email], (err, result) => {
-      // if (err) throw err;
+  db.getPool().query(sql, [email], (err, result) => {
+    // if (err) throw err;
 
-      if (result.length === 0) {
-        callback(err, { success: false, error: 'Invalid username/password!' });
-      } else {
-        bcrypt.compare(password, result[0].password, function (err, matched) {
-          // if (err) throw err;
+    if (result.length === 0) {
+      callback(err, { success: false, error: 'Invalid username/password!' });
+    } else {
+      bcrypt.compare(password, result[0].password, function (err, matched) {
+        // if (err) throw err;
 
-          if (matched) {
-            isAccountVerified(email, con, (err, isVerified) => {
-              if (isVerified) {
-                // must run this before refreshing key expirey to check if old key is expired
-                getKeyIfNotExpired(email, con, (err, key) => {
-                  if (err) throw err;
-                  if (key == null) { // if key is expired, generate a new one, then refresh expirey and return it
-                    refreshKey(email, con, (err, newKey) => {
-                      if (err) throw err;
-                      refreshKeyExpirey(email, stayLoggedIn, con, (err) => {
-                        callback(err, { success: true, key: newKey });
-                      });
+        if (matched) {
+          isAccountVerified(email, (err, isVerified) => {
+            if (isVerified) {
+              // must run this before refreshing key expirey to check if old key is expired
+              getKeyIfNotExpired(email, (err, key) => {
+                if (err) throw err;
+                if (key == null) { // if key is expired, generate a new one, then refresh expirey and return it
+                  refreshKey(email, (err, newKey) => {
+                    if (err) throw err;
+                    refreshKeyExpirey(email, stayLoggedIn, (err) => {
+                      callback(err, { success: true, key: newKey });
                     });
-                  } else { // otherwise, just return the key and refresh expirey
-                    refreshKeyExpirey(email, stayLoggedIn, con, (err) => {
-                      callback(err, { success: true, key: key });
-                    });
-                  }
-                });
-              } else {
-                callback(err, { success: false, error: 'This account\'s email is not verified!' });
-              }
-            });
-          } else {
-            callback(err, { success: false, error: 'Invalid username/password!' });
-          }
-        });
-      }
-    });
+                  });
+                } else { // otherwise, just return the key and refresh expirey
+                  refreshKeyExpirey(email, stayLoggedIn, (err) => {
+                    callback(err, { success: true, key: key });
+                  });
+                }
+              });
+            } else {
+              callback(err, { success: false, error: 'This account\'s email is not verified!' });
+            }
+          });
+        } else {
+          callback(err, { success: false, error: 'Invalid username/password!' });
+        }
+      });
+    }
   });
 };
 
 exports.logout = (key, callback) => {
   var sql = 'UPDATE users SET expire_time = 0 WHERE api_key = ?';
 
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    authenticateUser(key, (err, userId) => {
-      if (userId == null) {
-        callback(err, { success: false, error: 'Invalid API key!' });
-      } else {
-        con.query(sql, [key], (err, result) => {
-          callback(err, { success: true });
-        });
-      }
-    });
+  authenticateUser(key, (err, userId) => {
+    if (userId == null) {
+      callback(err, { success: false, error: 'Invalid API key!' });
+    } else {
+      db.getPool().query(sql, [key], (err, result) => {
+        callback(err, { success: true });
+      });
+    }
   });
 };
 
-exports.get_expire_time = (key, callback) => {
+exports.getExpireTime = (key, callback) => {
   var sql = 'SELECT UNIX_TIMESTAMP(expire_time) FROM users WHERE api_key = ?';
 
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    authenticateUser(key, (err, userId) => {
-      if (userId == null) {
-        callback(err, { success: false, error: 'Invalid API key!' });
-      } else {
-        con.query(sql, [key], (err, result) => {
-          callback(err, { success: true, expires: result[0]['UNIX_TIMESTAMP(expire_time)'] });
-        });
-      }
-    });
+  authenticateUser(key, (err, userId) => {
+    if (userId == null) {
+      callback(err, { success: false, error: 'Invalid API key!' });
+    } else {
+      db.getPool().query(sql, [key], (err, result) => {
+        callback(err, { success: true, expires: result[0]['UNIX_TIMESTAMP(expire_time)'] });
+      });
+    }
   });
 };
 
-exports.create_user = (name, email, passwordHash, callback) => {
+exports.createUser = (name, email, passwordHash, callback) => {
   var sql = 'INSERT INTO users (name, email, password, reliability, api_key, verified, token) VALUES (?, ?, ?, 0.0, ?, FALSE, ?)';
 
-  db.get_connection((err, con) => {
+  genUniqueKey((err, key) => {
     if (err) throw err;
-    genUniqueKey(con, (err, key) => {
+    genUniqueToken((err, token) => {
       if (err) throw err;
-      genUniqueToken(con, (err, token) => {
-        if (err) throw err;
-        isEmailInUse(email, con, (err, inUse) => {
-          if (inUse === false) {
-            sendVerificationEmail(name, email, token, con, (err, result) => {
-              if (result.success) {
-                con.query(sql, [name, email, passwordHash, key, token], (err, result) => {
-                  callback(err, result);
-                });
-              } else {
+      isEmailInUse(email, (err, inUse) => {
+        if (inUse === false) {
+          sendVerificationEmail(name, email, token, (err, result) => {
+            if (result.success) {
+              db.getPool().query(sql, [name, email, passwordHash, key, token], (err, result) => {
                 callback(err, result);
-              }
-            });
-          } else {
-            callback(err, { success: false, error: 'The email you specified is already in in use!' });
-          }
-        });
-      }, 0);
-    }, 0);
-  });
-};
-
-exports.verify_user = (email, token, callback) => {
-  var sql = 'UPDATE users SET verified = TRUE WHERE email = ?';
-
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    isAccountVerified(email, con, (err, isVerified) => {
-      if (isVerified) {
-        callback(err, { success: false, error: 'This email is already verified!' });
-      } else {
-        getToken(email, con, (err, dbToken) => {
-          if (dbToken == null) {
-            callback(err, { success: false, error: 'This email is not in use!' });
-          } else {
-            if (dbToken === token) {
-              // refresh the token then verify account
-              refreshToken(email, con, (err) => {
-                if (err) throw err;
-                con.query(sql, [email], (err, result) => {
-                  callback(err, { success: true });
-                });
               });
             } else {
-              callback(err, { success: false, error: 'Invalid token!' });
+              callback(err, result);
             }
-          }
-        });
-      }
-    });
-  });
+          });
+        } else {
+          callback(err, { success: false, error: 'The email you specified is already in in use!' });
+        }
+      });
+    }, 0);
+  }, 0);
 };
 
-exports.change_password = (email, password, token, callback) => {
-  var sql = 'UPDATE users SET password = ? WHERE email = ?';
+exports.verifyUser = (email, token, callback) => {
+  var sql = 'UPDATE users SET verified = TRUE WHERE email = ?';
 
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    getToken(email, con, (err, dbToken) => {
-      if (dbToken == null) { // this should never happen
-        callback(err, { success: false, error: 'This email is not in use!' });
-      } else if (token !== dbToken) {
-        callback(err, { success: false, error: 'Invalid token!' });
-      } else {
-        isAccountVerified(email, con, (err, isVerified) => {
-          if (!isVerified) {
-            callback(err, { success: false, error: 'You must verify your email before changing your password!' });
-          } else {
-            // refresh token and update password
-            refreshToken(email, con, (err) => {
+  isAccountVerified(email, (err, isVerified) => {
+    if (isVerified) {
+      callback(err, { success: false, error: 'This email is already verified!' });
+    } else {
+      getToken(email, (err, dbToken) => {
+        if (dbToken == null) {
+          callback(err, { success: false, error: 'This email is not in use!' });
+        } else {
+          if (dbToken === token) {
+            // refresh the token then verify account
+            refreshToken(email, (err) => {
               if (err) throw err;
-              con.query(sql, [password, email], (err, result) => {
+              db.getPool().query(sql, [email], (err, result) => {
                 callback(err, { success: true });
               });
             });
+          } else {
+            callback(err, { success: false, error: 'Invalid token!' });
+          }
+        }
+      });
+    }
+  });
+};
+
+exports.changePassword = (email, password, token, callback) => {
+  var sql = 'UPDATE users SET password = ? WHERE email = ?';
+
+  getToken(email, (err, dbToken) => {
+    if (dbToken == null) { // this should never happen
+      callback(err, { success: false, error: 'This email is not in use!' });
+    } else if (token !== dbToken) {
+      callback(err, { success: false, error: 'Invalid token!' });
+    } else {
+      isAccountVerified(email, (err, isVerified) => {
+        if (!isVerified) {
+          callback(err, { success: false, error: 'You must verify your email before changing your password!' });
+        } else {
+          // refresh token and update password
+          refreshToken(email, (err) => {
+            if (err) throw err;
+            db.getPool().query(sql, [password, email], (err, result) => {
+              callback(err, { success: true });
+            });
+          });
+        }
+      });
+    }
+  });
+};
+
+exports.resendVerificationEmail = (email, callback) => {
+  var sql = 'SELECT UNIX_TIMESTAMP(last_email) FROM users WHERE email = ?';
+
+  db.getPool().query(sql, [email], (err, result) => {
+    if (result.length === 0) {
+      callback(err, { success: false, error: 'That email is not in use!' });
+    } else {
+      if (result[0]['UNIX_TIMESTAMP(last_email)'] + 3600 < new Date() / 1000) { // if last email sent more than an hour ago
+        isAccountVerified(email, (err, isVerified) => {
+          if (isVerified) {
+            callback(err, { success: false, error: 'That email is already verified!' });
+          } else {
+            getName(email, (err, name) => {
+              if (err) throw err;
+              getToken(email, (err, token) => {
+                if (err) throw err;
+                sendVerificationEmail(name, email, token, callback);
+              });
+            });
           }
         });
+      } else {
+        callback(err, { success: false, error: 'You can only send one verification email per hour!' });
       }
-    });
+    }
   });
 };
 
-exports.resend_verification_email = (email, callback) => {
+exports.passwordResetEmail = (email, callback) => {
   var sql = 'SELECT UNIX_TIMESTAMP(last_email) FROM users WHERE email = ?';
 
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    con.query(sql, [email], (err, result) => {
-      if (result.length === 0) {
-        callback(err, { success: false, error: 'That email is not in use!' });
-      } else {
-        if (result[0]['UNIX_TIMESTAMP(last_email)'] + 3600 < new Date() / 1000) { // if last email sent more than an hour ago
-          isAccountVerified(email, con, (err, isVerified) => {
-            if (isVerified) {
-              callback(err, { success: false, error: 'That email is already verified!' });
-            } else {
-              getName(email, con, (err, name) => {
+  db.getPool().query(sql, [email], (err, result) => {
+    if (result.length === 0) {
+      callback(err, { success: false, error: 'That email is not in use!' });
+    } else {
+      if (result[0]['UNIX_TIMESTAMP(last_email)'] + 3600 < new Date() / 1000) { // if last email sent more than an hour ago
+        isAccountVerified(email, (err, isVerified) => {
+          if (!isVerified) {
+            callback(err, { success: false, error: 'You must verify your email before changing your password!' });
+          } else {
+            getName(email, (err, name) => {
+              if (err) throw err;
+              getToken(email, (err, token) => {
                 if (err) throw err;
-                getToken(email, con, (err, token) => {
-                  if (err) throw err;
-                  sendVerificationEmail(name, email, token, con, callback);
-                });
+                sendPasswordEmail(name, email, token, callback);
               });
-            }
-          });
-        } else {
-          callback(err, { success: false, error: 'You can only send one verification email per hour!' });
-        }
-      }
-    });
-  });
-};
-
-exports.password_reset_email = (email, callback) => {
-  var sql = 'SELECT UNIX_TIMESTAMP(last_email) FROM users WHERE email = ?';
-
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    con.query(sql, [email], (err, result) => {
-      if (result.length === 0) {
-        callback(err, { success: false, error: 'That email is not in use!' });
+            });
+          }
+        });
       } else {
-        if (result[0]['UNIX_TIMESTAMP(last_email)'] + 3600 < new Date() / 1000) { // if last email sent more than an hour ago
-          isAccountVerified(email, con, (err, isVerified) => {
-            if (!isVerified) {
-              callback(err, { success: false, error: 'You must verify your email before changing your password!' });
-            } else {
-              getName(email, con, (err, name) => {
-                if (err) throw err;
-                getToken(email, con, (err, token) => {
-                  if (err) throw err;
-                  sendPasswordEmail(name, email, token, con, callback);
-                });
-              });
-            }
-          });
-        } else {
-          callback(err, { success: false, error: 'You can only send one password reset email per hour!' });
-        }
+        callback(err, { success: false, error: 'You can only send one password reset email per hour!' });
       }
-    });
+    }
   });
 };
 
@@ -254,19 +230,16 @@ exports.password_reset_email = (email, callback) => {
 function authenticateUser (key, callback) {
   var sql = 'SELECT id, UNIX_TIMESTAMP(expire_time) FROM users WHERE api_key = ?';
 
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    con.query(sql, [key], (err, result) => {
-      if (result.length === 0 || result[0]['UNIX_TIMESTAMP(expire_time)'] < new Date() / 1000) { // return null for nonexistant or expired key
-        callback(err, null);
-      } else {
-        callback(err, result[0].id);
-      }
-    });
+  db.getPool().query(sql, [key], (err, result) => {
+    if (result.length === 0 || result[0]['UNIX_TIMESTAMP(expire_time)'] < new Date() / 1000) { // return null for nonexistant or expired key
+      callback(err, null);
+    } else {
+      callback(err, result[0].id);
+    }
   });
 }
 
-function sendVerificationEmail (name, email, token, con, callback) {
+function sendVerificationEmail (name, email, token, callback) {
   var sql = 'UPDATE users SET last_email = current_timestamp() WHERE email = ?';
 
   const verifyUrlString = secret.base_url + '/api/verify_email?email=' + email + '&token=' + token;
@@ -292,7 +265,7 @@ function sendVerificationEmail (name, email, token, con, callback) {
   if (!re.test(String(email).toLowerCase())) {
     callback(undefined, { success: false, error: 'Invalid email!' });
   } else {
-    con.query(sql, [email], (err, result) => {
+    db.getPool().query(sql, [email], (err, result) => {
       if (err) throw err;
       mg.messages().send(emailData, function (err, body) {
         if (err) {
@@ -305,7 +278,7 @@ function sendVerificationEmail (name, email, token, con, callback) {
   }
 }
 
-function sendPasswordEmail (name, email, token, con, callback) {
+function sendPasswordEmail (name, email, token, callback) {
   var sql = 'UPDATE users SET last_email = current_timestamp() WHERE email = ?';
 
   const passwordUrlString = secret.base_url + '/reset_password/set_new_password/?email=' + email + '&token=' + token;
@@ -330,7 +303,7 @@ function sendPasswordEmail (name, email, token, con, callback) {
   if (!re.test(String(email).toLowerCase())) {
     callback(undefined, { success: false, error: 'Invalid email!' });
   } else {
-    con.query(sql, [email], (err, result) => {
+    db.getPool().query(sql, [email], (err, result) => {
       if (err) throw err;
       mg.messages().send(emailData, function (err, body) {
         if (err) {
@@ -343,9 +316,9 @@ function sendPasswordEmail (name, email, token, con, callback) {
   }
 }
 
-function isAccountVerified (email, con, callback) {
+function isAccountVerified (email, callback) {
   var sql = 'SELECT verified FROM users WHERE email = ?';
-  con.query(sql, [email], (err, result) => {
+  db.getPool().query(sql, [email], (err, result) => {
     if (result.length === 0) {
       callback(err, false);
     } else {
@@ -354,9 +327,9 @@ function isAccountVerified (email, con, callback) {
   });
 }
 
-function isEmailInUse (email, con, callback) {
+function isEmailInUse (email, callback) {
   var sql = 'SELECT email FROM users WHERE email = ?';
-  con.query(sql, [email], (err, result) => {
+  db.getPool().query(sql, [email], (err, result) => {
     if (result.length === 0) {
       callback(err, false);
     } else {
@@ -365,9 +338,9 @@ function isEmailInUse (email, con, callback) {
   });
 }
 
-function getName (email, con, callback) {
+function getName (email, callback) {
   var sql = 'SELECT name FROM users WHERE email = ?';
-  con.query(sql, [email], (err, result) => {
+  db.getPool().query(sql, [email], (err, result) => {
     if (result.length === 0) {
       callback(err, null);
     } else {
@@ -376,9 +349,9 @@ function getName (email, con, callback) {
   });
 }
 
-function getToken (email, con, callback) {
+function getToken (email, callback) {
   var sql = 'SELECT token FROM users WHERE email = ?';
-  con.query(sql, [email], (err, result) => {
+  db.getPool().query(sql, [email], (err, result) => {
     if (result.length === 0) {
       callback(err, null);
     } else {
@@ -387,62 +360,62 @@ function getToken (email, con, callback) {
   });
 }
 
-function genUniqueKey (con, callback, depth) {
+function genUniqueKey (callback, depth) {
   if (depth > 10) { // in case of some sort of error don't keep going forever
     return;
   }
   var sql = 'SELECT api_key FROM users WHERE api_key = ?';
   var key = crypto.randomBytes(32).toString('hex');
-  con.query(sql, [key], (err, result) => {
+  db.getPool().query(sql, [key], (err, result) => {
     if (result.length === 0) {
       callback(err, key);
     } else {
-      genUniqueKey(con, callback, depth + 1);
+      genUniqueKey(callback, depth + 1);
     }
   });
 }
 
-function genUniqueToken (con, callback, depth) {
+function genUniqueToken (callback, depth) {
   if (depth > 10) { // in case of some sort of error don't keep going forever
     return;
   }
   var sql = 'SELECT token FROM users WHERE token = ?';
   var token = crypto.randomBytes(32).toString('hex');
-  con.query(sql, [token], (err, result) => {
+  db.getPool().query(sql, [token], (err, result) => {
     if (result.length === 0) {
       callback(err, token);
     } else {
-      genUniqueToken(con, callback, depth + 1);
+      genUniqueToken(callback, depth + 1);
     }
   });
 }
 
-function refreshKey (email, con, callback) {
+function refreshKey (email, callback) {
   var sql = 'UPDATE users SET api_key = ? WHERE email = ?';
 
-  genUniqueKey(con, (err, key) => {
+  genUniqueKey((err, key) => {
     if (err) throw err;
-    con.query(sql, [key, email], (err, result) => {
+    db.getPool().query(sql, [key, email], (err, result) => {
       callback(err, key);
     });
   });
 }
 
-function refreshToken (email, con, callback) {
+function refreshToken (email, callback) {
   var sql = 'UPDATE users SET token = ? WHERE email = ?';
 
-  genUniqueToken(con, (err, token) => {
+  genUniqueToken((err, token) => {
     if (err) throw err;
-    con.query(sql, [token, email], (err, result) => {
+    db.getPool().query(sql, [token, email], (err, result) => {
       callback(err);
     });
   });
 }
 
-function getKeyIfNotExpired (email, con, callback) {
+function getKeyIfNotExpired (email, callback) {
   var sql = 'SELECT UNIX_TIMESTAMP(expire_time), api_key FROM users WHERE email = ?';
 
-  con.query(sql, [email], (err, result) => {
+  db.getPool().query(sql, [email], (err, result) => {
     if (result.length === 0) {
       callback(err, null);
     } else if (result[0]['UNIX_TIMESTAMP(expire_time)'] > new Date() / 1000) { // if key is NOT expired
@@ -453,12 +426,12 @@ function getKeyIfNotExpired (email, con, callback) {
   });
 }
 
-function refreshKeyExpirey (email, stayLoggedIn, con, callback) {
+function refreshKeyExpirey (email, stayLoggedIn, callback) {
   var sql = 'UPDATE users SET expire_time = DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL 1 DAY) WHERE email = ?;';
   if (stayLoggedIn) {
     sql = 'UPDATE users SET expire_time = DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL 1 MONTH) WHERE email = ?;';
   }
-  con.query(sql, [email], (err, result) => {
+  db.getPool().query(sql, [email], (err, result) => {
     callback(err);
   });
 }
