@@ -13,17 +13,8 @@ exports.setup = (database) => {
 };
 
 exports.authenticate_user = (key, callback) => {
-  var sql = 'SELECT id, UNIX_TIMESTAMP(expire_time) FROM users WHERE api_key = ?';
-
-  db.get_connection((err, con) => {
-    if (err) throw err;
-    con.query(sql, [key], (err, result) => {
-      if (result.length === 0 || result[0]['UNIX_TIMESTAMP(expire_time)'] < new Date() / 1000) { // return null for nonexistant or expired key
-        callback(err, null);
-      } else {
-        callback(err, result[0].id);
-      }
-    });
+  authenticateUser(key, (err, userId) => {
+    callback(err, userId);
   });
 };
 
@@ -78,7 +69,7 @@ exports.logout = (key, callback) => {
 
   db.get_connection((err, con) => {
     if (err) throw err;
-    this.authenticate_user(key, (err, userId) => {
+    authenticateUser(key, (err, userId) => {
       if (userId == null) {
         callback(err, { success: false, error: 'Invalid API key!' });
       } else {
@@ -95,7 +86,7 @@ exports.get_expire_time = (key, callback) => {
 
   db.get_connection((err, con) => {
     if (err) throw err;
-    this.authenticate_user(key, (err, userId) => {
+    authenticateUser(key, (err, userId) => {
       if (userId == null) {
         callback(err, { success: false, error: 'Invalid API key!' });
       } else {
@@ -259,6 +250,21 @@ exports.password_reset_email = (email, callback) => {
 };
 
 // helper functions
+
+function authenticateUser (key, callback) {
+  var sql = 'SELECT id, UNIX_TIMESTAMP(expire_time) FROM users WHERE api_key = ?';
+
+  db.get_connection((err, con) => {
+    if (err) throw err;
+    con.query(sql, [key], (err, result) => {
+      if (result.length === 0 || result[0]['UNIX_TIMESTAMP(expire_time)'] < new Date() / 1000) { // return null for nonexistant or expired key
+        callback(err, null);
+      } else {
+        callback(err, result[0].id);
+      }
+    });
+  });
+}
 
 function sendVerificationEmail (name, email, token, con, callback) {
   var sql = 'UPDATE users SET last_email = current_timestamp() WHERE email = ?';
@@ -440,7 +446,7 @@ function getKeyIfNotExpired (email, con, callback) {
     if (result.length === 0) {
       callback(err, null);
     } else if (result[0]['UNIX_TIMESTAMP(expire_time)'] > new Date() / 1000) { // if key is NOT expired
-      callback(result[0].api_key);
+      callback(err, result[0].api_key);
     } else {
       callback(err, null);
     }
