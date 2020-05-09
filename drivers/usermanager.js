@@ -225,6 +225,21 @@ exports.passwordResetEmail = (email, callback) => {
   });
 };
 
+exports.getReliabilities = (ids, callback) => {
+  var sql = 'SELECT id, reliability FROM users WHERE id IN (?)';
+  db.getPool().query(sql, [ids.join(',')], (err, result) => {
+    if (err || result.length === 0) {
+      callback(err, null);
+    } else {
+      var pairedUsers = [];
+      for (const user in result) {
+        pairedUsers.push({ id: user.id, reliability: user.reliability });
+      }
+      callback(err, pairedUsers);
+    }
+  });
+};
+
 // helper functions
 
 function authenticateUser (key, callback) {
