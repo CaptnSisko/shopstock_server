@@ -133,8 +133,8 @@ app.post('/api/logout', (req, res) => {
   });
 });
 
-app.post('/api/get_expire_time', (req, res) => {
-  var key = String(req.body.key);
+app.get('/api/get_expire_time', (req, res) => {
+  var key = String(req.query.key);
 
   userManager.getExpireTime(key, (err, response) => {
     if (err) throw err;
