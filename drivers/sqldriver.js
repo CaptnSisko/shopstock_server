@@ -99,17 +99,17 @@ exports.sendReport = (
 
 exports.getStoreReports = (storeId, callback) => {
   var sql =
-    'SELECT * FROM reports WHERE storeId = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
+    'SELECT * FROM reports WHERE store_id = ? AND timestamp > DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 1 DAY)';
 
   pool.query(sql, [storeId], (err, result) => {
     var reports = [];
     for (var i in result) {
       reports.push({
         id: result[i].id,
-        userId: result[i].userId,
-        item_id: result[i].item_id,
-        storeId: result[i].storeId,
-        inStock: result[i].inStock,
+        userId: result[i].user_id,
+        itemId: result[i].item_id,
+        storeId: result[i].store_id,
+        inStock: result[i].in_stock,
         timestamp: result[i].timestamp
       });
     }

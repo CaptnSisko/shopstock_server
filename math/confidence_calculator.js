@@ -1,52 +1,52 @@
 const timeWeight = 0.65;
 
-exports.get_labelling = (db, storeId, callback) => {
+exports.getLabelling = (db, userManager, storeId, callback) => {
   const secondsSinceEpoch = Date.now() / 1000;
-  const labellings = {};
+  var labellings = {};
 
   db.getStoreReports(storeId, (err, reports) => {
     if (!err && reports != null) {
-      reports.sort(function (a, b) { return a.itemId - b.itemId; });
-
       var users = [];
-      for (const report in reports) {
-        if (!users.includes(report.userId)) {
-          users.push(report.userId);
+      for (var i in reports) {
+        if (!users.includes(reports[i].userId)) {
+          users.push(reports[i].userId);
         }
       }
 
-      db.getReliabilities(users, (err, result) => {
+      if (users.length === 0) {
+        callback(err, []);
+        return;
+      }
+
+      userManager.getReliabilities(users, (err, result) => {
         if (err || result.length !== users.length) {
           callback(err, null);
         } else {
           // User dictionary of reliabilities
           const userDict = result;
+          console.log(reports);
 
           // Iterate over the sorted reports
-          var currentItemId = reports[0].itemId;
-          var currentItemReports = [];
-          for (const report in reports) {
-            if (report.itemId !== currentItemId) {
-              // Calculate the labelling for the last item
-              var sumAllConfidences = 0;
-              for (const itemReport in currentItemReports) {
-                sumAllConfidences += calculateConfidence(itemReport, secondsSinceEpoch, userDict[report.userId]);
-              }
-
-              var label = 0;
-              for (const itemReport in currentItemReports) {
-                const conf = calculateConfidence(itemReport, secondsSinceEpoch, userDict[report.userId]);
-                label += (conf * itemReport.inStock) / sumAllConfidences;
-              }
-
-              // Adding the lable to object returned
-              labellings.push({ id: currentItemId, labelling: label });
-
-              // Resetting variables
-              currentItemId = report.itemId;
-              currentItemReports = [];
+          var confidenceSums = {};
+          var confidenceNumbers = {};
+          for (var f in reports) {
+            var stockStatus = -1;
+            if (reports[f].inStock === 1) {
+              stockStatus = 1;
             }
-            currentItemReports.push(report);
+
+            const step = calculateConfidence(reports[f], secondsSinceEpoch, userDict[reports[f].userId]) * stockStatus;
+            console.log(step);
+            if (confidenceSums[reports[f].itemId] === undefined) {
+              confidenceSums[reports[f].itemId] = step;
+              confidenceNumbers[reports[f].itemId] = 1;
+            } else {
+              confidenceSums[reports[f].itemId] += step;
+              confidenceNumbers[reports[f].itemId] += 1;
+            }
+          }
+          for (var key in confidenceSums) {
+            labellings[key] = confidenceSums[key] / confidenceNumbers[key];
           }
           callback(err, labellings);
         }
@@ -58,6 +58,7 @@ exports.get_labelling = (db, storeId, callback) => {
 };
 
 function calculateConfidence (report, currentEpochSecs, reliability) {
+  console.log('calculateConfidence method called');
   const deltaT = (currentEpochSecs - report.timestamp) / 60;
 
   // Confidence function calculation

@@ -14,7 +14,7 @@ const version = 0.1;
 const recaptcha = new Recaptcha(secret.recaptcha_site_key, secret.recaptcha_secret_key);
 
 // const reliabilitCalc = require('./math/reliability_calculator.js');
-// const confidenceCalc = require('./math/confidence_calculator.js');
+const confidenceCalc = require('./math/confidence_calculator.js');
 
 const successTemplate = fs.readFileSync('html/success.html', 'utf8');
 const failureTemplate = fs.readFileSync('html/failure.html', 'utf8');
@@ -306,6 +306,35 @@ app.get('/api/get_stores_in_area', (req, res) => {
       });
     }
   });
+});
+
+app.get('/api/get_item_labels', (req, res) => {
+  const storeId = Number(req.query.storeId);
+  // var key = req.query.key;
+  console.log('Method launched');
+
+  // TODO Authenticate the user
+  if (storeId === undefined) {
+    res.status(400);
+    res.json({
+      success: false
+    });
+    // TODO handle error
+  } else if (isNaN(storeId)) {
+    res.status(400);
+    res.json({
+      success: false
+    });
+    // TODO handle error
+  } else {
+    confidenceCalc.getLabelling(db, userManager, storeId, (err, labellings) => {
+      if (err) throw err;
+      res.json({
+        items: labellings,
+        success: true
+      });
+    });
+  }
 });
 
 app.get('/api/test', (req, res) => {

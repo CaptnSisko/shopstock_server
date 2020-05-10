@@ -227,15 +227,17 @@ exports.passwordResetEmail = (email, callback) => {
 
 exports.getReliabilities = (ids, callback) => {
   var sql = 'SELECT id, reliability FROM users WHERE id IN (?)';
-  db.getPool().query(sql, [ids.join(',')], (err, result) => {
-    if (err || result.length === 0) {
+  db.getPool().query(sql, [ids], (err, result) => {
+    if (err) {
+      callback(err, null);
+    } else if (result.length === 0) {
       callback(err, null);
     } else {
-      var pairedUsers = [];
-      for (const user in result) {
-        pairedUsers.push({ id: user.id, reliability: user.reliability });
+      var userDict = {};
+      for (var i in result) {
+        userDict[result[i].id] = result[i].reliability;
       }
-      callback(err, pairedUsers);
+      callback(err, userDict);
     }
   });
 };
