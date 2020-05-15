@@ -19,12 +19,10 @@ exports.getLabelling = (db, userManager, storeId, callback) => {
       }
 
       userManager.getReliabilities(users, (err, result) => {
-        if (err || result.length !== users.length) {
-          callback(err, null);
+        if (err || Object.keys(result).length !== users.length) {
+          callback(err, []);
         } else {
-          // User dictionary of reliabilities
           const userDict = result;
-          console.log(reports);
 
           // Iterate over the sorted reports
           var confidenceSums = {};
@@ -36,7 +34,6 @@ exports.getLabelling = (db, userManager, storeId, callback) => {
             }
 
             const step = calculateConfidence(reports[f], secondsSinceEpoch, userDict[reports[f].userId]) * stockStatus;
-            console.log(step);
             if (confidenceSums[reports[f].itemId] === undefined) {
               confidenceSums[reports[f].itemId] = step;
               confidenceNumbers[reports[f].itemId] = 1;
@@ -58,8 +55,7 @@ exports.getLabelling = (db, userManager, storeId, callback) => {
 };
 
 function calculateConfidence (report, currentEpochSecs, reliability) {
-  console.log('calculateConfidence method called');
-  const deltaT = (currentEpochSecs - report.timestamp) / 60;
+  const deltaT = ((currentEpochSecs - (report.timestamp.getTime() / 1000)) / 60) / 60;
 
   // Confidence function calculation
   const timeComponent = timeWeight * (150 / (150 + Math.exp(deltaT)));

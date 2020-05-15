@@ -231,7 +231,7 @@ exports.getReliabilities = (ids, callback) => {
     if (err) {
       callback(err, null);
     } else if (result.length === 0) {
-      callback(err, null);
+      callback(err, []);
     } else {
       var userDict = {};
       for (var i in result) {

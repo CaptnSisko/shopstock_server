@@ -310,31 +310,41 @@ app.get('/api/get_stores_in_area', (req, res) => {
 
 app.get('/api/get_item_labels', (req, res) => {
   const storeId = Number(req.query.storeId);
-  // var key = req.query.key;
-  console.log('Method launched');
+  const key = req.query.key;
 
-  // TODO Authenticate the user
-  if (storeId === undefined) {
-    res.status(400);
-    res.json({
-      success: false
-    });
-    // TODO handle error
-  } else if (isNaN(storeId)) {
-    res.status(400);
-    res.json({
-      success: false
-    });
-    // TODO handle error
-  } else {
-    confidenceCalc.getLabelling(db, userManager, storeId, (err, labellings) => {
-      if (err) throw err;
+  userManager.authenticateUser(key, (err, userId) => {
+    if (err) throw err;
+    if (userId != null) {
+      // TODO Authenticate the user
+      if (storeId === undefined) {
+        res.status(400);
+        res.json({
+          success: false
+        });
+        // TODO handle error
+      } else if (isNaN(storeId)) {
+        res.status(400);
+        res.json({
+          success: false
+        });
+        // TODO handle error
+      } else {
+        confidenceCalc.getLabelling(db, userManager, storeId, (err, labellings) => {
+          if (err) throw err;
+          res.json({
+            items: labellings,
+            success: true
+          });
+        });
+      }
+    } else {
+      res.status(400);
       res.json({
-        items: labellings,
-        success: true
+        success: false,
+        error: 'Invalid API key!'
       });
-    });
-  }
+    }
+  });
 });
 
 app.get('/api/test', (req, res) => {
