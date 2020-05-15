@@ -2,7 +2,7 @@ const timeWeight = 0.65;
 
 exports.getLabelling = (db, userManager, storeId, callback) => {
   const secondsSinceEpoch = Date.now() / 1000;
-  var labellings = {};
+  var labellings = [];
 
   db.getStoreReports(storeId, (err, reports) => {
     if (!err && reports != null) {
@@ -43,7 +43,9 @@ exports.getLabelling = (db, userManager, storeId, callback) => {
             }
           }
           for (var key in confidenceSums) {
-            labellings[key] = confidenceSums[key] / confidenceNumbers[key];
+            var item = { id: key };
+            item.label = confidenceSums[key] / confidenceNumbers[key];
+            labellings.push(item);
           }
           callback(err, labellings);
         }
