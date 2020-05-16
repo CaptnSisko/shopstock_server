@@ -109,7 +109,7 @@ exports.getStoreReports = (storeId, callback) => {
         userId: result[i].user_id,
         itemId: result[i].item_id,
         storeId: result[i].store_id,
-        inStock: result[i].inStock,
+        inStock: result[i].in_stock,
         timestamp: result[i].timestamp
       });
     }
