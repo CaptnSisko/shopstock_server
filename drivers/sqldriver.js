@@ -85,10 +85,10 @@ exports.sendReport = (
     );
   }
 
-  for (i in inStock) {
+  for (i in noStock) {
     pool.query(
       sql,
-      [userId, inStock[i], storeId, false, timestamp],
+      [userId, noStock[i], storeId, false, timestamp],
       (err, result) => {
         if (err) callback(err, { success: false });
       }
@@ -109,7 +109,7 @@ exports.getStoreReports = (storeId, callback) => {
         userId: result[i].user_id,
         itemId: result[i].item_id,
         storeId: result[i].store_id,
-        inStock: result[i].in_stock,
+        inStock: result[i].inStock,
         timestamp: result[i].timestamp
       });
     }
