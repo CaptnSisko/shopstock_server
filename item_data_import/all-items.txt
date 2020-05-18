@@ -1,0 +1,200 @@
+Perishable Foods
+Milk
+Plain Yogurt
+Flavored Yogurt
+Eggs
+Bread
+Bacon
+Pineapple
+Bananas
+Cilantro
+Strawberries
+Blueberries
+Oranges
+Tangerines
+Kiwi
+Apples
+Carrots 
+Basil
+Brussel Sprouts
+Broccoli
+Lettuce
+Tomatoes
+Celery
+Lemons
+Limes
+Spinach
+Parsley
+Kale
+Chicken
+Beef
+Potatoes
+Avocado
+Scallions
+Garlic
+Ginger
+Onions
+Butter
+Cream Cheese
+Sliced Cheese
+Shredded Cheese
+Sour Cream
+Bell Peppers
+Asparagus
+
+Drinks
+Sodas
+Water
+Sparkling water
+Tonic water
+Vodka
+Bourbon
+Whiskey
+Tequila
+Margarita mix
+Beer
+Red wine
+White wine
+
+Frozen Foods
+Frozen Pizza
+
+Cooking Supplies
+Salt
+Pepper
+Vegetable Oil
+Extra-Virgin Olive Oil
+Vinegar
+Cooking Spray
+Red Wine Vinegar
+Apple Cider Vinegar
+Balsamic Vinegar
+Rice Vinegar
+Bay leaves
+Cajun Seasoning
+Cayenne Pepper
+Chile Powder
+Crushed Red Pepper
+Curry Powder
+Fennel Seed
+Garlic Powder
+Ground Cinnamon
+Ground Cloves
+Ground Cumin
+Ground Ginger
+Oregano
+Paprika
+Rosemary
+Sesame seeds
+Thyme
+Nutmeg
+
+Baking Supplies
+Cocoa Powder
+Cornmeal
+Cornstarch
+Gelatin
+White Sugar
+Brown Sugar
+Confectioners’ Sugar
+Maple Syrup
+Honey
+Agave Syrup
+Vanilla Extract
+Yeast
+Baking Powder
+Baking Soda
+All Purpose Flour
+Bread Flour
+Cookie Dough
+Cake Mix
+Brownie Mix
+Cream of Tartar
+Evaporated Milk
+Chocolate 
+Sweetened Condensed Milk
+
+Condiments
+Barbecue Sauce
+Fruit Preserves
+Honey
+Ketchup
+Maple Syrup
+Mayonnaise
+Mustard
+Peanut Butter
+Ranch Dressing
+Tomato Salsa
+Soy Sauce
+Worcestershire Sauce
+
+Canned Goods
+Black Beans
+Red Kidney Beans 
+Lima Beans 
+Lentils
+Pinto Beans
+Chicken Broth
+Vegetable Broth 
+Vegetable Stock
+Chicken Stock
+Canned Tomatoes
+Canned Soup
+Canned Tuna
+Tomato Paste
+Olives
+Chickpeas
+
+Dry Goods
+Breadcrumbs
+Coffee
+Crackers
+Raisins
+Sunflower Seeds
+Chia Seeds
+Chia Seeds
+Breakfast Cereal
+Rolled Oats
+Instant Oats
+Powdered Milk
+Almonds
+Peanuts
+Walnuts
+Pecans
+Pine Nuts
+Dried Pasta
+White Rice
+Brown Rice
+Quinoa
+Couscous
+Tea
+Crackers
+Pretzels
+
+Medical Supplies
+Ibuprofen 
+Aspirin 
+Naproxen 
+Acetaminophen 
+Multi-symptom cold medicine
+Allergy medicine
+Face masks
+
+Cleaning and Home Supplies
+Cleaning wipes
+Hand sanitizer
+Soap
+Alcohol
+Cleaning rags
+Window Cleaner
+Bleach
+Dusters
+Disinfectant Cleaner
+Toilet Bowl Brush
+Mop 
+Bucket
+All Purpose Cleaner
+Toilet paper
+Tissue
+Laundry detergent
+Fabric softener
