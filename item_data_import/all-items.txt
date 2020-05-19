@@ -4,6 +4,9 @@ Plain Yogurt
 Flavored Yogurt
 Eggs
 Bread
+Mango
+Heavy Cream
+Half and Half
 Bacon
 Pineapple
 Bananas
@@ -55,15 +58,21 @@ Margarita mix
 Beer
 Red wine
 White wine
+Soy Milk
+Almond Milk
 
 Frozen Foods
 Frozen Pizza
+Frozen Peas
+Frozen Corn
+Shredded Coconut
+Frozen Burger Patties
 
 Cooking Supplies
 Salt
 Pepper
 Vegetable Oil
-Extra-Virgin Olive Oil
+Olive Oil
 Vinegar
 Cooking Spray
 Red Wine Vinegar
@@ -172,20 +181,23 @@ Crackers
 Pretzels
 
 Medical Supplies
-Ibuprofen 
+Ibuprofen (Advil, Motrin)
 Aspirin 
-Naproxen 
-Acetaminophen 
+Naproxen (Aleve)
+Acetaminophen (Tylenol)
 Multi-symptom cold medicine
-Allergy medicine
-Face masks
+Diphenhydramine (Benadryl)
+24-hour Allergy medicine
+Surgical Masks
+N-95 Masks
+Latex Gloves
 
-Cleaning and Home Supplies
-Cleaning wipes
-Hand sanitizer
+Cleaning and Personal Supplies
+Cleaning Wipes
+Hand Sanitizer
 Soap
 Alcohol
-Cleaning rags
+Cleaning Rags
 Window Cleaner
 Bleach
 Dusters
@@ -194,7 +206,15 @@ Toilet Bowl Brush
 Mop 
 Bucket
 All Purpose Cleaner
-Toilet paper
+Sanitary Pads
+Tampons
+Toilet Paper
 Tissue
-Laundry detergent
-Fabric softener
+Laundry Detergent
+Fabric Softener
+Toothbrushes
+Toothpaste
+Floss
+Mouthwash
+Body Wash
+Shampoo
